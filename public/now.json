@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-11T08:54:36.706Z",
+  "last_updated": "2026-06-11T10:55:39.275Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,6 +20,18 @@
   "projects": [
     {
       "private": false,
+      "name": "now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-06-11T08:54:42Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "Portfolio",
       "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
       "language": "TypeScript",
@@ -28,18 +40,6 @@
       "stars": 0,
       "topics": [],
       "pushed_at": "2026-06-11T08:14:22Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "now",
-      "description": "Self-updating now page + JSON API for ethanqiu.ca",
-      "language": "JavaScript",
-      "url": "https://github.com/qiuethan/now",
-      "homepage": "https://now-six-chi.vercel.app",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-06-11T07:15:09Z",
       "recently_active": true
     },
     {
@@ -110,7 +110,7 @@
       "Java (8%)",
       "Other (8%)"
     ],
-    "fetched_at": "2026-06-11T08:54:36.706Z",
+    "fetched_at": "2026-06-11T10:55:39.275Z",
     "stale": false
   },
   "contributions": {
@@ -123,18 +123,18 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-11T08:54:36.706Z",
+    "fetched_at": "2026-06-11T10:55:39.275Z",
     "stale": false
   },
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-11T08:54:36.706Z",
+    "generated_at": "2026-06-11T10:55:39.275Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-11T08:54:36.706Z",
+      "fetched_at": "2026-06-11T10:55:39.275Z",
       "stale": false
     },
     "wakatime": {
@@ -149,10 +149,10 @@
         "Other (8%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-11T08:54:36.706Z",
+      "fetched_at": "2026-06-11T10:55:39.275Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 2 hrs 33 mins of coding time, with a daily average of 2 hrs 22 mins across 5 projects. His work was mostly in TypeScript, which accounted for 46% of tracked time, followed by JSON at 14%, JavaScript at 12%, and Java at 8%. No GitHub commits, pull requests, or new repositories were recorded in the data provided."
+    "summary": "This week, Ethan Qiu logged 2 hrs 33 mins of coding time, averaging 2 hrs 22 mins per day. His work was spread across 5 projects, with the most time spent in TypeScript, followed by JSON, JavaScript, and Java. No GitHub commits, pull requests, or new repositories were recorded this week."
   },
   "writing": [
     {
