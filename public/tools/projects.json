@@ -3,16 +3,9 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-06-11T21:07:26.175Z",
+  "updated": "2026-06-11T21:58:35.561Z",
   "data": {
     "projects": [
-      {
-        "private": true,
-        "id": 1250939878,
-        "summary": "A Java-based Minecraft mod template for creating new game modifications",
-        "recently_active": true,
-        "pushed_at": "2026-06-11"
-      },
       {
         "private": false,
         "name": "now",
@@ -22,8 +15,15 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-06-11T20:02:12Z",
+        "pushed_at": "2026-06-11T21:07:30Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1250939878,
+        "summary": "A Java-based Minecraft mod template for creating new game modifications",
+        "recently_active": true,
+        "pushed_at": "2026-06-11"
       },
       {
         "private": false,
@@ -64,7 +64,7 @@
         "pushed_at": "2026-04-10"
       }
     ],
-    "fetched_at": "2026-06-11T21:07:26.175Z",
+    "fetched_at": "2026-06-11T21:58:35.561Z",
     "stale": false
   }
 }
