@@ -3,21 +3,9 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-06-11T07:15:05.215Z",
+  "updated": "2026-06-11T08:54:36.706Z",
   "data": {
     "projects": [
-      {
-        "private": false,
-        "name": "now",
-        "description": "Self-updating now page + JSON API for ethanqiu.ca",
-        "language": "JavaScript",
-        "url": "https://github.com/qiuethan/now",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-06-11T07:13:27Z",
-        "recently_active": true
-      },
       {
         "private": false,
         "name": "Portfolio",
@@ -27,7 +15,19 @@
         "homepage": "https://ethanqiu.ca",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-06-11T06:58:44Z",
+        "pushed_at": "2026-06-11T08:14:22Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "now",
+        "description": "Self-updating now page + JSON API for ethanqiu.ca",
+        "language": "JavaScript",
+        "url": "https://github.com/qiuethan/now",
+        "homepage": "https://now-six-chi.vercel.app",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-06-11T07:15:09Z",
         "recently_active": true
       },
       {
@@ -64,7 +64,7 @@
         "pushed_at": "2026-04-10"
       }
     ],
-    "fetched_at": "2026-06-11T07:15:05.215Z",
+    "fetched_at": "2026-06-11T08:54:36.706Z",
     "stale": false
   }
 }
