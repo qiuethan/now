@@ -1,0 +1,16 @@
+{
+  "name": "now",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Self-updating /now page for ethanqiu.ca — aggregates GitHub + WakaTime activity hourly and renders an LLM-readable now.md",
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  }
+}

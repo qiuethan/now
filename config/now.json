@@ -1,0 +1,31 @@
+{
+  "name": "Ethan Qiu",
+  "github_username": "qiuethan",
+  "status": "Software Engineer Intern at Shopify (Apr 2026 – present) and Computer Science student at the University of Toronto, based in Toronto, Canada.",
+  "availability": {
+    "summary": "TODO: update — e.g. 'Open to Summer 2027 software engineering internships (AI/ML, full-stack, or infra).'",
+    "graduation": "TODO: expected graduation, e.g. 'Expected graduation: 2028'",
+    "work_authorization": "Authorized to work in Canada",
+    "location_preferences": "Toronto / remote-friendly"
+  },
+  "currently": [
+    "Building the agentic-commerce Product Details redesign at Shopify — UI, APIs, and Sidekick AI integration used by millions of merchants",
+    "Machine Learning Engineer at UTMIST (University of Toronto Machine Intelligence Student Team) — deploying ML models and MLOps pipelines",
+    "Iterating on Identity Matrix, a persistent multiplayer world where avatars become independent AI agents (1st Place, UofT Hacks 2026)"
+  ],
+  "recent_wins": [
+    { "date": "2026-01", "title": "1st Place Overall, UofT Hacks 2026 — Identity Matrix (multiplayer world with persistent AI agents)" },
+    { "date": "2025-11", "title": "1st Place Overall, Rift Rewind AWS Hackathon — Heimer Academy (AI League of Legends coaching on AWS Bedrock/SageMaker)" },
+    { "date": "2025-09", "title": "Best Use of Groq & Best Use of Windsurf, Hack the North 2025 — Orbit (real-time social intelligence)" },
+    { "date": "2025-08", "title": "1st Place Best Game Hack, Hack the 6ix 2025 — Polaris (computer-vision multiplayer fitness game)" },
+    { "date": "2025-01", "title": "1st Place Overall, GeeseHacks 2025 — Hyacinthe (computer-vision navigation for the visually impaired)" }
+  ],
+  "stack": "Day to day: React, TypeScript, GraphQL, Ruby on Rails (Shopify). Side projects: Python, FastAPI, PyTorch, AWS, Supabase.",
+  "links": {
+    "portfolio": "https://ethanqiu.ca",
+    "resume": "https://ethanqiu.ca/resume.pdf",
+    "github": "https://github.com/qiuethan",
+    "linkedin": "https://linkedin.com/in/qiu-ethan",
+    "email": "ethanqiu@gmail.com"
+  }
+}

@@ -1,0 +1,15 @@
+# Ethan Qiu — Now
+
+> Live, auto-updated status page for Ethan Qiu (software engineer, Toronto).
+> Regenerated hourly from GitHub and WakaTime activity plus a hand-maintained status block.
+
+## Pages
+
+- [Now (markdown)](https://now.ethanqiu.ca/now.md): current role, availability, active projects, and this week's coding activity
+- [Now (JSON)](https://now.ethanqiu.ca/now.json): the same data, structured
+
+## Other resources
+
+- [Portfolio](https://ethanqiu.ca): projects, experience, and contact info
+- [Resume (PDF)](https://ethanqiu.ca/resume.pdf): canonical resume
+- [GitHub](https://github.com/qiuethan): public code
