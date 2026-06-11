@@ -28,8 +28,8 @@ WakaTime stats ───┘         (hourly via GitHub Actions)
    approximate). This file is the part you hand-edit going forward.
 2. **Push to GitHub**, then add repo secrets (Settings → Secrets → Actions):
    - `WAKATIME_API_KEY` — from https://wakatime.com/api-key
-   - `ANTHROPIC_API_KEY` — optional; enables the LLM "this week" paragraph
-     (uses `claude-haiku-4-5`, ~a fraction of a cent per run; override with a
+   - `OPENAI_API_KEY` — optional; enables the LLM "this week" paragraph
+     (uses `gpt-5-mini`, ~a fraction of a cent per run; override with a
      `NOW_LLM_MODEL` env var in the workflow if you want a different model)
    - `GITHUB_TOKEN` is automatic — no setup needed.
 3. **Import the repo into Vercel** (no framework, settings come from

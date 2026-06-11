@@ -6,8 +6,8 @@
 // Env (all optional):
 //   GITHUB_TOKEN       - raises GitHub API rate limit (automatic in Actions)
 //   WAKATIME_API_KEY   - enables the coding-time section
-//   ANTHROPIC_API_KEY  - enables the LLM-written "this week" prose summary
-//   NOW_LLM_MODEL      - override summary model (default: claude-haiku-4-5)
+//   OPENAI_API_KEY     - enables the LLM-written "this week" prose summary
+//   NOW_LLM_MODEL      - override summary model (default: gpt-5-mini)
 
 import fs from "node:fs";
 import path from "node:path";
@@ -103,29 +103,22 @@ async function fetchWakaTime() {
 
 // Optional: turn the raw activity data into a short written paragraph.
 async function writeWeeklySummary(github, wakatime) {
-  if (!process.env.ANTHROPIC_API_KEY) return null;
+  if (!process.env.OPENAI_API_KEY) return null;
   if (!github && !wakatime) return null;
   try {
-    const { default: Anthropic } = await import("@anthropic-ai/sdk");
-    const client = new Anthropic();
-    const response = await client.messages.create({
-      model: process.env.NOW_LLM_MODEL || "claude-haiku-4-5",
-      max_tokens: 512,
-      system:
+    const { default: OpenAI } = await import("openai");
+    const client = new OpenAI();
+    const response = await client.responses.create({
+      model: process.env.NOW_LLM_MODEL || "gpt-5-mini",
+      max_output_tokens: 512,
+      instructions:
         `You write the "This week" paragraph for ${config.name}'s public now page, ` +
         "which is read by both people and AI assistants summarizing him. " +
         "Write 2-4 sentences of plain, factual prose in third person from the JSON activity data. " +
         "Mention concrete repo names and coding time. No hype, no emoji, no markdown headers.",
-      messages: [
-        { role: "user", content: JSON.stringify({ github, wakatime }) },
-      ],
+      input: JSON.stringify({ github, wakatime }),
     });
-    const text = response.content
-      .filter((block) => block.type === "text")
-      .map((block) => block.text)
-      .join("\n")
-      .trim();
-    return text || null;
+    return response.output_text?.trim() || null;
   } catch (err) {
     console.warn(`LLM summary skipped: ${err.message}`);
     return null;
