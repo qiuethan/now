@@ -1,12 +1,24 @@
 # Ethan Qiu — Now
 
-> Live, auto-updated status page for Ethan Qiu (software engineer, Toronto).
-> Regenerated hourly from GitHub and WakaTime activity plus a hand-maintained status block.
+> Live "now" page for Ethan Qiu (software engineer, Toronto), regenerated hourly
+> by tracking real GitHub + WakaTime activity. Almost nothing is hand-written:
+> projects and stack are derived from live data. JSON is the source of truth;
+> the markdown and this index are renders.
 
 ## Pages
 
-- [Now (markdown)](https://now.ethanqiu.ca/now.md): current role, availability, active projects, and this week's coding activity
-- [Now (JSON)](https://now.ethanqiu.ca/now.json): the same data, structured
+- [Now (markdown)](https://now.ethanqiu.ca/now.md): availability, projects, this week's coding activity, stack
+- [Now (JSON)](https://now.ethanqiu.ca/now.json): the full snapshot, structured
+
+## Tools (machine-readable API, regenerated hourly)
+
+- [Tool manifest](https://now.ethanqiu.ca/api): lists every tool, its description, and data URL
+- [get_identity](https://now.ethanqiu.ca/api/identity): name, headline, location, links
+- [get_availability](https://now.ethanqiu.ca/api/availability): whether Ethan is open to opportunities
+- [get_projects](https://now.ethanqiu.ca/api/projects): most recently active GitHub repos with descriptions, languages, stars
+- [get_stack](https://now.ethanqiu.ca/api/stack): languages derived from GitHub repos + WakaTime
+- [get_activity](https://now.ethanqiu.ca/api/activity): live GitHub + WakaTime activity, last 7 days
+- [get_contributions](https://now.ethanqiu.ca/api/contributions): GitHub contribution calendar (daily counts, past year), totals + streaks
 
 ## Other resources
 

@@ -1,56 +1,190 @@
 {
+  "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-11T05:40:29.773Z",
-  "status": "Software Engineer Intern at Shopify (Apr 2026 – present) and Computer Science student at the University of Toronto, based in Toronto, Canada.",
-  "availability": {
-    "summary": "TODO: update — e.g. 'Open to Summer 2027 software engineering internships (AI/ML, full-stack, or infra).'",
-    "graduation": "TODO: expected graduation, e.g. 'Expected graduation: 2028'",
-    "work_authorization": "Authorized to work in Canada",
-    "location_preferences": "Toronto / remote-friendly"
+  "last_updated": "2026-06-11T07:08:04.733Z",
+  "identity": {
+    "name": "Ethan Qiu",
+    "headline": "Software engineer · Toronto",
+    "location": "Toronto, Canada",
+    "github_username": "qiuethan",
+    "wakatime_username": "",
+    "links": {
+      "portfolio": "https://ethanqiu.ca",
+      "resume": "https://ethanqiu.ca/resume.pdf",
+      "github": "https://github.com/qiuethan",
+      "linkedin": "https://linkedin.com/in/qiu-ethan",
+      "email": "ethanqiu@gmail.com"
+    }
   },
-  "currently": [
-    "Building the agentic-commerce Product Details redesign at Shopify — UI, APIs, and Sidekick AI integration used by millions of merchants",
-    "Machine Learning Engineer at UTMIST (University of Toronto Machine Intelligence Student Team) — deploying ML models and MLOps pipelines",
-    "Iterating on Identity Matrix, a persistent multiplayer world where avatars become independent AI agents (1st Place, UofT Hacks 2026)"
+  "availability": "Always open to interesting opportunities and conversations.",
+  "projects": [
+    {
+      "private": false,
+      "name": "Portfolio",
+      "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+      "language": "TypeScript",
+      "url": "https://github.com/qiuethan/Portfolio",
+      "homepage": "https://ethanqiu.ca",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-06-11T06:58:44Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "neetcode-submissions",
+      "description": "My NeetCode.io problem submissions",
+      "language": "Python",
+      "url": "https://github.com/qiuethan/neetcode-submissions",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-06-11T06:23:10Z",
+      "recently_active": true
+    },
+    {
+      "private": true,
+      "id": 1250939878,
+      "summary": "A Java-based Minecraft mod template for creating new game modifications",
+      "recently_active": true,
+      "pushed_at": "2026-06-11"
+    },
+    {
+      "private": true,
+      "id": 1206578653,
+      "summary": "A TypeScript Discord personal AI assistant for text and voice conversations, memory, and reminders using the Claude Agent SDK",
+      "recently_active": true,
+      "pushed_at": "2026-06-07"
+    },
+    {
+      "private": true,
+      "id": 1192357945,
+      "summary": "A TypeScript AI application for generating hackathon project ideas by researching, organizing, and connecting concepts across domains",
+      "recently_active": false,
+      "pushed_at": "2026-04-06"
+    },
+    {
+      "private": false,
+      "name": "GenAI-Genesis-Project",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/qiuethan/GenAI-Genesis-Project",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-03-15T12:51:58Z",
+      "recently_active": false
+    }
   ],
-  "this_week": {
-    "summary": null,
+  "stack": {
+    "languages": [
+      {
+        "name": "Python",
+        "repos": 7
+      },
+      {
+        "name": "TypeScript",
+        "repos": 5
+      },
+      {
+        "name": "JavaScript",
+        "repos": 3
+      },
+      {
+        "name": "CSS",
+        "repos": 1
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repos": 1
+      },
+      {
+        "name": "Java",
+        "repos": 1
+      }
+    ],
+    "from_wakatime": [
+      "TypeScript (47%)",
+      "JSON (17%)",
+      "JavaScript (16%)",
+      "Other (7%)",
+      "Markdown (5%)"
+    ],
+    "fetched_at": "2026-06-11T07:08:04.733Z",
+    "stale": false
+  },
+  "contributions": {
+    "total_past_year": 1332,
+    "last_7_days": 72,
+    "last_30_days": 171,
+    "current_streak": 8,
+    "longest_streak": 8,
+    "busiest_day": {
+      "date": "2026-05-07",
+      "count": 68
+    },
+    "fetched_at": "2026-06-11T07:08:04.733Z",
+    "stale": false
+  },
+  "activity": {
+    "window": "last_7_days",
+    "generated_at": "2026-06-11T07:08:04.733Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
-      "newRepos": []
+      "newRepos": [],
+      "fetched_at": "2026-06-11T07:08:04.733Z",
+      "stale": false
     },
-    "wakatime": null
+    "wakatime": {
+      "total": "1 hr 16 mins",
+      "dailyAverage": "1 hr 11 mins",
+      "seconds": 4618,
+      "languages": [
+        "TypeScript (47%)",
+        "JSON (17%)",
+        "JavaScript (16%)",
+        "Other (7%)",
+        "Markdown (5%)"
+      ],
+      "projectCount": 5,
+      "fetched_at": "2026-06-11T07:08:04.733Z",
+      "stale": false
+    },
+    "summary": "This week, Ethan Qiu logged 1 hr 16 mins of coding time, averaging 1 hr 11 mins per day across 5 projects. His work was mostly in TypeScript, with additional time in JSON and JavaScript. The available GitHub data shows no new commits, pull requests, or repositories this week."
   },
-  "recent_wins": [
+  "writing": [
     {
-      "date": "2026-01",
-      "title": "1st Place Overall, UofT Hacks 2026 — Identity Matrix (multiplayer world with persistent AI agents)"
+      "title": "The one about Tomodachi Life",
+      "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+      "published_at": "2026-05-28T01:27:22.000Z",
+      "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
     },
     {
-      "date": "2025-11",
-      "title": "1st Place Overall, Rift Rewind AWS Hackathon — Heimer Academy (AI League of Legends coaching on AWS Bedrock/SageMaker)"
+      "title": "The one about meals",
+      "url": "https://coherentboi.substack.com/p/the-one-about-meals",
+      "published_at": "2026-05-21T04:06:42.000Z",
+      "excerpt": "Yeah, let’s talk a bit about how I eat. It’s interesting. It’s not something that I would say is normal. I usually eat one meal a day, which is a fad that people see on social media sometimes, but has really, really…"
     },
     {
-      "date": "2025-09",
-      "title": "Best Use of Groq & Best Use of Windsurf, Hack the North 2025 — Orbit (real-time social intelligence)"
+      "title": "The one about a girl",
+      "url": "https://coherentboi.substack.com/p/the-one-about-a-girl",
+      "published_at": "2026-05-19T05:07:45.000Z",
+      "excerpt": "No, it’s not about “that” girl. She deserves a whole series because of how much she’s changed me. This one is about another girl who I’ve been interested in recently, and what went down with her. So a bit of context…"
     },
     {
-      "date": "2025-08",
-      "title": "1st Place Best Game Hack, Hack the 6ix 2025 — Polaris (computer-vision multiplayer fitness game)"
+      "title": "The one about Outfits",
+      "url": "https://coherentboi.substack.com/p/the-one-about-outfits",
+      "published_at": "2026-05-13T02:29:53.000Z",
+      "excerpt": "So yesterday my friends took me to the mall to revise my closet. They picked out a fit and it was actually really nice, unlike anything I have in my closet. And I hate to say that it actually looks really good. This…"
     },
     {
-      "date": "2025-01",
-      "title": "1st Place Overall, GeeseHacks 2025 — Hyacinthe (computer-vision navigation for the visually impaired)"
+      "title": "The one about maturity",
+      "url": "https://coherentboi.substack.com/p/the-one-about-maturity",
+      "published_at": "2026-05-09T19:05:21.000Z",
+      "excerpt": "This will be my topic today! I’ve been wondering about this actually. I’ve been told both sides. Some say that I’m years ahead, others say stuff like this. How can both be true at the same time? Here’s my guess: I think…"
     }
   ],
-  "stack": "Day to day: React, TypeScript, GraphQL, Ruby on Rails (Shopify). Side projects: Python, FastAPI, PyTorch, AWS, Supabase.",
-  "links": {
-    "portfolio": "https://ethanqiu.ca",
-    "resume": "https://ethanqiu.ca/resume.pdf",
-    "github": "https://github.com/qiuethan",
-    "linkedin": "https://linkedin.com/in/qiu-ethan",
-    "email": "ethanqiu@gmail.com"
-  }
+  "tools": "/tools.json"
 }

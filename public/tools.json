@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "subject": "Ethan Qiu",
+  "description": "Machine-readable gateway to Ethan Qiu's current activity. Each tool resolves to a typed JSON payload at its url.",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "tools": [
+    {
+      "name": "get_identity",
+      "description": "Name, headline, location, and canonical links.",
+      "freshness": "static",
+      "url": "/api/identity"
+    },
+    {
+      "name": "get_availability",
+      "description": "Whether Ethan is open to opportunities.",
+      "freshness": "manual",
+      "url": "/api/availability"
+    },
+    {
+      "name": "get_projects",
+      "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
+      "freshness": "hourly",
+      "url": "/api/projects"
+    },
+    {
+      "name": "get_stack",
+      "description": "Languages in use, derived from GitHub repos and WakaTime.",
+      "freshness": "hourly",
+      "url": "/api/stack"
+    },
+    {
+      "name": "get_activity",
+      "description": "Live GitHub + WakaTime activity over the last 7 days.",
+      "freshness": "hourly",
+      "url": "/api/activity"
+    },
+    {
+      "name": "get_contributions",
+      "description": "GitHub contribution calendar — daily counts for the past year, plus totals and streaks. Render the heatmap from data.calendar.",
+      "freshness": "hourly",
+      "url": "/api/contributions"
+    },
+    {
+      "name": "get_writing",
+      "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
+      "freshness": "daily",
+      "url": "/api/writing"
+    }
+  ]
+}

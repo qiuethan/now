@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "tool": "get_projects",
+  "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
+  "freshness": "hourly",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "data": {
+    "projects": [
+      {
+        "private": false,
+        "name": "Portfolio",
+        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+        "language": "TypeScript",
+        "url": "https://github.com/qiuethan/Portfolio",
+        "homepage": "https://ethanqiu.ca",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-06-11T06:58:44Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "neetcode-submissions",
+        "description": "My NeetCode.io problem submissions",
+        "language": "Python",
+        "url": "https://github.com/qiuethan/neetcode-submissions",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-06-11T06:23:10Z",
+        "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1250939878,
+        "summary": "A Java-based Minecraft mod template for creating new game modifications",
+        "recently_active": true,
+        "pushed_at": "2026-06-11"
+      },
+      {
+        "private": true,
+        "id": 1206578653,
+        "summary": "A TypeScript Discord personal AI assistant for text and voice conversations, memory, and reminders using the Claude Agent SDK",
+        "recently_active": true,
+        "pushed_at": "2026-06-07"
+      },
+      {
+        "private": true,
+        "id": 1192357945,
+        "summary": "A TypeScript AI application for generating hackathon project ideas by researching, organizing, and connecting concepts across domains",
+        "recently_active": false,
+        "pushed_at": "2026-04-06"
+      },
+      {
+        "private": false,
+        "name": "GenAI-Genesis-Project",
+        "description": "",
+        "language": "TypeScript",
+        "url": "https://github.com/qiuethan/GenAI-Genesis-Project",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-03-15T12:51:58Z",
+        "recently_active": false
+      }
+    ],
+    "fetched_at": "2026-06-11T07:08:04.733Z",
+    "stale": false
+  }
+}

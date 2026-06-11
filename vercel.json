@@ -4,7 +4,17 @@
   "outputDirectory": "public",
   "rewrites": [
     { "source": "/", "destination": "/now.md" },
-    { "source": "/json", "destination": "/now.json" }
+    { "source": "/json", "destination": "/now.json" },
+    { "source": "/tools", "destination": "/tools.json" },
+    { "source": "/api", "destination": "/tools.json" },
+    { "source": "/api/now", "destination": "/now.json" },
+    { "source": "/api/identity", "destination": "/tools/identity.json" },
+    { "source": "/api/availability", "destination": "/tools/availability.json" },
+    { "source": "/api/projects", "destination": "/tools/projects.json" },
+    { "source": "/api/stack", "destination": "/tools/stack.json" },
+    { "source": "/api/activity", "destination": "/tools/activity.json" },
+    { "source": "/api/contributions", "destination": "/tools/contributions.json" },
+    { "source": "/api/writing", "destination": "/tools/writing.json" }
   ],
   "headers": [
     {

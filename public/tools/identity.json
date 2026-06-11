@@ -1,5 +1,10 @@
 {
-  "identity": {
+  "schema_version": 1,
+  "tool": "get_identity",
+  "description": "Name, headline, location, and canonical links.",
+  "freshness": "static",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "data": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
     "location": "Toronto, Canada",
@@ -12,14 +17,5 @@
       "linkedin": "https://linkedin.com/in/qiu-ethan",
       "email": "ethanqiu@gmail.com"
     }
-  },
-  "availability": "Always open to interesting opportunities and conversations.",
-  "substack_url": "https://coherentboi.substack.com",
-  "settings": {
-    "max_stale_days": 30,
-    "max_projects": 6,
-    "active_within_days": 14,
-    "include_private": true,
-    "max_posts": 5
   }
 }

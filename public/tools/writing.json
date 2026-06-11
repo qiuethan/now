@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "tool": "get_writing",
+  "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
+  "freshness": "daily",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "data": {
+    "feed_url": "https://coherentboi.substack.com/feed",
+    "posts": [
+      {
+        "title": "The one about Tomodachi Life",
+        "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+        "published_at": "2026-05-28T01:27:22.000Z",
+        "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
+      },
+      {
+        "title": "The one about meals",
+        "url": "https://coherentboi.substack.com/p/the-one-about-meals",
+        "published_at": "2026-05-21T04:06:42.000Z",
+        "excerpt": "Yeah, let’s talk a bit about how I eat. It’s interesting. It’s not something that I would say is normal. I usually eat one meal a day, which is a fad that people see on social media sometimes, but has really, really…"
+      },
+      {
+        "title": "The one about a girl",
+        "url": "https://coherentboi.substack.com/p/the-one-about-a-girl",
+        "published_at": "2026-05-19T05:07:45.000Z",
+        "excerpt": "No, it’s not about “that” girl. She deserves a whole series because of how much she’s changed me. This one is about another girl who I’ve been interested in recently, and what went down with her. So a bit of context…"
+      },
+      {
+        "title": "The one about Outfits",
+        "url": "https://coherentboi.substack.com/p/the-one-about-outfits",
+        "published_at": "2026-05-13T02:29:53.000Z",
+        "excerpt": "So yesterday my friends took me to the mall to revise my closet. They picked out a fit and it was actually really nice, unlike anything I have in my closet. And I hate to say that it actually looks really good. This…"
+      },
+      {
+        "title": "The one about maturity",
+        "url": "https://coherentboi.substack.com/p/the-one-about-maturity",
+        "published_at": "2026-05-09T19:05:21.000Z",
+        "excerpt": "This will be my topic today! I’ve been wondering about this actually. I’ve been told both sides. Some say that I’m years ahead, others say stuff like this. How can both be true at the same time? Here’s my guess: I think…"
+      }
+    ],
+    "fetched_at": "2026-06-11T07:08:04.733Z",
+    "stale": false
+  }
+}

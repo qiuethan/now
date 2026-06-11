@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "tool": "get_availability",
+  "description": "Whether Ethan is open to opportunities.",
+  "freshness": "manual",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "data": {
+    "availability": "Always open to interesting opportunities and conversations."
+  }
+}

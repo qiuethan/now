@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "tool": "get_stack",
+  "description": "Languages in use, derived from GitHub repos and WakaTime.",
+  "freshness": "hourly",
+  "updated": "2026-06-11T07:08:04.733Z",
+  "data": {
+    "languages": [
+      {
+        "name": "Python",
+        "repos": 7
+      },
+      {
+        "name": "TypeScript",
+        "repos": 5
+      },
+      {
+        "name": "JavaScript",
+        "repos": 3
+      },
+      {
+        "name": "CSS",
+        "repos": 1
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repos": 1
+      },
+      {
+        "name": "Java",
+        "repos": 1
+      }
+    ],
+    "from_wakatime": [
+      "TypeScript (47%)",
+      "JSON (17%)",
+      "JavaScript (16%)",
+      "Other (7%)",
+      "Markdown (5%)"
+    ],
+    "fetched_at": "2026-06-11T07:08:04.733Z",
+    "stale": false
+  }
+}
