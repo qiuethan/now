@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-11T23:52:12.972Z",
+  "last_updated": "2026-06-12T01:28:48.509Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,13 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
+      "private": true,
+      "id": 1250939878,
+      "summary": "A Java-based Minecraft mod template for creating and developing game mods",
+      "recently_active": true,
+      "pushed_at": "2026-06-12"
+    },
+    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -27,15 +34,8 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-11T22:54:21Z",
+      "pushed_at": "2026-06-11T23:52:16Z",
       "recently_active": true
-    },
-    {
-      "private": true,
-      "id": 1250939878,
-      "summary": "A Java-based Minecraft mod template for creating new game modifications",
-      "recently_active": true,
-      "pushed_at": "2026-06-11"
     },
     {
       "private": false,
@@ -104,55 +104,55 @@
       }
     ],
     "from_wakatime": [
-      "TypeScript (28%)",
-      "Other (27%)",
-      "Java (12%)",
-      "Markdown (11%)",
-      "JSON (10%)"
+      "Java (23%)",
+      "Other (22%)",
+      "TypeScript (22%)",
+      "Markdown (17%)",
+      "JSON (8%)"
     ],
-    "fetched_at": "2026-06-11T23:52:12.972Z",
+    "fetched_at": "2026-06-12T01:28:48.509Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1347,
-    "last_7_days": 87,
-    "last_30_days": 186,
+    "total_past_year": 1351,
+    "last_7_days": 91,
+    "last_30_days": 190,
     "current_streak": 8,
     "longest_streak": 8,
     "busiest_day": {
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-11T23:52:12.972Z",
+    "fetched_at": "2026-06-12T01:28:48.509Z",
     "stale": false
   },
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-11T23:52:12.972Z",
+    "generated_at": "2026-06-12T01:28:48.509Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-11T23:52:12.972Z",
+      "fetched_at": "2026-06-12T01:28:48.509Z",
       "stale": false
     },
     "wakatime": {
-      "total": "4 hrs 16 mins",
-      "dailyAverage": "3 hrs 5 mins",
-      "seconds": 15366.707,
+      "total": "5 hrs 31 mins",
+      "dailyAverage": "4 hrs 17 mins",
+      "seconds": 19867.987,
       "languages": [
-        "TypeScript (28%)",
-        "Other (27%)",
-        "Java (12%)",
-        "Markdown (11%)",
-        "JSON (10%)"
+        "Java (23%)",
+        "Other (22%)",
+        "TypeScript (22%)",
+        "Markdown (17%)",
+        "JSON (8%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-11T23:52:12.972Z",
+      "fetched_at": "2026-06-12T01:28:48.509Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu logged 4 hrs 16 mins of coding time, averaging 3 hrs 5 mins per day. His work was spread across 5 projects, with most time in TypeScript, followed by Other, Java, Markdown, and JSON. No GitHub commits, pull requests, or new repositories were recorded this week."
+    "summary": "This week Ethan Qiu logged 5 hrs 31 mins of coding time, with a daily average of 4 hrs 17 mins. His work was spread across 5 projects, and the time was mainly in Java, TypeScript, Markdown, JSON, and other files. No GitHub commits, pull requests, or new repositories were recorded in the data."
   },
   "writing": [
     {
