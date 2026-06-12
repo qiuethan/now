@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-12T22:48:59.543Z",
+  "last_updated": "2026-06-12T23:50:10.445Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-12T21:56:14Z",
+      "pushed_at": "2026-06-12T22:49:03Z",
       "recently_active": true
     },
     {
@@ -104,12 +104,12 @@
       }
     ],
     "from_wakatime": [
-      "Java (38%)",
-      "Other (25%)",
-      "Markdown (17%)",
-      "TypeScript (11%)"
+      "Java (35%)",
+      "Other (31%)",
+      "Markdown (16%)",
+      "TypeScript (10%)"
     ],
-    "fetched_at": "2026-06-12T22:48:59.543Z",
+    "fetched_at": "2026-06-12T23:50:10.445Z",
     "stale": false
   },
   "contributions": {
@@ -122,35 +122,35 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-12T22:48:59.543Z",
+    "fetched_at": "2026-06-12T23:50:10.445Z",
     "stale": false
   },
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-12T22:48:59.543Z",
+    "generated_at": "2026-06-12T23:50:10.445Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-12T22:48:59.543Z",
+      "fetched_at": "2026-06-12T23:50:10.445Z",
       "stale": false
     },
     "wakatime": {
-      "total": "11 hrs 4 mins",
+      "total": "12 hrs",
       "dailyAverage": "4 hrs 8 mins",
-      "seconds": 39874.621,
+      "seconds": 43219.359,
       "languages": [
-        "Java (38%)",
-        "Other (25%)",
-        "Markdown (17%)",
-        "TypeScript (11%)"
+        "Java (35%)",
+        "Other (31%)",
+        "Markdown (16%)",
+        "TypeScript (10%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-12T22:48:59.543Z",
+      "fetched_at": "2026-06-12T23:50:10.445Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 11 hrs 4 mins of coding time, averaging 4 hrs 8 mins per day. His work was spread across 5 projects, with most time spent in Java, followed by Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded this week."
+    "summary": "This week Ethan Qiu logged 12 hours of coding time, averaging 4 hours 8 minutes per day across 5 projects. His activity was mostly in Java, with additional time in Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded this week."
   },
   "writing": [
     {
