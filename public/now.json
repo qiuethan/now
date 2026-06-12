@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-12T03:28:26.106Z",
+  "last_updated": "2026-06-12T05:56:01.292Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -34,7 +34,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-12T01:28:53Z",
+      "pushed_at": "2026-06-12T03:28:31Z",
       "recently_active": true
     },
     {
@@ -104,55 +104,55 @@
       }
     ],
     "from_wakatime": [
-      "Java (26%)",
-      "Markdown (22%)",
-      "Other (20%)",
-      "TypeScript (19%)",
-      "JSON (7%)"
+      "Java (34%)",
+      "Other (23%)",
+      "Markdown (18%)",
+      "TypeScript (14%)",
+      "JSON (5%)"
     ],
-    "fetched_at": "2026-06-12T03:28:26.106Z",
+    "fetched_at": "2026-06-12T05:56:01.292Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1360,
-    "last_7_days": 100,
-    "last_30_days": 199,
-    "current_streak": 8,
-    "longest_streak": 8,
+    "total_past_year": 1361,
+    "last_7_days": 99,
+    "last_30_days": 195,
+    "current_streak": 9,
+    "longest_streak": 9,
     "busiest_day": {
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-12T03:28:26.106Z",
+    "fetched_at": "2026-06-12T05:56:01.292Z",
     "stale": false
   },
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-12T03:28:26.106Z",
+    "generated_at": "2026-06-12T05:56:01.292Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-12T03:28:26.106Z",
+      "fetched_at": "2026-06-12T05:56:01.292Z",
       "stale": false
     },
     "wakatime": {
-      "total": "6 hrs 24 mins",
-      "dailyAverage": "5 hrs 9 mins",
-      "seconds": 23062.784,
+      "total": "8 hrs 37 mins",
+      "dailyAverage": "3 hrs 18 mins",
+      "seconds": 31072.945,
       "languages": [
-        "Java (26%)",
-        "Markdown (22%)",
-        "Other (20%)",
-        "TypeScript (19%)",
-        "JSON (7%)"
+        "Java (34%)",
+        "Other (23%)",
+        "Markdown (18%)",
+        "TypeScript (14%)",
+        "JSON (5%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-12T03:28:26.106Z",
+      "fetched_at": "2026-06-12T05:56:01.292Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 6 hrs 24 mins of coding time, with a daily average of 5 hrs 9 mins across 5 projects. His most-used languages were Java, Markdown, TypeScript, and JSON, with Java accounting for 26% of the time and Markdown 22%. No GitHub commits, pull requests, or new repositories were recorded in the provided data."
+    "summary": "This week, Ethan Qiu logged 8 hrs 37 mins of coding time, with a daily average of 3 hrs 18 mins. His work was spread across 5 projects, with the most time in Java, followed by Other, Markdown, TypeScript, and JSON. No new GitHub commits, pull requests, or repositories were recorded in the provided activity data."
   },
   "writing": [
     {
