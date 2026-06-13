@@ -3,7 +3,7 @@
   "tool": "get_writing",
   "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
   "freshness": "daily",
-  "updated": "2026-06-13T01:26:20.921Z",
+  "updated": "2026-06-13T03:27:52.849Z",
   "data": {
     "feed_url": "https://coherentboi.substack.com/feed",
     "posts": [
