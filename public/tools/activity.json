@@ -3,32 +3,32 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-06-12T23:50:10.445Z",
+  "updated": "2026-06-13T01:26:20.921Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-06-12T23:50:10.445Z",
+    "generated_at": "2026-06-13T01:26:20.921Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-12T23:50:10.445Z",
+      "fetched_at": "2026-06-13T01:26:20.921Z",
       "stale": false
     },
     "wakatime": {
-      "total": "12 hrs",
+      "total": "12 hrs 16 mins",
       "dailyAverage": "4 hrs 8 mins",
-      "seconds": 43219.359,
+      "seconds": 44186.069,
       "languages": [
-        "Java (35%)",
-        "Other (31%)",
-        "Markdown (16%)",
+        "Java (34%)",
+        "Other (33%)",
+        "Markdown (15%)",
         "TypeScript (10%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-12T23:50:10.445Z",
+      "fetched_at": "2026-06-13T01:26:20.921Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu logged 12 hours of coding time, averaging 4 hours 8 minutes per day across 5 projects. His activity was mostly in Java, with additional time in Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded this week."
+    "summary": "This week, Ethan Qiu spent 12 hrs 16 mins coding, averaging 4 hrs 8 mins per day. His time was split across 5 projects, with the most work in Java, followed by Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded in the provided data."
   }
 }
