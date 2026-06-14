@@ -18,6 +18,7 @@
 - [get_projects](https://now.ethanqiu.ca/api/projects): most recently active GitHub repos with descriptions, languages, stars
 - [get_stack](https://now.ethanqiu.ca/api/stack): languages derived from GitHub repos + WakaTime
 - [get_activity](https://now.ethanqiu.ca/api/activity): live GitHub + WakaTime activity, last 7 days
+- [get_summary](https://now.ethanqiu.ca/api/summary): short LLM-written prose summary of the last 7 days of coding
 - [get_contributions](https://now.ethanqiu.ca/api/contributions): GitHub contribution calendar (daily counts, past year), totals + streaks
 
 ## Other resources

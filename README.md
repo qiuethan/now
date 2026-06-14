@@ -31,6 +31,7 @@ consumers stay stable.
 | `get_projects` | **derived** | GitHub repos, most-recently-pushed first; private repos anonymized (see below) |
 | `get_stack` | **derived** | languages ranked across repos + WakaTime breakdown |
 | `get_activity` | **derived** | commits/PRs/new repos this week + WakaTime time/languages |
+| `get_summary` | **derived** | LLM-written prose summary of the week, from the same activity (omitted without `OPENAI_API_KEY`) |
 | `get_contributions` | **derived** | GitHub contribution calendar (daily counts, past year) + totals/streaks |
 | `get_writing` | **derived** | recent posts from the Substack RSS feed, newest first (title, url, date, excerpt) |
 
@@ -63,6 +64,7 @@ Each response is the last hourly snapshot; the API does no work on request.
 | `GET /api/projects` | projects payload |
 | `GET /api/stack` | stack payload |
 | `GET /api/activity` | activity payload |
+| `GET /api/summary` | weekly prose summary payload |
 | `GET /api/contributions` | contributions payload |
 | `GET /api/writing` | writing payload |
 

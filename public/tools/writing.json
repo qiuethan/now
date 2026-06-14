@@ -3,7 +3,7 @@
   "tool": "get_writing",
   "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
   "freshness": "daily",
-  "updated": "2026-06-14T01:30:01.106Z",
+  "updated": "2026-06-14T01:33:47.131Z",
   "data": {
     "feed_url": "https://coherentboi.substack.com/feed",
     "posts": [
@@ -38,7 +38,7 @@
         "excerpt": "This will be my topic today! I’ve been wondering about this actually. I’ve been told both sides. Some say that I’m years ahead, others say stuff like this. How can both be true at the same time? Here’s my guess: I think…"
       }
     ],
-    "fetched_at": "2026-06-11T07:08:04.733Z",
-    "stale": true
+    "fetched_at": "2026-06-14T01:33:47.131Z",
+    "stale": false
   }
 }

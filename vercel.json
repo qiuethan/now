@@ -13,6 +13,7 @@
     { "source": "/api/projects", "destination": "/tools/projects.json" },
     { "source": "/api/stack", "destination": "/tools/stack.json" },
     { "source": "/api/activity", "destination": "/tools/activity.json" },
+    { "source": "/api/summary", "destination": "/tools/summary.json" },
     { "source": "/api/contributions", "destination": "/tools/contributions.json" },
     { "source": "/api/writing", "destination": "/tools/writing.json" }
   ],

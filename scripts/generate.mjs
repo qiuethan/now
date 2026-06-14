@@ -316,6 +316,24 @@ async function fetchSubstack(url, max) {
 async function writeWeeklySummary(github, wakatime) {
   if (!process.env.OPENAI_API_KEY) return null;
   if (!github && !wakatime) return null;
+  // Whitelist the fields sent to the model. github comes from the PUBLIC events
+  // feed (so its repo names are already public) and wakatime carries only a
+  // project COUNT, never project names. Curating explicitly here means a field
+  // added to an upstream fetcher later can't silently flow to OpenAI.
+  const safeInput = {
+    github: github && {
+      totalCommits: github.totalCommits,
+      repos: github.repos,
+      prsOpened: github.prsOpened,
+      newRepos: github.newRepos,
+    },
+    wakatime: wakatime && {
+      total: wakatime.total,
+      dailyAverage: wakatime.dailyAverage,
+      languages: wakatime.languages,
+      projectCount: wakatime.projectCount,
+    },
+  };
   try {
     const { default: OpenAI } = await import("openai");
     const client = new OpenAI();
@@ -326,8 +344,11 @@ async function writeWeeklySummary(github, wakatime) {
         `You write the "This week" paragraph for ${config.identity.name}'s public now page, ` +
         "which is read by both people and AI assistants summarizing him. " +
         "Write 2-4 sentences of plain, factual prose in third person from the JSON activity data. " +
-        "Mention concrete repo names and coding time. No hype, no emoji, no markdown headers.",
-      input: JSON.stringify({ github, wakatime }),
+        "Mention concrete repo names (those in the data are public) and coding time. " +
+        "Use ONLY facts present in the provided JSON — never invent repos, projects, numbers, or activity. " +
+        "Do NOT name, guess at, or allude to any private/client/employer project, and do not speculate about what " +
+        "unnamed projects behind the coding-time count might be. No hype, no emoji, no markdown headers.",
+      input: JSON.stringify(safeInput),
     });
     return response.output_text?.trim() || null;
   } catch (err) {
@@ -640,10 +661,20 @@ const [events, repos, wakaRaw, contribRaw, substackRaw] = await Promise.all([
 
 const github = withFreshness(events, prev.activity?.github, now);
 const wakatime = withFreshness(wakaRaw, prev.activity?.wakatime, now);
-const summary =
-  hasGithubActivity(github) || hasWakatimeActivity(wakatime)
-    ? (await writeWeeklySummary(github, wakatime)) ?? prev.activity?.summary ?? null
-    : null;
+// The weekly prose summary. Generated fresh when there's activity; on an LLM
+// hiccup we reuse the previous run's summary (flagged stale) so neither the
+// activity section nor the standalone get_summary tool ever blanks.
+let summary = null;
+let summaryStale = false;
+if (hasGithubActivity(github) || hasWakatimeActivity(wakatime)) {
+  const fresh = await writeWeeklySummary(github, wakatime);
+  if (fresh) {
+    summary = fresh;
+  } else if (prev.activity?.summary) {
+    summary = prev.activity.summary;
+    summaryStale = true;
+  }
+}
 const activity = { window: "last_7_days", generated_at: now, github, wakatime, summary };
 
 const projectsData = withFreshness(await buildProjects(repos, config.settings, now, prev.projects), prev.projects, now);
@@ -659,6 +690,7 @@ const TOOLS = [
   { name: "get_projects", file: "projects.json", freshness: "hourly", description: "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.", data: projectsData ?? { projects: [] } },
   { name: "get_stack", file: "stack.json", freshness: "hourly", description: "Languages in use, derived from GitHub repos and WakaTime.", data: stackData ?? { languages: [], from_wakatime: [] } },
   { name: "get_activity", file: "activity.json", freshness: "hourly", description: "Live GitHub + WakaTime activity over the last 7 days.", data: activity },
+  summary && { name: "get_summary", file: "summary.json", freshness: "hourly", description: "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.", data: { window: "last_7_days", generated_at: now, summary, stale: summaryStale } },
   { name: "get_contributions", file: "contributions.json", freshness: "hourly", description: "GitHub contribution calendar — daily counts for the past year, plus totals and streaks. Render the heatmap from data.calendar.", data: contributions ?? { total_past_year: 0, calendar: [] } },
   writingData?.posts?.length && { name: "get_writing", file: "writing.json", freshness: "daily", description: "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.", data: writingData },
 ].filter(Boolean);
@@ -686,6 +718,7 @@ const snapshot = {
   projects: projectsData?.projects ?? [],
   stack: stackData ?? null,
   contributions: contributionsSummary,
+  summary,
   activity,
   writing: writingData?.posts ?? [],
   tools: "/tools.json",
@@ -710,4 +743,4 @@ console.log(`  GitHub activity: ${github ? `${github.totalCommits} commits${gith
 console.log(`  WakaTime: ${wakatime ? `${wakatime.total}${wakatime.stale ? " (cached)" : ""}` : "unavailable"}`);
 console.log(`  Contributions: ${contributions ? `${contributions.total_past_year} past year, streak ${contributions.current_streak}${contributions.stale ? " (cached)" : ""}` : "unavailable"}`);
 console.log(`  Writing: ${writingData ? `${writingData.posts.length} posts${writingData.stale ? " (cached)" : ""}` : "unavailable"}`);
-console.log(`  LLM summary: ${summary ? "yes" : "no"}`);
+console.log(`  LLM summary: ${summary ? (summaryStale ? "yes (cached)" : "yes") : "no"}`);
