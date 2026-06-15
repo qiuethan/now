@@ -3,16 +3,9 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-06-15T01:31:47.851Z",
+  "updated": "2026-06-15T03:28:51.735Z",
   "data": {
     "projects": [
-      {
-        "private": true,
-        "id": 1250939878,
-        "summary": "A Java template for creating a Minecraft mod using the NeoForge modding framework",
-        "recently_active": true,
-        "pushed_at": "2026-06-15"
-      },
       {
         "private": false,
         "name": "now",
@@ -22,8 +15,15 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-06-14T23:43:49Z",
+        "pushed_at": "2026-06-15T01:31:52Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1250939878,
+        "summary": "A Java template for creating a Minecraft mod using the NeoForge modding framework",
+        "recently_active": true,
+        "pushed_at": "2026-06-15"
       },
       {
         "private": false,
@@ -64,7 +64,7 @@
         "pushed_at": "2026-04-10"
       }
     ],
-    "fetched_at": "2026-06-15T01:31:47.851Z",
+    "fetched_at": "2026-06-15T03:28:51.735Z",
     "stale": false
   }
 }
