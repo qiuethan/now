@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-15T03:28:51.735Z",
+  "last_updated": "2026-06-15T06:06:53.471Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,13 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
+      "private": true,
+      "id": 1250939878,
+      "summary": "A Java template for creating a Minecraft mod using the NeoForge modding framework",
+      "recently_active": true,
+      "pushed_at": "2026-06-15"
+    },
+    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -27,15 +34,8 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-15T01:31:52Z",
+      "pushed_at": "2026-06-15T03:28:55Z",
       "recently_active": true
-    },
-    {
-      "private": true,
-      "id": 1250939878,
-      "summary": "A Java template for creating a Minecraft mod using the NeoForge modding framework",
-      "recently_active": true,
-      "pushed_at": "2026-06-15"
     },
     {
       "private": false,
@@ -105,16 +105,16 @@
     ],
     "from_wakatime": [
       "Java (38%)",
-      "Other (34%)",
-      "Markdown (14%)",
-      "TypeScript (6%)"
+      "Other (32%)",
+      "Markdown (16%)",
+      "TypeScript (5%)"
     ],
-    "fetched_at": "2026-06-15T03:28:51.735Z",
+    "fetched_at": "2026-06-15T06:06:53.471Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1416,
-    "last_7_days": 130,
+    "total_past_year": 1395,
+    "last_7_days": 109,
     "last_30_days": 250,
     "current_streak": 11,
     "longest_streak": 11,
@@ -122,36 +122,36 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-15T03:28:51.735Z",
+    "fetched_at": "2026-06-15T06:06:53.471Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 21 hrs 47 mins of coding time, with a daily average of 3 hrs 35 mins. His activity was spread across 6 projects, and the main languages were Java, Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded.",
+  "summary": "This week, Ethan Qiu logged 23 hrs 48 mins of coding time, with a daily average of 3 hrs 13 mins. His WakaTime activity was spread across 6 projects, and the most-used languages were Java, Other, Markdown, and TypeScript. There were no recorded GitHub commits, pull requests, or new repositories this week.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-15T03:28:51.735Z",
+    "generated_at": "2026-06-15T06:06:53.471Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-15T03:28:51.735Z",
+      "fetched_at": "2026-06-15T06:06:53.471Z",
       "stale": false
     },
     "wakatime": {
-      "total": "21 hrs 47 mins",
-      "dailyAverage": "3 hrs 35 mins",
-      "seconds": 78451.838,
+      "total": "23 hrs 48 mins",
+      "dailyAverage": "3 hrs 13 mins",
+      "seconds": 85715.001,
       "languages": [
         "Java (38%)",
-        "Other (34%)",
-        "Markdown (14%)",
-        "TypeScript (6%)"
+        "Other (32%)",
+        "Markdown (16%)",
+        "TypeScript (5%)"
       ],
       "projectCount": 6,
-      "fetched_at": "2026-06-15T03:28:51.735Z",
+      "fetched_at": "2026-06-15T06:06:53.471Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 21 hrs 47 mins of coding time, with a daily average of 3 hrs 35 mins. His activity was spread across 6 projects, and the main languages were Java, Other, Markdown, and TypeScript. No GitHub commits, pull requests, or new repositories were recorded."
+    "summary": "This week, Ethan Qiu logged 23 hrs 48 mins of coding time, with a daily average of 3 hrs 13 mins. His WakaTime activity was spread across 6 projects, and the most-used languages were Java, Other, Markdown, and TypeScript. There were no recorded GitHub commits, pull requests, or new repositories this week."
   },
   "writing": [
     {
