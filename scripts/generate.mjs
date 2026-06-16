@@ -287,8 +287,17 @@ async function fetchSubstack(url, max) {
   const base = url.replace(/\/+$/, "");
   const feedUrl = /\/feed$/.test(base) ? base : `${base}/feed`;
   try {
+    // Substack sits behind Cloudflare, which 403s the bot-looking "now-page-generator"
+    // UA from datacenter IPs (e.g. GitHub Actions) while letting residential IPs through
+    // — so this fetch silently failed in CI and only ever refreshed on local runs. Send a
+    // real browser UA + browser-like headers (normal feed-reader behavior on a public feed).
     const res = await fetch(feedUrl, {
-      headers: { "User-Agent": "now-page-generator", Accept: "application/rss+xml, application/xml;q=0.9, */*;q=0.8" },
+      headers: {
+        "User-Agent":
+          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        Accept: "application/rss+xml, application/atom+xml, application/xml;q=0.9, text/html;q=0.8, */*;q=0.7",
+        "Accept-Language": "en-US,en;q=0.9",
+      },
     });
     if (!res.ok) throw new Error(`Substack feed returned ${res.status}`);
     const xml = await res.text();
