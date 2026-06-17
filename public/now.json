@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-17T03:28:41.559Z",
+  "last_updated": "2026-06-17T05:59:32.132Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,13 +19,6 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
-      "private": true,
-      "id": 1250939878,
-      "summary": "A Java-based Minecraft mod template for creating and developing game modifications",
-      "recently_active": true,
-      "pushed_at": "2026-06-17"
-    },
-    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -34,8 +27,15 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-17T01:31:22Z",
+      "pushed_at": "2026-06-17T03:28:45Z",
       "recently_active": true
+    },
+    {
+      "private": true,
+      "id": 1250939878,
+      "summary": "A Java-based Minecraft mod template for creating and developing game modifications",
+      "recently_active": true,
+      "pushed_at": "2026-06-17"
     },
     {
       "private": false,
@@ -104,16 +104,16 @@
       }
     ],
     "from_wakatime": [
-      "Java (39%)",
-      "Other (37%)",
-      "Markdown (15%)"
+      "Other (39%)",
+      "Java (38%)",
+      "Markdown (14%)"
     ],
-    "fetched_at": "2026-06-17T03:28:41.559Z",
+    "fetched_at": "2026-06-17T05:59:32.132Z",
     "stale": false
   },
   "contributions": {
     "total_past_year": 1444,
-    "last_7_days": 152,
+    "last_7_days": 132,
     "last_30_days": 288,
     "current_streak": 13,
     "longest_streak": 13,
@@ -121,35 +121,35 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-17T03:28:41.559Z",
+    "fetched_at": "2026-06-17T05:59:32.132Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 34 hrs 23 mins of coding time, with a daily average of 3 hrs 37 mins. His WakaTime breakdown was Java at 39%, Other at 37%, and Markdown at 15%, across 6 projects. He had no recorded GitHub commits, pull requests, or new repositories.",
+  "summary": "This week Ethan Qiu logged 35 hrs 51 mins of coding time, with a daily average of 3 hrs 6 mins. His WakaTime activity was mostly in Other, Java, and Markdown, across 6 projects. GitHub activity in the provided data shows no commits, pull requests, or new repositories.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-17T03:28:41.559Z",
+    "generated_at": "2026-06-17T05:59:32.132Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-17T03:28:41.559Z",
+      "fetched_at": "2026-06-17T05:59:32.132Z",
       "stale": false
     },
     "wakatime": {
-      "total": "34 hrs 23 mins",
-      "dailyAverage": "3 hrs 37 mins",
-      "seconds": 123836.149,
+      "total": "35 hrs 51 mins",
+      "dailyAverage": "3 hrs 6 mins",
+      "seconds": 129107.766,
       "languages": [
-        "Java (39%)",
-        "Other (37%)",
-        "Markdown (15%)"
+        "Other (39%)",
+        "Java (38%)",
+        "Markdown (14%)"
       ],
       "projectCount": 6,
-      "fetched_at": "2026-06-17T03:28:41.559Z",
+      "fetched_at": "2026-06-17T05:59:32.132Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 34 hrs 23 mins of coding time, with a daily average of 3 hrs 37 mins. His WakaTime breakdown was Java at 39%, Other at 37%, and Markdown at 15%, across 6 projects. He had no recorded GitHub commits, pull requests, or new repositories."
+    "summary": "This week Ethan Qiu logged 35 hrs 51 mins of coding time, with a daily average of 3 hrs 6 mins. His WakaTime activity was mostly in Other, Java, and Markdown, across 6 projects. GitHub activity in the provided data shows no commits, pull requests, or new repositories."
   },
   "writing": [
     {
