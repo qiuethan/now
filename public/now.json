@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-22T06:09:20.970Z",
+  "last_updated": "2026-06-22T08:30:06.338Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-22T03:28:54Z",
+      "pushed_at": "2026-06-22T06:09:25Z",
       "recently_active": true
     },
     {
@@ -108,7 +108,7 @@
       "Other (32%)",
       "Markdown (18%)"
     ],
-    "fetched_at": "2026-06-22T06:09:20.970Z",
+    "fetched_at": "2026-06-22T08:30:06.338Z",
     "stale": false
   },
   "contributions": {
@@ -121,19 +121,19 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-22T06:09:20.970Z",
+    "fetched_at": "2026-06-22T08:30:06.338Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 25 hrs 13 mins of coding time, averaging 2 hrs 50 mins per day. His WakaTime activity was mostly Java, with additional time in Markdown and other languages. The data shows activity across 5 projects.",
+  "summary": "This week, Ethan Qiu logged 25 hrs 13 mins of coding time, averaging 2 hrs 50 mins per day. His WakaTime activity was spread across 5 projects and was mostly in Java (49%), with Markdown (18%) and Other (32%) making up the rest. He had no GitHub commits, pull requests, or new repos recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-22T06:09:20.970Z",
+    "generated_at": "2026-06-22T08:30:06.338Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-22T06:09:20.970Z",
+      "fetched_at": "2026-06-22T08:30:06.338Z",
       "stale": false
     },
     "wakatime": {
@@ -146,10 +146,10 @@
         "Markdown (18%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-22T06:09:20.970Z",
+      "fetched_at": "2026-06-22T08:30:06.338Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 25 hrs 13 mins of coding time, averaging 2 hrs 50 mins per day. His WakaTime activity was mostly Java, with additional time in Markdown and other languages. The data shows activity across 5 projects."
+    "summary": "This week, Ethan Qiu logged 25 hrs 13 mins of coding time, averaging 2 hrs 50 mins per day. His WakaTime activity was spread across 5 projects and was mostly in Java (49%), with Markdown (18%) and Other (32%) making up the rest. He had no GitHub commits, pull requests, or new repos recorded."
   },
   "writing": [
     {
