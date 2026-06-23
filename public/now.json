@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-23T17:57:11.732Z",
+  "last_updated": "2026-06-23T18:59:35.817Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-23T17:05:40Z",
+      "pushed_at": "2026-06-23T17:57:15Z",
       "recently_active": true
     },
     {
@@ -108,7 +108,7 @@
       "Other (28%)",
       "Markdown (18%)"
     ],
-    "fetched_at": "2026-06-23T17:57:11.732Z",
+    "fetched_at": "2026-06-23T18:59:35.817Z",
     "stale": false
   },
   "contributions": {
@@ -121,19 +121,19 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-23T17:57:11.732Z",
+    "fetched_at": "2026-06-23T18:59:35.817Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest. The data shows activity across 5 projects, but no public GitHub commits, pull requests, or new repos.",
+  "summary": "This week, Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was spread across 5 projects, and his coding was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-23T17:57:11.732Z",
+    "generated_at": "2026-06-23T18:59:35.817Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-23T17:57:11.732Z",
+      "fetched_at": "2026-06-23T18:59:35.817Z",
       "stale": false
     },
     "wakatime": {
@@ -146,10 +146,10 @@
         "Markdown (18%)"
       ],
       "projectCount": 5,
-      "fetched_at": "2026-06-23T17:57:11.732Z",
+      "fetched_at": "2026-06-23T18:59:35.817Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest. The data shows activity across 5 projects, but no public GitHub commits, pull requests, or new repos."
+    "summary": "This week, Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was spread across 5 projects, and his coding was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest."
   },
   "writing": [
     {

@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-06-23T17:57:11.732Z",
+  "updated": "2026-06-23T18:59:35.817Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-06-23T17:57:11.732Z",
-    "summary": "This week Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest. The data shows activity across 5 projects, but no public GitHub commits, pull requests, or new repos.",
+    "generated_at": "2026-06-23T18:59:35.817Z",
+    "summary": "This week, Ethan Qiu logged 16 hrs 32 mins of coding time, with a daily average of 2 hrs 23 mins. His tracked work was spread across 5 projects, and his coding was mostly in Java (53%), with Markdown (18%) and Other (28%) making up the rest.",
     "stale": false
   }
 }
