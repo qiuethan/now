@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-26T23:42:38.070Z",
+  "last_updated": "2026-06-27T01:17:36.115Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-26T22:43:15Z",
+      "pushed_at": "2026-06-26T23:42:42Z",
       "recently_active": true
     },
     {
@@ -104,11 +104,11 @@
       }
     ],
     "from_wakatime": [
-      "Java (52%)",
-      "Other (27%)",
-      "Markdown (19%)"
+      "Java (51%)",
+      "Other (29%)",
+      "Markdown (17%)"
     ],
-    "fetched_at": "2026-06-26T23:42:38.070Z",
+    "fetched_at": "2026-06-27T01:17:36.115Z",
     "stale": false
   },
   "contributions": {
@@ -121,35 +121,35 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-26T23:42:38.070Z",
+    "fetched_at": "2026-06-27T01:17:36.115Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 4 hrs 16 mins of coding time, averaging 1 hr 2 mins per day. His tracked work was spread across 3 projects and was mostly in Java, with some Markdown and other language use.",
+  "summary": "This week, Ethan Qiu spent 3 hrs 55 mins coding, with a daily average of 1 hr 23 mins. His tracked work was spread across 3 projects and was mostly in Java, with additional time in Other and Markdown.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-26T23:42:38.070Z",
+    "generated_at": "2026-06-27T01:17:36.115Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-26T23:42:38.070Z",
+      "fetched_at": "2026-06-27T01:17:36.115Z",
       "stale": false
     },
     "wakatime": {
-      "total": "4 hrs 16 mins",
-      "dailyAverage": "1 hr 2 mins",
-      "seconds": 15417.402,
+      "total": "3 hrs 55 mins",
+      "dailyAverage": "1 hr 23 mins",
+      "seconds": 14104.646,
       "languages": [
-        "Java (52%)",
-        "Other (27%)",
-        "Markdown (19%)"
+        "Java (51%)",
+        "Other (29%)",
+        "Markdown (17%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-06-26T23:42:38.070Z",
+      "fetched_at": "2026-06-27T01:17:36.115Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 4 hrs 16 mins of coding time, averaging 1 hr 2 mins per day. His tracked work was spread across 3 projects and was mostly in Java, with some Markdown and other language use."
+    "summary": "This week, Ethan Qiu spent 3 hrs 55 mins coding, with a daily average of 1 hr 23 mins. His tracked work was spread across 3 projects and was mostly in Java, with additional time in Other and Markdown."
   },
   "writing": [
     {
