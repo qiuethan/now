@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-28T23:40:40.783Z",
+  "last_updated": "2026-06-29T01:25:00.304Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-28T22:39:15Z",
+      "pushed_at": "2026-06-28T23:40:44Z",
       "recently_active": true
     },
     {
@@ -104,9 +104,10 @@
       }
     ],
     "from_wakatime": [
-      "Other (100%)"
+      "Other (94%)",
+      "Java (6%)"
     ],
-    "fetched_at": "2026-06-28T23:40:40.783Z",
+    "fetched_at": "2026-06-29T01:25:00.304Z",
     "stale": false
   },
   "contributions": {
@@ -119,33 +120,34 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-28T23:40:40.783Z",
+    "fetched_at": "2026-06-29T01:25:00.304Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 3 mins of coding time on WakaTime, all in Other. No GitHub commits, pull requests, or new public repositories were recorded.",
+  "summary": "This week, Ethan Qiu logged 4 mins of coding time. His WakaTime activity was mostly in Other (94%) with a small amount in Java (6%), across 2 projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-28T23:40:40.783Z",
+    "generated_at": "2026-06-29T01:25:00.304Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-28T23:40:40.783Z",
+      "fetched_at": "2026-06-29T01:25:00.304Z",
       "stale": false
     },
     "wakatime": {
-      "total": "3 mins",
+      "total": "4 mins",
       "dailyAverage": "0 secs",
-      "seconds": 183,
+      "seconds": 259.928,
       "languages": [
-        "Other (100%)"
+        "Other (94%)",
+        "Java (6%)"
       ],
-      "projectCount": 1,
-      "fetched_at": "2026-06-28T23:40:40.783Z",
+      "projectCount": 2,
+      "fetched_at": "2026-06-29T01:25:00.304Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 3 mins of coding time on WakaTime, all in Other. No GitHub commits, pull requests, or new public repositories were recorded."
+    "summary": "This week, Ethan Qiu logged 4 mins of coding time. His WakaTime activity was mostly in Other (94%) with a small amount in Java (6%), across 2 projects."
   },
   "writing": [
     {
