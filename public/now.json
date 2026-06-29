@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-29T20:54:30.645Z",
+  "last_updated": "2026-06-29T21:46:38.264Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-29T19:57:19Z",
+      "pushed_at": "2026-06-29T20:54:34Z",
       "recently_active": true
     },
     {
@@ -107,7 +107,7 @@
       "Other (94%)",
       "Java (6%)"
     ],
-    "fetched_at": "2026-06-29T20:54:30.645Z",
+    "fetched_at": "2026-06-29T21:46:38.264Z",
     "stale": false
   },
   "contributions": {
@@ -120,19 +120,19 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-29T20:54:30.645Z",
+    "fetched_at": "2026-06-29T21:46:38.264Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu spent 4 mins coding, with activity mostly in Other and a small amount in Java. The WakaTime data shows work across 2 projects.",
+  "summary": "This week Ethan Qiu logged 4 mins of coding time, with activity split mostly across Other and a small amount of Java. The Wakatime data shows work across 2 projects, but no public repository activity is listed.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-29T20:54:30.645Z",
+    "generated_at": "2026-06-29T21:46:38.264Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-29T20:54:30.645Z",
+      "fetched_at": "2026-06-29T21:46:38.264Z",
       "stale": false
     },
     "wakatime": {
@@ -144,10 +144,10 @@
         "Java (6%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-06-29T20:54:30.645Z",
+      "fetched_at": "2026-06-29T21:46:38.264Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu spent 4 mins coding, with activity mostly in Other and a small amount in Java. The WakaTime data shows work across 2 projects."
+    "summary": "This week Ethan Qiu logged 4 mins of coding time, with activity split mostly across Other and a small amount of Java. The Wakatime data shows work across 2 projects, but no public repository activity is listed."
   },
   "writing": [
     {

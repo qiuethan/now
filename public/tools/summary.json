@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-06-29T20:54:30.645Z",
+  "updated": "2026-06-29T21:46:38.264Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-06-29T20:54:30.645Z",
-    "summary": "This week Ethan Qiu spent 4 mins coding, with activity mostly in Other and a small amount in Java. The WakaTime data shows work across 2 projects.",
+    "generated_at": "2026-06-29T21:46:38.264Z",
+    "summary": "This week Ethan Qiu logged 4 mins of coding time, with activity split mostly across Other and a small amount of Java. The Wakatime data shows work across 2 projects, but no public repository activity is listed.",
     "stale": false
   }
 }
