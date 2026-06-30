@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-06-30T07:37:10.018Z",
+  "last_updated": "2026-06-30T09:27:59.984Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-06-30T05:42:48Z",
+      "pushed_at": "2026-06-30T07:37:14Z",
       "recently_active": true
     },
     {
@@ -107,7 +107,7 @@
       "Other (94%)",
       "Java (6%)"
     ],
-    "fetched_at": "2026-06-30T07:37:10.018Z",
+    "fetched_at": "2026-06-30T09:27:59.984Z",
     "stale": false
   },
   "contributions": {
@@ -120,19 +120,19 @@
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-06-30T07:37:10.018Z",
+    "fetched_at": "2026-06-30T09:27:59.984Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 4 mins coding, with activity split mainly across Other (94%) and Java (6%). The data shows work across 2 projects.",
+  "summary": "This week, Ethan Qiu spent 4 mins coding, with a daily average of 0 secs. His activity was split across 2 projects and was mostly in Other (94%), with Java accounting for 6%.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-06-30T07:37:10.018Z",
+    "generated_at": "2026-06-30T09:27:59.984Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-06-30T07:37:10.018Z",
+      "fetched_at": "2026-06-30T09:27:59.984Z",
       "stale": false
     },
     "wakatime": {
@@ -144,10 +144,10 @@
         "Java (6%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-06-30T07:37:10.018Z",
+      "fetched_at": "2026-06-30T09:27:59.984Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 4 mins coding, with activity split mainly across Other (94%) and Java (6%). The data shows work across 2 projects."
+    "summary": "This week, Ethan Qiu spent 4 mins coding, with a daily average of 0 secs. His activity was split across 2 projects and was mostly in Other (94%), with Java accounting for 6%."
   },
   "writing": [
     {
