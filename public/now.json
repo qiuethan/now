@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-01T03:27:57.864Z",
+  "last_updated": "2026-07-01T05:52:37.320Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,13 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
+      "private": true,
+      "id": 1285717989,
+      "summary": "A Python project for building prototypes in an unspecified domain, used to develop and test early-stage functionality",
+      "recently_active": true,
+      "pushed_at": "2026-07-01"
+    },
+    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -27,7 +34,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-01T01:24:57Z",
+      "pushed_at": "2026-07-01T03:28:01Z",
       "recently_active": true
     },
     {
@@ -67,13 +74,6 @@
       "summary": "A TypeScript Discord-based personal AI assistant supports text and voice conversations with persistent memory and automation",
       "recently_active": false,
       "pushed_at": "2026-06-07"
-    },
-    {
-      "private": true,
-      "id": 1117921210,
-      "summary": "A Python prototype project for experimenting with software concepts and validating functionality",
-      "recently_active": false,
-      "pushed_at": "2026-04-10"
     }
   ],
   "stack": {
@@ -106,32 +106,32 @@
     "from_wakatime": [
       "Java (100%)"
     ],
-    "fetched_at": "2026-07-01T03:27:57.864Z",
+    "fetched_at": "2026-07-01T05:52:37.320Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1421,
-    "last_7_days": 0,
-    "last_30_days": 263,
-    "current_streak": 0,
+    "total_past_year": 1466,
+    "last_7_days": 45,
+    "last_30_days": 308,
+    "current_streak": 2,
     "longest_streak": 17,
     "busiest_day": {
       "date": "2026-05-07",
       "count": 68
     },
-    "fetched_at": "2026-07-01T03:27:57.864Z",
+    "fetched_at": "2026-07-01T05:52:37.320Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 14 seconds coding, with activity entirely in Java. Wakatime shows one project and a daily average of 0 seconds.",
+  "summary": "This week Ethan Qiu logged 14 secs of coding time in Java. His WakaTime activity covered 1 project. No GitHub commits, pull requests, or new repositories were recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-01T03:27:57.864Z",
+    "generated_at": "2026-07-01T05:52:37.320Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-01T03:27:57.864Z",
+      "fetched_at": "2026-07-01T05:52:37.320Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
         "Java (100%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-01T03:27:57.864Z",
+      "fetched_at": "2026-07-01T05:52:37.320Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 14 seconds coding, with activity entirely in Java. Wakatime shows one project and a daily average of 0 seconds."
+    "summary": "This week Ethan Qiu logged 14 secs of coding time in Java. His WakaTime activity covered 1 project. No GitHub commits, pull requests, or new repositories were recorded."
   },
   "writing": [
     {
