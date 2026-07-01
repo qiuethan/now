@@ -3,16 +3,9 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-07-01T05:52:37.320Z",
+  "updated": "2026-07-01T07:49:23.870Z",
   "data": {
     "projects": [
-      {
-        "private": true,
-        "id": 1285717989,
-        "summary": "A Python project for building prototypes in an unspecified domain, used to develop and test early-stage functionality",
-        "recently_active": true,
-        "pushed_at": "2026-07-01"
-      },
       {
         "private": false,
         "name": "now",
@@ -22,8 +15,15 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-07-01T03:28:01Z",
+        "pushed_at": "2026-07-01T05:52:42Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1285717989,
+        "summary": "A Python project for building prototypes in an unspecified domain, used to develop and test early-stage functionality",
+        "recently_active": true,
+        "pushed_at": "2026-07-01"
       },
       {
         "private": true,
@@ -64,7 +64,7 @@
         "pushed_at": "2026-06-07"
       }
     ],
-    "fetched_at": "2026-07-01T05:52:37.320Z",
+    "fetched_at": "2026-07-01T07:49:23.870Z",
     "stale": false
   }
 }
