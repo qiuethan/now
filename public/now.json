@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-03T07:38:16.189Z",
+  "last_updated": "2026-07-03T10:50:20.995Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,13 +19,6 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
-      "private": true,
-      "id": 1285717989,
-      "summary": "A Python-based internal operations platform for a student organization, managing team records and documentation catalogs through small HTTP services",
-      "recently_active": true,
-      "pushed_at": "2026-07-03"
-    },
-    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -34,8 +27,15 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-03T04:09:44Z",
+      "pushed_at": "2026-07-03T07:38:21Z",
       "recently_active": true
+    },
+    {
+      "private": true,
+      "id": 1285717989,
+      "summary": "A Python-based internal operations platform for a student organization, managing team records and documentation catalogs through small HTTP services",
+      "recently_active": true,
+      "pushed_at": "2026-07-03"
     },
     {
       "private": true,
@@ -106,7 +106,7 @@
     "from_wakatime": [
       "Java (100%)"
     ],
-    "fetched_at": "2026-07-03T07:38:16.189Z",
+    "fetched_at": "2026-07-03T10:50:20.995Z",
     "stale": false
   },
   "contributions": {
@@ -119,19 +119,19 @@
       "date": "2026-07-01",
       "count": 92
     },
-    "fetched_at": "2026-07-03T07:38:16.189Z",
+    "fetched_at": "2026-07-03T10:50:20.995Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 14 secs of coding time in Java. The activity data shows work in 1 project. No GitHub commits, pull requests, or new repositories were recorded.",
+  "summary": "This week, Ethan Qiu spent 14 secs coding, with all tracked activity in Java. Wakatime shows activity in 1 project, and there were no GitHub commits, pull requests, or new repos recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-03T07:38:16.189Z",
+    "generated_at": "2026-07-03T10:50:20.995Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-03T07:38:16.189Z",
+      "fetched_at": "2026-07-03T10:50:20.995Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
         "Java (100%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-03T07:38:16.189Z",
+      "fetched_at": "2026-07-03T10:50:20.995Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 14 secs of coding time in Java. The activity data shows work in 1 project. No GitHub commits, pull requests, or new repositories were recorded."
+    "summary": "This week, Ethan Qiu spent 14 secs coding, with all tracked activity in Java. Wakatime shows activity in 1 project, and there were no GitHub commits, pull requests, or new repos recorded."
   },
   "writing": [
     {
