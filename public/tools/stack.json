@@ -3,7 +3,7 @@
   "tool": "get_stack",
   "description": "Languages in use, derived from GitHub repos and WakaTime.",
   "freshness": "hourly",
-  "updated": "2026-07-03T15:26:15.144Z",
+  "updated": "2026-07-03T17:48:35.428Z",
   "data": {
     "languages": [
       {
@@ -34,7 +34,7 @@
     "from_wakatime": [
       "Java (100%)"
     ],
-    "fetched_at": "2026-07-03T15:26:15.144Z",
+    "fetched_at": "2026-07-03T17:48:35.428Z",
     "stale": false
   }
 }
