@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-04T17:19:57.072Z",
+  "last_updated": "2026-07-04T19:38:01.458Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-04T15:32:04Z",
+      "pushed_at": "2026-07-04T17:20:00Z",
       "recently_active": true
     },
     {
@@ -106,7 +106,7 @@
     "from_wakatime": [
       "Java (100%)"
     ],
-    "fetched_at": "2026-07-04T17:19:57.072Z",
+    "fetched_at": "2026-07-04T19:38:01.458Z",
     "stale": false
   },
   "contributions": {
@@ -119,19 +119,19 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-04T17:19:57.072Z",
+    "fetched_at": "2026-07-04T19:38:01.458Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 14 secs of coding time, all in Java. His WakaTime data shows activity in 1 project.",
+  "summary": "This week, Ethan Qiu logged 14 seconds of coding time, all in Java. His WakaTime activity was spread across 1 project. No GitHub commits, pull requests, or new repositories were recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-04T17:19:57.072Z",
+    "generated_at": "2026-07-04T19:38:01.458Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-04T17:19:57.072Z",
+      "fetched_at": "2026-07-04T19:38:01.458Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
         "Java (100%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-04T17:19:57.072Z",
+      "fetched_at": "2026-07-04T19:38:01.458Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 14 secs of coding time, all in Java. His WakaTime data shows activity in 1 project."
+    "summary": "This week, Ethan Qiu logged 14 seconds of coding time, all in Java. His WakaTime activity was spread across 1 project. No GitHub commits, pull requests, or new repositories were recorded."
   },
   "writing": [
     {
