@@ -3,16 +3,16 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-04T04:02:49.611Z",
+  "updated": "2026-07-04T07:15:16.011Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-04T04:02:49.611Z",
+    "generated_at": "2026-07-04T07:15:16.011Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-04T04:02:49.611Z",
+      "fetched_at": "2026-07-04T07:15:16.011Z",
       "stale": false
     },
     "wakatime": {
@@ -23,9 +23,9 @@
         "Java (100%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-04T04:02:49.611Z",
+      "fetched_at": "2026-07-04T07:15:16.011Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 14 secs of coding time in Java, with a daily average of 0 secs. No GitHub commits, pull requests, or new repositories were recorded."
+    "summary": "This week Ethan Qiu logged 14 seconds of coding time on WakaTime, all in Java. The activity was spread across 1 project. He had no GitHub commits, pull requests opened, or new repositories recorded."
   }
 }
