@@ -3,9 +3,16 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-07-04T21:14:04.956Z",
+  "updated": "2026-07-04T22:13:31.619Z",
   "data": {
     "projects": [
+      {
+        "private": true,
+        "id": 1285717989,
+        "summary": "A Python-based internal operations platform for a student organization, providing a durable directory and access-management system via APIs and Discord",
+        "recently_active": true,
+        "pushed_at": "2026-07-04"
+      },
       {
         "private": false,
         "name": "now",
@@ -15,15 +22,8 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-07-04T19:38:05Z",
+        "pushed_at": "2026-07-04T21:14:08Z",
         "recently_active": true
-      },
-      {
-        "private": true,
-        "id": 1285717989,
-        "summary": "A Python-based internal operations platform for a student organization, providing a durable directory and access-management system via APIs and Discord",
-        "recently_active": true,
-        "pushed_at": "2026-07-04"
       },
       {
         "private": true,
@@ -64,7 +64,7 @@
         "pushed_at": "2026-06-07"
       }
     ],
-    "fetched_at": "2026-07-04T21:14:04.956Z",
+    "fetched_at": "2026-07-04T22:13:31.619Z",
     "stale": false
   }
 }
