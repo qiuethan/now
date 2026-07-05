@@ -3,15 +3,15 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-07-04T23:14:50.593Z",
+  "updated": "2026-07-05T00:14:56.001Z",
   "data": {
     "projects": [
       {
         "private": true,
         "id": 1285717989,
-        "summary": "A Python-based internal operations platform for a student organization, providing a durable directory and access-management system via APIs and Discord",
+        "summary": "A Python-based internal operations platform for a student organization manages membership, teams, and organizational records through HTTP APIs and a Discord interface",
         "recently_active": true,
-        "pushed_at": "2026-07-04"
+        "pushed_at": "2026-07-05"
       },
       {
         "private": false,
@@ -22,14 +22,14 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-07-04T22:13:34Z",
+        "pushed_at": "2026-07-04T23:14:54Z",
         "recently_active": true
       },
       {
         "private": true,
         "id": 1250939878,
         "summary": "A Java-based Minecraft mod template for creating and developing game modifications",
-        "recently_active": true,
+        "recently_active": false,
         "pushed_at": "2026-06-20"
       },
       {
@@ -64,7 +64,7 @@
         "pushed_at": "2026-06-07"
       }
     ],
-    "fetched_at": "2026-07-04T23:14:50.593Z",
+    "fetched_at": "2026-07-05T00:14:56.001Z",
     "stale": false
   }
 }
