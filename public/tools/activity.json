@@ -3,16 +3,16 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-06T19:05:41.154Z",
+  "updated": "2026-07-06T21:01:55.062Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-06T19:05:41.154Z",
+    "generated_at": "2026-07-06T21:01:55.062Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-06T19:05:41.154Z",
+      "fetched_at": "2026-07-06T21:01:55.062Z",
       "stale": false
     },
     "wakatime": {
@@ -21,7 +21,7 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-07-06T19:05:41.154Z",
+      "fetched_at": "2026-07-06T21:01:55.062Z",
       "stale": false
     },
     "summary": null
