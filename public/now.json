@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-06T22:38:45.962Z",
+  "last_updated": "2026-07-07T01:07:55.470Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,13 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
+      "private": true,
+      "id": 1285717989,
+      "summary": "A Python-based internal operations platform for a student organization, providing a canonical record of members, teams, and contact information",
+      "recently_active": true,
+      "pushed_at": "2026-07-07"
+    },
+    {
       "private": false,
       "name": "now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -27,15 +34,8 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-06T21:01:56Z",
+      "pushed_at": "2026-07-06T22:38:47Z",
       "recently_active": true
-    },
-    {
-      "private": true,
-      "id": 1285717989,
-      "summary": "A Python-based internal operations platform for a student organization, managing leadership and member records through HTTP APIs and a Discord interface",
-      "recently_active": true,
-      "pushed_at": "2026-07-06"
     },
     {
       "private": true,
@@ -104,32 +104,32 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-07-06T22:38:45.962Z",
+    "fetched_at": "2026-07-07T01:07:55.470Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1757,
-    "last_7_days": 357,
-    "last_30_days": 595,
+    "total_past_year": 1760,
+    "last_7_days": 360,
+    "last_30_days": 598,
     "current_streak": 7,
     "longest_streak": 17,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-06T22:38:45.962Z",
+    "fetched_at": "2026-07-07T01:07:55.470Z",
     "stale": false
   },
   "summary": null,
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-06T22:38:45.962Z",
+    "generated_at": "2026-07-07T01:07:55.470Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-06T22:38:45.962Z",
+      "fetched_at": "2026-07-07T01:07:55.470Z",
       "stale": false
     },
     "wakatime": {
@@ -138,7 +138,7 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-07-06T22:38:45.962Z",
+      "fetched_at": "2026-07-07T01:07:55.470Z",
       "stale": false
     },
     "summary": null
