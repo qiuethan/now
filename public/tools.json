@@ -2,7 +2,7 @@
   "schema_version": 1,
   "subject": "Ethan Qiu",
   "description": "Machine-readable gateway to Ethan Qiu's current activity. Each tool resolves to a typed JSON payload at its url.",
-  "updated": "2026-07-07T05:07:52.634Z",
+  "updated": "2026-07-07T08:43:50.180Z",
   "tools": [
     {
       "name": "get_identity",
@@ -33,6 +33,12 @@
       "description": "Live GitHub + WakaTime activity over the last 7 days.",
       "freshness": "hourly",
       "url": "/api/activity"
+    },
+    {
+      "name": "get_summary",
+      "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
+      "freshness": "hourly",
+      "url": "/api/summary"
     },
     {
       "name": "get_contributions",
