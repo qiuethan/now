@@ -3,16 +3,16 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-09T15:37:12.642Z",
+  "updated": "2026-07-09T18:10:26.658Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-09T15:37:12.642Z",
+    "generated_at": "2026-07-09T18:10:26.658Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-09T15:37:12.642Z",
+      "fetched_at": "2026-07-09T18:10:26.658Z",
       "stale": false
     },
     "wakatime": {
@@ -25,9 +25,9 @@
         "Markdown (18%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-07-09T15:37:12.642Z",
+      "fetched_at": "2026-07-09T18:10:26.658Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 2 hrs 17 mins of coding time, with a daily average of 45 mins. His activity was mainly in Java, Bash, and Markdown. The data shows work spread across 4 projects, but no public repositories, commits, PRs, or new repos were recorded."
+    "summary": "This week, Ethan Qiu logged 2 hrs 17 mins of coding time, with a daily average of 45 mins. His WakaTime activity was spread across 4 projects and was mostly in Java, Bash, and Markdown."
   }
 }
