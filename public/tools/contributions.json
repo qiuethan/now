@@ -3,11 +3,11 @@
   "tool": "get_contributions",
   "description": "GitHub contribution calendar — daily counts for the past year, plus totals and streaks. Render the heatmap from data.calendar.",
   "freshness": "hourly",
-  "updated": "2026-07-09T23:37:09.859Z",
+  "updated": "2026-07-10T04:15:17.981Z",
   "data": {
-    "total_past_year": 1816,
-    "last_7_days": 215,
-    "last_30_days": 605,
+    "total_past_year": 1822,
+    "last_7_days": 99,
+    "last_30_days": 591,
     "current_streak": 10,
     "longest_streak": 18,
     "busiest_day": {
@@ -1489,10 +1489,14 @@
       },
       {
         "date": "2026-07-09",
-        "count": 8
+        "count": 14
+      },
+      {
+        "date": "2026-07-10",
+        "count": 0
       }
     ],
-    "fetched_at": "2026-07-09T23:37:09.859Z",
+    "fetched_at": "2026-07-10T04:15:17.981Z",
     "stale": false
   }
 }
