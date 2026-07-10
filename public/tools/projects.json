@@ -3,7 +3,7 @@
   "tool": "get_projects",
   "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
   "freshness": "hourly",
-  "updated": "2026-07-10T15:01:58.299Z",
+  "updated": "2026-07-10T17:08:22.833Z",
   "data": {
     "projects": [
       {
@@ -15,7 +15,7 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-07-10T11:20:07Z",
+        "pushed_at": "2026-07-10T15:02:04Z",
         "recently_active": true
       },
       {
@@ -64,7 +64,7 @@
         "pushed_at": "2026-06-07"
       }
     ],
-    "fetched_at": "2026-07-10T15:01:58.299Z",
+    "fetched_at": "2026-07-10T17:08:22.833Z",
     "stale": false
   }
 }
