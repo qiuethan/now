@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-07-13T19:49:43.273Z",
+  "updated": "2026-07-13T21:13:09.833Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-13T19:49:43.273Z",
-    "summary": "This week, Ethan Qiu opened one PR: qiuethan/Misty#94. He logged 3 hrs 55 mins of coding time in WakaTime, with a daily average of 58 mins across 5 projects. His tracked language use was Java, Bash, Python, and Markdown.",
+    "generated_at": "2026-07-13T21:13:09.833Z",
+    "summary": "This week, Ethan Qiu opened one pull request, qiuethan/Misty#94. He logged 3 hrs 55 mins of coding time in WakaTime, with daily average time of 58 mins across 5 projects. His tracked coding languages were Java, Bash, Python, and Markdown.",
     "stale": false
   }
 }
