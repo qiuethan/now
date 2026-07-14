@@ -3,18 +3,29 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-14T00:09:01.442Z",
+  "updated": "2026-07-14T03:34:24.559Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-14T00:09:01.442Z",
+    "generated_at": "2026-07-14T03:34:24.559Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#105",
+        "qiuethan/Misty#104",
+        "qiuethan/Misty#103",
+        "qiuethan/Misty#102",
+        "qiuethan/Misty#101",
+        "qiuethan/Misty#100",
+        "qiuethan/Misty#99",
+        "qiuethan/Misty#98",
+        "qiuethan/Misty#97",
+        "qiuethan/Misty#96",
+        "qiuethan/Misty#95",
         "qiuethan/Misty#94"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-14T00:09:01.442Z",
+      "fetched_at": "2026-07-14T03:34:24.559Z",
       "stale": false
     },
     "wakatime": {
@@ -27,9 +38,9 @@
         "Markdown (17%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-07-14T00:09:01.442Z",
+      "fetched_at": "2026-07-14T03:34:24.559Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened a pull request in qiuethan/Misty (#94). He logged 3 hrs 9 mins of coding time, with a daily average of 1 hr 2 mins. His coding was mainly in Java, Python, and Markdown across 4 projects."
+    "summary": "This week, Ethan Qiu spent 3 hrs 9 mins coding, with a daily average of 1 hr 2 mins. He opened 12 pull requests in qiuethan/Misty, from #94 through #105. His coding time was mostly in Java, with additional time in Python and Markdown."
   }
 }
