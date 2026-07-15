@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-15T06:28:29.898Z",
+  "last_updated": "2026-07-15T09:22:11.519Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-15T03:35:57Z",
+      "pushed_at": "2026-07-15T06:28:34Z",
       "recently_active": true
     },
     {
@@ -113,7 +113,7 @@
       "Python (22%)",
       "Markdown (9%)"
     ],
-    "fetched_at": "2026-07-15T06:28:29.898Z",
+    "fetched_at": "2026-07-15T09:22:11.519Z",
     "stale": false
   },
   "contributions": {
@@ -126,13 +126,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-15T06:28:29.898Z",
+    "fetched_at": "2026-07-15T09:22:11.519Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 2 hrs 30 mins coding, averaging 1 hr 15 mins per day. He worked across 3 projects, with most of the tracked time in Java, followed by Python and Markdown. On GitHub, he opened 12 pull requests in qiuethan/Misty, from #106 through #117.",
+  "summary": "This week, Ethan Qiu spent 2 hrs 30 mins coding, averaging 1 hr 15 mins per day. He opened 12 pull requests in qiuethan/Misty, from #106 through #117. His coding time was split mostly across Java, with additional Python and Markdown.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-15T06:28:29.898Z",
+    "generated_at": "2026-07-15T09:22:11.519Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -151,7 +151,7 @@
         "qiuethan/Misty#106"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-15T06:28:29.898Z",
+      "fetched_at": "2026-07-15T09:22:11.519Z",
       "stale": false
     },
     "wakatime": {
@@ -164,10 +164,10 @@
         "Markdown (9%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-07-15T06:28:29.898Z",
+      "fetched_at": "2026-07-15T09:22:11.519Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 2 hrs 30 mins coding, averaging 1 hr 15 mins per day. He worked across 3 projects, with most of the tracked time in Java, followed by Python and Markdown. On GitHub, he opened 12 pull requests in qiuethan/Misty, from #106 through #117."
+    "summary": "This week, Ethan Qiu spent 2 hrs 30 mins coding, averaging 1 hr 15 mins per day. He opened 12 pull requests in qiuethan/Misty, from #106 through #117. His coding time was split mostly across Java, with additional Python and Markdown."
   },
   "writing": [
     {
