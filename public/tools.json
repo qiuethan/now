@@ -2,7 +2,7 @@
   "schema_version": 1,
   "subject": "Ethan Qiu",
   "description": "Machine-readable gateway to Ethan Qiu's current activity. Each tool resolves to a typed JSON payload at its url.",
-  "updated": "2026-07-15T23:15:11.004Z",
+  "updated": "2026-07-16T00:11:53.512Z",
   "tools": [
     {
       "name": "get_identity",
@@ -45,12 +45,6 @@
       "description": "GitHub contribution calendar — daily counts for the past year, plus totals and streaks. Render the heatmap from data.calendar.",
       "freshness": "hourly",
       "url": "/api/contributions"
-    },
-    {
-      "name": "get_writing",
-      "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
-      "freshness": "daily",
-      "url": "/api/writing"
     }
   ]
 }
