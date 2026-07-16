@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-16T06:31:45.777Z",
+  "updated": "2026-07-16T09:28:18.368Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-16T06:31:45.777Z",
+    "generated_at": "2026-07-16T09:28:18.368Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -25,13 +25,13 @@
         "qiuethan/Misty#106"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-16T06:31:45.777Z",
+      "fetched_at": "2026-07-16T09:28:18.368Z",
       "stale": false
     },
     "wakatime": {
-      "total": "3 hrs 39 mins",
-      "dailyAverage": "54 mins",
-      "seconds": 13151.157,
+      "total": "3 hrs 48 mins",
+      "dailyAverage": "55 mins",
+      "seconds": 13690.543,
       "languages": [
         "Markdown (29%)",
         "Python (27%)",
@@ -39,9 +39,9 @@
         "SQL (8%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-07-16T06:31:45.777Z",
+      "fetched_at": "2026-07-16T09:28:18.368Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 12 pull requests in qiuethan/Misty, spanning PRs #106 through #117. He logged 3 hrs 39 mins of coding time, averaging 54 mins per day. His tracked work was split across 2 projects, with the main languages being Markdown, Python, Other, and SQL."
+    "summary": "This week, Ethan Qiu spent 3 hrs 48 mins coding, with a daily average of 55 mins. His time was mostly in Markdown and Python, with some SQL and other language usage. On GitHub, he opened 12 pull requests in qiuethan/Misty, from #106 through #117."
   }
 }
