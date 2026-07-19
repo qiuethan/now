@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-07-19T12:06:37.241Z",
+  "updated": "2026-07-19T13:54:03.524Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-19T12:06:37.241Z",
-    "summary": "This week, Ethan Qiu spent 16 hrs 51 mins coding, with a daily average of 3 hrs 12 mins. On GitHub, he opened 12 pull requests in qiuethan/Misty, numbered #106 through #117. His coding time was spread across 4 projects, with work primarily in Python, Markdown, SQL, and TypeScript.",
+    "generated_at": "2026-07-19T13:54:03.524Z",
+    "summary": "This week, Ethan Qiu opened 12 pull requests in qiuethan/Misty, from #106 through #117. He logged 16 hrs 51 mins of coding time, with a daily average of 3 hrs 12 mins. His tracked work was split across Python, Markdown, SQL, and TypeScript.",
     "stale": false
   }
 }
