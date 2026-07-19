@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-18T23:11:32.837Z",
+  "last_updated": "2026-07-19T00:10:39.563Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-18T22:08:00Z",
+      "pushed_at": "2026-07-18T23:11:38Z",
       "recently_active": true
     },
     {
@@ -109,12 +109,12 @@
       }
     ],
     "from_wakatime": [
-      "Python (31%)",
+      "Python (30%)",
       "Markdown (28%)",
-      "SQL (13%)",
-      "TypeScript (10%)"
+      "SQL (14%)",
+      "TypeScript (11%)"
     ],
-    "fetched_at": "2026-07-18T23:11:32.837Z",
+    "fetched_at": "2026-07-19T00:10:39.563Z",
     "stale": false
   },
   "contributions": {
@@ -127,13 +127,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-18T23:11:32.837Z",
+    "fetched_at": "2026-07-19T00:10:39.563Z",
     "stale": false
   },
   "summary": "This week, Ethan Qiu spent 13 hrs 42 mins coding, with a daily average of 2 hrs 40 mins. On GitHub, he opened 12 pull requests in qiuethan/Misty, numbered #106 through #117. His WakaTime activity was spread across 5 projects, with Python, Markdown, SQL, and TypeScript as the top languages.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-18T23:11:32.837Z",
+    "generated_at": "2026-07-19T00:10:39.563Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -152,21 +152,21 @@
         "qiuethan/Misty#106"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-18T23:11:32.837Z",
+      "fetched_at": "2026-07-19T00:10:39.563Z",
       "stale": false
     },
     "wakatime": {
-      "total": "13 hrs 42 mins",
-      "dailyAverage": "2 hrs 40 mins",
-      "seconds": 49377.821,
+      "total": "12 hrs 47 mins",
+      "dailyAverage": "3 hrs 7 mins",
+      "seconds": 46036.509,
       "languages": [
-        "Python (31%)",
+        "Python (30%)",
         "Markdown (28%)",
-        "SQL (13%)",
-        "TypeScript (10%)"
+        "SQL (14%)",
+        "TypeScript (11%)"
       ],
-      "projectCount": 5,
-      "fetched_at": "2026-07-18T23:11:32.837Z",
+      "projectCount": 4,
+      "fetched_at": "2026-07-19T00:10:39.563Z",
       "stale": false
     },
     "summary": "This week, Ethan Qiu spent 13 hrs 42 mins coding, with a daily average of 2 hrs 40 mins. On GitHub, he opened 12 pull requests in qiuethan/Misty, numbered #106 through #117. His WakaTime activity was spread across 5 projects, with Python, Markdown, SQL, and TypeScript as the top languages."
