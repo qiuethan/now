@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-19T21:07:48.454Z",
+  "updated": "2026-07-19T22:09:27.353Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-19T21:07:48.454Z",
+    "generated_at": "2026-07-19T22:09:27.353Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -25,7 +25,7 @@
         "qiuethan/Misty#106"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-19T21:07:48.454Z",
+      "fetched_at": "2026-07-19T22:09:27.353Z",
       "stale": false
     },
     "wakatime": {
@@ -40,9 +40,9 @@
         "Other (5%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-07-19T21:07:48.454Z",
+      "fetched_at": "2026-07-19T22:09:27.353Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 12 pull requests in qiuethan/Misty, numbered #106 through #117. He logged 17 hrs 6 mins of coding time, with a daily average of 3 hrs 15 mins. His time was split mostly across Python, Markdown, SQL, and TypeScript."
+    "summary": "This week, Ethan Qiu opened 12 pull requests in qiuethan/Misty, numbered #106 through #117. He logged 17 hrs 6 mins of coding time, with a daily average of 3 hrs 15 mins. His activity was split across Python, Markdown, SQL, and TypeScript."
   }
 }
