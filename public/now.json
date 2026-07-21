@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-21T14:23:28.596Z",
+  "last_updated": "2026-07-21T16:42:22.712Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-21T12:00:54Z",
+      "pushed_at": "2026-07-21T14:23:34Z",
       "recently_active": true
     },
     {
@@ -114,7 +114,7 @@
       "TypeScript (18%)",
       "SQL (8%)"
     ],
-    "fetched_at": "2026-07-21T14:23:28.596Z",
+    "fetched_at": "2026-07-21T16:42:22.712Z",
     "stale": false
   },
   "contributions": {
@@ -127,13 +127,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-21T14:23:28.596Z",
+    "fetched_at": "2026-07-21T16:42:22.712Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 29 hrs 43 mins coding, with a daily average of 4 hrs 4 mins. On GitHub, he opened 11 pull requests in qiuethan/Misty, from #107 through #117. His tracked work also included Python, Markdown, TypeScript, and SQL across 4 projects.",
+  "summary": "This week, Ethan Qiu opened 11 pull requests in qiuethan/Misty, numbered #107 through #117. He logged 29 hrs 43 mins of coding time, averaging 4 hrs 4 mins per day. His time was spent mostly in Python, Markdown, TypeScript, and SQL across 4 projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-21T14:23:28.596Z",
+    "generated_at": "2026-07-21T16:42:22.712Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -151,7 +151,7 @@
         "qiuethan/Misty#107"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-21T14:23:28.596Z",
+      "fetched_at": "2026-07-21T16:42:22.712Z",
       "stale": false
     },
     "wakatime": {
@@ -165,10 +165,10 @@
         "SQL (8%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-07-21T14:23:28.596Z",
+      "fetched_at": "2026-07-21T16:42:22.712Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 29 hrs 43 mins coding, with a daily average of 4 hrs 4 mins. On GitHub, he opened 11 pull requests in qiuethan/Misty, from #107 through #117. His tracked work also included Python, Markdown, TypeScript, and SQL across 4 projects."
+    "summary": "This week, Ethan Qiu opened 11 pull requests in qiuethan/Misty, numbered #107 through #117. He logged 29 hrs 43 mins of coding time, averaging 4 hrs 4 mins per day. His time was spent mostly in Python, Markdown, TypeScript, and SQL across 4 projects."
   },
   "writing": [],
   "tools": "/tools.json"
