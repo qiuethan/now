@@ -3,32 +3,33 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-22T23:18:00.866Z",
+  "updated": "2026-07-23T03:45:22.160Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-22T23:18:00.866Z",
+    "generated_at": "2026-07-23T03:45:22.160Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-22T23:18:00.866Z",
+      "fetched_at": "2026-07-23T03:45:22.160Z",
       "stale": false
     },
     "wakatime": {
-      "total": "28 hrs 12 mins",
-      "dailyAverage": "4 hrs 30 mins",
-      "seconds": 101555.596,
+      "total": "22 hrs 15 mins",
+      "dailyAverage": "4 hrs 14 mins",
+      "seconds": 80132.412,
       "languages": [
-        "Python (39%)",
-        "Markdown (19%)",
-        "TypeScript (19%)",
-        "SQL (8%)"
+        "Python (40%)",
+        "TypeScript (23%)",
+        "Markdown (17%)",
+        "SQL (7%)",
+        "Other (5%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-07-22T23:18:00.866Z",
+      "fetched_at": "2026-07-23T03:45:22.160Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 28 hrs 12 mins of coding time, with a daily average of 4 hrs 30 mins. His work was spread across 3 projects, and the most-used languages were Python, Markdown, TypeScript, and SQL. No GitHub commits, pull requests, or new public repos were recorded in the provided data."
+    "summary": "This week, Ethan Qiu logged 22 hrs 15 mins of coding time, with a daily average of 4 hrs 14 mins. His work was spread across 3 projects, and his coding was mainly in Python, TypeScript, Markdown, and SQL. There were no GitHub commits, pull requests, or new repositories recorded this week."
   }
 }
