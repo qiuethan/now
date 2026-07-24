@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-24T19:47:14.330Z",
+  "last_updated": "2026-07-24T21:28:55.526Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-24T17:52:35Z",
+      "pushed_at": "2026-07-24T19:47:18Z",
       "recently_active": true
     },
     {
@@ -115,7 +115,7 @@
       "SQL (8%)",
       "Other (5%)"
     ],
-    "fetched_at": "2026-07-24T19:47:14.330Z",
+    "fetched_at": "2026-07-24T21:28:55.526Z",
     "stale": false
   },
   "contributions": {
@@ -128,19 +128,19 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-24T19:47:14.330Z",
+    "fetched_at": "2026-07-24T21:28:55.526Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 17 hrs 53 mins of coding time, with a daily average of 3 hrs 23 mins. His time was spent across 4 projects, mainly in Python, TypeScript, Markdown, and SQL. There were no recorded GitHub commits, pull requests, or new repositories.",
+  "summary": "This week Ethan Qiu logged 17 hrs 53 mins of coding time, with a daily average of 3 hrs 23 mins. His WakaTime activity was primarily in Python, TypeScript, and Markdown, with some SQL and other language use. No public GitHub commits, pull requests, or new repositories were recorded this week.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-24T19:47:14.330Z",
+    "generated_at": "2026-07-24T21:28:55.526Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-07-24T19:47:14.330Z",
+      "fetched_at": "2026-07-24T21:28:55.526Z",
       "stale": false
     },
     "wakatime": {
@@ -155,10 +155,10 @@
         "Other (5%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-07-24T19:47:14.330Z",
+      "fetched_at": "2026-07-24T21:28:55.526Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 17 hrs 53 mins of coding time, with a daily average of 3 hrs 23 mins. His time was spent across 4 projects, mainly in Python, TypeScript, Markdown, and SQL. There were no recorded GitHub commits, pull requests, or new repositories."
+    "summary": "This week Ethan Qiu logged 17 hrs 53 mins of coding time, with a daily average of 3 hrs 23 mins. His WakaTime activity was primarily in Python, TypeScript, and Markdown, with some SQL and other language use. No public GitHub commits, pull requests, or new repositories were recorded this week."
   },
   "writing": [],
   "tools": "/tools.json"
