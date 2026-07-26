@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-26T17:16:10.933Z",
+  "last_updated": "2026-07-26T18:15:00.226Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-26T15:29:50Z",
+      "pushed_at": "2026-07-26T17:16:14Z",
       "recently_active": true
     },
     {
@@ -114,7 +114,7 @@
       "Markdown (18%)",
       "Bash (5%)"
     ],
-    "fetched_at": "2026-07-26T17:16:10.933Z",
+    "fetched_at": "2026-07-26T18:15:00.226Z",
     "stale": false
   },
   "contributions": {
@@ -127,13 +127,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-26T17:16:10.933Z",
+    "fetched_at": "2026-07-26T18:15:00.226Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three pull requests in qiuethan/Misty: #118, #119, and #120. He logged 11 hrs of coding time, averaging 3 hrs 33 mins per day, across 3 projects. His time was spent mainly in Python, TypeScript, Markdown, and Bash.",
+  "summary": "This week, Ethan Qiu opened three pull requests in qiuethan/Misty: #118, #119, and #120. He logged 11 hours of coding time, averaging 3 hrs 33 mins per day. His coding time was split across Python, TypeScript, Markdown, and Bash.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-26T17:16:10.933Z",
+    "generated_at": "2026-07-26T18:15:00.226Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -143,7 +143,7 @@
         "qiuethan/Misty#118"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-26T17:16:10.933Z",
+      "fetched_at": "2026-07-26T18:15:00.226Z",
       "stale": false
     },
     "wakatime": {
@@ -157,10 +157,10 @@
         "Bash (5%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-07-26T17:16:10.933Z",
+      "fetched_at": "2026-07-26T18:15:00.226Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three pull requests in qiuethan/Misty: #118, #119, and #120. He logged 11 hrs of coding time, averaging 3 hrs 33 mins per day, across 3 projects. His time was spent mainly in Python, TypeScript, Markdown, and Bash."
+    "summary": "This week, Ethan Qiu opened three pull requests in qiuethan/Misty: #118, #119, and #120. He logged 11 hours of coding time, averaging 3 hrs 33 mins per day. His coding time was split across Python, TypeScript, Markdown, and Bash."
   },
   "writing": [],
   "tools": "/tools.json"
