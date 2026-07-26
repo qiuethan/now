@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-26T21:12:05.382Z",
+  "last_updated": "2026-07-26T22:13:43.069Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-26T21:04:25Z",
+      "pushed_at": "2026-07-26T21:52:57Z",
       "recently_active": true
     },
     {
@@ -39,7 +39,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-26T19:37:47Z",
+      "pushed_at": "2026-07-26T21:12:09Z",
       "recently_active": true
     },
     {
@@ -114,30 +114,31 @@
       "Markdown (18%)",
       "Bash (5%)"
     ],
-    "fetched_at": "2026-07-26T21:12:05.382Z",
+    "fetched_at": "2026-07-26T22:13:43.069Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2008,
-    "last_7_days": 90,
-    "last_30_days": 646,
+    "total_past_year": 2016,
+    "last_7_days": 98,
+    "last_30_days": 654,
     "current_streak": 2,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-26T21:12:05.382Z",
+    "fetched_at": "2026-07-26T22:13:43.069Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened five pull requests in qiuethan/Misty: #128, #127, #120, #119, and #118. He logged 11 hrs of coding time, averaging 3 hrs 33 mins per day. His tracked work was mostly in Python, TypeScript, and Markdown, with some Bash.",
+  "summary": "This week, Ethan Qiu opened six pull requests in qiuethan/Misty: #118, #119, #120, #127, #128, and #129. He logged 11 hrs of coding time on WakaTime, averaging 3 hrs 33 mins per day. His coding time was mostly in Python, TypeScript, and Markdown, with some Bash.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-26T21:12:05.382Z",
+    "generated_at": "2026-07-26T22:13:43.069Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#129",
         "qiuethan/Misty#128",
         "qiuethan/Misty#127",
         "qiuethan/Misty#120",
@@ -145,7 +146,7 @@
         "qiuethan/Misty#118"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-26T21:12:05.382Z",
+      "fetched_at": "2026-07-26T22:13:43.069Z",
       "stale": false
     },
     "wakatime": {
@@ -159,10 +160,10 @@
         "Bash (5%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-07-26T21:12:05.382Z",
+      "fetched_at": "2026-07-26T22:13:43.069Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened five pull requests in qiuethan/Misty: #128, #127, #120, #119, and #118. He logged 11 hrs of coding time, averaging 3 hrs 33 mins per day. His tracked work was mostly in Python, TypeScript, and Markdown, with some Bash."
+    "summary": "This week, Ethan Qiu opened six pull requests in qiuethan/Misty: #118, #119, #120, #127, #128, and #129. He logged 11 hrs of coding time on WakaTime, averaging 3 hrs 33 mins per day. His coding time was mostly in Python, TypeScript, and Markdown, with some Bash."
   },
   "writing": [],
   "tools": "/tools.json"
