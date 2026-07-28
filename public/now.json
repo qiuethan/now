@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-28T03:36:29.066Z",
+  "last_updated": "2026-07-28T06:41:04.040Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,18 +20,6 @@
   "projects": [
     {
       "private": false,
-      "name": "neetcode-submissions",
-      "description": "My NeetCode.io problem submissions",
-      "language": "Python",
-      "url": "https://github.com/qiuethan/neetcode-submissions",
-      "homepage": "",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-07-28T03:22:32Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
       "name": "Misty",
       "description": "",
       "language": "Python",
@@ -39,7 +27,7 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-28T03:13:52Z",
+      "pushed_at": "2026-07-28T05:46:09Z",
       "recently_active": true
     },
     {
@@ -51,7 +39,19 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-28T00:11:07Z",
+      "pushed_at": "2026-07-28T03:36:32Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "neetcode-submissions",
+      "description": "My NeetCode.io problem submissions",
+      "language": "Python",
+      "url": "https://github.com/qiuethan/neetcode-submissions",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-07-28T03:22:32Z",
       "recently_active": true
     },
     {
@@ -113,30 +113,35 @@
       "Markdown (36%)",
       "Text (5%)"
     ],
-    "fetched_at": "2026-07-28T03:36:29.066Z",
+    "fetched_at": "2026-07-28T06:41:04.040Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2046,
+    "total_past_year": 2063,
     "last_7_days": 138,
-    "last_30_days": 696,
-    "current_streak": 3,
+    "last_30_days": 713,
+    "current_streak": 4,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-28T03:36:29.066Z",
+    "fetched_at": "2026-07-28T06:41:04.040Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened 16 pull requests in qiuethan/Misty, numbered #128 through #143. He logged 20 secs of coding time, with activity in Python, Markdown, and Text. GitHub activity shows no commits and no new repos.",
+  "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, ranging from #132 through #148. He logged 20 seconds of coding time, with work recorded in one project.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-28T03:36:29.066Z",
+    "generated_at": "2026-07-28T06:41:04.040Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#148",
+        "qiuethan/Misty#147",
+        "qiuethan/Misty#146",
+        "qiuethan/Misty#145",
+        "qiuethan/Misty#144",
         "qiuethan/Misty#143",
         "qiuethan/Misty#142",
         "qiuethan/Misty#141",
@@ -148,14 +153,10 @@
         "qiuethan/Misty#135",
         "qiuethan/Misty#134",
         "qiuethan/Misty#133",
-        "qiuethan/Misty#132",
-        "qiuethan/Misty#131",
-        "qiuethan/Misty#130",
-        "qiuethan/Misty#129",
-        "qiuethan/Misty#128"
+        "qiuethan/Misty#132"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-28T03:36:29.066Z",
+      "fetched_at": "2026-07-28T06:41:04.040Z",
       "stale": false
     },
     "wakatime": {
@@ -168,10 +169,10 @@
         "Text (5%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-28T03:36:29.066Z",
+      "fetched_at": "2026-07-28T06:41:04.040Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 16 pull requests in qiuethan/Misty, numbered #128 through #143. He logged 20 secs of coding time, with activity in Python, Markdown, and Text. GitHub activity shows no commits and no new repos."
+    "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, ranging from #132 through #148. He logged 20 seconds of coding time, with work recorded in one project."
   },
   "writing": [],
   "tools": "/tools.json"
