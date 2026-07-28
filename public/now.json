@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-28T20:34:46.004Z",
+  "last_updated": "2026-07-28T22:17:19.363Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-28T18:46:18Z",
+      "pushed_at": "2026-07-28T20:34:50Z",
       "recently_active": true
     },
     {
@@ -113,7 +113,7 @@
       "Markdown (36%)",
       "Text (5%)"
     ],
-    "fetched_at": "2026-07-28T20:34:46.004Z",
+    "fetched_at": "2026-07-28T22:17:19.363Z",
     "stale": false
   },
   "contributions": {
@@ -126,13 +126,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-28T20:34:46.004Z",
+    "fetched_at": "2026-07-28T22:17:19.363Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu opened 17 pull requests in qiuethan/Misty, ranging from #132 through #148. He logged 20 secs of coding time, with activity split across Python, Markdown, and Text. No new repositories were created, and there were no GitHub commits recorded.",
+  "summary": "This week, Ethan Qiu opened pull requests #132 through #148 in qiuethan/Misty. He logged 20 secs of coding time, with activity across Python, Markdown, and Text.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-28T20:34:46.004Z",
+    "generated_at": "2026-07-28T22:17:19.363Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -156,7 +156,7 @@
         "qiuethan/Misty#132"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-28T20:34:46.004Z",
+      "fetched_at": "2026-07-28T22:17:19.363Z",
       "stale": false
     },
     "wakatime": {
@@ -169,10 +169,10 @@
         "Text (5%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-07-28T20:34:46.004Z",
+      "fetched_at": "2026-07-28T22:17:19.363Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu opened 17 pull requests in qiuethan/Misty, ranging from #132 through #148. He logged 20 secs of coding time, with activity split across Python, Markdown, and Text. No new repositories were created, and there were no GitHub commits recorded."
+    "summary": "This week, Ethan Qiu opened pull requests #132 through #148 in qiuethan/Misty. He logged 20 secs of coding time, with activity across Python, Markdown, and Text."
   },
   "writing": [],
   "tools": "/tools.json"
