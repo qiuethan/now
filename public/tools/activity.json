@@ -3,14 +3,15 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-07-31T21:29:14.761Z",
+  "updated": "2026-07-31T23:16:02.425Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-07-31T21:29:14.761Z",
+    "generated_at": "2026-07-31T23:16:02.425Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#152",
         "qiuethan/Misty#151",
         "qiuethan/Misty#150",
         "qiuethan/Misty#149",
@@ -24,11 +25,10 @@
         "qiuethan/Misty#141",
         "qiuethan/Misty#140",
         "qiuethan/Misty#139",
-        "qiuethan/Misty#138",
-        "qiuethan/Misty#137"
+        "qiuethan/Misty#138"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-31T21:29:14.761Z",
+      "fetched_at": "2026-07-31T23:16:02.425Z",
       "stale": false
     },
     "wakatime": {
@@ -37,9 +37,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-07-31T21:29:14.761Z",
+      "fetched_at": "2026-07-31T23:16:02.425Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, spanning PRs #137 through #151. His GitHub commit count was 0, and WakaTime shows 0 secs of coding time with no recorded languages or projects."
+    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, from #138 through #152. GitHub shows no commits or new repos, and WakaTime records 0 secs of coding time."
   }
 }
