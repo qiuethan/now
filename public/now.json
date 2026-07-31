@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-07-31T00:15:34.463Z",
+  "last_updated": "2026-07-31T03:54:21.269Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-07-30T22:19:17Z",
+      "pushed_at": "2026-07-31T00:15:39Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-07-31T00:15:34.463Z",
+    "fetched_at": "2026-07-31T03:54:21.269Z",
     "stale": false
   },
   "contributions": {
@@ -122,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-07-31T00:15:34.463Z",
+    "fetched_at": "2026-07-31T03:54:21.269Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu opened a series of pull requests in qiuethan/Misty, from #135 through #151. His tracked coding time was 0 secs, with no recorded repositories, languages, or new repos.",
+  "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, spanning #135 through #151. His GitHub activity showed no commits or new public repositories. WakaTime recorded 0 secs of coding time.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-07-31T00:15:34.463Z",
+    "generated_at": "2026-07-31T03:54:21.269Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -152,7 +152,7 @@
         "qiuethan/Misty#135"
       ],
       "newRepos": [],
-      "fetched_at": "2026-07-31T00:15:34.463Z",
+      "fetched_at": "2026-07-31T03:54:21.269Z",
       "stale": false
     },
     "wakatime": {
@@ -161,10 +161,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-07-31T00:15:34.463Z",
+      "fetched_at": "2026-07-31T03:54:21.269Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu opened a series of pull requests in qiuethan/Misty, from #135 through #151. His tracked coding time was 0 secs, with no recorded repositories, languages, or new repos."
+    "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, spanning #135 through #151. His GitHub activity showed no commits or new public repositories. WakaTime recorded 0 secs of coding time."
   },
   "writing": [],
   "tools": "/tools.json"
