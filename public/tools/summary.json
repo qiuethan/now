@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-08-01T11:34:57.146Z",
+  "updated": "2026-08-01T13:56:39.714Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-01T11:34:57.146Z",
-    "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, ranging from #139 through #155. GitHub shows no commits or new repositories this week. WakaTime reports 0 secs of coding time.",
+    "generated_at": "2026-08-01T13:56:39.714Z",
+    "summary": "This week, Ethan Qiu opened 17 pull requests in qiuethan/Misty, from #139 through #155. He had 0 secs of coding time in WakaTime, with no tracked languages or projects.",
     "stale": false
   }
 }
