@@ -3,7 +3,7 @@
   "tool": "get_stack",
   "description": "Languages in use, derived from GitHub repos and WakaTime.",
   "freshness": "hourly",
-  "updated": "2026-08-01T18:13:27.378Z",
+  "updated": "2026-08-01T19:35:46.068Z",
   "data": {
     "languages": [
       {
@@ -32,7 +32,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-01T18:13:27.378Z",
+    "fetched_at": "2026-08-01T19:35:46.068Z",
     "stale": false
   }
 }
