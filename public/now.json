@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-02T17:16:26.545Z",
+  "last_updated": "2026-08-02T18:13:55.798Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-02T15:27:54Z",
+      "pushed_at": "2026-08-02T17:16:30Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-02T17:16:26.545Z",
+    "fetched_at": "2026-08-02T18:13:55.798Z",
     "stale": false
   },
   "contributions": {
@@ -122,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-02T17:16:26.545Z",
+    "fetched_at": "2026-08-02T18:13:55.798Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #142 through #161. GitHub activity shows no commits, no new repositories, and no coding time recorded in WakaTime.",
+  "summary": "This week, Ethan Qiu opened 16 pull requests in qiuethan/Misty, including #161 through #142. GitHub shows no commits, new repos, or tracked coding time this week.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-02T17:16:26.545Z",
+    "generated_at": "2026-08-02T18:13:55.798Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -151,7 +151,7 @@
         "qiuethan/Misty#142"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-02T17:16:26.545Z",
+      "fetched_at": "2026-08-02T18:13:55.798Z",
       "stale": false
     },
     "wakatime": {
@@ -160,10 +160,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-02T17:16:26.545Z",
+      "fetched_at": "2026-08-02T18:13:55.798Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #142 through #161. GitHub activity shows no commits, no new repositories, and no coding time recorded in WakaTime."
+    "summary": "This week, Ethan Qiu opened 16 pull requests in qiuethan/Misty, including #161 through #142. GitHub shows no commits, new repos, or tracked coding time this week."
   },
   "writing": [],
   "tools": "/tools.json"
