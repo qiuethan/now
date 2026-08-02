@@ -3,7 +3,7 @@
   "tool": "get_identity",
   "description": "Name, headline, location, and canonical links.",
   "freshness": "static",
-  "updated": "2026-08-02T11:34:38.289Z",
+  "updated": "2026-08-02T13:55:46.140Z",
   "data": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
