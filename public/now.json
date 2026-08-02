@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-02T09:22:09.657Z",
+  "last_updated": "2026-08-02T11:34:38.289Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-02T06:45:41Z",
+      "pushed_at": "2026-08-02T09:22:14Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-02T09:22:09.657Z",
+    "fetched_at": "2026-08-02T11:34:38.289Z",
     "stale": false
   },
   "contributions": {
@@ -122,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-02T09:22:09.657Z",
+    "fetched_at": "2026-08-02T11:34:38.289Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #161 through #142. GitHub activity otherwise shows no commits or new repositories. WakaTime reports 0 secs of coding time, with no tracked languages or projects.",
+  "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #142 through #161. His GitHub activity shows 0 commits, and his coding time was 0 secs.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-02T09:22:09.657Z",
+    "generated_at": "2026-08-02T11:34:38.289Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -151,7 +151,7 @@
         "qiuethan/Misty#142"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-02T09:22:09.657Z",
+      "fetched_at": "2026-08-02T11:34:38.289Z",
       "stale": false
     },
     "wakatime": {
@@ -160,10 +160,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-02T09:22:09.657Z",
+      "fetched_at": "2026-08-02T11:34:38.289Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #161 through #142. GitHub activity otherwise shows no commits or new repositories. WakaTime reports 0 secs of coding time, with no tracked languages or projects."
+    "summary": "This week Ethan Qiu opened pull requests in qiuethan/Misty, including #142 through #161. His GitHub activity shows 0 commits, and his coding time was 0 secs."
   },
   "writing": [],
   "tools": "/tools.json"
