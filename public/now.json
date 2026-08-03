@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-03T00:13:11.624Z",
+  "last_updated": "2026-08-03T03:56:08.892Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,6 +20,18 @@
   "projects": [
     {
       "private": false,
+      "name": "now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-08-03T00:13:14Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "Misty",
       "description": "",
       "language": "Python",
@@ -28,18 +40,6 @@
       "stars": 0,
       "topics": [],
       "pushed_at": "2026-08-02T23:23:48Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "now",
-      "description": "Self-updating now page + JSON API for ethanqiu.ca",
-      "language": "JavaScript",
-      "url": "https://github.com/qiuethan/now",
-      "homepage": "https://now-six-chi.vercel.app",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-02T23:12:23Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-03T00:13:11.624Z",
+    "fetched_at": "2026-08-03T03:56:08.892Z",
     "stale": false
   },
   "contributions": {
@@ -122,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-03T00:13:11.624Z",
+    "fetched_at": "2026-08-03T03:56:08.892Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, including #163, #161, and #156 through #144. His coding time was 0 secs, with a daily average of 0 secs. No new repositories were recorded.",
+  "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. His tracked coding time was 0 secs, with a daily average of 0 secs. No new repositories or code commits were recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-03T00:13:11.624Z",
+    "generated_at": "2026-08-03T03:56:08.892Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -150,7 +150,7 @@
         "qiuethan/Misty#144"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-03T00:13:11.624Z",
+      "fetched_at": "2026-08-03T03:56:08.892Z",
       "stale": false
     },
     "wakatime": {
@@ -159,10 +159,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-03T00:13:11.624Z",
+      "fetched_at": "2026-08-03T03:56:08.892Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, including #163, #161, and #156 through #144. His coding time was 0 secs, with a daily average of 0 secs. No new repositories were recorded."
+    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. His tracked coding time was 0 secs, with a daily average of 0 secs. No new repositories or code commits were recorded."
   },
   "writing": [],
   "tools": "/tools.json"
