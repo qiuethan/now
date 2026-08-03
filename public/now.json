@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-03T17:21:28.249Z",
+  "last_updated": "2026-08-03T19:59:01.277Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-03T15:17:15Z",
+      "pushed_at": "2026-08-03T17:21:34Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-03T17:21:28.249Z",
+    "fetched_at": "2026-08-03T19:59:01.277Z",
     "stale": false
   },
   "contributions": {
@@ -122,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-03T17:21:28.249Z",
+    "fetched_at": "2026-08-03T19:59:01.277Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. GitHub shows 0 commits and no new repositories this week. WakaTime reports 0 secs of coding time, with a daily average of 0 secs.",
+  "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. His GitHub activity shows no commits or new repos, and his WakaTime coding time was 0 secs.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-03T17:21:28.249Z",
+    "generated_at": "2026-08-03T19:59:01.277Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -150,7 +150,7 @@
         "qiuethan/Misty#144"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-03T17:21:28.249Z",
+      "fetched_at": "2026-08-03T19:59:01.277Z",
       "stale": false
     },
     "wakatime": {
@@ -159,10 +159,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-03T17:21:28.249Z",
+      "fetched_at": "2026-08-03T19:59:01.277Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. GitHub shows 0 commits and no new repositories this week. WakaTime reports 0 secs of coding time, with a daily average of 0 secs."
+    "summary": "This week, Ethan Qiu opened 15 pull requests in qiuethan/Misty, ranging from #144 through #163. His GitHub activity shows no commits or new repos, and his WakaTime coding time was 0 secs."
   },
   "writing": [],
   "tools": "/tools.json"
