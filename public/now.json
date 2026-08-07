@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-07T22:55:39.915Z",
+  "last_updated": "2026-08-07T23:48:36.691Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,18 +20,6 @@
   "projects": [
     {
       "private": false,
-      "name": "now",
-      "description": "Self-updating now page + JSON API for ethanqiu.ca",
-      "language": "JavaScript",
-      "url": "https://github.com/qiuethan/now",
-      "homepage": "https://now-six-chi.vercel.app",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-07T21:56:02Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
       "name": "Misty",
       "description": "",
       "language": "Python",
@@ -39,7 +27,19 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-07T20:07:33Z",
+      "pushed_at": "2026-08-07T23:41:47Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-08-07T22:55:43Z",
       "recently_active": true
     },
     {
@@ -113,30 +113,31 @@
       "JavaScript (15%)",
       "Markdown (5%)"
     ],
-    "fetched_at": "2026-08-07T22:55:39.915Z",
+    "fetched_at": "2026-08-07T23:48:36.691Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2202,
-    "last_7_days": 107,
-    "last_30_days": 454,
+    "total_past_year": 2207,
+    "last_7_days": 112,
+    "last_30_days": 459,
     "current_streak": 1,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-07T22:55:39.915Z",
+    "fetched_at": "2026-08-07T23:48:36.691Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 19 mins coding, averaging 9 mins per day. On GitHub, he opened PRs in qiuethan/Misty (#186, #185, #184, #180, and #179) and UTMIST/UTMIST (#234). His tracked coding time was split mostly across Python, with some JavaScript and Markdown, across 2 projects.",
+  "summary": "This week, Ethan Qiu opened six pull requests in qiuethan/Misty (#187, #186, #185, #184, #180, and #179) and one in UTMIST/UTMIST (#234). He did not publish any new repositories or record any GitHub commits. He logged 19 minutes of coding time in WakaTime, across 2 projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-07T22:55:39.915Z",
+    "generated_at": "2026-08-07T23:48:36.691Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#187",
         "qiuethan/Misty#186",
         "qiuethan/Misty#185",
         "qiuethan/Misty#184",
@@ -145,7 +146,7 @@
         "UTMIST/UTMIST#234"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-07T22:55:39.915Z",
+      "fetched_at": "2026-08-07T23:48:36.691Z",
       "stale": false
     },
     "wakatime": {
@@ -158,10 +159,10 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-07T22:55:39.915Z",
+      "fetched_at": "2026-08-07T23:48:36.691Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 19 mins coding, averaging 9 mins per day. On GitHub, he opened PRs in qiuethan/Misty (#186, #185, #184, #180, and #179) and UTMIST/UTMIST (#234). His tracked coding time was split mostly across Python, with some JavaScript and Markdown, across 2 projects."
+    "summary": "This week, Ethan Qiu opened six pull requests in qiuethan/Misty (#187, #186, #185, #184, #180, and #179) and one in UTMIST/UTMIST (#234). He did not publish any new repositories or record any GitHub commits. He logged 19 minutes of coding time in WakaTime, across 2 projects."
   },
   "writing": [],
   "tools": "/tools.json"

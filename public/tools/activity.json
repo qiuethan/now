@@ -3,14 +3,15 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-07T22:55:39.915Z",
+  "updated": "2026-08-07T23:48:36.691Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-07T22:55:39.915Z",
+    "generated_at": "2026-08-07T23:48:36.691Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#187",
         "qiuethan/Misty#186",
         "qiuethan/Misty#185",
         "qiuethan/Misty#184",
@@ -19,7 +20,7 @@
         "UTMIST/UTMIST#234"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-07T22:55:39.915Z",
+      "fetched_at": "2026-08-07T23:48:36.691Z",
       "stale": false
     },
     "wakatime": {
@@ -32,9 +33,9 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-07T22:55:39.915Z",
+      "fetched_at": "2026-08-07T23:48:36.691Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 19 mins coding, averaging 9 mins per day. On GitHub, he opened PRs in qiuethan/Misty (#186, #185, #184, #180, and #179) and UTMIST/UTMIST (#234). His tracked coding time was split mostly across Python, with some JavaScript and Markdown, across 2 projects."
+    "summary": "This week, Ethan Qiu opened six pull requests in qiuethan/Misty (#187, #186, #185, #184, #180, and #179) and one in UTMIST/UTMIST (#234). He did not publish any new repositories or record any GitHub commits. He logged 19 minutes of coding time in WakaTime, across 2 projects."
   }
 }
