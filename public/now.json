@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-07T18:02:24.685Z",
+  "last_updated": "2026-08-07T19:15:41.533Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-07T17:45:57Z",
+      "pushed_at": "2026-08-07T19:15:26Z",
       "recently_active": true
     },
     {
@@ -39,7 +39,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-07T17:08:02Z",
+      "pushed_at": "2026-08-07T18:02:29Z",
       "recently_active": true
     },
     {
@@ -113,32 +113,36 @@
       "JavaScript (15%)",
       "Markdown (5%)"
     ],
-    "fetched_at": "2026-08-07T18:02:24.685Z",
+    "fetched_at": "2026-08-07T19:15:41.533Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2176,
-    "last_7_days": 81,
-    "last_30_days": 428,
+    "total_past_year": 2193,
+    "last_7_days": 98,
+    "last_30_days": 445,
     "current_streak": 1,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-07T18:02:24.685Z",
+    "fetched_at": "2026-08-07T19:15:41.533Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 19 minutes of coding time, with a daily average of 9 minutes. His activity was primarily in Python, with some JavaScript and Markdown. The data shows work across 2 projects, but no public GitHub commits, PRs, or new repos.",
+  "summary": "This week, Ethan Qiu opened three pull requests: qiuethan/Misty#179, qiuethan/Misty#180, and UTMIST/UTMIST#234. He logged 19 mins of coding time, with activity split across 2 projects. His tracked language use was mostly Python, with some JavaScript and Markdown.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-07T18:02:24.685Z",
+    "generated_at": "2026-08-07T19:15:41.533Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
-      "prsOpened": [],
+      "prsOpened": [
+        "qiuethan/Misty#180",
+        "qiuethan/Misty#179",
+        "UTMIST/UTMIST#234"
+      ],
       "newRepos": [],
-      "fetched_at": "2026-08-07T18:02:24.685Z",
+      "fetched_at": "2026-08-07T19:15:41.533Z",
       "stale": false
     },
     "wakatime": {
@@ -151,10 +155,10 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-07T18:02:24.685Z",
+      "fetched_at": "2026-08-07T19:15:41.533Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 19 minutes of coding time, with a daily average of 9 minutes. His activity was primarily in Python, with some JavaScript and Markdown. The data shows work across 2 projects, but no public GitHub commits, PRs, or new repos."
+    "summary": "This week, Ethan Qiu opened three pull requests: qiuethan/Misty#179, qiuethan/Misty#180, and UTMIST/UTMIST#234. He logged 19 mins of coding time, with activity split across 2 projects. His tracked language use was mostly Python, with some JavaScript and Markdown."
   },
   "writing": [],
   "tools": "/tools.json"
