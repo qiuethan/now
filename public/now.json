@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-07T17:07:56.124Z",
+  "last_updated": "2026-08-07T18:02:24.685Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,18 +20,6 @@
   "projects": [
     {
       "private": false,
-      "name": "now",
-      "description": "Self-updating now page + JSON API for ethanqiu.ca",
-      "language": "JavaScript",
-      "url": "https://github.com/qiuethan/now",
-      "homepage": "https://now-six-chi.vercel.app",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-07T16:09:13Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
       "name": "Misty",
       "description": "",
       "language": "Python",
@@ -39,7 +27,19 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-04T02:01:40Z",
+      "pushed_at": "2026-08-07T17:45:57Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-08-07T17:08:02Z",
       "recently_active": true
     },
     {
@@ -113,42 +113,32 @@
       "JavaScript (15%)",
       "Markdown (5%)"
     ],
-    "fetched_at": "2026-08-07T17:07:56.124Z",
+    "fetched_at": "2026-08-07T18:02:24.685Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2173,
-    "last_7_days": 78,
-    "last_30_days": 425,
-    "current_streak": 0,
+    "total_past_year": 2176,
+    "last_7_days": 81,
+    "last_30_days": 428,
+    "current_streak": 1,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-07T17:07:56.124Z",
+    "fetched_at": "2026-08-07T18:02:24.685Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened nine pull requests in qiuethan/Misty: #166, #165, #163, #161, #156, #155, #154, #153, and #152. He logged 19 minutes of coding time on WakaTime, averaging 9 minutes per day. His tracked coding was mainly in Python, with some JavaScript and Markdown.",
+  "summary": "This week, Ethan Qiu logged 19 minutes of coding time, with a daily average of 9 minutes. His activity was primarily in Python, with some JavaScript and Markdown. The data shows work across 2 projects, but no public GitHub commits, PRs, or new repos.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-07T17:07:56.124Z",
+    "generated_at": "2026-08-07T18:02:24.685Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
-      "prsOpened": [
-        "qiuethan/Misty#166",
-        "qiuethan/Misty#165",
-        "qiuethan/Misty#163",
-        "qiuethan/Misty#161",
-        "qiuethan/Misty#156",
-        "qiuethan/Misty#155",
-        "qiuethan/Misty#154",
-        "qiuethan/Misty#153",
-        "qiuethan/Misty#152"
-      ],
+      "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-08-07T17:07:56.124Z",
+      "fetched_at": "2026-08-07T18:02:24.685Z",
       "stale": false
     },
     "wakatime": {
@@ -161,10 +151,10 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-07T17:07:56.124Z",
+      "fetched_at": "2026-08-07T18:02:24.685Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened nine pull requests in qiuethan/Misty: #166, #165, #163, #161, #156, #155, #154, #153, and #152. He logged 19 minutes of coding time on WakaTime, averaging 9 minutes per day. His tracked coding was mainly in Python, with some JavaScript and Markdown."
+    "summary": "This week, Ethan Qiu logged 19 minutes of coding time, with a daily average of 9 minutes. His activity was primarily in Python, with some JavaScript and Markdown. The data shows work across 2 projects, but no public GitHub commits, PRs, or new repos."
   },
   "writing": [],
   "tools": "/tools.json"

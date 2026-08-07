@@ -3,26 +3,16 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-07T17:07:56.124Z",
+  "updated": "2026-08-07T18:02:24.685Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-07T17:07:56.124Z",
+    "generated_at": "2026-08-07T18:02:24.685Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
-      "prsOpened": [
-        "qiuethan/Misty#166",
-        "qiuethan/Misty#165",
-        "qiuethan/Misty#163",
-        "qiuethan/Misty#161",
-        "qiuethan/Misty#156",
-        "qiuethan/Misty#155",
-        "qiuethan/Misty#154",
-        "qiuethan/Misty#153",
-        "qiuethan/Misty#152"
-      ],
+      "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-08-07T17:07:56.124Z",
+      "fetched_at": "2026-08-07T18:02:24.685Z",
       "stale": false
     },
     "wakatime": {
@@ -35,9 +25,9 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-07T17:07:56.124Z",
+      "fetched_at": "2026-08-07T18:02:24.685Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened nine pull requests in qiuethan/Misty: #166, #165, #163, #161, #156, #155, #154, #153, and #152. He logged 19 minutes of coding time on WakaTime, averaging 9 minutes per day. His tracked coding was mainly in Python, with some JavaScript and Markdown."
+    "summary": "This week, Ethan Qiu logged 19 minutes of coding time, with a daily average of 9 minutes. His activity was primarily in Python, with some JavaScript and Markdown. The data shows work across 2 projects, but no public GitHub commits, PRs, or new repos."
   }
 }
