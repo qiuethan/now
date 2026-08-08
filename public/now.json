@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-08T13:12:24.741Z",
+  "last_updated": "2026-08-08T13:57:32.647Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-08T11:43:37Z",
+      "pushed_at": "2026-08-08T13:12:29Z",
       "recently_active": true
     },
     {
@@ -113,7 +113,7 @@
       "JavaScript (15%)",
       "Markdown (5%)"
     ],
-    "fetched_at": "2026-08-08T13:12:24.741Z",
+    "fetched_at": "2026-08-08T13:57:32.647Z",
     "stale": false
   },
   "contributions": {
@@ -126,13 +126,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-08T13:12:24.741Z",
+    "fetched_at": "2026-08-08T13:57:32.647Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened several pull requests in qiuethan/Misty, including #179, #180, and #184 through #189, plus UTMIST/UTMIST#234. He logged 19 mins of coding time, with activity across 2 projects. His tracked language mix was mostly Python, with some JavaScript and Markdown.",
+  "summary": "This week, Ethan Qiu opened eight pull requests on qiuethan/Misty, from #179 through #189, and one pull request on UTMIST/UTMIST (#234). He logged 19 mins of coding time in Wakatime across 2 projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-08T13:12:24.741Z",
+    "generated_at": "2026-08-08T13:57:32.647Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -148,7 +148,7 @@
         "UTMIST/UTMIST#234"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-08T13:12:24.741Z",
+      "fetched_at": "2026-08-08T13:57:32.647Z",
       "stale": false
     },
     "wakatime": {
@@ -161,10 +161,10 @@
         "Markdown (5%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-08T13:12:24.741Z",
+      "fetched_at": "2026-08-08T13:57:32.647Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened several pull requests in qiuethan/Misty, including #179, #180, and #184 through #189, plus UTMIST/UTMIST#234. He logged 19 mins of coding time, with activity across 2 projects. His tracked language mix was mostly Python, with some JavaScript and Markdown."
+    "summary": "This week, Ethan Qiu opened eight pull requests on qiuethan/Misty, from #179 through #189, and one pull request on UTMIST/UTMIST (#234). He logged 19 mins of coding time in Wakatime across 2 projects."
   },
   "writing": [],
   "tools": "/tools.json"
