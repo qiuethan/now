@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-09T19:48:15.657Z",
+  "last_updated": "2026-08-09T20:51:41.611Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-09T19:19:44Z",
+      "pushed_at": "2026-08-09T20:10:41Z",
       "recently_active": true
     },
     {
@@ -39,7 +39,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-09T19:01:23Z",
+      "pushed_at": "2026-08-09T19:48:19Z",
       "recently_active": true
     },
     {
@@ -114,30 +114,31 @@
       "JavaScript (11%)",
       "Other (5%)"
     ],
-    "fetched_at": "2026-08-09T19:48:15.657Z",
+    "fetched_at": "2026-08-09T20:51:41.611Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2224,
-    "last_7_days": 80,
-    "last_30_days": 428,
+    "total_past_year": 2231,
+    "last_7_days": 87,
+    "last_30_days": 435,
     "current_streak": 3,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-09T19:48:15.657Z",
+    "fetched_at": "2026-08-09T20:51:41.611Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235–#237 and qiuethan/Misty#184–#197. He did not record any GitHub commits or create any new repos. His coding time was 25 mins total, with a daily average of 8 mins.",
+  "summary": "This week, Ethan Qiu spent 25 mins coding, with a daily average of 8 mins. On GitHub, he opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#191 through qiuethan/Misty#198 and UTMIST/UTMIST#235 through UTMIST/UTMIST#237. His coding time was mainly in Python, with additional time in YAML and JavaScript.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-09T19:48:15.657Z",
+    "generated_at": "2026-08-09T20:51:41.611Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "qiuethan/Misty#198",
         "UTMIST/UTMIST#237",
         "UTMIST/UTMIST#236",
         "qiuethan/Misty#197",
@@ -148,16 +149,10 @@
         "qiuethan/Misty#193",
         "qiuethan/Misty#192",
         "qiuethan/Misty#191",
-        "qiuethan/Misty#190",
-        "qiuethan/Misty#189",
-        "qiuethan/Misty#188",
-        "qiuethan/Misty#187",
-        "qiuethan/Misty#186",
-        "qiuethan/Misty#185",
-        "qiuethan/Misty#184"
+        "qiuethan/Misty#190"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-09T19:48:15.657Z",
+      "fetched_at": "2026-08-09T20:51:41.611Z",
       "stale": false
     },
     "wakatime": {
@@ -171,10 +166,10 @@
         "Other (5%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-08-09T19:48:15.657Z",
+      "fetched_at": "2026-08-09T20:51:41.611Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235–#237 and qiuethan/Misty#184–#197. He did not record any GitHub commits or create any new repos. His coding time was 25 mins total, with a daily average of 8 mins."
+    "summary": "This week, Ethan Qiu spent 25 mins coding, with a daily average of 8 mins. On GitHub, he opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#191 through qiuethan/Misty#198 and UTMIST/UTMIST#235 through UTMIST/UTMIST#237. His coding time was mainly in Python, with additional time in YAML and JavaScript."
   },
   "writing": [],
   "tools": "/tools.json"
