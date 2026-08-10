@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-08-10T13:44:55.501Z",
+  "updated": "2026-08-10T15:16:40.024Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-10T13:44:55.501Z",
-    "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty, including Misty#191 through Misty#198, and in UTMIST/UTMIST, including UTMIST#235 through UTMIST#237. He had 17 mins of coding time on WakaTime, across 3 projects. His tracked languages were Python, YAML, JavaScript, Other, and Markdown.",
+    "generated_at": "2026-08-10T15:16:40.024Z",
+    "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty #191 through #198 and UTMIST/UTMIST #235 through #237. He spent 17 mins coding in total, with activity across 3 projects. His most-used languages were Python, YAML, and JavaScript.",
     "stale": false
   }
 }
