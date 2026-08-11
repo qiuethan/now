@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-11T21:05:22.373Z",
+  "last_updated": "2026-08-11T22:05:20.357Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-11T19:23:15Z",
+      "pushed_at": "2026-08-11T21:05:26Z",
       "recently_active": true
     },
     {
@@ -112,7 +112,7 @@
       "YAML (76%)",
       "Other (24%)"
     ],
-    "fetched_at": "2026-08-11T21:05:22.373Z",
+    "fetched_at": "2026-08-11T22:05:20.357Z",
     "stale": false
   },
   "contributions": {
@@ -125,13 +125,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-11T21:05:22.373Z",
+    "fetched_at": "2026-08-11T22:05:20.357Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#191 through qiuethan/Misty#198 and UTMIST/UTMIST#235 through UTMIST/UTMIST#237. He logged 5 mins of coding time on Wakatime, with 1 project tracked.",
+  "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#198 through #191 and UTMIST/UTMIST#237 through #235. He recorded 5 mins of coding time in WakaTime, with a daily average of 4 mins. His tracked coding was across 1 project, mostly in YAML.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-11T21:05:22.373Z",
+    "generated_at": "2026-08-11T22:05:20.357Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -149,7 +149,7 @@
         "qiuethan/Misty#191"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-11T21:05:22.373Z",
+      "fetched_at": "2026-08-11T22:05:20.357Z",
       "stale": false
     },
     "wakatime": {
@@ -161,10 +161,10 @@
         "Other (24%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-08-11T21:05:22.373Z",
+      "fetched_at": "2026-08-11T22:05:20.357Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#191 through qiuethan/Misty#198 and UTMIST/UTMIST#235 through UTMIST/UTMIST#237. He logged 5 mins of coding time on Wakatime, with 1 project tracked."
+    "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#198 through #191 and UTMIST/UTMIST#237 through #235. He recorded 5 mins of coding time in WakaTime, with a daily average of 4 mins. His tracked coding was across 1 project, mostly in YAML."
   },
   "writing": [],
   "tools": "/tools.json"
