@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-13T18:08:44.875Z",
+  "last_updated": "2026-08-13T19:26:26.747Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-13T17:13:25Z",
+      "pushed_at": "2026-08-13T18:08:49Z",
       "recently_active": true
     },
     {
@@ -113,7 +113,7 @@
       "YAML (16%)",
       "Other (6%)"
     ],
-    "fetched_at": "2026-08-13T18:08:44.875Z",
+    "fetched_at": "2026-08-13T19:26:26.747Z",
     "stale": false
   },
   "contributions": {
@@ -126,13 +126,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-13T18:08:44.875Z",
+    "fetched_at": "2026-08-13T19:26:26.747Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235, #236, #237, and #242 and qiuethan/Misty#192 through #198. He spent 25 mins coding total, with a daily average of 8 mins. His tracked coding time was mostly in Markdown, with some YAML and other languages.",
+  "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235, #236, #237, and #242, and qiuethan/Misty#192 through #198. He spent 25 mins coding in total, with work split across 2 projects. Most of that time was in Markdown, with some YAML and other language use.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-13T18:08:44.875Z",
+    "generated_at": "2026-08-13T19:26:26.747Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -150,7 +150,7 @@
         "qiuethan/Misty#192"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-13T18:08:44.875Z",
+      "fetched_at": "2026-08-13T19:26:26.747Z",
       "stale": false
     },
     "wakatime": {
@@ -163,10 +163,10 @@
         "Other (6%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-13T18:08:44.875Z",
+      "fetched_at": "2026-08-13T19:26:26.747Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235, #236, #237, and #242 and qiuethan/Misty#192 through #198. He spent 25 mins coding total, with a daily average of 8 mins. His tracked coding time was mostly in Markdown, with some YAML and other languages."
+    "summary": "This week, Ethan Qiu opened pull requests in UTMIST/UTMIST and qiuethan/Misty, including UTMIST/UTMIST#235, #236, #237, and #242, and qiuethan/Misty#192 through #198. He spent 25 mins coding in total, with work split across 2 projects. Most of that time was in Markdown, with some YAML and other language use."
   },
   "writing": [],
   "tools": "/tools.json"
