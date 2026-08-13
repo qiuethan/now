@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-13T05:06:14.511Z",
+  "updated": "2026-08-13T06:45:40.491Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-13T05:06:14.511Z",
+    "generated_at": "2026-08-13T06:45:40.491Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -24,7 +24,7 @@
         "qiuethan/Misty#191"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-13T05:06:14.511Z",
+      "fetched_at": "2026-08-13T06:45:40.491Z",
       "stale": false
     },
     "wakatime": {
@@ -37,9 +37,9 @@
         "Other (6%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-13T05:06:14.511Z",
+      "fetched_at": "2026-08-13T06:45:40.491Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 25 mins coding, with activity spread across 2 projects. On GitHub, he opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#198 through #191 and UTMIST/UTMIST#237 through #235. His tracked coding time was mostly in Markdown, with some YAML and other language use."
+    "summary": "This week, Ethan Qiu opened pull requests in qiuethan/Misty and UTMIST/UTMIST, including qiuethan/Misty#191 through #198 and UTMIST/UTMIST#235 through #237. He spent 25 mins coding across 2 projects, with most of that time in Markdown and some in YAML."
   }
 }
