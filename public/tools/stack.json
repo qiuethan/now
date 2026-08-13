@@ -3,7 +3,7 @@
   "tool": "get_stack",
   "description": "Languages in use, derived from GitHub repos and WakaTime.",
   "freshness": "hourly",
-  "updated": "2026-08-13T23:03:30.912Z",
+  "updated": "2026-08-13T23:59:29.086Z",
   "data": {
     "languages": [
       {
@@ -36,7 +36,7 @@
       "YAML (16%)",
       "Other (6%)"
     ],
-    "fetched_at": "2026-08-13T23:03:30.912Z",
+    "fetched_at": "2026-08-13T23:59:29.086Z",
     "stale": false
   }
 }
