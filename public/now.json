@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-16T04:00:29.174Z",
+  "last_updated": "2026-08-16T04:50:20.982Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-16T03:13:12Z",
+      "pushed_at": "2026-08-16T04:00:34Z",
       "recently_active": true
     },
     {
@@ -107,7 +107,7 @@
       "Python (47%)",
       "Markdown (46%)"
     ],
-    "fetched_at": "2026-08-16T04:00:29.174Z",
+    "fetched_at": "2026-08-16T04:50:20.982Z",
     "stale": false
   },
   "contributions": {
@@ -120,13 +120,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-16T04:00:29.174Z",
+    "fetched_at": "2026-08-16T04:50:20.982Z",
     "stale": false
   },
-  "summary": "This week he opened three PRs: UTMIST/Misty#199, UTMIST/UTMIST#243, and UTMIST/UTMIST#242. He logged 2 hrs of coding time, with a daily average of 38 mins. His tracked coding was mostly in Python and Markdown.",
+  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/Misty#199, UTMIST/UTMIST#243, and UTMIST/UTMIST#242. He logged 2 hrs of coding time in WakaTime, with daily average 38 mins. His activity was mostly in Python and Markdown, which together made up most of the tracked time.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-16T04:00:29.174Z",
+    "generated_at": "2026-08-16T04:50:20.982Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -136,7 +136,7 @@
         "UTMIST/UTMIST#242"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-16T04:00:29.174Z",
+      "fetched_at": "2026-08-16T04:50:20.982Z",
       "stale": false
     },
     "wakatime": {
@@ -148,10 +148,10 @@
         "Markdown (46%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-08-16T04:00:29.174Z",
+      "fetched_at": "2026-08-16T04:50:20.982Z",
       "stale": false
     },
-    "summary": "This week he opened three PRs: UTMIST/Misty#199, UTMIST/UTMIST#243, and UTMIST/UTMIST#242. He logged 2 hrs of coding time, with a daily average of 38 mins. His tracked coding was mostly in Python and Markdown."
+    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/Misty#199, UTMIST/UTMIST#243, and UTMIST/UTMIST#242. He logged 2 hrs of coding time in WakaTime, with daily average 38 mins. His activity was mostly in Python and Markdown, which together made up most of the tracked time."
   },
   "writing": [],
   "tools": "/tools.json"
