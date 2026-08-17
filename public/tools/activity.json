@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-17T08:03:11.351Z",
+  "updated": "2026-08-17T09:01:18.967Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-17T08:03:11.351Z",
+    "generated_at": "2026-08-17T09:01:18.967Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -25,7 +25,7 @@
         "UTMIST/Misty#199"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-17T08:03:11.351Z",
+      "fetched_at": "2026-08-17T09:01:18.967Z",
       "stale": false
     },
     "wakatime": {
@@ -37,9 +37,9 @@
         "Markdown (46%)"
       ],
       "projectCount": 4,
-      "fetched_at": "2026-08-17T08:03:11.351Z",
+      "fetched_at": "2026-08-17T09:01:18.967Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 2 hrs coding, with a daily average of 38 mins. His coding time was mostly in Python and Markdown, and it was spread across 4 projects. On GitHub, he opened PRs in the public repositories UTMIST/Misty and UTMIST/UTMIST."
+    "summary": "This week he opened pull requests in UTMIST/Misty and UTMIST/UTMIST, including PRs #199 through #204 in Misty and #244 through #261 in UTMIST. He logged 2 hrs of coding time, with a daily average of 38 mins. His tracked work was mostly in Python and Markdown."
   }
 }
