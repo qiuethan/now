@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-08-19T03:11:13.054Z",
+  "updated": "2026-08-19T03:59:03.070Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-19T03:11:13.054Z",
-    "summary": "This week he opened pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#204, #203, #202, #201, #200, and #199, and UTMIST/UTMIST#261, #260, #258, #254, #245, and #244. He logged 1 hr 58 mins of coding time in WakaTime across 2 projects. His tracked coding was split mostly between Python and Markdown.",
+    "generated_at": "2026-08-19T03:59:03.070Z",
+    "summary": "This week Ethan Qiu opened pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#199 through #204 and UTMIST/UTMIST#244, #245, #254, #258, #260, and #261. He spent 1 hr 58 mins coding, with a daily average of 57 mins. His tracked work was split across Python and Markdown in 2 projects.",
     "stale": false
   }
 }
