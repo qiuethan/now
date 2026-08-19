@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-19T10:46:31.009Z",
+  "last_updated": "2026-08-19T11:41:12.010Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-19T09:49:45Z",
+      "pushed_at": "2026-08-19T10:46:37Z",
       "recently_active": true
     },
     {
@@ -107,7 +107,7 @@
       "Python (48%)",
       "Markdown (47%)"
     ],
-    "fetched_at": "2026-08-19T10:46:31.009Z",
+    "fetched_at": "2026-08-19T11:41:12.010Z",
     "stale": false
   },
   "contributions": {
@@ -120,13 +120,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-19T10:46:31.009Z",
+    "fetched_at": "2026-08-19T11:41:12.010Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu spent 1 hr 58 mins coding, with a daily average of 57 mins. His activity was split mostly between Python and Markdown, and he worked across 2 projects. On GitHub, he opened PRs in UTMIST/Misty and UTMIST/UTMIST.",
+  "summary": "This week Ethan Qiu opened 12 GitHub pull requests, including several in UTMIST/Misty and UTMIST/UTMIST. He also spent 1 hr 58 mins coding, with activity split mostly between Python and Markdown across 2 projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-19T10:46:31.009Z",
+    "generated_at": "2026-08-19T11:41:12.010Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -145,7 +145,7 @@
         "UTMIST/Misty#199"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-19T10:46:31.009Z",
+      "fetched_at": "2026-08-19T11:41:12.010Z",
       "stale": false
     },
     "wakatime": {
@@ -157,10 +157,10 @@
         "Markdown (47%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-19T10:46:31.009Z",
+      "fetched_at": "2026-08-19T11:41:12.010Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 1 hr 58 mins coding, with a daily average of 57 mins. His activity was split mostly between Python and Markdown, and he worked across 2 projects. On GitHub, he opened PRs in UTMIST/Misty and UTMIST/UTMIST."
+    "summary": "This week Ethan Qiu opened 12 GitHub pull requests, including several in UTMIST/Misty and UTMIST/UTMIST. He also spent 1 hr 58 mins coding, with activity split mostly between Python and Markdown across 2 projects."
   },
   "writing": [],
   "tools": "/tools.json"
