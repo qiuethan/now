@@ -3,14 +3,15 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-19T19:40:38.516Z",
+  "updated": "2026-08-19T20:45:52.835Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-19T19:40:38.516Z",
+    "generated_at": "2026-08-19T20:45:52.835Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "UTMIST/Misty#205",
         "UTMIST/Misty#204",
         "UTMIST/Misty#203",
         "UTMIST/UTMIST#261",
@@ -25,7 +26,7 @@
         "UTMIST/Misty#199"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-19T19:40:38.516Z",
+      "fetched_at": "2026-08-19T20:45:52.835Z",
       "stale": false
     },
     "wakatime": {
@@ -37,9 +38,9 @@
         "Markdown (47%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-19T19:40:38.516Z",
+      "fetched_at": "2026-08-19T20:45:52.835Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu spent 1 hr 58 mins coding, with activity split mostly between Python and Markdown. On GitHub, he opened pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#204, #203, #202, #201, #200, and #199, plus UTMIST/UTMIST#261, #260, #258, #254, #245, and #244. He did not record any GitHub commits or new repositories."
+    "summary": "This week, Ethan Qiu opened PRs in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#205 through #199 and UTMIST/UTMIST#261, #260, #258, #254, #245, and #244. He did not record any GitHub commits or create any new repos. His coding time was 1 hr 58 mins, with activity split mostly between Python and Markdown across 2 projects."
   }
 }
