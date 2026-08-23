@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-23T07:01:24.182Z",
+  "updated": "2026-08-23T07:47:19.016Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-23T07:01:24.182Z",
+    "generated_at": "2026-08-23T07:47:19.016Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -27,7 +27,7 @@
         "UTMIST/Misty#200"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-23T07:01:24.182Z",
+      "fetched_at": "2026-08-23T07:47:19.016Z",
       "stale": false
     },
     "wakatime": {
@@ -36,9 +36,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-23T07:01:24.182Z",
+      "fetched_at": "2026-08-23T07:47:19.016Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 14 GitHub pull requests across UTMIST/UTMIST and UTMIST/Misty. He did not record any GitHub commits, and his WakaTime activity shows 0 secs of coding time."
+    "summary": "This week, Ethan Qiu opened 14 pull requests across the public repositories UTMIST/UTMIST and UTMIST/Misty. He recorded 0 secs of coding time, with no tracked languages or projects."
   }
 }
