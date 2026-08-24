@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-24T05:53:45.765Z",
+  "last_updated": "2026-08-24T07:29:11.099Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-24T05:02:03Z",
+      "pushed_at": "2026-08-24T05:53:49Z",
       "recently_active": true
     },
     {
@@ -104,7 +104,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-24T05:53:45.765Z",
+    "fetched_at": "2026-08-24T07:29:11.099Z",
     "stale": false
   },
   "contributions": {
@@ -117,13 +117,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-24T05:53:45.765Z",
+    "fetched_at": "2026-08-24T07:29:11.099Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three GitHub pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects.",
+  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His WakaTime activity shows 0 secs of coding time, with no languages or projects recorded.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-24T05:53:45.765Z",
+    "generated_at": "2026-08-24T07:29:11.099Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -133,7 +133,7 @@
         "UTMIST/Misty#205"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-24T05:53:45.765Z",
+      "fetched_at": "2026-08-24T07:29:11.099Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-24T05:53:45.765Z",
+      "fetched_at": "2026-08-24T07:29:11.099Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three GitHub pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects."
+    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His WakaTime activity shows 0 secs of coding time, with no languages or projects recorded."
   },
   "writing": [],
   "tools": "/tools.json"
