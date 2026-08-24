@@ -3,24 +3,20 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-23T23:35:48.103Z",
+  "updated": "2026-08-24T01:57:49.463Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-23T23:35:48.103Z",
+    "generated_at": "2026-08-24T01:57:49.463Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
         "UTMIST/UTMIST#266",
         "UTMIST/Misty#206",
-        "UTMIST/Misty#205",
-        "UTMIST/Misty#204",
-        "UTMIST/Misty#203",
-        "UTMIST/UTMIST#261",
-        "UTMIST/UTMIST#260"
+        "UTMIST/Misty#205"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-23T23:35:48.103Z",
+      "fetched_at": "2026-08-24T01:57:49.463Z",
       "stale": false
     },
     "wakatime": {
@@ -29,9 +25,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-23T23:35:48.103Z",
+      "fetched_at": "2026-08-24T01:57:49.463Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened several pull requests in UTMIST’s public repositories, including UTMIST/UTMIST#266, UTMIST/UTMIST#261, and UTMIST/UTMIST#260, along with UTMIST/Misty#206, #205, #204, and #203. He did not record any GitHub commits or create any new repositories. Wakatime shows 0 secs of coding time this week."
+    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. He did not record any GitHub commits, and his WakaTime coding time was 0 secs."
   }
 }
