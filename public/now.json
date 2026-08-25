@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-25T18:57:34.918Z",
+  "last_updated": "2026-08-25T19:46:01.171Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-25T17:46:01Z",
+      "pushed_at": "2026-08-25T18:57:41Z",
       "recently_active": true
     },
     {
@@ -103,8 +103,13 @@
         "repos": 1
       }
     ],
-    "from_wakatime": [],
-    "fetched_at": "2026-08-25T18:57:34.918Z",
+    "from_wakatime": [
+      "Markdown (48%)",
+      "YAML (34%)",
+      "Python (9%)",
+      "HTML (8%)"
+    ],
+    "fetched_at": "2026-08-25T19:46:01.171Z",
     "stale": false
   },
   "contributions": {
@@ -117,13 +122,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-25T18:57:34.918Z",
+    "fetched_at": "2026-08-25T19:46:01.171Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His GitHub activity otherwise shows no commits and no new repositories. WakaTime reports 0 secs of coding time.",
+  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. He did not record any GitHub commits or create any new repositories. He logged 57 minutes of coding time across 5 projects, with most time in Markdown and YAML.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-25T18:57:34.918Z",
+    "generated_at": "2026-08-25T19:46:01.171Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -133,19 +138,24 @@
         "UTMIST/Misty#205"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-25T18:57:34.918Z",
+      "fetched_at": "2026-08-25T19:46:01.171Z",
       "stale": false
     },
     "wakatime": {
-      "total": "0 secs",
-      "dailyAverage": "0 secs",
-      "seconds": 0,
-      "languages": [],
-      "projectCount": 0,
-      "fetched_at": "2026-08-25T18:57:34.918Z",
+      "total": "57 mins",
+      "dailyAverage": "14 mins",
+      "seconds": 3446.627,
+      "languages": [
+        "Markdown (48%)",
+        "YAML (34%)",
+        "Python (9%)",
+        "HTML (8%)"
+      ],
+      "projectCount": 5,
+      "fetched_at": "2026-08-25T19:46:01.171Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His GitHub activity otherwise shows no commits and no new repositories. WakaTime reports 0 secs of coding time."
+    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. He did not record any GitHub commits or create any new repositories. He logged 57 minutes of coding time across 5 projects, with most time in Markdown and YAML."
   },
   "writing": [],
   "tools": "/tools.json"
