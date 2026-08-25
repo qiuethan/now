@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-25T03:13:01.670Z",
+  "last_updated": "2026-08-25T04:00:55.971Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -20,6 +20,18 @@
   "projects": [
     {
       "private": false,
+      "name": "now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-08-25T03:13:05Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "neetcode-submissions",
       "description": "My NeetCode.io problem submissions",
       "language": "Python",
@@ -28,18 +40,6 @@
       "stars": 0,
       "topics": [],
       "pushed_at": "2026-08-25T01:56:05Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "now",
-      "description": "Self-updating now page + JSON API for ethanqiu.ca",
-      "language": "JavaScript",
-      "url": "https://github.com/qiuethan/now",
-      "homepage": "https://now-six-chi.vercel.app",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-25T01:52:49Z",
       "recently_active": true
     },
     {
@@ -104,26 +104,26 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-08-25T03:13:01.670Z",
+    "fetched_at": "2026-08-25T04:00:55.971Z",
     "stale": false
   },
   "contributions": {
     "total_past_year": 2270,
     "last_7_days": 9,
-    "last_30_days": 296,
+    "last_30_days": 266,
     "current_streak": 1,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-25T03:13:01.670Z",
+    "fetched_at": "2026-08-25T04:00:55.971Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. He did not record any commits or new repositories. WakaTime shows 0 secs of coding time this week.",
+  "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His GitHub activity shows no commits or new repositories. WakaTime recorded 0 secs of coding time.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-25T03:13:01.670Z",
+    "generated_at": "2026-08-25T04:00:55.971Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -133,7 +133,7 @@
         "UTMIST/Misty#205"
       ],
       "newRepos": [],
-      "fetched_at": "2026-08-25T03:13:01.670Z",
+      "fetched_at": "2026-08-25T04:00:55.971Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-08-25T03:13:01.670Z",
+      "fetched_at": "2026-08-25T04:00:55.971Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. He did not record any commits or new repositories. WakaTime shows 0 secs of coding time this week."
+    "summary": "This week, Ethan Qiu opened three pull requests: UTMIST/UTMIST#266, UTMIST/Misty#206, and UTMIST/Misty#205. His GitHub activity shows no commits or new repositories. WakaTime recorded 0 secs of coding time."
   },
   "writing": [],
   "tools": "/tools.json"
