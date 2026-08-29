@@ -3,32 +3,32 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-08-28T18:43:45.226Z",
+  "updated": "2026-08-29T02:12:38.861Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-08-28T18:43:45.226Z",
+    "generated_at": "2026-08-29T02:12:38.861Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-08-28T18:43:45.226Z",
+      "fetched_at": "2026-08-29T02:12:38.861Z",
       "stale": false
     },
     "wakatime": {
-      "total": "48 mins",
-      "dailyAverage": "16 mins",
-      "seconds": 2900.111,
+      "total": "26 mins",
+      "dailyAverage": "13 mins",
+      "seconds": 1564.767,
       "languages": [
-        "Markdown (48%)",
-        "YAML (30%)",
-        "Python (11%)",
-        "TypeScript (5%)"
+        "Markdown (59%)",
+        "Python (21%)",
+        "TypeScript (9%)",
+        "JSON (6%)"
       ],
-      "projectCount": 5,
-      "fetched_at": "2026-08-28T18:43:45.226Z",
+      "projectCount": 4,
+      "fetched_at": "2026-08-29T02:12:38.861Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu logged 48 mins of coding time, with a daily average of 16 mins. His activity was spread across 5 projects and focused mostly on Markdown and YAML, with some Python and TypeScript. There were no GitHub commits, opened pull requests, or new public repositories recorded this week."
+    "summary": "This week, Ethan Qiu logged 26 mins of coding time, with a daily average of 13 mins. His work was mostly in Markdown, with additional time in Python, TypeScript, and JSON. The activity data does not list any GitHub commits, repos, pull requests, or new repos."
   }
 }
