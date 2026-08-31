@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-08-31T13:53:16.103Z",
+  "last_updated": "2026-08-31T20:06:29.731Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-08-31T05:37:33Z",
+      "pushed_at": "2026-08-31T13:53:21Z",
       "recently_active": true
     },
     {
@@ -109,7 +109,7 @@
       "TypeScript (9%)",
       "JSON (6%)"
     ],
-    "fetched_at": "2026-08-31T13:53:16.103Z",
+    "fetched_at": "2026-08-31T20:06:29.731Z",
     "stale": false
   },
   "contributions": {
@@ -122,19 +122,19 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-08-31T13:53:16.103Z",
+    "fetched_at": "2026-08-31T20:06:29.731Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 25 mins of coding time. His work was mostly in Markdown, with additional time in Python, TypeScript, and JSON. The activity data shows 2 projects, but no public repository names were listed.",
+  "summary": "This week Ethan Qiu logged 25 mins of coding time, with work split mostly across Markdown, Python, TypeScript, and JSON. The activity data shows 2 projects, but no public repository names, commits, pull requests, or new repos were listed.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-08-31T13:53:16.103Z",
+    "generated_at": "2026-08-31T20:06:29.731Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-08-31T13:53:16.103Z",
+      "fetched_at": "2026-08-31T20:06:29.731Z",
       "stale": false
     },
     "wakatime": {
@@ -148,10 +148,10 @@
         "JSON (6%)"
       ],
       "projectCount": 2,
-      "fetched_at": "2026-08-31T13:53:16.103Z",
+      "fetched_at": "2026-08-31T20:06:29.731Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 25 mins of coding time. His work was mostly in Markdown, with additional time in Python, TypeScript, and JSON. The activity data shows 2 projects, but no public repository names were listed."
+    "summary": "This week Ethan Qiu logged 25 mins of coding time, with work split mostly across Markdown, Python, TypeScript, and JSON. The activity data shows 2 projects, but no public repository names, commits, pull requests, or new repos were listed."
   },
   "writing": [],
   "tools": "/tools.json"
