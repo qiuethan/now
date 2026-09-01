@@ -2,7 +2,7 @@
   "schema_version": 1,
   "subject": "Ethan Qiu",
   "description": "Machine-readable gateway to Ethan Qiu's current activity. Each tool resolves to a typed JSON payload at its url.",
-  "updated": "2026-09-01T05:10:53.601Z",
+  "updated": "2026-09-01T10:07:54.583Z",
   "tools": [
     {
       "name": "get_identity",
