@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-02T04:42:35.398Z",
+  "last_updated": "2026-09-02T09:38:39.870Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-02T00:15:36Z",
+      "pushed_at": "2026-09-02T04:42:40Z",
       "recently_active": true
     },
     {
@@ -107,7 +107,7 @@
       "Python (90%)",
       "Markdown (8%)"
     ],
-    "fetched_at": "2026-09-02T04:42:35.398Z",
+    "fetched_at": "2026-09-02T09:38:39.870Z",
     "stale": false
   },
   "contributions": {
@@ -120,19 +120,19 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-02T04:42:35.398Z",
+    "fetched_at": "2026-09-02T09:38:39.870Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu logged 38 mins of coding time, mostly in Python and some Markdown. The activity data shows work across 1 project.",
+  "summary": "This week, Ethan Qiu spent 38 minutes coding, with activity mainly in Python and a small amount of Markdown. The data shows work across 1 project.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-02T04:42:35.398Z",
+    "generated_at": "2026-09-02T09:38:39.870Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-09-02T04:42:35.398Z",
+      "fetched_at": "2026-09-02T09:38:39.870Z",
       "stale": false
     },
     "wakatime": {
@@ -144,10 +144,10 @@
         "Markdown (8%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-09-02T04:42:35.398Z",
+      "fetched_at": "2026-09-02T09:38:39.870Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu logged 38 mins of coding time, mostly in Python and some Markdown. The activity data shows work across 1 project."
+    "summary": "This week, Ethan Qiu spent 38 minutes coding, with activity mainly in Python and a small amount of Markdown. The data shows work across 1 project."
   },
   "writing": [],
   "tools": "/tools.json"
