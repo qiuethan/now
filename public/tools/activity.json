@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-09-08T21:52:17.978Z",
+  "updated": "2026-09-09T00:16:03.672Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-08T21:52:17.978Z",
+    "generated_at": "2026-09-09T00:16:03.672Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -15,7 +15,7 @@
         "UTMIST/UTMIST#426"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-08T21:52:17.978Z",
+      "fetched_at": "2026-09-09T00:16:03.672Z",
       "stale": false
     },
     "wakatime": {
@@ -28,9 +28,9 @@
         "GraphQL (6%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-09-08T21:52:17.978Z",
+      "fetched_at": "2026-09-09T00:16:03.672Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST: #426 and #427. He logged 3 hrs 30 mins of coding time, with a daily average of 1 hr 7 mins. His tracked coding was primarily in Markdown, Python, and GraphQL across 3 projects."
+    "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST: #426 and #427. He logged 3 hrs 30 mins of coding time in WakaTime, averaging 1 hr 7 mins per day. His tracked coding was mainly in Markdown, Python, and GraphQL across 3 projects."
   }
 }
