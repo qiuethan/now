@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-10T04:51:36.232Z",
+  "last_updated": "2026-09-10T09:45:47.079Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-10T00:15:48Z",
+      "pushed_at": "2026-09-10T04:51:41Z",
       "recently_active": true
     },
     {
@@ -108,7 +108,7 @@
       "Python (44%)",
       "GraphQL (6%)"
     ],
-    "fetched_at": "2026-09-10T04:51:36.232Z",
+    "fetched_at": "2026-09-10T09:45:47.079Z",
     "stale": false
   },
   "contributions": {
@@ -121,13 +121,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-10T04:51:36.232Z",
+    "fetched_at": "2026-09-10T09:45:47.079Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened two pull requests in UTMIST/UTMIST: #426 and #427. He logged 3 hrs 30 mins of coding time across 3 projects, with work recorded in Markdown, Python, and GraphQL.",
+  "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST (#427 and #426). He logged 3 hrs 30 mins of coding time, averaging 1 hr 7 mins per day. His time was spent mostly in Markdown and Python, with some GraphQL.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-10T04:51:36.232Z",
+    "generated_at": "2026-09-10T09:45:47.079Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -136,7 +136,7 @@
         "UTMIST/UTMIST#426"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-10T04:51:36.232Z",
+      "fetched_at": "2026-09-10T09:45:47.079Z",
       "stale": false
     },
     "wakatime": {
@@ -149,10 +149,10 @@
         "GraphQL (6%)"
       ],
       "projectCount": 3,
-      "fetched_at": "2026-09-10T04:51:36.232Z",
+      "fetched_at": "2026-09-10T09:45:47.079Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened two pull requests in UTMIST/UTMIST: #426 and #427. He logged 3 hrs 30 mins of coding time across 3 projects, with work recorded in Markdown, Python, and GraphQL."
+    "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST (#427 and #426). He logged 3 hrs 30 mins of coding time, averaging 1 hr 7 mins per day. His time was spent mostly in Markdown and Python, with some GraphQL."
   },
   "writing": [],
   "tools": "/tools.json"
