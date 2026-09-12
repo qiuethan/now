@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-11T21:44:17.176Z",
+  "last_updated": "2026-09-12T00:19:22.011Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-11T18:34:25Z",
+      "pushed_at": "2026-09-11T21:44:22Z",
       "recently_active": true
     },
     {
@@ -106,7 +106,7 @@
     "from_wakatime": [
       "Python (100%)"
     ],
-    "fetched_at": "2026-09-11T21:44:17.176Z",
+    "fetched_at": "2026-09-12T00:19:22.011Z",
     "stale": false
   },
   "contributions": {
@@ -119,13 +119,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-11T21:44:17.176Z",
+    "fetched_at": "2026-09-12T00:19:22.011Z",
     "stale": false
   },
-  "summary": "This week Ethan Qiu opened two PRs in UTMIST/UTMIST: #426 and #427. He logged 1 hr 32 mins of coding time, all in Python.",
+  "summary": "This week, Ethan Qiu opened two pull requests in UTMIST/UTMIST: #426 and #427. He logged 1 hr 32 mins of coding time, all in Python, across 1 project.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-11T21:44:17.176Z",
+    "generated_at": "2026-09-12T00:19:22.011Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -134,7 +134,7 @@
         "UTMIST/UTMIST#426"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-11T21:44:17.176Z",
+      "fetched_at": "2026-09-12T00:19:22.011Z",
       "stale": false
     },
     "wakatime": {
@@ -145,10 +145,10 @@
         "Python (100%)"
       ],
       "projectCount": 1,
-      "fetched_at": "2026-09-11T21:44:17.176Z",
+      "fetched_at": "2026-09-12T00:19:22.011Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu opened two PRs in UTMIST/UTMIST: #426 and #427. He logged 1 hr 32 mins of coding time, all in Python."
+    "summary": "This week, Ethan Qiu opened two pull requests in UTMIST/UTMIST: #426 and #427. He logged 1 hr 32 mins of coding time, all in Python, across 1 project."
   },
   "writing": [],
   "tools": "/tools.json"
