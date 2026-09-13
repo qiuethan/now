@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-09-13T06:11:40.559Z",
+  "updated": "2026-09-13T11:54:31.316Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-13T06:11:40.559Z",
-    "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST: #426 and #427. He logged 39 mins of coding time on WakaTime, all in Python.",
+    "generated_at": "2026-09-13T11:54:31.316Z",
+    "summary": "This week, Ethan Qiu opened two PRs in UTMIST/UTMIST: #427 and #426. He spent 39 mins coding, all in Python.",
     "stale": false
   }
 }
