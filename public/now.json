@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-18T00:20:46.066Z",
+  "last_updated": "2026-09-18T05:56:25.762Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-17T21:27:15Z",
+      "pushed_at": "2026-09-18T00:20:48Z",
       "recently_active": true
     },
     {
@@ -104,32 +104,32 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-09-18T00:20:46.066Z",
+    "fetched_at": "2026-09-18T05:56:25.762Z",
     "stale": false
   },
   "contributions": {
     "total_past_year": 2431,
     "last_7_days": 12,
-    "last_30_days": 186,
+    "last_30_days": 181,
     "current_streak": 1,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-18T00:20:46.066Z",
+    "fetched_at": "2026-09-18T05:56:25.762Z",
     "stale": false
   },
   "summary": null,
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-18T00:20:46.066Z",
+    "generated_at": "2026-09-18T05:56:25.762Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [],
       "newRepos": [],
-      "fetched_at": "2026-09-18T00:20:46.066Z",
+      "fetched_at": "2026-09-18T05:56:25.762Z",
       "stale": false
     },
     "wakatime": {
@@ -138,7 +138,7 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-18T00:20:46.066Z",
+      "fetched_at": "2026-09-18T05:56:25.762Z",
       "stale": false
     },
     "summary": null
