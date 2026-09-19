@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-09-19T14:26:13.186Z",
+  "updated": "2026-09-19T18:02:02.961Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-19T14:26:13.186Z",
-    "summary": "This week, Ethan Qiu opened three pull requests in ji24077/HTN: #9, #8, and #5. He did not record any coding time on WakaTime, with a total of 0 secs and a daily average of 0 secs.",
+    "generated_at": "2026-09-19T18:02:02.961Z",
+    "summary": "This week, Ethan Qiu opened six pull requests in ji24077/HTN: #13, #11, #10, #9, #8, and #5. He recorded 0 secs of coding time in WakaTime, with no tracked languages or projects.",
     "stale": false
   }
 }
