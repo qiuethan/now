@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-23T23:43:00.598Z",
+  "last_updated": "2026-09-24T04:53:07.641Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-23T20:23:17Z",
+      "pushed_at": "2026-09-23T23:43:05Z",
       "recently_active": true
     },
     {
@@ -104,26 +104,26 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-09-23T23:43:00.598Z",
+    "fetched_at": "2026-09-24T04:53:07.641Z",
     "stale": false
   },
   "contributions": {
     "total_past_year": 2489,
-    "last_7_days": 83,
-    "last_30_days": 256,
-    "current_streak": 6,
+    "last_7_days": 79,
+    "last_30_days": 247,
+    "current_streak": 0,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-23T23:43:00.598Z",
+    "fetched_at": "2026-09-24T04:53:07.641Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened several pull requests in ji24077/HTN, including #29, #28, #27, #26, #25, #24, #23, #21, #19, #17, #13, #11, #10, #9, #8, and #5. He recorded 0 secs of coding time this week.",
+  "summary": "This week, Ethan Qiu opened multiple pull requests in ji24077/HTN, including #29, #28, #27, #26, #25, #24, #23, #21, #19, #17, #13, #11, #10, #9, #8, and #5. He recorded 0 secs of coding time in Wakatime, with no languages or projects listed.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-23T23:43:00.598Z",
+    "generated_at": "2026-09-24T04:53:07.641Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -146,7 +146,7 @@
         "ji24077/HTN#5"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-23T23:43:00.598Z",
+      "fetched_at": "2026-09-24T04:53:07.641Z",
       "stale": false
     },
     "wakatime": {
@@ -155,10 +155,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-23T23:43:00.598Z",
+      "fetched_at": "2026-09-24T04:53:07.641Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened several pull requests in ji24077/HTN, including #29, #28, #27, #26, #25, #24, #23, #21, #19, #17, #13, #11, #10, #9, #8, and #5. He recorded 0 secs of coding time this week."
+    "summary": "This week, Ethan Qiu opened multiple pull requests in ji24077/HTN, including #29, #28, #27, #26, #25, #24, #23, #21, #19, #17, #13, #11, #10, #9, #8, and #5. He recorded 0 secs of coding time in Wakatime, with no languages or projects listed."
   },
   "writing": [],
   "tools": "/tools.json"
