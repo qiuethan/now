@@ -3,10 +3,10 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-09-25T18:37:45.841Z",
+  "updated": "2026-09-25T22:21:59.913Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-25T18:37:45.841Z",
+    "generated_at": "2026-09-25T22:21:59.913Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -27,7 +27,7 @@
         "ji24077/HTN#9"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-25T18:37:45.841Z",
+      "fetched_at": "2026-09-25T22:21:59.913Z",
       "stale": false
     },
     "wakatime": {
@@ -36,9 +36,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-25T18:37:45.841Z",
+      "fetched_at": "2026-09-25T22:21:59.913Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened 14 pull requests on ji24077/HTN. He had 0 secs of coding time on WakaTime, with a daily average of 0 secs. No new repositories were created this week."
+    "summary": "This week, Ethan Qiu opened multiple pull requests in ji24077/HTN, including #29, #28, #27, #26, #25, #24, #23, #21, #19, #17, #13, #11, #10, and #9. He had 0 secs of coding time in WakaTime, with no tracked languages or projects."
   }
 }
