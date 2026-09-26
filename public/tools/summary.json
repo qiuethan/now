@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-09-26T17:11:36.088Z",
+  "updated": "2026-09-26T19:52:35.578Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-26T17:11:36.088Z",
-    "summary": "This week, Ethan Qiu opened one PR: ji24077/HTN#29. His WakaTime activity shows 0 secs of coding time, with no languages or projects recorded.",
+    "generated_at": "2026-09-26T19:52:35.578Z",
+    "summary": "This week, Ethan Qiu opened one pull request: ji24077/HTN#29. His WakaTime activity shows 0 secs of coding time, with a daily average of 0 secs across 0 projects.",
     "stale": false
   }
 }
