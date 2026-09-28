@@ -3,16 +3,18 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-09-28T15:29:44.605Z",
+  "updated": "2026-09-28T22:02:03.431Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-28T15:29:44.605Z",
+    "generated_at": "2026-09-28T22:02:03.431Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
-      "prsOpened": [],
+      "prsOpened": [
+        "UTMIST/UTMIST#460"
+      ],
       "newRepos": [],
-      "fetched_at": "2026-09-28T15:29:44.605Z",
+      "fetched_at": "2026-09-28T22:02:03.431Z",
       "stale": false
     },
     "wakatime": {
@@ -21,9 +23,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-28T15:29:44.605Z",
+      "fetched_at": "2026-09-28T22:02:03.431Z",
       "stale": false
     },
-    "summary": null
+    "summary": "This week, Ethan Qiu opened one pull request: UTMIST/UTMIST#460. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects."
   }
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-09-28T15:29:44.605Z",
+  "last_updated": "2026-09-28T22:02:03.431Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,7 +27,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-09-28T06:55:54Z",
+      "pushed_at": "2026-09-28T15:29:47Z",
       "recently_active": true
     },
     {
@@ -104,32 +104,34 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-09-28T15:29:44.605Z",
+    "fetched_at": "2026-09-28T22:02:03.431Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2516,
-    "last_7_days": 30,
-    "last_30_days": 196,
-    "current_streak": 3,
+    "total_past_year": 2520,
+    "last_7_days": 34,
+    "last_30_days": 200,
+    "current_streak": 4,
     "longest_streak": 18,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-09-28T15:29:44.605Z",
+    "fetched_at": "2026-09-28T22:02:03.431Z",
     "stale": false
   },
-  "summary": null,
+  "summary": "This week, Ethan Qiu opened one pull request: UTMIST/UTMIST#460. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-09-28T15:29:44.605Z",
+    "generated_at": "2026-09-28T22:02:03.431Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
-      "prsOpened": [],
+      "prsOpened": [
+        "UTMIST/UTMIST#460"
+      ],
       "newRepos": [],
-      "fetched_at": "2026-09-28T15:29:44.605Z",
+      "fetched_at": "2026-09-28T22:02:03.431Z",
       "stale": false
     },
     "wakatime": {
@@ -138,10 +140,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-28T15:29:44.605Z",
+      "fetched_at": "2026-09-28T22:02:03.431Z",
       "stale": false
     },
-    "summary": null
+    "summary": "This week, Ethan Qiu opened one pull request: UTMIST/UTMIST#460. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects."
   },
   "writing": [],
   "tools": "/tools.json"
