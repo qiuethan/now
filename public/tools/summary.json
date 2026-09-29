@@ -3,11 +3,11 @@
   "tool": "get_summary",
   "description": "A short LLM-written prose summary of Ethan's coding over the last 7 days, derived from the same GitHub + WakaTime activity. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-09-28T22:02:03.431Z",
+  "updated": "2026-09-29T01:58:37.488Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-28T22:02:03.431Z",
-    "summary": "This week, Ethan Qiu opened one pull request: UTMIST/UTMIST#460. His WakaTime activity shows 0 secs of coding time, with no recorded languages or projects.",
+    "generated_at": "2026-09-29T01:58:37.488Z",
+    "summary": "This week, Ethan Qiu opened one pull request: UTMIST/UTMIST#460. He recorded 0 secs of coding time on WakaTime, with no logged languages or projects.",
     "stale": false
   }
 }
