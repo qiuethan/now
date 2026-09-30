@@ -3,19 +3,20 @@
   "tool": "get_activity",
   "description": "Live GitHub + WakaTime activity over the last 7 days.",
   "freshness": "hourly",
-  "updated": "2026-09-30T00:28:28.800Z",
+  "updated": "2026-09-30T06:44:15.520Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-09-30T00:28:28.800Z",
+    "generated_at": "2026-09-30T06:44:15.520Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
       "prsOpened": [
+        "UTMIST/UTMIST#473",
         "UTMIST/UTMIST#472",
         "UTMIST/UTMIST#460"
       ],
       "newRepos": [],
-      "fetched_at": "2026-09-30T00:28:28.800Z",
+      "fetched_at": "2026-09-30T06:44:15.520Z",
       "stale": false
     },
     "wakatime": {
@@ -24,9 +25,9 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-09-30T00:28:28.800Z",
+      "fetched_at": "2026-09-30T06:44:15.520Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened two pull requests on UTMIST/UTMIST: #472 and #460. He logged 0 secs of coding time in Wakatime, with a daily average of 0 secs."
+    "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #473, #472, and #460. He did not create any new repositories. WakaTime shows 0 secs of coding time this week, with a daily average of 0 secs."
   }
 }
