@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-02T12:37:14.248Z",
+  "last_updated": "2026-10-02T18:25:29.015Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,14 +27,14 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-02T05:39:30Z",
+      "pushed_at": "2026-10-02T12:37:19Z",
       "recently_active": true
     },
     {
       "private": true,
       "id": 1117921210,
       "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
-      "recently_active": true,
+      "recently_active": false,
       "pushed_at": "2026-09-18"
     },
     {
@@ -104,7 +104,7 @@
       }
     ],
     "from_wakatime": [],
-    "fetched_at": "2026-10-02T12:37:14.248Z",
+    "fetched_at": "2026-10-02T18:25:29.015Z",
     "stale": false
   },
   "contributions": {
@@ -117,13 +117,13 @@
       "date": "2026-07-03",
       "count": 122
     },
-    "fetched_at": "2026-10-02T12:37:14.248Z",
+    "fetched_at": "2026-10-02T18:25:29.015Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three GitHub pull requests: UTMIST/UTMIST#473, UTMIST/UTMIST#472, and UTMIST/UTMIST#460. He had 0 secs of tracked coding time on Wakatime, with no recorded languages or projects.",
+  "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #460, #472, and #473. He had 0 secs of coding time on WakaTime, with no recorded languages or projects.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-02T12:37:14.248Z",
+    "generated_at": "2026-10-02T18:25:29.015Z",
     "github": {
       "totalCommits": 0,
       "repos": [],
@@ -133,7 +133,7 @@
         "UTMIST/UTMIST#460"
       ],
       "newRepos": [],
-      "fetched_at": "2026-10-02T12:37:14.248Z",
+      "fetched_at": "2026-10-02T18:25:29.015Z",
       "stale": false
     },
     "wakatime": {
@@ -142,10 +142,10 @@
       "seconds": 0,
       "languages": [],
       "projectCount": 0,
-      "fetched_at": "2026-10-02T12:37:14.248Z",
+      "fetched_at": "2026-10-02T18:25:29.015Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three GitHub pull requests: UTMIST/UTMIST#473, UTMIST/UTMIST#472, and UTMIST/UTMIST#460. He had 0 secs of tracked coding time on Wakatime, with no recorded languages or projects."
+    "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #460, #472, and #473. He had 0 secs of coding time on WakaTime, with no recorded languages or projects."
   },
   "writing": [],
   "tools": "/tools.json"
