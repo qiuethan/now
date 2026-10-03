@@ -1,0 +1,271 @@
+{
+  "schema_version": 2,
+  "name": "Ethan Qiu",
+  "last_updated": "2026-10-03T03:32:56.918Z",
+  "identity": {
+    "name": "Ethan Qiu",
+    "headline": "Software engineer · Toronto",
+    "location": "Toronto, Canada",
+    "github_username": "qiuethan",
+    "links": {
+      "portfolio": "https://ethanqiu.ca",
+      "resume": "https://ethanqiu.ca/resume.pdf",
+      "github": "https://github.com/qiuethan",
+      "linkedin": "https://linkedin.com/in/qiu-ethan",
+      "email": "ethanqiu@gmail.com"
+    }
+  },
+  "availability": "Always open to interesting opportunities and conversations.",
+  "projects": [
+    {
+      "private": false,
+      "name": "Portfolio",
+      "full_name": "qiuethan/Portfolio",
+      "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+      "language": "TypeScript",
+      "url": "https://github.com/qiuethan/Portfolio",
+      "homepage": "https://ethanqiu.ca",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-03T03:30:46Z",
+      "last_activity_at": "2026-10-03T03:30:46Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-03T03:23:29Z",
+      "last_activity_at": "2026-10-03T03:23:59Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "now",
+      "full_name": "qiuethan/now",
+      "description": "Self-updating now page + JSON API for ethanqiu.ca",
+      "language": "JavaScript",
+      "url": "https://github.com/qiuethan/now",
+      "homepage": "https://now-six-chi.vercel.app",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-03T03:32:00Z",
+      "last_activity_at": "2026-10-02T07:00:00Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "UTMIST",
+      "full_name": "UTMIST/UTMIST",
+      "description": "UTMIST Website",
+      "language": "TypeScript",
+      "url": "https://github.com/UTMIST/UTMIST",
+      "homepage": "",
+      "stars": 2,
+      "topics": [
+        "website"
+      ],
+      "pushed_at": "2026-10-03T03:01:19Z",
+      "last_activity_at": "2026-10-02T00:59:24Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "HTN",
+      "full_name": "ji24077/HTN",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/ji24077/HTN",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-09-20T13:45:32Z",
+      "last_activity_at": "2026-09-20T10:55:51Z",
+      "recently_active": true
+    },
+    {
+      "private": true,
+      "id": 1117921210,
+      "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
+      "recently_active": false,
+      "pushed_at": "2026-09-18"
+    }
+  ],
+  "stack": {
+    "languages": [
+      {
+        "name": "Python",
+        "repos": 8
+      },
+      {
+        "name": "TypeScript",
+        "repos": 7
+      },
+      {
+        "name": "JavaScript",
+        "repos": 4
+      },
+      {
+        "name": "CSS",
+        "repos": 1
+      },
+      {
+        "name": "Jupyter Notebook",
+        "repos": 1
+      },
+      {
+        "name": "Java",
+        "repos": 1
+      }
+    ],
+    "fetched_at": "2026-10-03T03:32:56.918Z",
+    "stale": false
+  },
+  "contributions": {
+    "total_past_year": 1855,
+    "last_7_days": 26,
+    "last_30_days": 216,
+    "current_streak": 2,
+    "longest_streak": 12,
+    "busiest_day": {
+      "date": "2026-07-03",
+      "count": 126
+    },
+    "fetched_at": "2026-10-03T03:32:56.918Z",
+    "stale": false
+  },
+  "summary": "This week, Ethan Qiu had 13 GitHub contribution-counted commits across UTMIST/UTMIST, UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, with 16 pushes total. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, and #473, and reviewed UTMIST/Misty#228, #229, #234, #241 and UTMIST/UTMIST#452, #456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+  "activity": {
+    "window": "last_7_days",
+    "generated_at": "2026-10-03T03:32:56.918Z",
+    "github": {
+      "source": "github_contributions_and_public_events",
+      "totalCommits": 13,
+      "totalPushes": 16,
+      "repos": [
+        {
+          "name": "UTMIST/UTMIST",
+          "commits": 5,
+          "pushes": 9
+        },
+        {
+          "name": "UTMIST/Misty",
+          "commits": 4,
+          "pushes": 6
+        },
+        {
+          "name": "qiuethan/now",
+          "commits": 2,
+          "pushes": 0
+        },
+        {
+          "name": "qiuethan/Portfolio",
+          "commits": 1,
+          "pushes": 1
+        },
+        {
+          "name": "qiuethan/qiuethan",
+          "commits": 1,
+          "pushes": 0
+        }
+      ],
+      "prsOpened": [
+        "UTMIST/Misty#246",
+        "UTMIST/UTMIST#460",
+        "UTMIST/UTMIST#472",
+        "UTMIST/UTMIST#473"
+      ],
+      "prsReviewed": [
+        "UTMIST/Misty#228",
+        "UTMIST/Misty#229",
+        "UTMIST/Misty#234",
+        "UTMIST/Misty#241",
+        "UTMIST/UTMIST#452",
+        "UTMIST/UTMIST#456",
+        "UTMIST/UTMIST#462",
+        "UTMIST/UTMIST#464"
+      ],
+      "issuesOpened": [
+        "UTMIST/UTMIST#459"
+      ],
+      "newRepos": [],
+      "partial": false,
+      "fetched_at": "2026-10-03T03:32:56.918Z",
+      "stale": false
+    },
+    "coding": {
+      "source": "activitywatch",
+      "scope": "orca-vscode",
+      "timezone": "UTC",
+      "window": "last_7_days",
+      "window_start": "2026-09-27",
+      "window_end": "2026-10-03",
+      "total_seconds": 3363,
+      "apps": [
+        {
+          "name": "Orca",
+          "seconds": 3362
+        },
+        {
+          "name": "VS Code",
+          "seconds": 1
+        }
+      ],
+      "days": [
+        {
+          "date": "2026-10-02",
+          "orca_seconds": 1270,
+          "vscode_seconds": 1
+        },
+        {
+          "date": "2026-10-03",
+          "orca_seconds": 2092,
+          "vscode_seconds": 0
+        }
+      ],
+      "fetched_at": "2026-10-03T03:28:56.881Z",
+      "stale": false
+    },
+    "summary": "This week, Ethan Qiu had 13 GitHub contribution-counted commits across UTMIST/UTMIST, UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, with 16 pushes total. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, and #473, and reviewed UTMIST/Misty#228, #229, #234, #241 and UTMIST/UTMIST#452, #456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+    "summary_stale": false
+  },
+  "writing": [
+    {
+      "title": "The one about brand new day",
+      "url": "https://coherentboi.substack.com/p/the-one-about-brand-new-day",
+      "published_at": "2026-08-04T03:51:53.000Z",
+      "excerpt": "My sister was kind enough to invite me to watch Spiderman: Brand New Day today. The movie, although ending on a disappointing note (which I will get to), made me deeply resonate with the movie and inspired me to share…"
+    },
+    {
+      "title": "The one about bad dreams",
+      "url": "https://coherentboi.substack.com/p/the-one-about-bad-dreams",
+      "published_at": "2026-08-01T19:15:57.000Z",
+      "excerpt": "We all know the feeling when you have a nightmare as a kid. You run away from a sort of monster, or a zombie, or as you get older , you fail a test. The kind of nightmare that makes you sit upright, clutch the sheets…"
+    },
+    {
+      "title": "The one about Union Station",
+      "url": "https://coherentboi.substack.com/p/the-one-about-uniom-station",
+      "published_at": "2026-06-22T14:50:35.000Z",
+      "excerpt": "TLDR if you want to avoid the graphic content: People are incredibly kind and I want to thank Scott, the medic, security and the custodian :D So it’s Monday morning, 10:19 PM when I’m writing this. I’ve experienced…"
+    },
+    {
+      "title": "The one about Thea pt. the end?",
+      "url": "https://coherentboi.substack.com/p/the-one-about-thea-pt-the-end",
+      "published_at": "2026-06-14T23:15:07.000Z",
+      "excerpt": "So this email was sent to me about a month ago, when I was first experimenting with Thea (if you don’t know what that is, go look at some of my other articles). Basically, because Thea runs on the claude agents SDK…"
+    },
+    {
+      "title": "The one about Tomodachi Life",
+      "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+      "published_at": "2026-05-28T01:27:22.000Z",
+      "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
+    }
+  ],
+  "tools": "/tools.json"
+}

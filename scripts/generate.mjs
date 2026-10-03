@@ -7,7 +7,7 @@
 // Output (all under public/, committed each run so they double as the cache):
 //   tools.json            - manifest describing every tool + its data URL
 //   tools/<name>.json      - one typed payload per tool (served live at /api/<name>)
-//   now.json               - combined snapshot of all tools (convenience)
+//   now.json / snapshot.json - combined snapshot (snapshot.json is served by Vercel)
 //   now.md                 - human/LLM-readable render
 //
 // Auto sources (GitHub events, GitHub repos, contributions, Substack) degrade
@@ -597,7 +597,13 @@ export async function generate() {
     fs.writeFileSync(path.join(TOOLS_DIR, tool.file), JSON.stringify(payload, null, 2) + "\n");
   }
   fs.writeFileSync(path.join(OUT_DIR, "tools.json"), JSON.stringify(manifest, null, 2) + "\n");
-  fs.writeFileSync(path.join(OUT_DIR, "now.json"), JSON.stringify(snapshot, null, 2) + "\n");
+  const snapshotJson = JSON.stringify(snapshot, null, 2) + "\n";
+  // Avoid a deployed asset named now.json, a legacy Vercel configuration name.
+  // Keep the repository artifact for existing local consumers; public aliases
+  // all resolve to snapshot.json so they cannot silently return a 404.
+  for (const file of ["now.json", "snapshot.json"]) {
+    fs.writeFileSync(path.join(OUT_DIR, file), snapshotJson);
+  }
   fs.writeFileSync(path.join(OUT_DIR, "now.md"), renderMarkdown({ now, availability, projectsData, stackData, activity, contributions, writingData }));
 
   console.log(`Generated now page at ${now}`);

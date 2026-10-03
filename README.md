@@ -28,6 +28,9 @@ fields, adds `prsReviewed`, `issuesOpened`, `totalPushes`, `source`, and `partia
 to GitHub activity, and adds `full_name` and `last_activity_at` to public projects.
 `totalCommits` is `null` when contribution data is unavailable; it is never inferred
 from push events. `totalPushes` is `null` when the public event feed is unavailable.
+The combined snapshot is also written as `public/snapshot.json`: Vercel omits the
+legacy configuration filename `now.json` as a static asset. `/now.json`, `/json`,
+and `/api/now` therefore all rewrite to the identical `snapshot.json` payload.
 
 | Tool | Source | Notes |
 |---|---|---|
