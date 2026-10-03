@@ -4,14 +4,14 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-03T13:23:51.373Z",
+  "updated": "2026-10-03T17:57:25.554Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-03T13:23:51.373Z",
+    "generated_at": "2026-10-03T17:57:25.554Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 17,
-      "totalPushes": 19,
+      "totalPushes": 23,
       "repos": [
         {
           "name": "UTMIST/UTMIST",
@@ -26,12 +26,12 @@
         {
           "name": "qiuethan/now",
           "commits": 4,
-          "pushes": 1
+          "pushes": 3
         },
         {
           "name": "qiuethan/Portfolio",
           "commits": 3,
-          "pushes": 1
+          "pushes": 3
         },
         {
           "name": "qiuethan/qiuethan",
@@ -61,7 +61,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-03T13:23:51.373Z",
+      "fetched_at": "2026-10-03T17:57:25.554Z",
       "stale": false
     },
     "coding": {
@@ -94,10 +94,10 @@
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-03T13:10:15.910Z",
-      "stale": false
+      "fetched_at": "2026-10-03T15:31:18.623Z",
+      "stale": true
     },
-    "summary": "This week Ethan Qiu recorded 17 GitHub contributions across UTMIST/UTMIST, UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty#228, #229, #234, and #241, plus UTMIST/UTMIST#452, #456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+    "summary": "This week, Ethan Qiu recorded 17 GitHub contributions across UTMIST/UTMIST, UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty#228, #229, #234, #241 and UTMIST/UTMIST#452, #456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
     "summary_stale": false
   }
 }
