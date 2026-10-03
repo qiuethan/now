@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
+  "collection_policy": "53336574dae4390d4f6c600f379ac31daf8be4b8e59e66bae83ac93b26b7b90f",
   "tool": "get_writing",
   "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
   "freshness": "daily",
-  "updated": "2026-10-03T03:36:38.105Z",
+  "updated": "2026-10-03T04:00:35.782Z",
   "data": {
     "feed_url": "https://coherentboi.substack.com/feed",
     "posts": [
@@ -39,7 +39,7 @@
         "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
       }
     ],
-    "fetched_at": "2026-10-03T03:30:41.220Z",
-    "stale": true
+    "fetched_at": "2026-10-03T04:00:35.782Z",
+    "stale": false
   }
 }

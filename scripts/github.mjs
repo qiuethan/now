@@ -148,7 +148,8 @@ export function deriveGitHubActivity(eventData, contributions, now, activeDays =
   const workEvents = new Set(["PushEvent", "PullRequestEvent", "PullRequestReviewEvent", "PullRequestReviewCommentEvent", "IssuesEvent", "IssueCommentEvent", "CommitCommentEvent", "CreateEvent", "ReleaseEvent"]);
   const seen = new Set();
   for (const event of eventData?.events ?? []) {
-    if (event.public === false || !workEvents.has(event.type) || !event.repo?.name) continue;
+    if (event.public === false || event.actor?.type === "Bot" || /\[bot\]$/i.test(event.actor?.login ?? "") ||
+        !workEvents.has(event.type) || !event.repo?.name) continue;
     if (event.id && seen.has(event.id)) continue;
     if (event.id) seen.add(event.id);
     const name = event.repo.name;
@@ -188,11 +189,11 @@ function normalizeRepo(r, lastActivity) {
     description: r.description || "", language: r.language || null,
     url: r.html_url, homepage: r.homepage || "", stars: r.stargazers_count ?? 0,
     topics: r.topics || [], pushed_at: r.pushed_at,
-    last_activity_at: lastActivity || r.pushed_at,
+    last_activity_at: lastActivity ?? null,
   };
 }
 
-export async function fetchGitHubRepos(username, includePrivate, recentRepos = new Map(), settings = {}) {
+export async function fetchGitHubRepos(username, includePrivate, recentRepos = new Map(), settings = {}, now = new Date().toISOString()) {
   const owned = [];
   let ownedFailed = false;
   try {
@@ -211,13 +212,31 @@ export async function fetchGitHubRepos(username, includePrivate, recentRepos = n
     ownedFailed = true;
   }
   const repos = new Map();
+  let discoveryFailed = false;
   for (const r of owned) {
     if (isExcludedRepository(r.full_name, settings)) continue;
     if (r.owner?.login?.toLowerCase() !== username.toLowerCase() || r.fork || r.archived || r.name.toLowerCase() === username.toLowerCase()) continue;
     if (r.private && !includePrivate) continue;
-    repos.set(r.full_name, normalizeRepo(r, recentRepos.get(r.full_name)));
+    let lastActivity = recentRepos.get(r.full_name);
+    if (!lastActivity && r.size !== 0) {
+      try {
+        // Repository pushes include bots and collaborators. Only authored work
+        // can supply a historical fallback for the user's own repositories.
+        const query = new URLSearchParams({ author: username, per_page: "1", until: now });
+        const commits = await (await request(`${API}/repos/${r.full_name}/commits?${query}`)).json();
+        const commit = commits[0];
+        const authored = commit?.commit?.author?.date;
+        if (commit?.author?.login?.toLowerCase() === username.toLowerCase() &&
+            commit.author.type !== "Bot" && Number.isFinite(Date.parse(authored)) && Date.parse(authored) <= Date.parse(now)) {
+          lastActivity = authored;
+        }
+      } catch (err) {
+        console.warn(`Authored commit lookup skipped: ${err.message}`);
+        discoveryFailed = true;
+      }
+    }
+    repos.set(r.full_name, normalizeRepo(r, lastActivity));
   }
-  let discoveryFailed = false;
   for (const [name, at] of recentRepos) {
     if (isExcludedRepository(name, settings)) continue;
     if (repos.has(name) || name.toLowerCase() === `${username}/${username}`.toLowerCase()) continue;

@@ -3,7 +3,7 @@ import os from "node:os";
 import path from "node:path";
 import { execFileSync } from "node:child_process";
 import { parseArgs } from "node:util";
-import { aggregateCoding, codingActivity, DAY_MS, utcDay } from "./activitywatch.mjs";
+import { aggregateCoding, assertTrackerHealthy, codingActivity, DAY_MS, utcDay } from "./activitywatch.mjs";
 
 const { values } = parseArgs({ options: {
   publish: { type: "boolean", default: false },
@@ -29,6 +29,7 @@ try {
     return data;
   };
   const [windows, afk] = await Promise.all([events("aw-watcher-window"), events("aw-watcher-afk")]);
+  assertTrackerHealthy(afk, now);
   const summary = aggregateCoding(windows, afk, now);
   if (!codingActivity(summary, now)) throw new Error("Aggregate validation failed; export cancelled");
   const payload = JSON.stringify(summary, null, 2) + "\n";

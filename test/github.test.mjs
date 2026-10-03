@@ -23,7 +23,7 @@ test("private project data is not fetched or sent to AI without explicit configu
   const fetcher = mock.method(globalThis, "fetch", async () => { throw new Error("Unexpected private data request"); });
   try {
     const result = await buildProjects([
-      { id: 42, name: "confidential", full_name: "org/confidential", private: true, pushed_at: AT },
+      { id: 42, name: "confidential", full_name: "org/confidential", private: true, pushed_at: AT, last_activity_at: AT },
     ], { include_private: true, private_ai_summaries: false }, NOW, null);
     assert.equal(result.projects[0].summary, "Private software project");
     assert.equal(fetcher.mock.callCount(), 0);
@@ -123,6 +123,7 @@ test("repository discovery includes public forks, paginates owned repos, and rec
     urls.push(url);
     if (url.includes("/users/person/repos") && url.endsWith("page=1")) return response([repo("person/one")], true);
     if (url.includes("/users/person/repos")) return response([repo("person/two"), repo("wrong/owner")]);
+    if (url.includes("/commits?")) return response([{ author: { login: "person", type: "User" }, commit: { author: { date: AT } } }]);
     if (url.endsWith("org/fork")) return response(repo("org/fork", { fork: true }));
     if (url.endsWith("org/hidden")) return response(repo("org/hidden", { private: true, visibility: "private" }));
     if (url.endsWith("org/internal")) return response(repo("org/internal", { visibility: "internal" }));
@@ -130,7 +131,7 @@ test("repository discovery includes public forks, paginates owned repos, and rec
   });
   const repos = await fetchGitHubRepos("person", false, new Map([["org/fork", AT], ["org/hidden", AT], ["org/internal", AT]]));
   assert.deepEqual(repos.map((r) => r.full_name), ["person/one", "person/two", "org/fork"]);
-  assert.equal(urls.length, 5);
+  assert.equal(urls.length, 7);
   assert.deepEqual(deriveStack(repos).languages, [{ name: "TypeScript", repos: 3 }]);
 });
 
@@ -141,6 +142,45 @@ test("project order and active state follow user contributions, not teammates' p
   ];
   const data = await buildProjects(repos, { max_projects: 6, active_within_days: 14 }, NOW, null);
   assert.deepEqual(data.projects.map((p) => [p.full_name, p.recently_active]), [["org/current", true], ["org/old", false]]);
+});
+
+test("owned repositories use authored commits, never bot pushes, and skip excluded repository reads", async () => {
+  const old = "2026-08-01T12:00:00Z";
+  const owned = (name, extra = {}) => ({ id: name, name, full_name: `person/${name}`, owner: { login: "person" }, pushed_at: NOW, ...extra });
+  const urls = [];
+  mock.method(globalThis, "fetch", async (url) => {
+    urls.push(url);
+    if (url.includes("/users/person/repos")) return response([
+      owned("old"), owned("bot-only"), owned("empty", { size: 0 }), owned("shopify-work"), owned("reviewed"), owned("unlinked"),
+    ]);
+    assert.doesNotMatch(url, /shopify|empty|reviewed/);
+    assert.equal(new URL(url).searchParams.get("author"), "person");
+    if (url.includes("/old/")) return response([{ author: { login: "Person", type: "User" }, commit: { author: { date: old }, committer: { date: NOW } } }]);
+    if (url.includes("/unlinked/")) return response([{ author: null, commit: { author: { date: NOW } } }]);
+    return response([]);
+  });
+  const repos = await fetchGitHubRepos("person", false, new Map([["person/reviewed", AT]]), POLICY, NOW);
+  const { projects } = await buildProjects(repos, POLICY, NOW, null);
+  assert.deepEqual(projects.map((p) => [p.full_name, p.last_activity_at, p.recently_active]), [
+    ["person/reviewed", AT, true], ["person/old", old, false],
+  ]);
+  assert.equal(urls.length, 4);
+});
+
+test("failed authored commit lookup preserves the previous complete snapshot", async () => {
+  mock.method(globalThis, "fetch", async (url) => url.includes("/users/person/repos")
+    ? response([{ name: "project", full_name: "person/project", owner: { login: "person" }, pushed_at: NOW }])
+    : new Response("unavailable", { status: 503 }));
+  assert.equal(await fetchGitHubRepos("person", false), null);
+});
+
+test("bot actors cannot make repositories recent through public events", () => {
+  const { activity, recentRepos } = deriveGitHubActivity({ events: [
+    event("PushEvent", "person/bot-only", {}, { actor: { login: "github-actions[bot]" } }),
+    event("PushEvent", "person/other-bot", {}, { actor: { login: "automation", type: "Bot" } }),
+  ] }, null, NOW);
+  assert.equal(activity.totalPushes, 0);
+  assert.equal(recentRepos.size, 0);
 });
 
 test("GraphQL errors are treated as failure, not zero activity", async () => {

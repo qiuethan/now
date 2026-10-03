@@ -95,7 +95,9 @@ in organization repositories and repositories owned by other people count too.
 The generator combines the public events feed with GraphQL commit, pull request,
 review, and issue contributions. It discovers projects over `active_within_days`
 (at least 7 days), fetches their metadata, and ranks them by your most recent
-contribution. Personal repositories fall back to their latest push date. Merely
+contribution. Personal repositories without recent contributions use the date of
+the latest commit authored by the configured user on their default branch.
+Automated pushes and collaborators' commits do not make a project recent. Merely
 having access to an organization's repository does not make it a project. Private
 organization repositories with recent contributions are eligible when
 `include_private` is enabled.
@@ -197,6 +199,9 @@ reads only the local window and AFK buckets, accepts only the restricted tracker
 Orca/VS Code events, intersects them with active time, removes overlaps, and splits
 durations at UTC midnight. The VS Code extension's file and project records are
 never read or exported. Existing broad trial history is not published.
+Before writing or publishing, the exporter requires an AFK heartbeat from the
+last two minutes (idle heartbeats count). If the watcher stops while the server
+stays up, the last good snapshot and its original sync time remain unchanged.
 
 Only daily app totals for the last 30 UTC dates, a schema version, and the sync
 timestamp are sent to the `ACTIVITYWATCH_SUMMARY` repository variable. This uses

@@ -3,6 +3,21 @@ export const DAY_MS = 86_400_000;
 export const APPS = ["Orca", "VS Code"];
 export const utcDay = (value) => new Date(value).toISOString().slice(0, 10);
 
+// AFK heartbeats continue even when no coding app is active. A running server
+// alone does not prove the native watcher is still collecting activity.
+export function assertTrackerHealthy(afkEvents, now = new Date().toISOString()) {
+  const current = Date.parse(now);
+  const healthy = Number.isFinite(current) && afkEvents.some((event) => {
+    if (!["afk", "not-afk"].includes(event?.data?.status) ||
+        !Number.isFinite(event.duration) || event.duration < 0) return false;
+    const start = Date.parse(event.timestamp);
+    const lastHeartbeat = start + event.duration * 1000;
+    return Number.isFinite(lastHeartbeat) && start <= current + 30_000 &&
+      lastHeartbeat <= current + 30_000 && current - lastHeartbeat <= 120_000;
+  });
+  if (!healthy) throw new Error("ActivityWatch coding watcher has no recent heartbeat; keeping the previous sync.");
+}
+
 function intervals(events, accept, start, end) {
   return events.filter(accept).flatMap((e) => {
     const timestamp = Date.parse(e.timestamp);

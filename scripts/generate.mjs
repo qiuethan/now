@@ -63,6 +63,7 @@ const MAX_STALE_DAYS = config.settings?.max_stale_days ?? 30;
 // can no longer be reconstructed from their public, anonymized representation.
 const COLLECTION_POLICY = createHash("sha256").update(JSON.stringify({
   version: SCHEMA_VERSION,
+  project_activity: "user-attributed-v1",
   username: config.identity.github_username,
   include_private: Boolean(config.settings?.include_private),
   exclusions: (config.settings?.excluded_repositories ?? []).map((p) => p.toLowerCase()).sort(),
@@ -285,14 +286,15 @@ export async function buildProjects(repos, settings, now, prevProjects) {
     (prevProjects?.projects ?? []).filter((p) => p.private).map((p) => [p.id, p]),
   );
 
-  const ranked = repos.slice().sort((a, b) => Date.parse(b.last_activity_at ?? b.pushed_at) - Date.parse(a.last_activity_at ?? a.pushed_at));
+  const ranked = repos.filter((r) => Number.isFinite(Date.parse(r.last_activity_at)) && Date.parse(r.last_activity_at) <= nowMs)
+    .sort((a, b) => Date.parse(b.last_activity_at) - Date.parse(a.last_activity_at));
   const max = settings?.max_projects ?? 6;
 
   const projects = [];
   for (const r of ranked) {
     if (projects.length >= max) break;
     if (isExcludedRepository(r.full_name, settings)) continue;
-    const recently_active = nowMs - Date.parse(r.last_activity_at ?? r.pushed_at) <= activeWindow;
+    const recently_active = nowMs - Date.parse(r.last_activity_at) <= activeWindow;
     if (!r.private) {
       projects.push({
         private: false,
@@ -305,7 +307,7 @@ export async function buildProjects(repos, settings, now, prevProjects) {
         stars: r.stars,
         topics: r.topics,
         pushed_at: r.pushed_at,
-        last_activity_at: r.last_activity_at ?? r.pushed_at,
+        last_activity_at: r.last_activity_at,
         recently_active,
       });
       continue;
@@ -321,7 +323,7 @@ export async function buildProjects(repos, settings, now, prevProjects) {
     }
     // Preserve private work without an API key; no raw name, URL, or README.
     if (!summary) summary = "Private software project";
-    projects.push({ private: true, id: r.id, summary, recently_active, pushed_at: pushedDay });
+    projects.push({ private: true, id: r.id, summary, recently_active, pushed_at: pushedDay, last_activity_at: r.last_activity_at.slice(0, 10) });
   }
   return { projects };
 }
@@ -519,7 +521,7 @@ export async function generate() {
   // If discovery failed, keep the last project snapshot instead of replacing
   // organization work with an apparently fresh list of owned repositories.
   const repos = collected
-    ? await fetchGitHubRepos(config.identity.github_username, config.settings?.include_private, collected.recentRepos, config.settings)
+    ? await fetchGitHubRepos(config.identity.github_username, config.settings?.include_private, collected.recentRepos, config.settings, now)
     : null;
   // Version 1 counted removed PushEvent fields as zero. Do not reuse that cache.
   const cachedGithub = prev.activity?.github?.source ? prev.activity.github : null;

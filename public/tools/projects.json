@@ -1,12 +1,26 @@
 {
   "schema_version": 2,
-  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
+  "collection_policy": "53336574dae4390d4f6c600f379ac31daf8be4b8e59e66bae83ac93b26b7b90f",
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-03T03:36:38.105Z",
+  "updated": "2026-10-03T04:00:35.782Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-03T03:47:25Z",
+        "last_activity_at": "2026-10-03T03:47:26Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Portfolio",
@@ -23,20 +37,6 @@
       },
       {
         "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-03T03:23:29Z",
-        "last_activity_at": "2026-10-03T03:23:59Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
         "name": "now",
         "full_name": "qiuethan/now",
         "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -45,7 +45,7 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-03T03:35:44Z",
+        "pushed_at": "2026-10-03T03:36:49Z",
         "last_activity_at": "2026-10-02T07:00:00Z",
         "recently_active": true
       },
@@ -84,10 +84,11 @@
         "id": 1117921210,
         "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
         "recently_active": false,
-        "pushed_at": "2026-09-18"
+        "pushed_at": "2026-09-18",
+        "last_activity_at": "2026-09-18"
       }
     ],
-    "fetched_at": "2026-10-03T03:36:38.105Z",
+    "fetched_at": "2026-10-03T04:00:35.782Z",
     "stale": false
   }
 }

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { aggregateCoding, codingActivity } from "../scripts/activitywatch.mjs";
+import { aggregateCoding, assertTrackerHealthy, codingActivity } from "../scripts/activitywatch.mjs";
 import { renderActivityBody } from "../scripts/generate.mjs";
 
 const NOW = "2026-10-02T18:00:00.000Z";
@@ -10,6 +10,16 @@ const window = (timestamp, duration, app = "Orca", extra = {}) => event(timestam
 });
 const active = (timestamp, duration) => event(timestamp, duration, { status: "not-afk" });
 const snapshot = (days) => ({ schema_version: 1, source: "activitywatch", scope: "orca-vscode", timezone: "UTC", exported_at: NOW, days });
+
+test("tracker health follows the latest heartbeat end, including idle and newly started watchers", () => {
+  assert.doesNotThrow(() => assertTrackerHealthy([active("2026-10-02T12:00:00Z", 21600)], NOW));
+  assert.doesNotThrow(() => assertTrackerHealthy([event(NOW, 0, { status: "afk" })], NOW));
+  for (const events of [[], [active("2026-10-01T12:00:00Z", 60)], [active("2026-10-02T17:57:00Z", 0)],
+    [active(NOW, -1)], [active(NOW, Infinity)], [active("invalid", 0)], [active("2026-10-03T00:00:00Z", 0)],
+    [event(NOW, 0, { status: "unknown" })], [null]]) {
+    assert.throws(() => assertTrackerHealthy(events, NOW), /no recent heartbeat/);
+  }
+});
 
 test("export intersects active time, omits other apps and old broad tracking, and strips all identifying fields", () => {
   const at = "2026-10-02T12:00:00Z";
