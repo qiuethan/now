@@ -4,12 +4,12 @@
   "tool": "get_summary",
   "description": "A short prose summary of Ethan's public GitHub contributions over the last 7 days. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-10-02T21:38:04.264Z",
+  "updated": "2026-10-03T03:30:41.220Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-02T21:38:04.264Z",
-    "fetched_at": "2026-10-02T21:38:04.264Z",
-    "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
+    "generated_at": "2026-10-03T03:30:41.220Z",
+    "fetched_at": "2026-10-03T03:30:41.220Z",
+    "summary": "Recent public GitHub activity shows that Ethan Qiu made 10 public commit contributions, opened 4 pull requests, reviewed 8 pull requests, opened 1 issues across UTMIST/UTMIST, UTMIST/Misty, qiuethan/qiuethan.",
     "stale": false
   }
 }

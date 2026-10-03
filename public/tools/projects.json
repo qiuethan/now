@@ -4,9 +4,37 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-02T21:38:04.264Z",
+  "updated": "2026-10-03T03:30:41.220Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Portfolio",
+        "full_name": "qiuethan/Portfolio",
+        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+        "language": "TypeScript",
+        "url": "https://github.com/qiuethan/Portfolio",
+        "homepage": "https://ethanqiu.ca",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-03T03:30:46Z",
+        "last_activity_at": "2026-10-03T03:30:46Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-03T03:23:29Z",
+        "last_activity_at": "2026-10-03T03:23:59Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "now",
@@ -17,8 +45,8 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-02T18:25:34Z",
-        "last_activity_at": "2026-10-02T18:25:34Z",
+        "pushed_at": "2026-10-03T01:59:08Z",
+        "last_activity_at": "2026-10-03T01:59:08Z",
         "recently_active": true
       },
       {
@@ -33,22 +61,8 @@
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-10-02T03:51:12Z",
+        "pushed_at": "2026-10-03T03:01:19Z",
         "last_activity_at": "2026-10-02T00:59:24Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-02T16:46:04Z",
-        "last_activity_at": "2026-09-30T01:17:09Z",
         "recently_active": true
       },
       {
@@ -71,23 +85,9 @@
         "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
         "recently_active": false,
         "pushed_at": "2026-09-18"
-      },
-      {
-        "private": false,
-        "name": "neetcode-submissions",
-        "full_name": "qiuethan/neetcode-submissions",
-        "description": "My NeetCode.io problem submissions",
-        "language": "Python",
-        "url": "https://github.com/qiuethan/neetcode-submissions",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-08-26T23:21:24Z",
-        "last_activity_at": "2026-08-26T23:21:24Z",
-        "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-02T21:38:04.264Z",
+    "fetched_at": "2026-10-03T03:30:41.220Z",
     "stale": false
   }
 }

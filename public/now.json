@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-02T21:38:04.264Z",
+  "last_updated": "2026-10-03T03:30:41.220Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,34 @@
   "projects": [
     {
       "private": false,
+      "name": "Portfolio",
+      "full_name": "qiuethan/Portfolio",
+      "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+      "language": "TypeScript",
+      "url": "https://github.com/qiuethan/Portfolio",
+      "homepage": "https://ethanqiu.ca",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-03T03:30:46Z",
+      "last_activity_at": "2026-10-03T03:30:46Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-03T03:23:29Z",
+      "last_activity_at": "2026-10-03T03:23:59Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "now",
       "full_name": "qiuethan/now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
@@ -27,8 +55,8 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-02T18:25:34Z",
-      "last_activity_at": "2026-10-02T18:25:34Z",
+      "pushed_at": "2026-10-03T01:59:08Z",
+      "last_activity_at": "2026-10-03T01:59:08Z",
       "recently_active": true
     },
     {
@@ -43,22 +71,8 @@
       "topics": [
         "website"
       ],
-      "pushed_at": "2026-10-02T03:51:12Z",
+      "pushed_at": "2026-10-03T03:01:19Z",
       "last_activity_at": "2026-10-02T00:59:24Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "Misty",
-      "full_name": "UTMIST/Misty",
-      "description": "",
-      "language": "Python",
-      "url": "https://github.com/UTMIST/Misty",
-      "homepage": "",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-10-02T16:46:04Z",
-      "last_activity_at": "2026-09-30T01:17:09Z",
       "recently_active": true
     },
     {
@@ -81,20 +95,6 @@
       "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
       "recently_active": false,
       "pushed_at": "2026-09-18"
-    },
-    {
-      "private": false,
-      "name": "neetcode-submissions",
-      "full_name": "qiuethan/neetcode-submissions",
-      "description": "My NeetCode.io problem submissions",
-      "language": "Python",
-      "url": "https://github.com/qiuethan/neetcode-submissions",
-      "homepage": "",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-26T23:21:24Z",
-      "last_activity_at": "2026-08-26T23:21:24Z",
-      "recently_active": false
     }
   ],
   "stack": {
@@ -124,71 +124,69 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-02T21:38:04.264Z",
+    "fetched_at": "2026-10-03T03:30:41.220Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1846,
-    "last_7_days": 20,
-    "last_30_days": 207,
-    "current_streak": 1,
+    "total_past_year": 1853,
+    "last_7_days": 24,
+    "last_30_days": 214,
+    "current_streak": 2,
     "longest_streak": 12,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 126
     },
-    "fetched_at": "2026-10-02T21:38:04.264Z",
+    "fetched_at": "2026-10-03T03:30:41.220Z",
     "stale": false
   },
-  "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
+  "summary": "Recent public GitHub activity shows that Ethan Qiu made 10 public commit contributions, opened 4 pull requests, reviewed 8 pull requests, opened 1 issues across UTMIST/UTMIST, UTMIST/Misty, qiuethan/qiuethan.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-02T21:38:04.264Z",
+    "generated_at": "2026-10-03T03:30:41.220Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 6,
-      "totalPushes": 17,
+      "totalCommits": 10,
+      "totalPushes": 15,
       "repos": [
         {
           "name": "UTMIST/UTMIST",
           "commits": 5,
-          "pushes": 16
+          "pushes": 9
+        },
+        {
+          "name": "UTMIST/Misty",
+          "commits": 4,
+          "pushes": 6
         },
         {
           "name": "qiuethan/qiuethan",
           "commits": 1,
           "pushes": 0
-        },
-        {
-          "name": "UTMIST/Misty",
-          "commits": 0,
-          "pushes": 1
         }
       ],
       "prsOpened": [
+        "UTMIST/Misty#246",
         "UTMIST/UTMIST#460",
         "UTMIST/UTMIST#472",
         "UTMIST/UTMIST#473"
       ],
       "prsReviewed": [
-        "UTMIST/Misty#231",
+        "UTMIST/Misty#228",
+        "UTMIST/Misty#229",
         "UTMIST/Misty#234",
+        "UTMIST/Misty#241",
         "UTMIST/UTMIST#452",
         "UTMIST/UTMIST#456",
         "UTMIST/UTMIST#462",
         "UTMIST/UTMIST#464"
       ],
       "issuesOpened": [
-        "UTMIST/Misty#236",
-        "UTMIST/Misty#237",
-        "UTMIST/Misty#238",
-        "UTMIST/Misty#239",
-        "UTMIST/Misty#240",
         "UTMIST/UTMIST#459"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-02T21:38:04.264Z",
+      "fetched_at": "2026-10-03T03:30:41.220Z",
       "stale": false
     },
     "coding": {
@@ -196,13 +194,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-09-26",
-      "window_end": "2026-10-02",
-      "total_seconds": 570,
+      "window_start": "2026-09-27",
+      "window_end": "2026-10-03",
+      "total_seconds": 3363,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 569
+          "seconds": 3362
         },
         {
           "name": "VS Code",
@@ -212,14 +210,19 @@
       "days": [
         {
           "date": "2026-10-02",
-          "orca_seconds": 569,
+          "orca_seconds": 1270,
           "vscode_seconds": 1
+        },
+        {
+          "date": "2026-10-03",
+          "orca_seconds": 2092,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-02T21:43:41.941Z",
+      "fetched_at": "2026-10-03T03:28:56.881Z",
       "stale": false
     },
-    "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
+    "summary": "Recent public GitHub activity shows that Ethan Qiu made 10 public commit contributions, opened 4 pull requests, reviewed 8 pull requests, opened 1 issues across UTMIST/UTMIST, UTMIST/Misty, qiuethan/qiuethan.",
     "summary_stale": false
   },
   "writing": [

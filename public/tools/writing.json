@@ -4,7 +4,7 @@
   "tool": "get_writing",
   "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
   "freshness": "daily",
-  "updated": "2026-10-02T21:38:04.264Z",
+  "updated": "2026-10-03T03:30:41.220Z",
   "data": {
     "feed_url": "https://coherentboi.substack.com/feed",
     "posts": [
@@ -39,7 +39,7 @@
         "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
       }
     ],
-    "fetched_at": "2026-10-02T21:38:04.264Z",
+    "fetched_at": "2026-10-03T03:30:41.220Z",
     "stale": false
   }
 }
