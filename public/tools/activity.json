@@ -1,33 +1,89 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
   "tool": "get_activity",
-  "description": "Live GitHub + WakaTime activity over the last 7 days.",
+  "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-02T18:25:29.015Z",
+  "updated": "2026-10-02T21:38:04.264Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-02T18:25:29.015Z",
+    "generated_at": "2026-10-02T21:38:04.264Z",
     "github": {
-      "totalCommits": 0,
-      "repos": [],
+      "source": "github_contributions_and_public_events",
+      "totalCommits": 6,
+      "totalPushes": 17,
+      "repos": [
+        {
+          "name": "UTMIST/UTMIST",
+          "commits": 5,
+          "pushes": 16
+        },
+        {
+          "name": "qiuethan/qiuethan",
+          "commits": 1,
+          "pushes": 0
+        },
+        {
+          "name": "UTMIST/Misty",
+          "commits": 0,
+          "pushes": 1
+        }
+      ],
       "prsOpened": [
-        "UTMIST/UTMIST#473",
+        "UTMIST/UTMIST#460",
         "UTMIST/UTMIST#472",
-        "UTMIST/UTMIST#460"
+        "UTMIST/UTMIST#473"
+      ],
+      "prsReviewed": [
+        "UTMIST/Misty#231",
+        "UTMIST/Misty#234",
+        "UTMIST/UTMIST#452",
+        "UTMIST/UTMIST#456",
+        "UTMIST/UTMIST#462",
+        "UTMIST/UTMIST#464"
+      ],
+      "issuesOpened": [
+        "UTMIST/Misty#236",
+        "UTMIST/Misty#237",
+        "UTMIST/Misty#238",
+        "UTMIST/Misty#239",
+        "UTMIST/Misty#240",
+        "UTMIST/UTMIST#459"
       ],
       "newRepos": [],
-      "fetched_at": "2026-10-02T18:25:29.015Z",
+      "partial": false,
+      "fetched_at": "2026-10-02T21:38:04.264Z",
       "stale": false
     },
-    "wakatime": {
-      "total": "0 secs",
-      "dailyAverage": "0 secs",
-      "seconds": 0,
-      "languages": [],
-      "projectCount": 0,
-      "fetched_at": "2026-10-02T18:25:29.015Z",
+    "coding": {
+      "source": "activitywatch",
+      "scope": "orca-vscode",
+      "timezone": "UTC",
+      "window": "last_7_days",
+      "window_start": "2026-09-26",
+      "window_end": "2026-10-02",
+      "total_seconds": 570,
+      "apps": [
+        {
+          "name": "Orca",
+          "seconds": 569
+        },
+        {
+          "name": "VS Code",
+          "seconds": 1
+        }
+      ],
+      "days": [
+        {
+          "date": "2026-10-02",
+          "orca_seconds": 569,
+          "vscode_seconds": 1
+        }
+      ],
+      "fetched_at": "2026-10-02T21:43:41.941Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #460, #472, and #473. He had 0 secs of coding time on WakaTime, with no recorded languages or projects."
+    "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
+    "summary_stale": false
   }
 }

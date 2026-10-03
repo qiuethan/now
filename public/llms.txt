@@ -1,7 +1,7 @@
 # Ethan Qiu — Now
 
 > Live "now" page for Ethan Qiu (software engineer, Toronto), regenerated hourly
-> by tracking real GitHub + WakaTime activity. Almost nothing is hand-written:
+> from public GitHub contributions and anonymous ActivityWatch coding-app totals. Almost nothing is hand-written:
 > projects and stack are derived from live data. JSON is the source of truth;
 > the markdown and this index are renders.
 
@@ -15,11 +15,12 @@
 - [Tool manifest](https://now.ethanqiu.ca/api): lists every tool, its description, and data URL
 - [get_identity](https://now.ethanqiu.ca/api/identity): name, headline, location, links
 - [get_availability](https://now.ethanqiu.ca/api/availability): whether Ethan is open to opportunities
-- [get_projects](https://now.ethanqiu.ca/api/projects): most recently active GitHub repos with descriptions, languages, stars
-- [get_stack](https://now.ethanqiu.ca/api/stack): languages derived from GitHub repos + WakaTime
-- [get_activity](https://now.ethanqiu.ca/api/activity): live GitHub + WakaTime activity, last 7 days
-- [get_summary](https://now.ethanqiu.ca/api/summary): short LLM-written prose summary of the last 7 days of coding
-- [get_contributions](https://now.ethanqiu.ca/api/contributions): GitHub contribution calendar (daily counts, past year), totals + streaks
+- [get_projects](https://now.ethanqiu.ca/api/projects): personal and contributed GitHub repos, including organization work; private projects anonymized
+- [get_stack](https://now.ethanqiu.ca/api/stack): languages derived from personal and contributed public GitHub repos
+- [get_activity](https://now.ethanqiu.ca/api/activity): public GitHub contributions and coding-app time, last 7 UTC days
+- [get_coding](https://now.ethanqiu.ca/api/coding): anonymous active time in Orca and VS Code, split by app and date; last sync timestamp included
+- [get_summary](https://now.ethanqiu.ca/api/summary): short prose summary of the last 7 days of coding
+- [get_contributions](https://now.ethanqiu.ca/api/contributions): filtered GitHub contribution calendar (daily counts, past year), totals + streaks
 
 ## Other resources
 

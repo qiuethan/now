@@ -2,7 +2,7 @@ name: Update now page
 
 on:
   schedule:
-    - cron: "17 * * * *" # hourly, off the top-of-hour rush — the ONLY automatic generation
+    - cron: "17 * * * *" # hourly; the Mac syncs ActivityWatch totals separately
   workflow_dispatch: # manual re-generate (e.g. after editing config/now.json)
 
 permissions:
@@ -25,13 +25,15 @@ jobs:
 
       - run: npm ci
 
+      - run: npm test
+
       - name: Generate now page
         run: npm run generate
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_PAT: ${{ secrets.GH_PAT }}
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ACTIVITYWATCH_SUMMARY: ${{ vars.ACTIVITYWATCH_SUMMARY }}
 
       - name: Commit if changed
         run: |

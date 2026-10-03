@@ -1,13 +1,12 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-02T18:25:29.015Z",
+  "last_updated": "2026-10-02T21:38:04.264Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
     "location": "Toronto, Canada",
     "github_username": "qiuethan",
-    "wakatime_username": "",
     "links": {
       "portfolio": "https://ethanqiu.ca",
       "resume": "https://ethanqiu.ca/resume.pdf",
@@ -21,13 +20,59 @@
     {
       "private": false,
       "name": "now",
+      "full_name": "qiuethan/now",
       "description": "Self-updating now page + JSON API for ethanqiu.ca",
       "language": "JavaScript",
       "url": "https://github.com/qiuethan/now",
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-02T12:37:19Z",
+      "pushed_at": "2026-10-02T18:25:34Z",
+      "last_activity_at": "2026-10-02T18:25:34Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "UTMIST",
+      "full_name": "UTMIST/UTMIST",
+      "description": "UTMIST Website",
+      "language": "TypeScript",
+      "url": "https://github.com/UTMIST/UTMIST",
+      "homepage": "",
+      "stars": 2,
+      "topics": [
+        "website"
+      ],
+      "pushed_at": "2026-10-02T03:51:12Z",
+      "last_activity_at": "2026-10-02T00:59:24Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-10-02T16:46:04Z",
+      "last_activity_at": "2026-09-30T01:17:09Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
+      "name": "HTN",
+      "full_name": "ji24077/HTN",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/ji24077/HTN",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-09-20T13:45:32Z",
+      "last_activity_at": "2026-09-20T10:55:51Z",
       "recently_active": true
     },
     {
@@ -40,6 +85,7 @@
     {
       "private": false,
       "name": "neetcode-submissions",
+      "full_name": "qiuethan/neetcode-submissions",
       "description": "My NeetCode.io problem submissions",
       "language": "Python",
       "url": "https://github.com/qiuethan/neetcode-submissions",
@@ -47,44 +93,19 @@
       "stars": 0,
       "topics": [],
       "pushed_at": "2026-08-26T23:21:24Z",
+      "last_activity_at": "2026-08-26T23:21:24Z",
       "recently_active": false
-    },
-    {
-      "private": false,
-      "name": "Portfolio",
-      "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
-      "language": "TypeScript",
-      "url": "https://github.com/qiuethan/Portfolio",
-      "homepage": "https://ethanqiu.ca",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-08-12T04:27:43Z",
-      "recently_active": false
-    },
-    {
-      "private": true,
-      "id": 1250939878,
-      "summary": "A Java-based Minecraft mod template for creating and developing game modifications",
-      "recently_active": false,
-      "pushed_at": "2026-07-10"
-    },
-    {
-      "private": true,
-      "id": 1206578653,
-      "summary": "A TypeScript Discord-based personal AI assistant supports text and voice conversations with persistent memory and automation",
-      "recently_active": false,
-      "pushed_at": "2026-06-07"
     }
   ],
   "stack": {
     "languages": [
       {
         "name": "Python",
-        "repos": 7
+        "repos": 8
       },
       {
         "name": "TypeScript",
-        "repos": 5
+        "repos": 7
       },
       {
         "name": "JavaScript",
@@ -103,50 +124,135 @@
         "repos": 1
       }
     ],
-    "from_wakatime": [],
-    "fetched_at": "2026-10-02T18:25:29.015Z",
+    "fetched_at": "2026-10-02T21:38:04.264Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2527,
-    "last_7_days": 19,
+    "total_past_year": 1846,
+    "last_7_days": 20,
     "last_30_days": 207,
-    "current_streak": 7,
-    "longest_streak": 18,
+    "current_streak": 1,
+    "longest_streak": 12,
     "busiest_day": {
       "date": "2026-07-03",
-      "count": 122
+      "count": 126
     },
-    "fetched_at": "2026-10-02T18:25:29.015Z",
+    "fetched_at": "2026-10-02T21:38:04.264Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #460, #472, and #473. He had 0 secs of coding time on WakaTime, with no recorded languages or projects.",
+  "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-02T18:25:29.015Z",
+    "generated_at": "2026-10-02T21:38:04.264Z",
     "github": {
-      "totalCommits": 0,
-      "repos": [],
+      "source": "github_contributions_and_public_events",
+      "totalCommits": 6,
+      "totalPushes": 17,
+      "repos": [
+        {
+          "name": "UTMIST/UTMIST",
+          "commits": 5,
+          "pushes": 16
+        },
+        {
+          "name": "qiuethan/qiuethan",
+          "commits": 1,
+          "pushes": 0
+        },
+        {
+          "name": "UTMIST/Misty",
+          "commits": 0,
+          "pushes": 1
+        }
+      ],
       "prsOpened": [
-        "UTMIST/UTMIST#473",
+        "UTMIST/UTMIST#460",
         "UTMIST/UTMIST#472",
-        "UTMIST/UTMIST#460"
+        "UTMIST/UTMIST#473"
+      ],
+      "prsReviewed": [
+        "UTMIST/Misty#231",
+        "UTMIST/Misty#234",
+        "UTMIST/UTMIST#452",
+        "UTMIST/UTMIST#456",
+        "UTMIST/UTMIST#462",
+        "UTMIST/UTMIST#464"
+      ],
+      "issuesOpened": [
+        "UTMIST/Misty#236",
+        "UTMIST/Misty#237",
+        "UTMIST/Misty#238",
+        "UTMIST/Misty#239",
+        "UTMIST/Misty#240",
+        "UTMIST/UTMIST#459"
       ],
       "newRepos": [],
-      "fetched_at": "2026-10-02T18:25:29.015Z",
+      "partial": false,
+      "fetched_at": "2026-10-02T21:38:04.264Z",
       "stale": false
     },
-    "wakatime": {
-      "total": "0 secs",
-      "dailyAverage": "0 secs",
-      "seconds": 0,
-      "languages": [],
-      "projectCount": 0,
-      "fetched_at": "2026-10-02T18:25:29.015Z",
+    "coding": {
+      "source": "activitywatch",
+      "scope": "orca-vscode",
+      "timezone": "UTC",
+      "window": "last_7_days",
+      "window_start": "2026-09-26",
+      "window_end": "2026-10-02",
+      "total_seconds": 570,
+      "apps": [
+        {
+          "name": "Orca",
+          "seconds": 569
+        },
+        {
+          "name": "VS Code",
+          "seconds": 1
+        }
+      ],
+      "days": [
+        {
+          "date": "2026-10-02",
+          "orca_seconds": 569,
+          "vscode_seconds": 1
+        }
+      ],
+      "fetched_at": "2026-10-02T21:43:41.941Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu opened three pull requests in UTMIST/UTMIST: #460, #472, and #473. He had 0 secs of coding time on WakaTime, with no recorded languages or projects."
+    "summary": "Recent public GitHub activity shows that Ethan Qiu made 6 public commit contributions, opened 3 pull requests, reviewed 6 pull requests, opened 6 issues across UTMIST/UTMIST, qiuethan/qiuethan, UTMIST/Misty.",
+    "summary_stale": false
   },
-  "writing": [],
+  "writing": [
+    {
+      "title": "The one about brand new day",
+      "url": "https://coherentboi.substack.com/p/the-one-about-brand-new-day",
+      "published_at": "2026-08-04T03:51:53.000Z",
+      "excerpt": "My sister was kind enough to invite me to watch Spiderman: Brand New Day today. The movie, although ending on a disappointing note (which I will get to), made me deeply resonate with the movie and inspired me to share…"
+    },
+    {
+      "title": "The one about bad dreams",
+      "url": "https://coherentboi.substack.com/p/the-one-about-bad-dreams",
+      "published_at": "2026-08-01T19:15:57.000Z",
+      "excerpt": "We all know the feeling when you have a nightmare as a kid. You run away from a sort of monster, or a zombie, or as you get older , you fail a test. The kind of nightmare that makes you sit upright, clutch the sheets…"
+    },
+    {
+      "title": "The one about Union Station",
+      "url": "https://coherentboi.substack.com/p/the-one-about-uniom-station",
+      "published_at": "2026-06-22T14:50:35.000Z",
+      "excerpt": "TLDR if you want to avoid the graphic content: People are incredibly kind and I want to thank Scott, the medic, security and the custodian :D So it’s Monday morning, 10:19 PM when I’m writing this. I’ve experienced…"
+    },
+    {
+      "title": "The one about Thea pt. the end?",
+      "url": "https://coherentboi.substack.com/p/the-one-about-thea-pt-the-end",
+      "published_at": "2026-06-14T23:15:07.000Z",
+      "excerpt": "So this email was sent to me about a month ago, when I was first experimenting with Thea (if you don’t know what that is, go look at some of my other articles). Basically, because Thea runs on the claude agents SDK…"
+    },
+    {
+      "title": "The one about Tomodachi Life",
+      "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+      "published_at": "2026-05-28T01:27:22.000Z",
+      "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
+    }
+  ],
   "tools": "/tools.json"
 }

@@ -2,10 +2,12 @@
   "name": "now",
   "version": "1.0.0",
   "private": true,
-  "description": "Self-updating /now page for ethanqiu.ca — aggregates GitHub + WakaTime activity hourly and renders an LLM-readable now.md",
+  "description": "Self-updating /now page for ethanqiu.ca — aggregates public GitHub contributions across personal and organization repositories",
   "type": "module",
   "scripts": {
-    "generate": "node scripts/generate.mjs"
+    "generate": "node scripts/generate.mjs",
+    "sync:activitywatch": "node scripts/export-activitywatch.mjs --publish --repo qiuethan/now",
+    "test": "node --test"
   },
   "engines": {
     "node": ">=20"

@@ -1,18 +1,19 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
   "tool": "get_stack",
-  "description": "Languages in use, derived from GitHub repos and WakaTime.",
+  "description": "Languages in use across personal and contributed public GitHub repositories.",
   "freshness": "hourly",
-  "updated": "2026-10-02T18:25:29.015Z",
+  "updated": "2026-10-02T21:38:04.264Z",
   "data": {
     "languages": [
       {
         "name": "Python",
-        "repos": 7
+        "repos": 8
       },
       {
         "name": "TypeScript",
-        "repos": 5
+        "repos": 7
       },
       {
         "name": "JavaScript",
@@ -31,8 +32,7 @@
         "repos": 1
       }
     ],
-    "from_wakatime": [],
-    "fetched_at": "2026-10-02T18:25:29.015Z",
+    "fetched_at": "2026-10-02T21:38:04.264Z",
     "stale": false
   }
 }

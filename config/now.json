@@ -4,7 +4,6 @@
     "headline": "Software engineer · Toronto",
     "location": "Toronto, Canada",
     "github_username": "qiuethan",
-    "wakatime_username": "",
     "links": {
       "portfolio": "https://ethanqiu.ca",
       "resume": "https://ethanqiu.ca/resume.pdf",
@@ -20,6 +19,8 @@
     "max_projects": 6,
     "active_within_days": 14,
     "include_private": true,
+    "private_ai_summaries": false,
+    "excluded_repositories": ["*shopify*"],
     "max_posts": 5
   }
 }

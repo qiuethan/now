@@ -1,15 +1,15 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
   "tool": "get_identity",
   "description": "Name, headline, location, and canonical links.",
   "freshness": "static",
-  "updated": "2026-10-02T18:25:29.015Z",
+  "updated": "2026-10-02T21:38:04.264Z",
   "data": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
     "location": "Toronto, Canada",
     "github_username": "qiuethan",
-    "wakatime_username": "",
     "links": {
       "portfolio": "https://ethanqiu.ca",
       "resume": "https://ethanqiu.ca/resume.pdf",

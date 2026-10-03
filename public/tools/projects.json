@@ -1,21 +1,68 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
+  "collection_policy": "9463384e11026d01a7a1b1a151ce7e2d5246da4dcb8202664b9788ef00b30a6b",
   "tool": "get_projects",
-  "description": "Most recently active GitHub repositories. Public repos include full detail; private repos appear as anonymized AI summaries with name and links withheld.",
+  "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-02T18:25:29.015Z",
+  "updated": "2026-10-02T21:38:04.264Z",
   "data": {
     "projects": [
       {
         "private": false,
         "name": "now",
+        "full_name": "qiuethan/now",
         "description": "Self-updating now page + JSON API for ethanqiu.ca",
         "language": "JavaScript",
         "url": "https://github.com/qiuethan/now",
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-02T12:37:19Z",
+        "pushed_at": "2026-10-02T18:25:34Z",
+        "last_activity_at": "2026-10-02T18:25:34Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "UTMIST",
+        "full_name": "UTMIST/UTMIST",
+        "description": "UTMIST Website",
+        "language": "TypeScript",
+        "url": "https://github.com/UTMIST/UTMIST",
+        "homepage": "",
+        "stars": 2,
+        "topics": [
+          "website"
+        ],
+        "pushed_at": "2026-10-02T03:51:12Z",
+        "last_activity_at": "2026-10-02T00:59:24Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-02T16:46:04Z",
+        "last_activity_at": "2026-09-30T01:17:09Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "HTN",
+        "full_name": "ji24077/HTN",
+        "description": "",
+        "language": "TypeScript",
+        "url": "https://github.com/ji24077/HTN",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-09-20T13:45:32Z",
+        "last_activity_at": "2026-09-20T10:55:51Z",
         "recently_active": true
       },
       {
@@ -28,6 +75,7 @@
       {
         "private": false,
         "name": "neetcode-submissions",
+        "full_name": "qiuethan/neetcode-submissions",
         "description": "My NeetCode.io problem submissions",
         "language": "Python",
         "url": "https://github.com/qiuethan/neetcode-submissions",
@@ -35,36 +83,11 @@
         "stars": 0,
         "topics": [],
         "pushed_at": "2026-08-26T23:21:24Z",
+        "last_activity_at": "2026-08-26T23:21:24Z",
         "recently_active": false
-      },
-      {
-        "private": false,
-        "name": "Portfolio",
-        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
-        "language": "TypeScript",
-        "url": "https://github.com/qiuethan/Portfolio",
-        "homepage": "https://ethanqiu.ca",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-08-12T04:27:43Z",
-        "recently_active": false
-      },
-      {
-        "private": true,
-        "id": 1250939878,
-        "summary": "A Java-based Minecraft mod template for creating and developing game modifications",
-        "recently_active": false,
-        "pushed_at": "2026-07-10"
-      },
-      {
-        "private": true,
-        "id": 1206578653,
-        "summary": "A TypeScript Discord-based personal AI assistant supports text and voice conversations with persistent memory and automation",
-        "recently_active": false,
-        "pushed_at": "2026-06-07"
       }
     ],
-    "fetched_at": "2026-10-02T18:25:29.015Z",
+    "fetched_at": "2026-10-02T21:38:04.264Z",
     "stale": false
   }
 }
