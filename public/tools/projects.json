@@ -4,37 +4,9 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-03T04:03:05.654Z",
+  "updated": "2026-10-03T08:07:31.287Z",
   "data": {
     "projects": [
-      {
-        "private": false,
-        "name": "now",
-        "full_name": "qiuethan/now",
-        "description": "Self-updating now page + JSON API for ethanqiu.ca",
-        "language": "JavaScript",
-        "url": "https://github.com/qiuethan/now",
-        "homepage": "https://now-six-chi.vercel.app",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-03T04:02:52Z",
-        "last_activity_at": "2026-10-03T04:02:53Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-03T03:47:25Z",
-        "last_activity_at": "2026-10-03T03:47:26Z",
-        "recently_active": true
-      },
       {
         "private": false,
         "name": "Portfolio",
@@ -45,8 +17,22 @@
         "homepage": "https://ethanqiu.ca",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-03T03:33:13Z",
-        "last_activity_at": "2026-10-03T03:30:46Z",
+        "pushed_at": "2026-10-03T04:03:50Z",
+        "last_activity_at": "2026-10-03T07:00:00Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "now",
+        "full_name": "qiuethan/now",
+        "description": "Self-updating now page + JSON API for ethanqiu.ca",
+        "language": "JavaScript",
+        "url": "https://github.com/qiuethan/now",
+        "homepage": "https://now-six-chi.vercel.app",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-03T04:03:23Z",
+        "last_activity_at": "2026-10-03T07:00:00Z",
         "recently_active": true
       },
       {
@@ -61,8 +47,22 @@
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-10-03T03:01:19Z",
-        "last_activity_at": "2026-10-02T00:59:24Z",
+        "pushed_at": "2026-10-03T04:35:10Z",
+        "last_activity_at": "2026-10-03T04:35:28Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-03T05:49:35Z",
+        "last_activity_at": "2026-10-03T03:47:26Z",
         "recently_active": true
       },
       {
@@ -88,7 +88,7 @@
         "last_activity_at": "2026-09-18"
       }
     ],
-    "fetched_at": "2026-10-03T04:03:05.654Z",
+    "fetched_at": "2026-10-03T08:07:31.287Z",
     "stale": false
   }
 }
