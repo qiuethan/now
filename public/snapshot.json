@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-04T17:35:29.553Z",
+  "last_updated": "2026-10-04T21:26:54.990Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -41,7 +41,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-04T13:12:37Z",
+      "pushed_at": "2026-10-04T17:35:52Z",
       "last_activity_at": "2026-10-03T07:00:00Z",
       "recently_active": true
     },
@@ -125,7 +125,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-04T17:35:29.553Z",
+    "fetched_at": "2026-10-04T21:26:54.990Z",
     "stale": false
   },
   "contributions": {
@@ -138,13 +138,13 @@
       "date": "2026-07-03",
       "count": 126
     },
-    "fetched_at": "2026-10-04T17:35:29.553Z",
+    "fetched_at": "2026-10-04T21:26:54.990Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu had 28 GitHub contribution-count commits and 31 pushes across UTMIST/Misty, UTMIST/UTMIST, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty#206, #221, #228, #229, #230, #233, #234, #241, #242, #243, #244, #245, #246, #247, and #248, plus UTMIST/UTMIST#456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+  "summary": "This week, Ethan Qiu had 28 GitHub contribution-count commits across five public repositories, led by UTMIST/Misty with 16 and UTMIST/UTMIST with 4. He also contributed to qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, and opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481. He reviewed pull requests in UTMIST/Misty#206, #221, #228, #229, #230, #233, #234, #241, #242, #243, #244, #245, #246, #247, and #248, as well as UTMIST/UTMIST#456, #462, and #464, and opened issue UTMIST/UTMIST#459.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-04T17:35:29.553Z",
+    "generated_at": "2026-10-04T21:26:54.990Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 28,
@@ -208,7 +208,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-04T17:35:29.553Z",
+      "fetched_at": "2026-10-04T21:26:54.990Z",
       "stale": false
     },
     "coding": {
@@ -246,10 +246,10 @@
           "vscode_seconds": 7
         }
       ],
-      "fetched_at": "2026-10-04T16:36:03.132Z",
+      "fetched_at": "2026-10-04T21:11:08.790Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu had 28 GitHub contribution-count commits and 31 pushes across UTMIST/Misty, UTMIST/UTMIST, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty#206, #221, #228, #229, #230, #233, #234, #241, #242, #243, #244, #245, #246, #247, and #248, plus UTMIST/UTMIST#456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+    "summary": "This week, Ethan Qiu had 28 GitHub contribution-count commits across five public repositories, led by UTMIST/Misty with 16 and UTMIST/UTMIST with 4. He also contributed to qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, and opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481. He reviewed pull requests in UTMIST/Misty#206, #221, #228, #229, #230, #233, #234, #241, #242, #243, #244, #245, #246, #247, and #248, as well as UTMIST/UTMIST#456, #462, and #464, and opened issue UTMIST/UTMIST#459.",
     "summary_stale": false
   },
   "writing": [
