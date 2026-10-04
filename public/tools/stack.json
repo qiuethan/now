@@ -4,7 +4,7 @@
   "tool": "get_stack",
   "description": "Languages in use across personal and contributed public GitHub repositories.",
   "freshness": "hourly",
-  "updated": "2026-10-04T06:50:07.282Z",
+  "updated": "2026-10-04T13:12:17.083Z",
   "data": {
     "languages": [
       {
@@ -13,7 +13,7 @@
       },
       {
         "name": "TypeScript",
-        "repos": 7
+        "repos": 6
       },
       {
         "name": "JavaScript",
@@ -32,7 +32,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-04T06:50:07.282Z",
+    "fetched_at": "2026-10-04T13:12:17.083Z",
     "stale": false
   }
 }

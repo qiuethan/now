@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-04T06:50:07.282Z",
+  "last_updated": "2026-10-04T13:12:17.083Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,8 +27,8 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-04T05:55:53Z",
-      "last_activity_at": "2026-10-04T06:48:13Z",
+      "pushed_at": "2026-10-04T06:56:19Z",
+      "last_activity_at": "2026-10-04T07:00:00Z",
       "recently_active": true
     },
     {
@@ -41,7 +41,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-04T00:39:20Z",
+      "pushed_at": "2026-10-04T06:50:29Z",
       "last_activity_at": "2026-10-03T07:00:00Z",
       "recently_active": true
     },
@@ -76,26 +76,26 @@
       "recently_active": true
     },
     {
-      "private": false,
-      "name": "HTN",
-      "full_name": "ji24077/HTN",
-      "description": "",
-      "language": "TypeScript",
-      "url": "https://github.com/ji24077/HTN",
-      "homepage": "",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-09-20T13:45:32Z",
-      "last_activity_at": "2026-09-20T10:55:51Z",
-      "recently_active": true
-    },
-    {
       "private": true,
       "id": 1117921210,
       "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
       "recently_active": false,
       "pushed_at": "2026-09-18",
       "last_activity_at": "2026-09-18"
+    },
+    {
+      "private": false,
+      "name": "neetcode-submissions",
+      "full_name": "qiuethan/neetcode-submissions",
+      "description": "My NeetCode.io problem submissions",
+      "language": "Python",
+      "url": "https://github.com/qiuethan/neetcode-submissions",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-08-26T23:21:24Z",
+      "last_activity_at": "2026-08-26T23:21:24Z",
+      "recently_active": false
     }
   ],
   "stack": {
@@ -106,7 +106,7 @@
       },
       {
         "name": "TypeScript",
-        "repos": 7
+        "repos": 6
       },
       {
         "name": "JavaScript",
@@ -125,35 +125,35 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-04T06:50:07.282Z",
+    "fetched_at": "2026-10-04T13:12:17.083Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 1877,
-    "last_7_days": 51,
-    "last_30_days": 229,
+    "total_past_year": 1879,
+    "last_7_days": 53,
+    "last_30_days": 231,
     "current_streak": 3,
     "longest_streak": 12,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 126
     },
-    "fetched_at": "2026-10-04T06:50:07.282Z",
+    "fetched_at": "2026-10-04T13:12:17.083Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 26 GitHub contribution-counted commits across public repositories, including 14 in UTMIST/Misty, 4 in UTMIST/UTMIST, 4 in qiuethan/now, 3 in qiuethan/Portfolio, and 1 in qiuethan/qiuethan. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206, #221, #228, and UTMIST/UTMIST#456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+  "summary": "This week, Ethan Qiu made contributions in UTMIST/Misty, UTMIST/UTMIST, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, with the most GitHub contributions in UTMIST/Misty. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and opened issue UTMIST/UTMIST#459. He also reviewed pull requests across UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206 through #248 and UTMIST/UTMIST#456, #462, and #464.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-04T06:50:07.282Z",
+    "generated_at": "2026-10-04T13:12:17.083Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 26,
-      "totalPushes": 28,
+      "totalCommits": 28,
+      "totalPushes": 30,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 14,
-          "pushes": 12
+          "commits": 16,
+          "pushes": 14
         },
         {
           "name": "UTMIST/UTMIST",
@@ -208,7 +208,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-04T06:50:07.282Z",
+      "fetched_at": "2026-10-04T13:12:17.083Z",
       "stale": false
     },
     "coding": {
@@ -218,11 +218,11 @@
       "window": "last_7_days",
       "window_start": "2026-09-28",
       "window_end": "2026-10-04",
-      "total_seconds": 8437,
+      "total_seconds": 9190,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 8427
+          "seconds": 9180
         },
         {
           "name": "VS Code",
@@ -242,14 +242,14 @@
         },
         {
           "date": "2026-10-04",
-          "orca_seconds": 1960,
+          "orca_seconds": 2713,
           "vscode_seconds": 7
         }
       ],
-      "fetched_at": "2026-10-04T06:41:36.218Z",
-      "stale": false
+      "fetched_at": "2026-10-04T09:13:12.869Z",
+      "stale": true
     },
-    "summary": "This week, Ethan Qiu made 26 GitHub contribution-counted commits across public repositories, including 14 in UTMIST/Misty, 4 in UTMIST/UTMIST, 4 in qiuethan/now, 3 in qiuethan/Portfolio, and 1 in qiuethan/qiuethan. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206, #221, #228, and UTMIST/UTMIST#456, #462, and #464. He also opened issue UTMIST/UTMIST#459.",
+    "summary": "This week, Ethan Qiu made contributions in UTMIST/Misty, UTMIST/UTMIST, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan, with the most GitHub contributions in UTMIST/Misty. He opened pull requests UTMIST/Misty#246 and UTMIST/UTMIST#460, #472, #473, and #481, and opened issue UTMIST/UTMIST#459. He also reviewed pull requests across UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206 through #248 and UTMIST/UTMIST#456, #462, and #464.",
     "summary_stale": false
   },
   "writing": [

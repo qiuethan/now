@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-04T06:50:07.282Z",
+  "updated": "2026-10-04T13:12:17.083Z",
   "data": {
     "projects": [
       {
@@ -17,8 +17,8 @@
         "homepage": "",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-04T05:55:53Z",
-        "last_activity_at": "2026-10-04T06:48:13Z",
+        "pushed_at": "2026-10-04T06:56:19Z",
+        "last_activity_at": "2026-10-04T07:00:00Z",
         "recently_active": true
       },
       {
@@ -31,7 +31,7 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-04T00:39:20Z",
+        "pushed_at": "2026-10-04T06:50:29Z",
         "last_activity_at": "2026-10-03T07:00:00Z",
         "recently_active": true
       },
@@ -66,29 +66,29 @@
         "recently_active": true
       },
       {
-        "private": false,
-        "name": "HTN",
-        "full_name": "ji24077/HTN",
-        "description": "",
-        "language": "TypeScript",
-        "url": "https://github.com/ji24077/HTN",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-09-20T13:45:32Z",
-        "last_activity_at": "2026-09-20T10:55:51Z",
-        "recently_active": true
-      },
-      {
         "private": true,
         "id": 1117921210,
         "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
         "recently_active": false,
         "pushed_at": "2026-09-18",
         "last_activity_at": "2026-09-18"
+      },
+      {
+        "private": false,
+        "name": "neetcode-submissions",
+        "full_name": "qiuethan/neetcode-submissions",
+        "description": "My NeetCode.io problem submissions",
+        "language": "Python",
+        "url": "https://github.com/qiuethan/neetcode-submissions",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-08-26T23:21:24Z",
+        "last_activity_at": "2026-08-26T23:21:24Z",
+        "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-04T06:50:07.282Z",
+    "fetched_at": "2026-10-04T13:12:17.083Z",
     "stale": false
   }
 }
