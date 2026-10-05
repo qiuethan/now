@@ -4,19 +4,19 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-05T07:03:48.858Z",
+  "updated": "2026-10-05T16:01:58.216Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-05T07:03:48.858Z",
+    "generated_at": "2026-10-05T16:01:58.216Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 27,
-      "totalPushes": 28,
+      "totalPushes": 30,
       "repos": [
         {
           "name": "UTMIST/Misty",
           "commits": 16,
-          "pushes": 14
+          "pushes": 16
         },
         {
           "name": "qiuethan/now",
@@ -67,7 +67,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-05T07:03:48.858Z",
+      "fetched_at": "2026-10-05T16:01:58.216Z",
       "stale": false
     },
     "coding": {
@@ -77,11 +77,11 @@
       "window": "last_7_days",
       "window_start": "2026-09-29",
       "window_end": "2026-10-05",
-      "total_seconds": 9190,
+      "total_seconds": 9207,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 9180
+          "seconds": 9197
         },
         {
           "name": "VS Code",
@@ -103,12 +103,17 @@
           "date": "2026-10-04",
           "orca_seconds": 2713,
           "vscode_seconds": 7
+        },
+        {
+          "date": "2026-10-05",
+          "orca_seconds": 17,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-05T07:01:32.755Z",
+      "fetched_at": "2026-10-05T15:27:48.663Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu made 27 GitHub contributions across five repositories, with the most activity in UTMIST/Misty and qiuethan/now. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#472, #473, and #481. He also reviewed pull requests in UTMIST/Misty from #206 through #248, plus UTMIST/UTMIST#456 and #464.",
+    "summary": "This week, Ethan Qiu had 27 GitHub contribution-count commits across 30 pushes, with most activity in UTMIST/Misty (16 commits) and additional work in qiuethan/now, UTMIST/UTMIST, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#472, #473, and #481. He also reviewed pull requests in UTMIST/Misty#206, #221, #228-#248 and UTMIST/UTMIST#456 and #464.",
     "summary_stale": false
   }
 }
