@@ -4,29 +4,29 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-05T16:01:58.216Z",
+  "updated": "2026-10-05T22:38:27.746Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-05T16:01:58.216Z",
+    "generated_at": "2026-10-05T22:38:27.746Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 27,
-      "totalPushes": 30,
+      "totalCommits": 43,
+      "totalPushes": 40,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 16,
-          "pushes": 16
+          "commits": 31,
+          "pushes": 26
+        },
+        {
+          "name": "UTMIST/UTMIST",
+          "commits": 4,
+          "pushes": 7
         },
         {
           "name": "qiuethan/now",
           "commits": 4,
           "pushes": 3
-        },
-        {
-          "name": "UTMIST/UTMIST",
-          "commits": 3,
-          "pushes": 7
         },
         {
           "name": "qiuethan/Portfolio",
@@ -41,9 +41,13 @@
       ],
       "prsOpened": [
         "UTMIST/Misty#246",
+        "UTMIST/Misty#254",
+        "UTMIST/Misty#255",
+        "UTMIST/Misty#256",
         "UTMIST/UTMIST#472",
         "UTMIST/UTMIST#473",
-        "UTMIST/UTMIST#481"
+        "UTMIST/UTMIST#481",
+        "UTMIST/UTMIST#484"
       ],
       "prsReviewed": [
         "UTMIST/Misty#206",
@@ -61,13 +65,27 @@
         "UTMIST/Misty#246",
         "UTMIST/Misty#247",
         "UTMIST/Misty#248",
+        "UTMIST/Misty#249",
+        "UTMIST/Misty#250",
+        "UTMIST/Misty#251",
+        "UTMIST/Misty#253",
+        "UTMIST/Misty#258",
         "UTMIST/UTMIST#456",
-        "UTMIST/UTMIST#464"
+        "UTMIST/UTMIST#464",
+        "UTMIST/UTMIST#466",
+        "UTMIST/UTMIST#467",
+        "UTMIST/UTMIST#468",
+        "UTMIST/UTMIST#469",
+        "UTMIST/UTMIST#470",
+        "UTMIST/UTMIST#471",
+        "UTMIST/UTMIST#476"
       ],
-      "issuesOpened": [],
+      "issuesOpened": [
+        "UTMIST/UTMIST#483"
+      ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-05T16:01:58.216Z",
+      "fetched_at": "2026-10-05T22:38:27.746Z",
       "stale": false
     },
     "coding": {
@@ -77,15 +95,15 @@
       "window": "last_7_days",
       "window_start": "2026-09-29",
       "window_end": "2026-10-05",
-      "total_seconds": 9207,
+      "total_seconds": 16322,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 9197
+          "seconds": 16311
         },
         {
           "name": "VS Code",
-          "seconds": 10
+          "seconds": 11
         }
       ],
       "days": [
@@ -106,14 +124,14 @@
         },
         {
           "date": "2026-10-05",
-          "orca_seconds": 17,
-          "vscode_seconds": 0
+          "orca_seconds": 7131,
+          "vscode_seconds": 1
         }
       ],
-      "fetched_at": "2026-10-05T15:27:48.663Z",
+      "fetched_at": "2026-10-05T22:00:12.571Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu had 27 GitHub contribution-count commits across 30 pushes, with most activity in UTMIST/Misty (16 commits) and additional work in qiuethan/now, UTMIST/UTMIST, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty#246 and UTMIST/UTMIST#472, #473, and #481. He also reviewed pull requests in UTMIST/Misty#206, #221, #228-#248 and UTMIST/UTMIST#456 and #464.",
+    "summary": "This week, Ethan Qiu’s activity was concentrated in UTMIST/Misty, with 31 GitHub contributions there, and additional contributions in UTMIST/UTMIST, qiuethan/now, qiuethan/Portfolio, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#472, #473, #481, #484), and opened issue UTMIST/UTMIST#483. He also reviewed pull requests across UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206 and UTMIST/UTMIST#456.",
     "summary_stale": false
   }
 }
