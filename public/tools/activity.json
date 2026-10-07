@@ -4,19 +4,19 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-07T01:33:18.881Z",
+  "updated": "2026-10-07T08:41:33.486Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-07T01:33:18.881Z",
+    "generated_at": "2026-10-07T08:41:33.486Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 41,
-      "totalPushes": 39,
+      "totalPushes": 41,
       "repos": [
         {
           "name": "UTMIST/Misty",
           "commits": 31,
-          "pushes": 30
+          "pushes": 31
         },
         {
           "name": "qiuethan/now",
@@ -31,7 +31,7 @@
         {
           "name": "UTMIST/UTMIST",
           "commits": 2,
-          "pushes": 2
+          "pushes": 3
         },
         {
           "name": "qiuethan/qiuethan",
@@ -85,7 +85,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-07T01:33:18.881Z",
+      "fetched_at": "2026-10-07T08:41:33.486Z",
       "stale": false
     },
     "coding": {
@@ -133,10 +133,10 @@
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-07T01:31:33.775Z",
-      "stale": false
+      "fetched_at": "2026-10-07T03:33:57.916Z",
+      "stale": true
     },
-    "summary": "This week, Ethan Qiu made contributions across UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan, with the most activity in UTMIST/Misty. He opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484), and opened one issue in UTMIST/UTMIST (#483). He also reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, including UTMIST/Misty#206 through #260 and UTMIST/UTMIST#458 through #486.",
+    "summary": "Ethan Qiu made 41 GitHub contributions this week, with most activity in UTMIST/Misty (31 commits). He also contributed to qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan, and opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484). He reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, and opened one issue in UTMIST/UTMIST (#483).",
     "summary_stale": false
   }
 }
