@@ -31,7 +31,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           repository: qiuethan/portfolio-sync
-          ref: 6d9f5e0ab3540fe647b24049b2683779ca211041
+          ref: acac1c1a26872c9eee274a0e0580cfbaa9856983
           token: ${{ secrets.GH_PAT }}
           persist-credentials: false
           path: sync
