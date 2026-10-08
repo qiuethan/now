@@ -1,0 +1,78 @@
+name: Portfolio Sync
+
+on:
+  schedule:
+    - cron: "37 * * * *" # factual activity, no model calls
+    - cron: "7 11 * * *" # daily content proposal
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "Refresh activity or scan for a content proposal"
+        type: choice
+        default: scan
+        options: [scan, activity]
+
+permissions:
+  contents: write
+
+# Serialize with the existing now generator because both commit to this repository.
+concurrency:
+  group: update-now-page
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: now
+      - uses: actions/checkout@v4
+        with:
+          repository: qiuethan/portfolio-sync
+          ref: 19fe8d4f88dcc6ea7c0164f5fb03a227b6742c55
+          token: ${{ secrets.GH_PAT }}
+          persist-credentials: false
+          path: sync
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: sync/package-lock.json
+      - run: npm ci --ignore-scripts
+        working-directory: sync
+      - run: npm run check && npm test
+        working-directory: sync
+      - name: Scan sources
+        id: sync
+        working-directory: sync
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SYNC_MODE: ${{ inputs.mode || (github.event.schedule == '7 11 * * *' && 'scan' || 'activity') }}
+        run: >-
+          npm run sync -- --mode "$SYNC_MODE"
+          --state ../now/.portfolio-sync/state.json
+          --activity ../now/public/portfolio-sync/activity.json
+      - name: Save successful checkpoints and activity
+        if: ${{ always() && steps.sync.outcome != 'skipped' }}
+        working-directory: now
+        run: |
+          git config user.name "portfolio-sync"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -f .portfolio-sync/state.json ]; then git add .portfolio-sync/state.json; fi
+          if [ -f public/portfolio-sync/activity.json ]; then git add public/portfolio-sync/activity.json; fi
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh portfolio sync state and activity"
+            git pull --rebase origin "${GITHUB_REF_NAME}"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+      - name: Save run report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: portfolio-sync-report
+          path: sync/.output/report.json
+          if-no-files-found: ignore
+          retention-days: 7

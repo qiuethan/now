@@ -251,3 +251,12 @@ scripts are independent of this checkout; rerun the installer after editing them
   unattributed contributions and repository creations, so totals can differ from
   the GitHub profile. If a window exceeds API limits, the last valid filtered
   calendar is used with a stale flag.
+
+
+## Portfolio Sync
+
+The separate [Portfolio Sync worker](https://github.com/qiuethan/portfolio-sync) runs from `.github/workflows/portfolio-sync.yml`. It reuses this repository's `GH_PAT` and `OPENAI_API_KEY` secrets. The service checkout is pinned to a reviewed commit; update that reference deliberately when upgrading the worker. `GH_PAT` needs access to the private worker repository and contents/PR write access to `qiuethan/Portfolio`.
+
+Merge the portfolio's tracker integration before enabling this workflow. The hourly job publishes factual activity to `/portfolio-sync/activity.json`; a daily scan at 11:07 UTC can propose content changes in the portfolio repository. Use **Run workflow → scan** to start the initial baseline and catch-up proposal for the three Current work projects. GitHub PRs provide review and notifications. The worker never merges them.
+
+Checkpoints are committed under `.portfolio-sync/state.json`, outside the public site directory. Only public, selected repository facts are served in the activity feed. Both update workflows share one concurrency group to serialize commits; neither cancels a running update. See the worker README for scope, recovery, and the pending Devpost/Overleaf connections.
