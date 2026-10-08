@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "initializedAt": "2026-10-08T23:23:17.155Z",
+  "discovered": [
+    "qiuethan/neetcode-submissions",
+    "qiuethan/genai-genesis-project",
+    "qiuethan/identity-matrix",
+    "qiuethan/archctl",
+    "qiuethan/heimer-academy",
+    "qiuethan/orbit",
+    "qiuethan/polaris",
+    "qiuethan/shop-buddy",
+    "qiuethan/rt1m",
+    "qiuethan/bounce-back-public",
+    "qiuethan/qiuethan",
+    "qiuethan/face-detection-model",
+    "qiuethan/hart-house-debate-automation",
+    "qiuethan/ai-notetaker",
+    "qiuethan/frc-command-based-2023",
+    "qiuethan/discord-bots",
+    "qiuethan/trace-it",
+    "qiuethan/v2"
+  ],
+  "sources": {
+    "teamcybermetrics/cybermetrics": {
+      "sha": "cc83bf21b8393dc46e998afbda2d4af2bb61a706",
+      "fingerprint": "8bf6ef016b02789ab8d1eaec15154d47d1cbc2698e8f9c5260195e7f71a6b71a"
+    },
+    "javredstone/canopy": {
+      "sha": "47f76f6d4b687955301bc8257f3d88eb2c7f1952",
+      "fingerprint": "0a775ee6b5a9a9d8dfaec4f4431097407eb344bc6ee7168c01a3450a0082c06f"
+    },
+    "ji24077/htn": {
+      "sha": "7184527ba2074a007688aaec93758635ea14d613",
+      "fingerprint": "fc76d3708e4a28ed27b45a9a2d550266cacf37f2a6d5b23d1833849861edd66a"
+    },
+    "qiuethan/identity-matrix": {
+      "sha": "5b4a1fc5036be974065c51e50a366af85eca9992",
+      "fingerprint": "ec6cd9aebbb453a8b529c7574f7218e38910a0ebc319b529d5ab78b231d738b4"
+    },
+    "qiuethan/genai-genesis-project": {
+      "sha": "ae44fffeeab318cb6488a5ead4cc0fc9355d9f56",
+      "fingerprint": "d1ceed572e1d760053f9917aacc8ea4ba44baaead28df684e600a66b14f32e69"
+    },
+    "qiuethan/heimer-academy": {
+      "sha": "e6ce14233f97a9233eadefbeffe8855dd0665841",
+      "fingerprint": "afc5e2f72734b47a509840acbccc7c9d9e54548621fb349e1febe9271b56584b"
+    },
+    "qiuethan/orbit": {
+      "sha": "3b491d8214ef4dc8ddf68b6596d92cd615414267",
+      "fingerprint": "3fd60a21239374d9e7a35674ccd5ecb084f49c284b019a2871694fc7b0214b99"
+    },
+    "qiuethan/polaris": {
+      "sha": "394b7b7f9ac69de8f6c97b4e74f096b0cb7fdf64",
+      "fingerprint": "40edbcfc9c110276e7583372291a0b7ee579608b9cccd90b3d42916c68e69414"
+    },
+    "qiuethan/rt1m": {
+      "sha": "68663b328ff20d59953f640d3847c8b25e125cb3",
+      "fingerprint": "1e43b57092c8165d0d8476579bf112cee13a977888987caebaded8fea8772510"
+    },
+    "qiuethan/shop-buddy": {
+      "sha": "a0400b18dbf80cabd57034138ff1dc3c7cef6166",
+      "fingerprint": "d9fefaefd83211dc8577c09218587baccdea1c9147689b0b57ac004630e65e57"
+    },
+    "qiuethan/bounce-back-public": {
+      "sha": "7c01b92a155d8709d0d2c9b6b045274245b4122e",
+      "fingerprint": "4b901c94624041ce2b9f180989b8a925d14051c757d94d271db54d25bf1d38aa"
+    },
+    "haenlonns/hyacinthe": {
+      "sha": "c93870fe70583b73d60c52faf1847b4e3e451198",
+      "fingerprint": "9acc0dd60af93bfcc3c803bd0d87555eda324fcc8bf7b9390c94540dcf9e9437"
+    },
+    "qiuethan/hart-house-debate-automation": {
+      "sha": "11ae6670f86c31f984b6654e69a27e08684f06d6",
+      "fingerprint": "907aa468fc6eb86e4a8421efe58d57f96b77ab06f7f04e624e21402109b04ac4"
+    },
+    "emlyqi/crosswalkofshame": {
+      "sha": "42fec53598d9aa0d3bc8912c35655120826970cb",
+      "fingerprint": "fa3393b26c20b27415fb54201144a8a4d94d3871de9c7bb50e07858b661eff80"
+    },
+    "namanbiyani06/gamestoppr": {
+      "sha": "8ae7f3accbfc5c86580a9320d0cc2d8f218f8496",
+      "fingerprint": "770a6eb06a1a8dec7c6ec8b092788ba737ee3cbbbc6cd7bafe8c25a3478955bf"
+    },
+    "utmist/mist": {
+      "sha": "1050b022e36399f4b3b1dba1a3b3d670fcfca539",
+      "fingerprint": "4163d818292ba7f441e6e69e695e8a653561cff37f4a014489f481740517e8e2"
+    },
+    "qiuethan/archctl": {
+      "sha": "0182337644b4f4e81bf159288db85f85c7c2cc3d",
+      "fingerprint": "9a58b5ea3fc3b08eaf5a0c95b9f0c427d2e19de1af6ca300e1a8dbceb587d694"
+    }
+  },
+  "pending": {
+    "sources": {
+      "utmist/utmist": {
+        "sha": "83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
+        "fingerprint": "053ddfebee9a1b87582ae213321118b7b99413c106816af619d422ffded59937"
+      }
+    },
+    "projectIds": [
+      {
+        "id": "utmist",
+        "tab": "projects"
+      }
+    ],
+    "number": 2,
+    "head": "ea8c97350c16b1b89c7d094537c697c1cd2a2c08"
+  }
+}
