@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-08T16:29:59.252Z",
+  "last_updated": "2026-10-08T22:05:19.287Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -28,7 +28,7 @@
       "stars": 0,
       "topics": [],
       "pushed_at": "2026-10-07T14:38:26Z",
-      "last_activity_at": "2026-10-06T17:47:53Z",
+      "last_activity_at": "2026-10-08T18:57:53Z",
       "recently_active": true
     },
     {
@@ -57,7 +57,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-08T08:59:51Z",
+      "pushed_at": "2026-10-08T16:30:24Z",
       "last_activity_at": "2026-10-03T07:00:00Z",
       "recently_active": true
     },
@@ -125,7 +125,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-08T16:29:59.252Z",
+    "fetched_at": "2026-10-08T22:05:19.287Z",
     "stale": false
   },
   "contributions": {
@@ -141,10 +141,10 @@
     "fetched_at": "2026-10-05T22:38:27.746Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu made 41 GitHub contribution counts across UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484), and reviewed pull requests in both UTMIST/Misty and UTMIST/UTMIST. He also opened issue UTMIST/UTMIST#483.",
+  "summary": "This week Ethan Qiu had 41 GitHub contributions across five repositories, led by 31 commits in UTMIST/Misty. He also made commits in qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan, and opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484). He reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, and opened issue UTMIST/UTMIST#483.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-08T16:29:59.252Z",
+    "generated_at": "2026-10-08T22:05:19.287Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 41,
@@ -204,7 +204,9 @@
         "UTMIST/Misty#251",
         "UTMIST/Misty#253",
         "UTMIST/Misty#258",
+        "UTMIST/Misty#259",
         "UTMIST/Misty#260",
+        "UTMIST/Misty#261",
         "UTMIST/UTMIST#458",
         "UTMIST/UTMIST#464",
         "UTMIST/UTMIST#466",
@@ -222,7 +224,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-08T16:29:59.252Z",
+      "fetched_at": "2026-10-08T22:05:19.287Z",
       "stale": false
     },
     "coding": {
@@ -232,11 +234,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-02",
       "window_end": "2026-10-08",
-      "total_seconds": 19483,
+      "total_seconds": 19916,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 19472
+          "seconds": 19905
         },
         {
           "name": "VS Code",
@@ -268,12 +270,17 @@
           "date": "2026-10-06",
           "orca_seconds": 2647,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-10-08",
+          "orca_seconds": 433,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-08T14:44:50.768Z",
+      "fetched_at": "2026-10-08T20:26:12.713Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 41 GitHub contribution counts across UTMIST/Misty, qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan. He opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484), and reviewed pull requests in both UTMIST/Misty and UTMIST/UTMIST. He also opened issue UTMIST/UTMIST#483.",
+    "summary": "This week Ethan Qiu had 41 GitHub contributions across five repositories, led by 31 commits in UTMIST/Misty. He also made commits in qiuethan/now, qiuethan/Portfolio, UTMIST/UTMIST, and qiuethan/qiuethan, and opened pull requests in UTMIST/Misty (#246, #254, #255, #256) and UTMIST/UTMIST (#481, #484). He reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST, and opened issue UTMIST/UTMIST#483.",
     "summary_stale": false
   },
   "writing": [
