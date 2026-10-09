@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-09T10:51:41.586Z",
+  "checkedAt": "2026-10-09T17:25:24.460Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-09T10:51:41.586Z",
-      "lastActivity": "2026-10-09T00:01:58Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/9542bc8f636a565b30b75eaa463fd01a886881b3",
+      "checkedAt": "2026-10-09T17:25:24.460Z",
+      "lastActivity": "2026-10-09T16:29:26Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/343736c00043d58edf22a6c0bee1d4344b53de02",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 263,
+            "title": "feat(bot): brand and organize the Misty web playground",
+            "url": "https://github.com/UTMIST/Misty/pull/263",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-09T17:02:28Z",
+            "mergedAt": null
+          },
           {
             "number": 256,
             "title": "refactor(discord-bot): split Discord workflows and feature messages",
@@ -55,18 +64,15 @@
             "draft": false,
             "updatedAt": "2026-10-04T06:48:11Z",
             "mergedAt": null
-          },
-          {
-            "number": 217,
-            "title": "docs: add an MIT license",
-            "url": "https://github.com/UTMIST/Misty/pull/217",
-            "state": "closed",
-            "draft": false,
-            "updatedAt": "2026-09-05T00:23:34Z",
-            "mergedAt": null
           }
         ],
         "commits": [
+          {
+            "sha": "343736c00043d58edf22a6c0bee1d4344b53de02",
+            "title": "Merge pull request #247 from UTMIST/feat/channel-team-access",
+            "url": "https://github.com/UTMIST/Misty/commit/343736c00043d58edf22a6c0bee1d4344b53de02",
+            "date": "2026-10-09T16:29:26Z"
+          },
           {
             "sha": "9542bc8f636a565b30b75eaa463fd01a886881b3",
             "title": "Merge pull request #256 from UTMIST/refactor/discord-bot-adapter-messages",
@@ -78,19 +84,13 @@
             "title": "Merge pull request #255 from UTMIST/refactor/discord-bot-clients-services",
             "url": "https://github.com/UTMIST/Misty/commit/b34d2f61c3760ce8c5968e06a7a9b4290d5ae044",
             "date": "2026-10-09T00:01:57Z"
-          },
-          {
-            "sha": "c8a441d366a095ee1b0ee1d452c51b7479b312c1",
-            "title": "Merge updated clients/services refactor into adapter/messages refactor",
-            "url": "https://github.com/UTMIST/Misty/commit/c8a441d366a095ee1b0ee1d452c51b7479b312c1",
-            "date": "2026-10-08T23:59:05Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-09T10:51:41.586Z",
+      "checkedAt": "2026-10-09T17:25:24.460Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
       "release": null,
@@ -176,9 +176,9 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-09T10:51:41.586Z",
-      "lastActivity": "2026-10-09T08:06:48Z",
-      "commitUrl": "https://github.com/UTMIST/Mist/commit/3431ffdb713fac72881fc7f61f2750a82fe3f916",
+      "checkedAt": "2026-10-09T17:25:24.460Z",
+      "lastActivity": "2026-10-09T14:54:22Z",
+      "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
       "release": null,
       "work": {
         "author": "qiuethan",
