@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-09T17:31:54.796Z",
+  "checkedAt": "2026-10-09T21:51:18.502Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-09T17:31:54.796Z",
-      "lastActivity": "2026-10-09T16:29:26Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/343736c00043d58edf22a6c0bee1d4344b53de02",
+      "checkedAt": "2026-10-09T21:51:18.502Z",
+      "lastActivity": "2026-10-09T18:58:23Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -15,10 +15,10 @@
             "number": 263,
             "title": "feat(bot): brand and organize the Misty web playground",
             "url": "https://github.com/UTMIST/Misty/pull/263",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-09T17:02:28Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-09T19:00:13Z",
+            "mergedAt": "2026-10-09T19:00:11Z"
           },
           {
             "number": 256,
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
+            "title": "Merge pull request #263 from UTMIST/qiuethan/Misty-Web-Refresh",
+            "url": "https://github.com/UTMIST/Misty/commit/25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
+            "date": "2026-10-09T18:58:23Z"
+          },
+          {
+            "sha": "7a714ab08618d6dec9cb2696b7978070c0ce3577",
+            "title": "feat(bot): organize and brand the Misty web playground",
+            "url": "https://github.com/UTMIST/Misty/commit/7a714ab08618d6dec9cb2696b7978070c0ce3577",
+            "date": "2026-10-09T16:59:33Z"
+          },
+          {
             "sha": "343736c00043d58edf22a6c0bee1d4344b53de02",
             "title": "Merge pull request #247 from UTMIST/feat/channel-team-access",
             "url": "https://github.com/UTMIST/Misty/commit/343736c00043d58edf22a6c0bee1d4344b53de02",
             "date": "2026-10-09T16:29:26Z"
-          },
-          {
-            "sha": "9542bc8f636a565b30b75eaa463fd01a886881b3",
-            "title": "Merge pull request #256 from UTMIST/refactor/discord-bot-adapter-messages",
-            "url": "https://github.com/UTMIST/Misty/commit/9542bc8f636a565b30b75eaa463fd01a886881b3",
-            "date": "2026-10-09T00:01:58Z"
-          },
-          {
-            "sha": "b34d2f61c3760ce8c5968e06a7a9b4290d5ae044",
-            "title": "Merge pull request #255 from UTMIST/refactor/discord-bot-clients-services",
-            "url": "https://github.com/UTMIST/Misty/commit/b34d2f61c3760ce8c5968e06a7a9b4290d5ae044",
-            "date": "2026-10-09T00:01:57Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-09T17:31:54.796Z",
+      "checkedAt": "2026-10-09T21:51:18.502Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-09T17:31:54.796Z",
+      "checkedAt": "2026-10-09T21:51:18.502Z",
       "lastActivity": "2026-10-09T14:54:22Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
       "release": null,
