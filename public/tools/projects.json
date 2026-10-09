@@ -4,9 +4,37 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-08T22:05:19.287Z",
+  "updated": "2026-10-09T02:11:09.091Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Portfolio",
+        "full_name": "qiuethan/Portfolio",
+        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
+        "language": "TypeScript",
+        "url": "https://github.com/qiuethan/Portfolio",
+        "homepage": "https://ethanqiu.ca",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-09T01:08:03Z",
+        "last_activity_at": "2026-10-09T01:08:03Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "now",
+        "full_name": "qiuethan/now",
+        "description": "Self-updating now page + JSON API for ethanqiu.ca",
+        "language": "JavaScript",
+        "url": "https://github.com/qiuethan/now",
+        "homepage": "https://now-six-chi.vercel.app",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-09T00:09:10Z",
+        "last_activity_at": "2026-10-09T00:08:48Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Misty",
@@ -17,9 +45,17 @@
         "homepage": "",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-07T14:38:26Z",
-        "last_activity_at": "2026-10-08T18:57:53Z",
+        "pushed_at": "2026-10-09T00:05:06Z",
+        "last_activity_at": "2026-10-09T00:05:04Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1411048062,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-10-09",
+        "last_activity_at": "2026-10-09"
       },
       {
         "private": false,
@@ -38,57 +74,15 @@
         "recently_active": true
       },
       {
-        "private": false,
-        "name": "now",
-        "full_name": "qiuethan/now",
-        "description": "Self-updating now page + JSON API for ethanqiu.ca",
-        "language": "JavaScript",
-        "url": "https://github.com/qiuethan/now",
-        "homepage": "https://now-six-chi.vercel.app",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-08T16:30:24Z",
-        "last_activity_at": "2026-10-03T07:00:00Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Portfolio",
-        "full_name": "qiuethan/Portfolio",
-        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
-        "language": "TypeScript",
-        "url": "https://github.com/qiuethan/Portfolio",
-        "homepage": "https://ethanqiu.ca",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-03T04:03:50Z",
-        "last_activity_at": "2026-10-03T07:00:00Z",
-        "recently_active": true
-      },
-      {
         "private": true,
         "id": 1117921210,
         "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
         "recently_active": false,
         "pushed_at": "2026-09-18",
         "last_activity_at": "2026-09-18"
-      },
-      {
-        "private": false,
-        "name": "neetcode-submissions",
-        "full_name": "qiuethan/neetcode-submissions",
-        "description": "My NeetCode.io problem submissions",
-        "language": "Python",
-        "url": "https://github.com/qiuethan/neetcode-submissions",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-08-26T23:21:24Z",
-        "last_activity_at": "2026-08-26T23:21:24Z",
-        "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-08T22:05:19.287Z",
+    "fetched_at": "2026-10-09T02:11:09.091Z",
     "stale": false
   }
 }
