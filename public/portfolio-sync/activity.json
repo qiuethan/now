@@ -1,27 +1,190 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-08T23:40:13.558Z",
+  "checkedAt": "2026-10-09T00:09:03.294Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-08T23:40:13.558Z",
-      "lastActivity": "2026-10-06T05:13:45Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/0602a55ecd23871cbe3641ca2014bcb9c7801528",
-      "release": null
+      "checkedAt": "2026-10-09T00:09:03.294Z",
+      "lastActivity": "2026-10-09T00:01:58Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/9542bc8f636a565b30b75eaa463fd01a886881b3",
+      "release": null,
+      "work": {
+        "author": "qiuethan",
+        "pullRequests": [
+          {
+            "number": 256,
+            "title": "refactor(discord-bot): split Discord workflows and feature messages",
+            "url": "https://github.com/UTMIST/Misty/pull/256",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-09T00:05:06Z",
+            "mergedAt": "2026-10-09T00:05:04Z"
+          },
+          {
+            "number": 255,
+            "title": "refactor(discord-bot): group backend clients and application services",
+            "url": "https://github.com/UTMIST/Misty/pull/255",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-09T00:05:06Z",
+            "mergedAt": "2026-10-09T00:05:04Z"
+          },
+          {
+            "number": 246,
+            "title": "feat(discord-bot): register slash commands as a Railway pre-deploy step",
+            "url": "https://github.com/UTMIST/Misty/pull/246",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-05T17:39:37Z",
+            "mergedAt": "2026-10-05T17:39:35Z"
+          },
+          {
+            "number": 254,
+            "title": "ci: prepare staging for GitHub merge queue",
+            "url": "https://github.com/UTMIST/Misty/pull/254",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-05T17:19:27Z",
+            "mergedAt": "2026-10-05T17:19:24Z"
+          },
+          {
+            "number": 206,
+            "title": "docs: fill in ACCESS.md's who-to-ask gaps and fix the repo name",
+            "url": "https://github.com/UTMIST/Misty/pull/206",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-04T06:48:11Z",
+            "mergedAt": null
+          },
+          {
+            "number": 217,
+            "title": "docs: add an MIT license",
+            "url": "https://github.com/UTMIST/Misty/pull/217",
+            "state": "closed",
+            "draft": false,
+            "updatedAt": "2026-09-05T00:23:34Z",
+            "mergedAt": null
+          }
+        ],
+        "commits": [
+          {
+            "sha": "9542bc8f636a565b30b75eaa463fd01a886881b3",
+            "title": "Merge pull request #256 from UTMIST/refactor/discord-bot-adapter-messages",
+            "url": "https://github.com/UTMIST/Misty/commit/9542bc8f636a565b30b75eaa463fd01a886881b3",
+            "date": "2026-10-09T00:01:58Z"
+          },
+          {
+            "sha": "b34d2f61c3760ce8c5968e06a7a9b4290d5ae044",
+            "title": "Merge pull request #255 from UTMIST/refactor/discord-bot-clients-services",
+            "url": "https://github.com/UTMIST/Misty/commit/b34d2f61c3760ce8c5968e06a7a9b4290d5ae044",
+            "date": "2026-10-09T00:01:57Z"
+          },
+          {
+            "sha": "c8a441d366a095ee1b0ee1d452c51b7479b312c1",
+            "title": "Merge updated clients/services refactor into adapter/messages refactor",
+            "url": "https://github.com/UTMIST/Misty/commit/c8a441d366a095ee1b0ee1d452c51b7479b312c1",
+            "date": "2026-10-08T23:59:05Z"
+          }
+        ]
+      }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-08T23:40:13.558Z",
+      "checkedAt": "2026-10-09T00:09:03.294Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
-      "release": null
+      "release": null,
+      "work": {
+        "author": "qiuethan",
+        "pullRequests": [
+          {
+            "number": 481,
+            "title": "fix: keep EigenAI ticket navigation on one line",
+            "url": "https://github.com/UTMIST/UTMIST/pull/481",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-05T23:20:18Z",
+            "mergedAt": "2026-10-05T23:20:18Z"
+          },
+          {
+            "number": 484,
+            "title": "chore: prepare main for GitHub merge queue",
+            "url": "https://github.com/UTMIST/UTMIST/pull/484",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-05T20:07:36Z",
+            "mergedAt": "2026-10-05T20:07:35Z"
+          },
+          {
+            "number": 473,
+            "title": "feat: add EigenAI metadata, glass outline, and mobile orbs",
+            "url": "https://github.com/UTMIST/UTMIST/pull/473",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-09-30T21:16:05Z",
+            "mergedAt": "2026-09-30T21:16:05Z"
+          },
+          {
+            "number": 472,
+            "title": "fix: honor production flag and restore EigenAI rollback",
+            "url": "https://github.com/UTMIST/UTMIST/pull/472",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-09-30T00:27:51Z",
+            "mergedAt": "2026-09-30T00:27:41Z"
+          },
+          {
+            "number": 460,
+            "title": "feat: enable the Vercel Toolbar in local development",
+            "url": "https://github.com/UTMIST/UTMIST/pull/460",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-09-28T17:02:42Z",
+            "mergedAt": "2026-09-28T17:02:42Z"
+          },
+          {
+            "number": 426,
+            "title": "chore: separate project progress from dependencies",
+            "url": "https://github.com/UTMIST/UTMIST/pull/426",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-09-13T04:39:23Z",
+            "mergedAt": "2026-09-13T04:39:07Z"
+          }
+        ],
+        "commits": [
+          {
+            "sha": "83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
+            "title": "fix: keep EigenAI ticket navigation on one line (#481)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
+            "date": "2026-10-05T23:17:33Z"
+          },
+          {
+            "sha": "6a1b28cf2807f5dad8668a34bbef478cb18cb2c5",
+            "title": "chore: prepare main for GitHub merge queue (#484)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/6a1b28cf2807f5dad8668a34bbef478cb18cb2c5",
+            "date": "2026-10-05T20:07:35Z"
+          },
+          {
+            "sha": "2acb98064d5fcaa98a6d5af0e96d77aa5685bed0",
+            "title": "feat: add EigenAI metadata, glass outline, and mobile orbs (#473)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/2acb98064d5fcaa98a6d5af0e96d77aa5685bed0",
+            "date": "2026-09-30T21:16:04Z"
+          }
+        ]
+      }
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-08T23:40:13.558Z",
+      "checkedAt": "2026-10-09T00:09:03.294Z",
       "lastActivity": "2026-09-24T19:16:35Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/1050b022e36399f4b3b1dba1a3b3d670fcfca539",
-      "release": null
+      "release": null,
+      "work": {
+        "author": "qiuethan",
+        "pullRequests": [],
+        "commits": []
+      }
     }
   }
 }
