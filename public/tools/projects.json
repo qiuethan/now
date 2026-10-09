@@ -4,9 +4,39 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-09T02:11:09.091Z",
+  "updated": "2026-10-09T09:06:40.147Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-09T00:05:06Z",
+        "last_activity_at": "2026-10-09T07:00:00Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "Mist",
+        "full_name": "UTMIST/Mist",
+        "description": "UTMIST's Compute Platform",
+        "language": "Go",
+        "url": "https://github.com/UTMIST/Mist",
+        "homepage": "",
+        "stars": 4,
+        "topics": [
+          "platform"
+        ],
+        "pushed_at": "2026-10-09T08:49:22Z",
+        "last_activity_at": "2026-10-09T02:55:24Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Portfolio",
@@ -17,8 +47,8 @@
         "homepage": "https://ethanqiu.ca",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-09T01:08:03Z",
-        "last_activity_at": "2026-10-09T01:08:03Z",
+        "pushed_at": "2026-10-09T02:32:11Z",
+        "last_activity_at": "2026-10-09T02:32:12Z",
         "recently_active": true
       },
       {
@@ -31,22 +61,8 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-09T00:09:10Z",
-        "last_activity_at": "2026-10-09T00:08:48Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-09T00:05:06Z",
-        "last_activity_at": "2026-10-09T00:05:04Z",
+        "pushed_at": "2026-10-09T03:03:10Z",
+        "last_activity_at": "2026-10-09T00:08:50Z",
         "recently_active": true
       },
       {
@@ -72,17 +88,9 @@
         "pushed_at": "2026-10-06T13:30:16Z",
         "last_activity_at": "2026-10-05T23:20:18Z",
         "recently_active": true
-      },
-      {
-        "private": true,
-        "id": 1117921210,
-        "summary": "A web-based prototype project for creating and presenting interactive UI concepts, built with HTML",
-        "recently_active": false,
-        "pushed_at": "2026-09-18",
-        "last_activity_at": "2026-09-18"
       }
     ],
-    "fetched_at": "2026-10-09T02:11:09.091Z",
+    "fetched_at": "2026-10-09T09:06:40.147Z",
     "stale": false
   }
 }

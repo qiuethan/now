@@ -4,7 +4,7 @@
   "tool": "get_stack",
   "description": "Languages in use across personal and contributed public GitHub repositories.",
   "freshness": "hourly",
-  "updated": "2026-10-09T02:11:09.091Z",
+  "updated": "2026-10-09T09:06:40.147Z",
   "data": {
     "languages": [
       {
@@ -30,9 +30,13 @@
       {
         "name": "Java",
         "repos": 1
+      },
+      {
+        "name": "Go",
+        "repos": 1
       }
     ],
-    "fetched_at": "2026-10-09T02:11:09.091Z",
+    "fetched_at": "2026-10-09T09:06:40.147Z",
     "stale": false
   }
 }
