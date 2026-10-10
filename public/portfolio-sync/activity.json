@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-09T21:51:18.502Z",
+  "checkedAt": "2026-10-10T01:53:25.415Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-09T21:51:18.502Z",
+      "checkedAt": "2026-10-10T01:53:25.415Z",
       "lastActivity": "2026-10-09T18:58:23Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 265,
+            "title": "feat(bot): select Discord PR previews from CLI or GitHub Actions",
+            "url": "https://github.com/UTMIST/Misty/pull/265",
+            "state": "open",
+            "draft": true,
+            "updatedAt": "2026-10-10T01:46:05Z",
+            "mergedAt": null
+          },
           {
             "number": 263,
             "title": "feat(bot): brand and organize the Misty web playground",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-05T17:19:27Z",
             "mergedAt": "2026-10-05T17:19:24Z"
-          },
-          {
-            "number": 206,
-            "title": "docs: fill in ACCESS.md's who-to-ask gaps and fix the repo name",
-            "url": "https://github.com/UTMIST/Misty/pull/206",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-04T06:48:11Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-09T21:51:18.502Z",
+      "checkedAt": "2026-10-10T01:53:25.415Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-09T21:51:18.502Z",
+      "checkedAt": "2026-10-10T01:53:25.415Z",
       "lastActivity": "2026-10-09T14:54:22Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
       "release": null,
