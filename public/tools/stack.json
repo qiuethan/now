@@ -4,7 +4,7 @@
   "tool": "get_stack",
   "description": "Languages in use across personal and contributed public GitHub repositories.",
   "freshness": "hourly",
-  "updated": "2026-10-10T00:52:47.591Z",
+  "updated": "2026-10-10T07:09:36.340Z",
   "data": {
     "languages": [
       {
@@ -36,7 +36,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-10T00:52:47.591Z",
+    "fetched_at": "2026-10-10T07:09:36.340Z",
     "stale": false
   }
 }
