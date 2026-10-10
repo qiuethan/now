@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-10T19:28:36.923Z",
+  "checkedAt": "2026-10-10T22:52:52.516Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-10T19:28:36.923Z",
-      "lastActivity": "2026-10-09T18:58:23Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
+      "checkedAt": "2026-10-10T22:52:52.516Z",
+      "lastActivity": "2026-10-10T20:52:19Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/f86d7d1eb8b54a2b822a24a4c8bb0100594f4bc2",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 265,
+            "title": "feat(bot): select Discord PR previews from CLI or GitHub Actions",
+            "url": "https://github.com/UTMIST/Misty/pull/265",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-10T20:53:50Z",
+            "mergedAt": "2026-10-10T20:53:48Z"
+          },
           {
             "number": 267,
             "title": "feat(docs): persist document chunk embeddings in pgvector (#174)",
@@ -18,15 +27,6 @@
             "state": "open",
             "draft": false,
             "updatedAt": "2026-10-10T03:19:39Z",
-            "mergedAt": null
-          },
-          {
-            "number": 265,
-            "title": "feat(bot): select Discord PR previews from CLI or GitHub Actions",
-            "url": "https://github.com/UTMIST/Misty/pull/265",
-            "state": "open",
-            "draft": true,
-            "updatedAt": "2026-10-10T02:37:12Z",
             "mergedAt": null
           },
           {
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
-            "sha": "25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
-            "title": "Merge pull request #263 from UTMIST/qiuethan/Misty-Web-Refresh",
-            "url": "https://github.com/UTMIST/Misty/commit/25701c7e6e2ee7dfd752a2d3f83806c13ad479b2",
-            "date": "2026-10-09T18:58:23Z"
+            "sha": "f86d7d1eb8b54a2b822a24a4c8bb0100594f4bc2",
+            "title": "Merge pull request #265 from UTMIST/qiuethan/Misty-Dev",
+            "url": "https://github.com/UTMIST/Misty/commit/f86d7d1eb8b54a2b822a24a4c8bb0100594f4bc2",
+            "date": "2026-10-10T20:52:19Z"
           },
           {
-            "sha": "7a714ab08618d6dec9cb2696b7978070c0ce3577",
-            "title": "feat(bot): organize and brand the Misty web playground",
-            "url": "https://github.com/UTMIST/Misty/commit/7a714ab08618d6dec9cb2696b7978070c0ce3577",
-            "date": "2026-10-09T16:59:33Z"
+            "sha": "a2be8f5973d2643fa5a80ac1c9316590a3011b5f",
+            "title": "fix(bot): recheck backend health during preview switches",
+            "url": "https://github.com/UTMIST/Misty/commit/a2be8f5973d2643fa5a80ac1c9316590a3011b5f",
+            "date": "2026-10-10T19:55:48Z"
           },
           {
-            "sha": "343736c00043d58edf22a6c0bee1d4344b53de02",
-            "title": "Merge pull request #247 from UTMIST/feat/channel-team-access",
-            "url": "https://github.com/UTMIST/Misty/commit/343736c00043d58edf22a6c0bee1d4344b53de02",
-            "date": "2026-10-09T16:29:26Z"
+            "sha": "d107ecfe65bd4ad219f50fbbd5ed11cbce3b330a",
+            "title": "fix(bot): preserve idle playground and narrow preview shutdown",
+            "url": "https://github.com/UTMIST/Misty/commit/d107ecfe65bd4ad219f50fbbd5ed11cbce3b330a",
+            "date": "2026-10-10T02:35:34Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-10T19:28:36.923Z",
+      "checkedAt": "2026-10-10T22:52:52.516Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-10T19:28:36.923Z",
+      "checkedAt": "2026-10-10T22:52:52.516Z",
       "lastActivity": "2026-10-09T14:54:22Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
       "release": null,
