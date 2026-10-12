@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-11T20:18:12.653Z",
+  "last_updated": "2026-10-12T00:33:31.402Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,22 @@
   "projects": [
     {
       "private": false,
+      "name": "UTMIST",
+      "full_name": "UTMIST/UTMIST",
+      "description": "UTMIST Website",
+      "language": "TypeScript",
+      "url": "https://github.com/UTMIST/UTMIST",
+      "homepage": "",
+      "stars": 2,
+      "topics": [
+        "website"
+      ],
+      "pushed_at": "2026-10-11T03:04:01Z",
+      "last_activity_at": "2026-10-12T00:10:59Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "Misty",
       "full_name": "UTMIST/Misty",
       "description": "",
@@ -27,8 +43,8 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-11T14:46:09Z",
-      "last_activity_at": "2026-10-11T07:00:00Z",
+      "pushed_at": "2026-10-11T23:28:29Z",
+      "last_activity_at": "2026-10-11T23:26:08Z",
       "recently_active": true
     },
     {
@@ -71,7 +87,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-11T16:38:15Z",
+      "pushed_at": "2026-10-11T23:53:38Z",
       "last_activity_at": "2026-10-09T00:08:50Z",
       "recently_active": true
     },
@@ -82,22 +98,6 @@
       "recently_active": true,
       "pushed_at": "2026-10-09",
       "last_activity_at": "2026-10-09"
-    },
-    {
-      "private": false,
-      "name": "UTMIST",
-      "full_name": "UTMIST/UTMIST",
-      "description": "UTMIST Website",
-      "language": "TypeScript",
-      "url": "https://github.com/UTMIST/UTMIST",
-      "homepage": "",
-      "stars": 2,
-      "topics": [
-        "website"
-      ],
-      "pushed_at": "2026-10-11T03:04:01Z",
-      "last_activity_at": "2026-10-05T23:20:18Z",
-      "recently_active": true
     }
   ],
   "stack": {
@@ -131,7 +131,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-11T20:18:12.653Z",
+    "fetched_at": "2026-10-12T00:33:31.402Z",
     "stale": false
   },
   "contributions": {
@@ -147,19 +147,19 @@
     "fetched_at": "2026-10-05T22:38:27.746Z",
     "stale": true
   },
-  "summary": "This week Ethan Qiu made 47 GitHub contribution-count commits across UTMIST/Misty, qiuethan/Portfolio, qiuethan/now, and UTMIST/UTMIST. They opened pull requests in UTMIST/Misty, UTMIST/UTMIST, qiuethan/Portfolio, and qiuethan/now, and opened issue UTMIST/UTMIST#483. They also reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST.",
+  "summary": "This week Ethan Qiu made 31 GitHub contribution-count commits across UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now, with the most in UTMIST/Misty. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3). He also reviewed pull requests in UTMIST/Misty (#230, #247, #259–#264, #268).",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-11T20:18:12.653Z",
+    "generated_at": "2026-10-12T00:33:31.402Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 47,
-      "totalPushes": 38,
+      "totalCommits": 31,
+      "totalPushes": 24,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 37,
-          "pushes": 25
+          "commits": 23,
+          "pushes": 13
         },
         {
           "name": "qiuethan/Portfolio",
@@ -172,25 +172,21 @@
           "pushes": 5
         },
         {
-          "name": "UTMIST/UTMIST",
-          "commits": 2,
-          "pushes": 2
+          "name": "UTMIST/Mist",
+          "commits": 0,
+          "pushes": 0
         },
         {
-          "name": "UTMIST/Mist",
+          "name": "UTMIST/UTMIST",
           "commits": 0,
           "pushes": 0
         }
       ],
       "prsOpened": [
-        "UTMIST/Misty#254",
-        "UTMIST/Misty#255",
-        "UTMIST/Misty#256",
         "UTMIST/Misty#263",
         "UTMIST/Misty#265",
         "UTMIST/Misty#267",
         "UTMIST/Misty#269",
-        "UTMIST/UTMIST#484",
         "qiuethan/Portfolio#1",
         "qiuethan/Portfolio#2",
         "qiuethan/Portfolio#3",
@@ -203,35 +199,18 @@
       ],
       "prsReviewed": [
         "UTMIST/Misty#230",
-        "UTMIST/Misty#241",
         "UTMIST/Misty#247",
-        "UTMIST/Misty#249",
-        "UTMIST/Misty#250",
-        "UTMIST/Misty#251",
-        "UTMIST/Misty#253",
-        "UTMIST/Misty#258",
         "UTMIST/Misty#259",
         "UTMIST/Misty#260",
         "UTMIST/Misty#261",
         "UTMIST/Misty#262",
         "UTMIST/Misty#264",
-        "UTMIST/UTMIST#458",
-        "UTMIST/UTMIST#466",
-        "UTMIST/UTMIST#467",
-        "UTMIST/UTMIST#468",
-        "UTMIST/UTMIST#469",
-        "UTMIST/UTMIST#470",
-        "UTMIST/UTMIST#471",
-        "UTMIST/UTMIST#476",
-        "UTMIST/UTMIST#477",
-        "UTMIST/UTMIST#486"
+        "UTMIST/Misty#268"
       ],
-      "issuesOpened": [
-        "UTMIST/UTMIST#483"
-      ],
+      "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-11T20:18:12.653Z",
+      "fetched_at": "2026-10-12T00:33:31.402Z",
       "stale": false
     },
     "coding": {
@@ -239,13 +218,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-10-05",
-      "window_end": "2026-10-11",
-      "total_seconds": 25209,
+      "window_start": "2026-10-06",
+      "window_end": "2026-10-12",
+      "total_seconds": 17850,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 25208
+          "seconds": 17849
         },
         {
           "name": "VS Code",
@@ -253,11 +232,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-10-05",
-          "orca_seconds": 7645,
-          "vscode_seconds": 1
-        },
         {
           "date": "2026-10-06",
           "orca_seconds": 2647,
@@ -280,14 +254,19 @@
         },
         {
           "date": "2026-10-11",
-          "orca_seconds": 1413,
+          "orca_seconds": 1509,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-10-12",
+          "orca_seconds": 190,
+          "vscode_seconds": 1
         }
       ],
-      "fetched_at": "2026-10-11T18:41:31.815Z",
+      "fetched_at": "2026-10-12T00:30:30.498Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu made 47 GitHub contribution-count commits across UTMIST/Misty, qiuethan/Portfolio, qiuethan/now, and UTMIST/UTMIST. They opened pull requests in UTMIST/Misty, UTMIST/UTMIST, qiuethan/Portfolio, and qiuethan/now, and opened issue UTMIST/UTMIST#483. They also reviewed pull requests in UTMIST/Misty and UTMIST/UTMIST.",
+    "summary": "This week Ethan Qiu made 31 GitHub contribution-count commits across UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now, with the most in UTMIST/Misty. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3). He also reviewed pull requests in UTMIST/Misty (#230, #247, #259–#264, #268).",
     "summary_stale": false
   },
   "writing": [
