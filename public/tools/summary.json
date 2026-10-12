@@ -4,12 +4,12 @@
   "tool": "get_summary",
   "description": "A short prose summary of Ethan's public GitHub contributions over the last 7 days. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-10-12T00:33:31.402Z",
+  "updated": "2026-10-12T07:22:25.249Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-12T00:33:31.402Z",
-    "fetched_at": "2026-10-12T00:33:31.402Z",
-    "summary": "This week Ethan Qiu made 31 GitHub contribution-count commits across UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now, with the most in UTMIST/Misty. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3). He also reviewed pull requests in UTMIST/Misty (#230, #247, #259–#264, #268).",
+    "generated_at": "2026-10-12T07:22:25.249Z",
+    "fetched_at": "2026-10-12T07:22:25.249Z",
+    "summary": "This week Ethan Qiu recorded 31 GitHub contribution counts and 24 pushes across public repositories, led by UTMIST/Misty with 23 commits and 13 pushes. He also contributed to qiuethan/Portfolio with 5 commits and 6 pushes, and to qiuethan/now with 3 commits and 5 pushes. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3), and reviewed pull requests in UTMIST/Misty (#230, #247, #259, #260, #261, #262, #264, #268).",
     "stale": false
   }
 }
