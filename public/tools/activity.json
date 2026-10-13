@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-12T17:56:35.661Z",
+  "updated": "2026-10-13T00:41:52.778Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-12T17:56:35.661Z",
+    "generated_at": "2026-10-13T00:41:52.778Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 31,
@@ -56,9 +56,7 @@
       ],
       "prsReviewed": [
         "UTMIST/Misty#230",
-        "UTMIST/Misty#247",
         "UTMIST/Misty#259",
-        "UTMIST/Misty#260",
         "UTMIST/Misty#261",
         "UTMIST/Misty#262",
         "UTMIST/Misty#264",
@@ -67,7 +65,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-12T17:56:35.661Z",
+      "fetched_at": "2026-10-13T00:41:52.778Z",
       "stale": false
     },
     "coding": {
@@ -75,13 +73,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-10-06",
-      "window_end": "2026-10-12",
-      "total_seconds": 18376,
+      "window_start": "2026-10-07",
+      "window_end": "2026-10-13",
+      "total_seconds": 17863,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 18375
+          "seconds": 17862
         },
         {
           "name": "VS Code",
@@ -89,11 +87,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-10-06",
-          "orca_seconds": 2647,
-          "vscode_seconds": 0
-        },
         {
           "date": "2026-10-08",
           "orca_seconds": 4130,
@@ -116,14 +109,19 @@
         },
         {
           "date": "2026-10-12",
-          "orca_seconds": 716,
+          "orca_seconds": 1057,
           "vscode_seconds": 1
+        },
+        {
+          "date": "2026-10-13",
+          "orca_seconds": 1793,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-12T17:42:54.104Z",
+      "fetched_at": "2026-10-13T00:38:18.990Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 31 contributions across three public repositories: UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3), and reviewed pull requests in UTMIST/Misty (#230, #247, #259–#264, #268). GitHub shows 23 contributions in UTMIST/Misty, 5 in qiuethan/Portfolio, and 3 in qiuethan/now.",
+    "summary": "This week Ethan Qiu made 31 GitHub contributions across three public repositories: UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now. He recorded 23 contributions to UTMIST/Misty, 5 to qiuethan/Portfolio, and 3 to qiuethan/now, and opened pull requests in all three repositories, including UTMIST/Misty#263, #265, #267, and #269. He also reviewed six pull requests in UTMIST/Misty: #230, #259, #261, #262, #264, and #268.",
     "summary_stale": false
   }
 }
