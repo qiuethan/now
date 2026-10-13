@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-13T18:11:46.978Z",
+  "checkedAt": "2026-10-13T19:29:00.856Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-13T18:11:46.978Z",
-      "lastActivity": "2026-10-11T23:26:36Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/7303d5aab1ff369e9badd20f09fd8a9b32311ef9",
+      "checkedAt": "2026-10-13T19:29:00.856Z",
+      "lastActivity": "2026-10-13T18:21:37Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/f123ed04360d9d05c5676e434dedf61f32664d8b",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -68,6 +68,12 @@
         ],
         "commits": [
           {
+            "sha": "f123ed04360d9d05c5676e434dedf61f32664d8b",
+            "title": "feat(bot): support private Misty conversations (#258)",
+            "url": "https://github.com/UTMIST/Misty/commit/f123ed04360d9d05c5676e434dedf61f32664d8b",
+            "date": "2026-10-13T18:21:37Z"
+          },
+          {
             "sha": "7303d5aab1ff369e9badd20f09fd8a9b32311ef9",
             "title": "Merge pull request #268 from UTMIST/dependabot/uv/mako-1.4.2",
             "url": "https://github.com/UTMIST/Misty/commit/7303d5aab1ff369e9badd20f09fd8a9b32311ef9",
@@ -78,19 +84,13 @@
             "title": "Merge pull request #269 from UTMIST/qiuethan/hamlet",
             "url": "https://github.com/UTMIST/Misty/commit/692e117ff220c4a90071b29beec3d90f75ab96e4",
             "date": "2026-10-11T00:14:48Z"
-          },
-          {
-            "sha": "7e30017aa64a9286df219b00cb6f3d99c5aa100f",
-            "title": "fix(discord-bot): allow cleared preview pointer after shutdown",
-            "url": "https://github.com/UTMIST/Misty/commit/7e30017aa64a9286df219b00cb6f3d99c5aa100f",
-            "date": "2026-10-11T00:09:11Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-13T18:11:46.978Z",
+      "checkedAt": "2026-10-13T19:29:00.856Z",
       "lastActivity": "2026-10-05T23:17:33Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-13T18:11:46.978Z",
+      "checkedAt": "2026-10-13T19:29:00.856Z",
       "lastActivity": "2026-10-09T14:54:22Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
       "release": null,
