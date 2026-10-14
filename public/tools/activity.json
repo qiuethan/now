@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-14T20:42:16.605Z",
+  "updated": "2026-10-14T23:55:52.335Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-14T20:42:16.605Z",
+    "generated_at": "2026-10-14T23:55:52.335Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 32,
@@ -67,7 +67,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-14T20:42:16.605Z",
+      "fetched_at": "2026-10-14T23:55:52.335Z",
       "stale": false
     },
     "coding": {
@@ -77,11 +77,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-08",
       "window_end": "2026-10-14",
-      "total_seconds": 26686,
+      "total_seconds": 27011,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 26667
+          "seconds": 26992
         },
         {
           "name": "VS Code",
@@ -121,14 +121,14 @@
         },
         {
           "date": "2026-10-14",
-          "orca_seconds": 3337,
+          "orca_seconds": 3662,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-14T20:30:05.000Z",
+      "fetched_at": "2026-10-14T23:26:17.576Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu had 32 GitHub contribution counts across three public repositories: UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3). He also reviewed pull requests in UTMIST/Misty (#230, #258, #259, #261, #262, #264, #268) and UTMIST/UTMIST (#489).",
+    "summary": "This week Ethan Qiu had 32 GitHub contribution-counted commits across UTMIST/Misty, qiuethan/Portfolio, and qiuethan/now, with 24 in UTMIST/Misty, 5 in qiuethan/Portfolio, and 3 in qiuethan/now. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#1–#6), and qiuethan/now (#1–#3). He also reviewed pull requests in UTMIST/Misty (#230, #258, #259, #261, #262, #264, #268) and UTMIST/UTMIST (#489).",
     "summary_stale": false
   }
 }
