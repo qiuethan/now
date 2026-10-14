@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-14T06:09:58.536Z",
+  "updated": "2026-10-14T11:54:49.885Z",
   "data": {
     "projects": [
       {
@@ -77,7 +77,7 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-14T02:07:09Z",
+        "pushed_at": "2026-10-14T07:58:19Z",
         "last_activity_at": "2026-10-09T00:08:50Z",
         "recently_active": true
       },
@@ -90,7 +90,7 @@
         "last_activity_at": "2026-10-09"
       }
     ],
-    "fetched_at": "2026-10-14T06:09:58.536Z",
+    "fetched_at": "2026-10-14T11:54:49.885Z",
     "stale": false
   }
 }
