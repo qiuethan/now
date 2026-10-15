@@ -4,7 +4,7 @@
   "tool": "get_coding",
   "description": "Active time in Orca and VS Code over the last 7 UTC days, split by app and date. Anonymous app totals only; no project names, file paths, or window titles. fetched_at is the last successful Mac sync.",
   "freshness": "hourly",
-  "updated": "2026-10-15T19:09:30.998Z",
+  "updated": "2026-10-15T22:20:29.549Z",
   "data": {
     "source": "activitywatch",
     "scope": "orca-vscode",
@@ -55,7 +55,7 @@
         "vscode_seconds": 0
       }
     ],
-    "fetched_at": "2026-10-15T19:00:46.053Z",
+    "fetched_at": "2026-10-15T20:49:05.395Z",
     "stale": false
   }
 }
