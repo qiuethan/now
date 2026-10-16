@@ -4,34 +4,19 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-15T22:20:29.549Z",
+  "updated": "2026-10-16T01:22:03.704Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-15T22:20:29.549Z",
+    "generated_at": "2026-10-16T01:22:03.704Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 22,
-      "totalPushes": 18,
+      "totalCommits": 8,
+      "totalPushes": 12,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 22,
-          "pushes": 13
-        },
-        {
-          "name": "qiuethan/Portfolio",
-          "commits": 0,
-          "pushes": 4
-        },
-        {
-          "name": "qiuethan/now",
-          "commits": 0,
-          "pushes": 1
-        },
-        {
-          "name": "UTMIST/Mist",
-          "commits": 0,
-          "pushes": 0
+          "commits": 8,
+          "pushes": 12
         },
         {
           "name": "UTMIST/UTMIST",
@@ -40,15 +25,9 @@
         }
       ],
       "prsOpened": [
-        "UTMIST/Misty#263",
         "UTMIST/Misty#265",
         "UTMIST/Misty#267",
-        "UTMIST/Misty#269",
-        "qiuethan/Portfolio#3",
-        "qiuethan/Portfolio#4",
-        "qiuethan/Portfolio#5",
-        "qiuethan/Portfolio#6",
-        "qiuethan/now#3"
+        "UTMIST/Misty#269"
       ],
       "prsReviewed": [
         "UTMIST/Misty#230",
@@ -60,7 +39,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-15T22:20:29.549Z",
+      "fetched_at": "2026-10-16T01:22:03.704Z",
       "stale": false
     },
     "coding": {
@@ -68,13 +47,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-10-09",
-      "window_end": "2026-10-15",
-      "total_seconds": 22881,
+      "window_start": "2026-10-10",
+      "window_end": "2026-10-16",
+      "total_seconds": 17786,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 22862
+          "seconds": 17767
         },
         {
           "name": "VS Code",
@@ -82,11 +61,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-10-09",
-          "orca_seconds": 5095,
-          "vscode_seconds": 0
-        },
         {
           "date": "2026-10-10",
           "orca_seconds": 4278,
@@ -113,10 +87,10 @@
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-15T20:49:05.395Z",
+      "fetched_at": "2026-10-16T00:11:19.332Z",
       "stale": false
     },
-    "summary": "This week Ethan Qiu made 22 GitHub contribution-count commits, all in UTMIST/Misty, and also pushed to qiuethan/Portfolio and qiuethan/now. He opened pull requests in UTMIST/Misty (#263, #265, #267, #269), qiuethan/Portfolio (#3, #4, #5, #6), and qiuethan/now (#3). He also reviewed pull requests in UTMIST/Misty (#230, #258, #264, #268) and UTMIST/UTMIST (#489).",
+    "summary": "This week, Ethan Qiu made 8 GitHub contribution-count commits and 12 pushes, all in UTMIST/Misty. He opened three pull requests there: UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed four pull requests in UTMIST/Misty—#230, #258, #264, and #268—and one in UTMIST/UTMIST, #489.",
     "summary_stale": false
   }
 }
