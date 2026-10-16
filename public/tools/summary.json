@@ -4,11 +4,11 @@
   "tool": "get_summary",
   "description": "A short prose summary of Ethan's public GitHub contributions over the last 7 days. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-10-16T12:26:28.853Z",
+  "updated": "2026-10-16T17:25:16.844Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-16T12:26:28.853Z",
-    "fetched_at": "2026-10-16T12:26:28.853Z",
+    "generated_at": "2026-10-16T17:25:16.844Z",
+    "fetched_at": "2026-10-16T17:25:16.844Z",
     "summary": "This week, Ethan Qiu made 8 GitHub contribution-count commits and 13 pushes, all in UTMIST/Misty. He opened pull requests UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed UTMIST/Misty#230, UTMIST/Misty#258, UTMIST/Misty#264, UTMIST/Misty#268, and UTMIST/UTMIST#489.",
     "stale": false
   }
