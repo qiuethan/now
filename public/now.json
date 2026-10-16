@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-16T17:25:16.844Z",
+  "last_updated": "2026-10-16T21:10:47.430Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -27,8 +27,8 @@
       "homepage": "",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-16T17:03:49Z",
-      "last_activity_at": "2026-10-14T22:10:57Z",
+      "pushed_at": "2026-10-16T21:10:46Z",
+      "last_activity_at": "2026-10-16T21:01:04Z",
       "recently_active": true
     },
     {
@@ -87,7 +87,7 @@
       "homepage": "https://now-six-chi.vercel.app",
       "stars": 0,
       "topics": [],
-      "pushed_at": "2026-10-16T16:53:39Z",
+      "pushed_at": "2026-10-16T20:02:28Z",
       "last_activity_at": "2026-10-09T00:08:50Z",
       "recently_active": true
     },
@@ -131,7 +131,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-16T17:25:16.844Z",
+    "fetched_at": "2026-10-16T21:10:47.430Z",
     "stale": false
   },
   "contributions": {
@@ -147,18 +147,18 @@
     "fetched_at": "2026-10-05T22:38:27.746Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu made 8 GitHub contribution-count commits and 13 pushes, all in UTMIST/Misty. He opened pull requests UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed UTMIST/Misty#230, UTMIST/Misty#258, UTMIST/Misty#264, UTMIST/Misty#268, and UTMIST/UTMIST#489.",
+  "summary": "This week, Ethan Qiu had 14 GitHub commits and 13 pushes, all in UTMIST/Misty. He opened pull requests UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed UTMIST/Misty#230, #258, #259, #261, #262, #264, and #268, as well as UTMIST/UTMIST#489.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-16T17:25:16.844Z",
+    "generated_at": "2026-10-16T21:10:47.430Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 8,
+      "totalCommits": 14,
       "totalPushes": 13,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 8,
+          "commits": 14,
           "pushes": 13
         },
         {
@@ -175,6 +175,9 @@
       "prsReviewed": [
         "UTMIST/Misty#230",
         "UTMIST/Misty#258",
+        "UTMIST/Misty#259",
+        "UTMIST/Misty#261",
+        "UTMIST/Misty#262",
         "UTMIST/Misty#264",
         "UTMIST/Misty#268",
         "UTMIST/UTMIST#489"
@@ -182,7 +185,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-16T17:25:16.844Z",
+      "fetched_at": "2026-10-16T21:10:47.430Z",
       "stale": false
     },
     "coding": {
@@ -192,11 +195,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-10",
       "window_end": "2026-10-16",
-      "total_seconds": 17786,
+      "total_seconds": 18750,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 17767
+          "seconds": 18731
         },
         {
           "name": "VS Code",
@@ -228,12 +231,17 @@
           "date": "2026-10-14",
           "orca_seconds": 3662,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-10-16",
+          "orca_seconds": 964,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-16T15:49:34.714Z",
+      "fetched_at": "2026-10-16T21:10:06.007Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 8 GitHub contribution-count commits and 13 pushes, all in UTMIST/Misty. He opened pull requests UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed UTMIST/Misty#230, UTMIST/Misty#258, UTMIST/Misty#264, UTMIST/Misty#268, and UTMIST/UTMIST#489.",
+    "summary": "This week, Ethan Qiu had 14 GitHub commits and 13 pushes, all in UTMIST/Misty. He opened pull requests UTMIST/Misty#265, UTMIST/Misty#267, and UTMIST/Misty#269. He also reviewed UTMIST/Misty#230, #258, #259, #261, #262, #264, and #268, as well as UTMIST/UTMIST#489.",
     "summary_stale": false
   },
   "writing": [
