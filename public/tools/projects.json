@@ -4,9 +4,23 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-17T04:28:40.577Z",
+  "updated": "2026-10-17T09:22:55.469Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "UTMIST AI Internal Operations Platform",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-17T07:38:18Z",
+        "last_activity_at": "2026-10-17T07:00:00Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Mist",
@@ -21,20 +35,6 @@
         ],
         "pushed_at": "2026-10-17T03:04:31Z",
         "last_activity_at": "2026-10-17T01:46:59Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "UTMIST AI Internal Operations Platform",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-17T02:37:05Z",
-        "last_activity_at": "2026-10-17T01:33:09Z",
         "recently_active": true
       },
       {
@@ -77,7 +77,7 @@
         "homepage": "https://now-six-chi.vercel.app",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-17T01:28:26Z",
+        "pushed_at": "2026-10-17T06:03:42Z",
         "last_activity_at": "2026-10-09T00:08:50Z",
         "recently_active": true
       },
@@ -90,7 +90,7 @@
         "last_activity_at": "2026-10-09"
       }
     ],
-    "fetched_at": "2026-10-17T04:28:40.577Z",
+    "fetched_at": "2026-10-17T09:22:55.469Z",
     "stale": false
   }
 }
