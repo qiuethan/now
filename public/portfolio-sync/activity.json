@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-17T19:39:35.581Z",
+  "checkedAt": "2026-10-17T22:34:54.354Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-17T19:39:35.581Z",
+      "checkedAt": "2026-10-17T22:34:54.354Z",
       "lastActivity": "2026-10-17T01:39:13Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/17c7258f7f2896f174649de605409169c07de007",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 284,
+            "title": "fix(llm): tolerate additive OpenAI response properties",
+            "url": "https://github.com/UTMIST/Misty/pull/284",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-17T22:31:24Z",
+            "mergedAt": null
+          },
           {
             "number": 65,
             "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59)",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-10T20:53:50Z",
             "mergedAt": "2026-10-10T20:53:48Z"
-          },
-          {
-            "number": 263,
-            "title": "feat(bot): brand and organize the Misty web playground",
-            "url": "https://github.com/UTMIST/Misty/pull/263",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-09T19:00:13Z",
-            "mergedAt": "2026-10-09T19:00:11Z"
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-17T19:39:35.581Z",
+      "checkedAt": "2026-10-17T22:34:54.354Z",
       "lastActivity": "2026-10-14T22:14:42Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/8980c017a58a6c1d3127182edc5fb266d6f798cc",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-17T19:39:35.581Z",
+      "checkedAt": "2026-10-17T22:34:54.354Z",
       "lastActivity": "2026-10-17T00:58:10Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
