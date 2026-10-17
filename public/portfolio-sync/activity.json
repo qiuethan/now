@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-16T22:58:33.572Z",
+  "checkedAt": "2026-10-17T01:28:19.781Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-16T22:58:33.572Z",
-      "lastActivity": "2026-10-16T21:32:35Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/cbe9f571cb1ee788ee1841927e799d01c9063311",
+      "checkedAt": "2026-10-17T01:28:19.781Z",
+      "lastActivity": "2026-10-17T01:05:41Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/443fb7e806ace04fdfbca176923137b490328bc9",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -17,8 +17,17 @@
             "url": "https://github.com/UTMIST/Misty/pull/65",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-10-16T22:16:41Z",
+            "updatedAt": "2026-10-17T01:13:05Z",
             "mergedAt": null
+          },
+          {
+            "number": 271,
+            "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses",
+            "url": "https://github.com/UTMIST/Misty/pull/271",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-17T01:07:09Z",
+            "mergedAt": "2026-10-17T01:07:08Z"
           },
           {
             "number": 267,
@@ -28,15 +37,6 @@
             "draft": false,
             "updatedAt": "2026-10-16T21:34:03Z",
             "mergedAt": "2026-10-16T21:34:01Z"
-          },
-          {
-            "number": 271,
-            "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses",
-            "url": "https://github.com/UTMIST/Misty/pull/271",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-16T21:25:35Z",
-            "mergedAt": null
           },
           {
             "number": 269,
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "443fb7e806ace04fdfbca176923137b490328bc9",
+            "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses (#271)",
+            "url": "https://github.com/UTMIST/Misty/commit/443fb7e806ace04fdfbca176923137b490328bc9",
+            "date": "2026-10-17T01:05:41Z"
+          },
+          {
+            "sha": "d3874f78902fa0c2542e0cc8d929e2322a039b2f",
+            "title": "fix(llm): log safe diagnostics for OpenAI chat failures",
+            "url": "https://github.com/UTMIST/Misty/commit/d3874f78902fa0c2542e0cc8d929e2322a039b2f",
+            "date": "2026-10-17T01:04:11Z"
+          },
+          {
             "sha": "cbe9f571cb1ee788ee1841927e799d01c9063311",
             "title": "feat(docs): persist document chunk embeddings in pgvector (#174) (#267)",
             "url": "https://github.com/UTMIST/Misty/commit/cbe9f571cb1ee788ee1841927e799d01c9063311",
             "date": "2026-10-16T21:32:35Z"
-          },
-          {
-            "sha": "8e4e250849d460403bc215f2725a41ba20f00ea6",
-            "title": "fix(docs): resolve staging merge and address chunk storage review",
-            "url": "https://github.com/UTMIST/Misty/commit/8e4e250849d460403bc215f2725a41ba20f00ea6",
-            "date": "2026-10-16T21:10:39Z"
-          },
-          {
-            "sha": "1b9961f42017784db899fb7345339e96095ef013",
-            "title": "feat: create and sync Google Groups for teams (#237) (#262)",
-            "url": "https://github.com/UTMIST/Misty/commit/1b9961f42017784db899fb7345339e96095ef013",
-            "date": "2026-10-16T20:58:08Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-16T22:58:33.572Z",
+      "checkedAt": "2026-10-17T01:28:19.781Z",
       "lastActivity": "2026-10-14T22:14:42Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/8980c017a58a6c1d3127182edc5fb266d6f798cc",
       "release": null,
@@ -176,9 +176,9 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-16T22:58:33.572Z",
-      "lastActivity": "2026-10-09T14:54:22Z",
-      "commitUrl": "https://github.com/UTMIST/Mist/commit/a0f229f03478f8738837763e1444bfcf5b27ab3c",
+      "checkedAt": "2026-10-17T01:28:19.781Z",
+      "lastActivity": "2026-10-17T00:58:10Z",
+      "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
       "work": {
         "author": "qiuethan",
