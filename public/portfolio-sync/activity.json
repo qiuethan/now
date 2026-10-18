@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-18T05:02:03.348Z",
+  "checkedAt": "2026-10-18T09:50:14.014Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-18T05:02:03.348Z",
-      "lastActivity": "2026-10-18T03:10:06Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
+      "checkedAt": "2026-10-18T09:50:14.014Z",
+      "lastActivity": "2026-10-18T05:33:45Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/90a845d3917f9c598b5d6f7ea72616873170c625",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
-            "sha": "66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
-            "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59) (#65)",
-            "url": "https://github.com/UTMIST/Misty/commit/66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
-            "date": "2026-10-18T03:10:06Z"
+            "sha": "90a845d3917f9c598b5d6f7ea72616873170c625",
+            "title": "feat(docs): build authorized retrieval engine (#281)",
+            "url": "https://github.com/UTMIST/Misty/commit/90a845d3917f9c598b5d6f7ea72616873170c625",
+            "date": "2026-10-18T05:33:45Z"
           },
           {
-            "sha": "4dd459ac8c282db24159b22e28523d769bab83b1",
-            "title": "fix(llm): tolerate additive OpenAI response properties (#284)",
-            "url": "https://github.com/UTMIST/Misty/commit/4dd459ac8c282db24159b22e28523d769bab83b1",
-            "date": "2026-10-17T22:37:46Z"
+            "sha": "c3b91c635dc2fa4a6028787d95311dbe5f8f80fd",
+            "title": "feat: add live meeting Q&A with bounded transcript context (#280)",
+            "url": "https://github.com/UTMIST/Misty/commit/c3b91c635dc2fa4a6028787d95311dbe5f8f80fd",
+            "date": "2026-10-18T05:29:35Z"
           },
           {
-            "sha": "24cf4655e1432cde550e39049f3b99b98deab08f",
-            "title": "fix(gateway): address migration and lifecycle review issues",
-            "url": "https://github.com/UTMIST/Misty/commit/24cf4655e1432cde550e39049f3b99b98deab08f",
-            "date": "2026-10-17T01:48:54Z"
+            "sha": "4c690f47381c03a0b423f33a2572c4edce7e4087",
+            "title": "Merge staging GPT fixes into meeting Q&A preview",
+            "url": "https://github.com/UTMIST/Misty/commit/4c690f47381c03a0b423f33a2572c4edce7e4087",
+            "date": "2026-10-18T04:35:31Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-18T05:02:03.348Z",
+      "checkedAt": "2026-10-18T09:50:14.014Z",
       "lastActivity": "2026-10-14T22:14:42Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/8980c017a58a6c1d3127182edc5fb266d6f798cc",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-18T05:02:03.348Z",
+      "checkedAt": "2026-10-18T09:50:14.014Z",
       "lastActivity": "2026-10-17T00:58:10Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
