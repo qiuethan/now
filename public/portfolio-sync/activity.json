@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-17T22:34:54.354Z",
+  "checkedAt": "2026-10-18T00:14:31.360Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-17T22:34:54.354Z",
-      "lastActivity": "2026-10-17T01:39:13Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/17c7258f7f2896f174649de605409169c07de007",
+      "checkedAt": "2026-10-18T00:14:31.360Z",
+      "lastActivity": "2026-10-17T22:37:46Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/4dd459ac8c282db24159b22e28523d769bab83b1",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -15,10 +15,10 @@
             "number": 284,
             "title": "fix(llm): tolerate additive OpenAI response properties",
             "url": "https://github.com/UTMIST/Misty/pull/284",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-17T22:31:24Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-17T22:37:50Z",
+            "mergedAt": "2026-10-17T22:37:47Z"
           },
           {
             "number": 65,
@@ -68,6 +68,12 @@
         ],
         "commits": [
           {
+            "sha": "4dd459ac8c282db24159b22e28523d769bab83b1",
+            "title": "fix(llm): tolerate additive OpenAI response properties (#284)",
+            "url": "https://github.com/UTMIST/Misty/commit/4dd459ac8c282db24159b22e28523d769bab83b1",
+            "date": "2026-10-17T22:37:46Z"
+          },
+          {
             "sha": "443fb7e806ace04fdfbca176923137b490328bc9",
             "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses (#271)",
             "url": "https://github.com/UTMIST/Misty/commit/443fb7e806ace04fdfbca176923137b490328bc9",
@@ -78,19 +84,13 @@
             "title": "fix(llm): log safe diagnostics for OpenAI chat failures",
             "url": "https://github.com/UTMIST/Misty/commit/d3874f78902fa0c2542e0cc8d929e2322a039b2f",
             "date": "2026-10-17T01:04:11Z"
-          },
-          {
-            "sha": "cbe9f571cb1ee788ee1841927e799d01c9063311",
-            "title": "feat(docs): persist document chunk embeddings in pgvector (#174) (#267)",
-            "url": "https://github.com/UTMIST/Misty/commit/cbe9f571cb1ee788ee1841927e799d01c9063311",
-            "date": "2026-10-16T21:32:35Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-17T22:34:54.354Z",
+      "checkedAt": "2026-10-18T00:14:31.360Z",
       "lastActivity": "2026-10-14T22:14:42Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/8980c017a58a6c1d3127182edc5fb266d6f798cc",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-17T22:34:54.354Z",
+      "checkedAt": "2026-10-18T00:14:31.360Z",
       "lastActivity": "2026-10-17T00:58:10Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
