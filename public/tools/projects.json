@@ -4,12 +4,12 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-18T05:55:32.397Z",
+  "updated": "2026-10-18T11:07:53.422Z",
   "data": {
     "projects": [
       {
         "private": true,
-        "id": 1117921210,
+        "id": 1424065623,
         "summary": "Private software project",
         "recently_active": true,
         "pushed_at": "2026-10-18",
@@ -26,8 +26,16 @@
         "stars": 0,
         "topics": [],
         "pushed_at": "2026-10-18T05:35:39Z",
-        "last_activity_at": "2026-10-18T05:35:40Z",
+        "last_activity_at": "2026-10-18T07:00:00Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1117921210,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-10-18",
+        "last_activity_at": "2026-10-18"
       },
       {
         "private": false,
@@ -74,23 +82,9 @@
         "pushed_at": "2026-10-09T02:32:11Z",
         "last_activity_at": "2026-10-09T02:32:12Z",
         "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "now",
-        "full_name": "qiuethan/now",
-        "description": "Self-updating now page + JSON API for ethanqiu.ca",
-        "language": "JavaScript",
-        "url": "https://github.com/qiuethan/now",
-        "homepage": "https://now-six-chi.vercel.app",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-18T05:02:10Z",
-        "last_activity_at": "2026-10-09T00:08:50Z",
-        "recently_active": true
       }
     ],
-    "fetched_at": "2026-10-18T05:55:32.397Z",
+    "fetched_at": "2026-10-18T11:07:53.422Z",
     "stale": false
   }
 }
