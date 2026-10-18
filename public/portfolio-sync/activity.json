@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-18T00:14:31.360Z",
+  "checkedAt": "2026-10-18T05:02:03.348Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-18T00:14:31.360Z",
-      "lastActivity": "2026-10-17T22:37:46Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/4dd459ac8c282db24159b22e28523d769bab83b1",
+      "checkedAt": "2026-10-18T05:02:03.348Z",
+      "lastActivity": "2026-10-18T03:10:06Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 65,
+            "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59)",
+            "url": "https://github.com/UTMIST/Misty/pull/65",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-18T03:12:23Z",
+            "mergedAt": "2026-10-18T03:12:21Z"
+          },
           {
             "number": 284,
             "title": "fix(llm): tolerate additive OpenAI response properties",
@@ -19,15 +28,6 @@
             "draft": false,
             "updatedAt": "2026-10-17T22:37:50Z",
             "mergedAt": "2026-10-17T22:37:47Z"
-          },
-          {
-            "number": 65,
-            "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59)",
-            "url": "https://github.com/UTMIST/Misty/pull/65",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-17T02:41:42Z",
-            "mergedAt": null
           },
           {
             "number": 271,
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
+            "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59) (#65)",
+            "url": "https://github.com/UTMIST/Misty/commit/66d8f2ecba0b3dfe248a9634b3ffd99ee2db6ef2",
+            "date": "2026-10-18T03:10:06Z"
+          },
+          {
             "sha": "4dd459ac8c282db24159b22e28523d769bab83b1",
             "title": "fix(llm): tolerate additive OpenAI response properties (#284)",
             "url": "https://github.com/UTMIST/Misty/commit/4dd459ac8c282db24159b22e28523d769bab83b1",
             "date": "2026-10-17T22:37:46Z"
           },
           {
-            "sha": "443fb7e806ace04fdfbca176923137b490328bc9",
-            "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses (#271)",
-            "url": "https://github.com/UTMIST/Misty/commit/443fb7e806ace04fdfbca176923137b490328bc9",
-            "date": "2026-10-17T01:05:41Z"
-          },
-          {
-            "sha": "d3874f78902fa0c2542e0cc8d929e2322a039b2f",
-            "title": "fix(llm): log safe diagnostics for OpenAI chat failures",
-            "url": "https://github.com/UTMIST/Misty/commit/d3874f78902fa0c2542e0cc8d929e2322a039b2f",
-            "date": "2026-10-17T01:04:11Z"
+            "sha": "24cf4655e1432cde550e39049f3b99b98deab08f",
+            "title": "fix(gateway): address migration and lifecycle review issues",
+            "url": "https://github.com/UTMIST/Misty/commit/24cf4655e1432cde550e39049f3b99b98deab08f",
+            "date": "2026-10-17T01:48:54Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-18T00:14:31.360Z",
+      "checkedAt": "2026-10-18T05:02:03.348Z",
       "lastActivity": "2026-10-14T22:14:42Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/8980c017a58a6c1d3127182edc5fb266d6f798cc",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-18T00:14:31.360Z",
+      "checkedAt": "2026-10-18T05:02:03.348Z",
       "lastActivity": "2026-10-17T00:58:10Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
