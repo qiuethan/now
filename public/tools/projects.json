@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-19T01:19:23.583Z",
+  "updated": "2026-10-19T07:48:06.430Z",
   "data": {
     "projects": [
       {
@@ -12,22 +12,8 @@
         "id": 1424065623,
         "summary": "Private software project",
         "recently_active": true,
-        "pushed_at": "2026-10-18",
-        "last_activity_at": "2026-10-18"
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "UTMIST AI Internal Operations Platform",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-18T22:08:49Z",
-        "last_activity_at": "2026-10-18T22:17:09Z",
-        "recently_active": true
+        "pushed_at": "2026-10-19",
+        "last_activity_at": "2026-10-19"
       },
       {
         "private": false,
@@ -41,8 +27,22 @@
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-10-14T22:27:19Z",
-        "last_activity_at": "2026-10-18T21:40:49Z",
+        "pushed_at": "2026-10-19T06:34:21Z",
+        "last_activity_at": "2026-10-19T06:24:11Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "UTMIST AI Internal Operations Platform",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-19T05:25:09Z",
+        "last_activity_at": "2026-10-19T05:36:41Z",
         "recently_active": true
       },
       {
@@ -84,7 +84,7 @@
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-10-19T01:19:23.583Z",
+    "fetched_at": "2026-10-19T07:48:06.430Z",
     "stale": false
   }
 }
