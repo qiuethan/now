@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-19T22:35:31.762Z",
+  "checkedAt": "2026-10-20T01:13:16.495Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-19T22:35:31.762Z",
-      "lastActivity": "2026-10-18T21:35:00Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/951a95929a39bb2cd6892507a620324c634ab768",
+      "checkedAt": "2026-10-20T01:13:16.495Z",
+      "lastActivity": "2026-10-20T01:07:29Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/fd49c8a623aaf7207b6eab3ff16f69bef87dd7ef",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "fd49c8a623aaf7207b6eab3ff16f69bef87dd7ef",
+            "title": "feat(bot): handle Discord message character limits (#287)",
+            "url": "https://github.com/UTMIST/Misty/commit/fd49c8a623aaf7207b6eab3ff16f69bef87dd7ef",
+            "date": "2026-10-20T01:07:29Z"
+          },
+          {
+            "sha": "ce6b2524ecd058b7a768a3cdd1df805260a9c1e4",
+            "title": "feat: remove all mentions of Notion (#286)",
+            "url": "https://github.com/UTMIST/Misty/commit/ce6b2524ecd058b7a768a3cdd1df805260a9c1e4",
+            "date": "2026-10-20T01:06:11Z"
+          },
+          {
             "sha": "951a95929a39bb2cd6892507a620324c634ab768",
             "title": "docs: complete access contacts and clarify provider credentials (#206)",
             "url": "https://github.com/UTMIST/Misty/commit/951a95929a39bb2cd6892507a620324c634ab768",
             "date": "2026-10-18T21:35:00Z"
-          },
-          {
-            "sha": "90a845d3917f9c598b5d6f7ea72616873170c625",
-            "title": "feat(docs): build authorized retrieval engine (#281)",
-            "url": "https://github.com/UTMIST/Misty/commit/90a845d3917f9c598b5d6f7ea72616873170c625",
-            "date": "2026-10-18T05:33:45Z"
-          },
-          {
-            "sha": "c3b91c635dc2fa4a6028787d95311dbe5f8f80fd",
-            "title": "feat: add live meeting Q&A with bounded transcript context (#280)",
-            "url": "https://github.com/UTMIST/Misty/commit/c3b91c635dc2fa4a6028787d95311dbe5f8f80fd",
-            "date": "2026-10-18T05:29:35Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-19T22:35:31.762Z",
+      "checkedAt": "2026-10-20T01:13:16.495Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-19T22:35:31.762Z",
+      "checkedAt": "2026-10-20T01:13:16.495Z",
       "lastActivity": "2026-10-17T00:58:10Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/83629ea6cb98fa24c8d0af69b63d6fe170e70959",
       "release": null,
