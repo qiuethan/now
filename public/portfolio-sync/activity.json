@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-21T19:31:36.326Z",
+  "checkedAt": "2026-10-21T22:38:25.640Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-21T19:31:36.326Z",
-      "lastActivity": "2026-10-21T00:33:59Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
+      "checkedAt": "2026-10-21T22:38:25.640Z",
+      "lastActivity": "2026-10-21T22:24:43Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/0ebb94729169412cbc28d3009d6f2feb24b33c87",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 293,
+            "title": "feat(docs): automatically discover and index supported Google shares",
+            "url": "https://github.com/UTMIST/Misty/pull/293",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-21T21:58:49Z",
+            "mergedAt": "2026-10-21T21:58:47Z"
+          },
           {
             "number": 294,
             "title": "feat(docs): add monitored hourly source refresh runner",
@@ -18,15 +27,6 @@
             "state": "open",
             "draft": false,
             "updatedAt": "2026-10-21T04:42:44Z",
-            "mergedAt": null
-          },
-          {
-            "number": 293,
-            "title": "feat(docs): automatically discover and index supported Google shares",
-            "url": "https://github.com/UTMIST/Misty/pull/293",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-21T04:39:52Z",
             "mergedAt": null
           },
           {
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
-            "sha": "1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
-            "title": "feat(groups): automate team group setup and bot recovery (#279)",
-            "url": "https://github.com/UTMIST/Misty/commit/1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
-            "date": "2026-10-21T00:33:59Z"
+            "sha": "0ebb94729169412cbc28d3009d6f2feb24b33c87",
+            "title": "chore(deps): bump pillow from 12.3.0 to 13.0.0 (#297)",
+            "url": "https://github.com/UTMIST/Misty/commit/0ebb94729169412cbc28d3009d6f2feb24b33c87",
+            "date": "2026-10-21T22:24:43Z"
           },
           {
-            "sha": "f19a4393881e066cd86fb94a554fcf6681fb48ca",
-            "title": "feat(groups): configure and verify external membership automatically",
-            "url": "https://github.com/UTMIST/Misty/commit/f19a4393881e066cd86fb94a554fcf6681fb48ca",
-            "date": "2026-10-20T23:50:44Z"
+            "sha": "4e6abb40639ca552118f7332edebf20b76732dd5",
+            "title": "feat(connectors): ingest GitHub READMEs and files (#86) (#296)",
+            "url": "https://github.com/UTMIST/Misty/commit/4e6abb40639ca552118f7332edebf20b76732dd5",
+            "date": "2026-10-21T22:24:40Z"
           },
           {
-            "sha": "b50dfaff7dce1ae5a8a6c9a33e9a2e6ecddad81e",
-            "title": "Merge remote-tracking branch 'origin/staging' into feat/team-google-group-setup-hint",
-            "url": "https://github.com/UTMIST/Misty/commit/b50dfaff7dce1ae5a8a6c9a33e9a2e6ecddad81e",
-            "date": "2026-10-20T23:48:33Z"
+            "sha": "d271d99ffcad1f8f0a0a01a1f03b4f611a1505ff",
+            "title": "feat(bot): configure channel document teams via /channel-access (#239) (#298)",
+            "url": "https://github.com/UTMIST/Misty/commit/d271d99ffcad1f8f0a0a01a1f03b4f611a1505ff",
+            "date": "2026-10-21T22:24:15Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-21T19:31:36.326Z",
+      "checkedAt": "2026-10-21T22:38:25.640Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-21T19:31:36.326Z",
+      "checkedAt": "2026-10-21T22:38:25.640Z",
       "lastActivity": "2026-10-21T13:02:49Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/ba2bb86687edc2d4bd7bd6bfa3b7618d5a663fcc",
       "release": null,
