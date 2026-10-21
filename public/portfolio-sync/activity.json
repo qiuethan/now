@@ -1,16 +1,34 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-21T00:04:12.656Z",
+  "checkedAt": "2026-10-21T05:12:48.200Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-21T00:04:12.656Z",
-      "lastActivity": "2026-10-20T22:56:11Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/a13b4bc5feeb7be93ead27907edfe4f5971da13e",
+      "checkedAt": "2026-10-21T05:12:48.200Z",
+      "lastActivity": "2026-10-21T00:33:59Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 294,
+            "title": "feat(docs): add monitored hourly source refresh runner",
+            "url": "https://github.com/UTMIST/Misty/pull/294",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-21T04:42:44Z",
+            "mergedAt": null
+          },
+          {
+            "number": 293,
+            "title": "feat(docs): automatically discover and index supported Google shares",
+            "url": "https://github.com/UTMIST/Misty/pull/293",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-21T04:39:52Z",
+            "mergedAt": null
+          },
           {
             "number": 206,
             "title": "docs: fill in ACCESS.md's who-to-ask gaps and fix the repo name",
@@ -46,51 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-17T01:07:09Z",
             "mergedAt": "2026-10-17T01:07:08Z"
-          },
-          {
-            "number": 267,
-            "title": "feat(docs): persist document chunk embeddings in pgvector (#174)",
-            "url": "https://github.com/UTMIST/Misty/pull/267",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-16T21:34:03Z",
-            "mergedAt": "2026-10-16T21:34:01Z"
-          },
-          {
-            "number": 269,
-            "title": "fix(discord-bot): handle cleared deployment pointer during preview switch",
-            "url": "https://github.com/UTMIST/Misty/pull/269",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-11T00:16:15Z",
-            "mergedAt": "2026-10-11T00:16:13Z"
           }
         ],
         "commits": [
           {
-            "sha": "a13b4bc5feeb7be93ead27907edfe4f5971da13e",
-            "title": "feat: `/doc search` (#289)",
-            "url": "https://github.com/UTMIST/Misty/commit/a13b4bc5feeb7be93ead27907edfe4f5971da13e",
-            "date": "2026-10-20T22:56:11Z"
+            "sha": "1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
+            "title": "feat(groups): automate team group setup and bot recovery (#279)",
+            "url": "https://github.com/UTMIST/Misty/commit/1fdf8496d1d5ae4ea8117cc4d0d927c7921ffe24",
+            "date": "2026-10-21T00:33:59Z"
           },
           {
-            "sha": "e4738808e55378e18f1fdd31a3a85b2c6f1de009",
-            "title": "feat(docs): integrate indexing and authorized retrieval (#288)",
-            "url": "https://github.com/UTMIST/Misty/commit/e4738808e55378e18f1fdd31a3a85b2c6f1de009",
-            "date": "2026-10-20T03:34:29Z"
+            "sha": "f19a4393881e066cd86fb94a554fcf6681fb48ca",
+            "title": "feat(groups): configure and verify external membership automatically",
+            "url": "https://github.com/UTMIST/Misty/commit/f19a4393881e066cd86fb94a554fcf6681fb48ca",
+            "date": "2026-10-20T23:50:44Z"
           },
           {
-            "sha": "aff7ae9044becd1514d8cacf02b84d67d35a7b2a",
-            "title": "feat(documentation-system): index document chunks and maintain their lifecycle (#175) (#282)",
-            "url": "https://github.com/UTMIST/Misty/commit/aff7ae9044becd1514d8cacf02b84d67d35a7b2a",
-            "date": "2026-10-20T01:11:23Z"
+            "sha": "b50dfaff7dce1ae5a8a6c9a33e9a2e6ecddad81e",
+            "title": "Merge remote-tracking branch 'origin/staging' into feat/team-google-group-setup-hint",
+            "url": "https://github.com/UTMIST/Misty/commit/b50dfaff7dce1ae5a8a6c9a33e9a2e6ecddad81e",
+            "date": "2026-10-20T23:48:33Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-21T00:04:12.656Z",
+      "checkedAt": "2026-10-21T05:12:48.200Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-21T00:04:12.656Z",
+      "checkedAt": "2026-10-21T05:12:48.200Z",
       "lastActivity": "2026-10-20T17:18:20Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/b7a12dbee272b9e8e36fbc7c09129035315c4b90",
       "release": null,
