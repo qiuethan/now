@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-22T10:12:33.601Z",
+  "updated": "2026-10-22T15:18:03.326Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-22T10:12:33.601Z",
+    "generated_at": "2026-10-22T15:18:03.326Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 53,
@@ -81,7 +81,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-22T10:12:33.601Z",
+      "fetched_at": "2026-10-22T15:18:03.326Z",
       "stale": false
     },
     "coding": {
@@ -91,11 +91,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-16",
       "window_end": "2026-10-22",
-      "total_seconds": 77013,
+      "total_seconds": 77023,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 77006
+          "seconds": 77016
         },
         {
           "name": "VS Code",
@@ -135,14 +135,14 @@
         },
         {
           "date": "2026-10-22",
-          "orca_seconds": 12043,
+          "orca_seconds": 12053,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-22T08:52:03.694Z",
+      "fetched_at": "2026-10-22T15:12:19.386Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 53 GitHub contribution-count commits and 20 pushes in UTMIST/Misty. He opened pull requests in UTMIST/Mist#114 and UTMIST/Misty#271, #284, #293, and #294, and opened issues in UTMIST/Misty#270, #272, #273, #274, #277, #278, #285, #291, #292, #301, and #302, plus UTMIST/UTMIST#495. He also reviewed pull requests across UTMIST/Misty, including #206, #259, #261, #262, #264, #266, #279, #280, #281, #282, #283, #286, #287, #288, #289, #290, #293, and #295 through #305, as well as UTMIST/UTMIST#487.",
+    "summary": "This week, Ethan Qiu made 53 GitHub contribution-count commits and 20 pushes, all in UTMIST/Misty. He opened pull requests in UTMIST/Mist#114 and UTMIST/Misty#271, #284, #293, and #294, and reviewed pull requests in UTMIST/Misty#206, #259, #261, #262, #264, #266, #279 through #305, plus UTMIST/UTMIST#487. He also opened issues in UTMIST/Misty#270, #272, #273, #274, #277, #278, #285, #291, #292, #301, and #302, and UTMIST/UTMIST#495.",
     "summary_stale": false
   }
 }
