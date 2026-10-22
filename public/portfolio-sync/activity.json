@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-22T01:44:51.707Z",
+  "checkedAt": "2026-10-22T07:53:57.434Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-22T01:44:51.707Z",
-      "lastActivity": "2026-10-22T00:18:13Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/2142f560586e37aa2b13df3867be69b8e810182c",
+      "checkedAt": "2026-10-22T07:53:57.434Z",
+      "lastActivity": "2026-10-22T05:10:52Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -15,10 +15,10 @@
             "number": 294,
             "title": "feat(docs): add monitored hourly source refresh runner",
             "url": "https://github.com/UTMIST/Misty/pull/294",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-22T00:36:49Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-22T03:32:28Z",
+            "mergedAt": "2026-10-22T03:32:26Z"
           },
           {
             "number": 293,
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
-            "sha": "2142f560586e37aa2b13df3867be69b8e810182c",
-            "title": "chore(deps): bump certifi from 2026.6.17 to 2026.10.19 (#300)",
-            "url": "https://github.com/UTMIST/Misty/commit/2142f560586e37aa2b13df3867be69b8e810182c",
-            "date": "2026-10-22T00:18:13Z"
+            "sha": "5c731dcfe674aae591f0a2491fd05cac17b7ac25",
+            "title": "feat(bot): add /channel-access append (#239 follow-up) (#303)",
+            "url": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
+            "date": "2026-10-22T05:10:52Z"
           },
           {
-            "sha": "3fb2e3bbe44b4e173d639a315d72855d115428ae",
-            "title": "chore(deps): bump pypdf from 6.19.0 to 6.21.1 (#299)",
-            "url": "https://github.com/UTMIST/Misty/commit/3fb2e3bbe44b4e173d639a315d72855d115428ae",
-            "date": "2026-10-22T00:18:11Z"
+            "sha": "3f6496a2499419e8cf2f13377ce71dd7f5798e6e",
+            "title": "fix(team-tracking): serialize in-memory channel writes",
+            "url": "https://github.com/UTMIST/Misty/commit/3f6496a2499419e8cf2f13377ce71dd7f5798e6e",
+            "date": "2026-10-22T05:08:11Z"
           },
           {
-            "sha": "0ebb94729169412cbc28d3009d6f2feb24b33c87",
-            "title": "chore(deps): bump pillow from 12.3.0 to 13.0.0 (#297)",
-            "url": "https://github.com/UTMIST/Misty/commit/0ebb94729169412cbc28d3009d6f2feb24b33c87",
-            "date": "2026-10-21T22:24:43Z"
+            "sha": "faa31553e07afb73533a02aced83e35f34aee099",
+            "title": "feat(bot): authorized document tool loop for helper answers (#71) (#290)",
+            "url": "https://github.com/UTMIST/Misty/commit/faa31553e07afb73533a02aced83e35f34aee099",
+            "date": "2026-10-22T05:07:34Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-22T01:44:51.707Z",
+      "checkedAt": "2026-10-22T07:53:57.434Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-22T01:44:51.707Z",
+      "checkedAt": "2026-10-22T07:53:57.434Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
