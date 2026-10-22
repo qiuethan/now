@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-22T18:44:56.086Z",
+  "checkedAt": "2026-10-22T22:40:13.922Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-22T18:44:56.086Z",
+      "checkedAt": "2026-10-22T22:40:13.922Z",
       "lastActivity": "2026-10-22T05:10:52Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
       "release": null,
@@ -12,21 +12,21 @@
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 308,
-            "title": "fix(connectors): ingest all Google Docs tabs",
-            "url": "https://github.com/UTMIST/Misty/pull/308",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-22T18:27:28Z",
-            "mergedAt": null
-          },
-          {
             "number": 309,
             "title": "fix(bot): preserve retrieved passage details for helper answers",
             "url": "https://github.com/UTMIST/Misty/pull/309",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-10-22T18:25:37Z",
+            "updatedAt": "2026-10-22T22:03:25Z",
+            "mergedAt": null
+          },
+          {
+            "number": 308,
+            "title": "fix(connectors): ingest all Google Docs tabs",
+            "url": "https://github.com/UTMIST/Misty/pull/308",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T21:37:20Z",
             "mergedAt": null
           },
           {
@@ -35,7 +35,16 @@
             "url": "https://github.com/UTMIST/Misty/pull/307",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-10-22T18:06:32Z",
+            "updatedAt": "2026-10-22T21:29:05Z",
+            "mergedAt": null
+          },
+          {
+            "number": 311,
+            "title": "feat(bot): authenticated command tools for mentions and DMs",
+            "url": "https://github.com/UTMIST/Misty/pull/311",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T20:07:29Z",
             "mergedAt": null
           },
           {
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-21T21:58:49Z",
             "mergedAt": "2026-10-21T21:58:47Z"
-          },
-          {
-            "number": 206,
-            "title": "docs: fill in ACCESS.md's who-to-ask gaps and fix the repo name",
-            "url": "https://github.com/UTMIST/Misty/pull/206",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-18T21:35:03Z",
-            "mergedAt": "2026-10-18T21:35:01Z"
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-22T18:44:56.086Z",
+      "checkedAt": "2026-10-22T22:40:13.922Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-22T18:44:56.086Z",
+      "checkedAt": "2026-10-22T22:40:13.922Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
