@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-21T22:38:25.640Z",
+  "checkedAt": "2026-10-22T01:44:51.707Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-21T22:38:25.640Z",
-      "lastActivity": "2026-10-21T22:24:43Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/0ebb94729169412cbc28d3009d6f2feb24b33c87",
+      "checkedAt": "2026-10-22T01:44:51.707Z",
+      "lastActivity": "2026-10-22T00:18:13Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/2142f560586e37aa2b13df3867be69b8e810182c",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 294,
+            "title": "feat(docs): add monitored hourly source refresh runner",
+            "url": "https://github.com/UTMIST/Misty/pull/294",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T00:36:49Z",
+            "mergedAt": null
+          },
           {
             "number": 293,
             "title": "feat(docs): automatically discover and index supported Google shares",
@@ -19,15 +28,6 @@
             "draft": false,
             "updatedAt": "2026-10-21T21:58:49Z",
             "mergedAt": "2026-10-21T21:58:47Z"
-          },
-          {
-            "number": 294,
-            "title": "feat(docs): add monitored hourly source refresh runner",
-            "url": "https://github.com/UTMIST/Misty/pull/294",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-21T04:42:44Z",
-            "mergedAt": null
           },
           {
             "number": 206,
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "2142f560586e37aa2b13df3867be69b8e810182c",
+            "title": "chore(deps): bump certifi from 2026.6.17 to 2026.10.19 (#300)",
+            "url": "https://github.com/UTMIST/Misty/commit/2142f560586e37aa2b13df3867be69b8e810182c",
+            "date": "2026-10-22T00:18:13Z"
+          },
+          {
+            "sha": "3fb2e3bbe44b4e173d639a315d72855d115428ae",
+            "title": "chore(deps): bump pypdf from 6.19.0 to 6.21.1 (#299)",
+            "url": "https://github.com/UTMIST/Misty/commit/3fb2e3bbe44b4e173d639a315d72855d115428ae",
+            "date": "2026-10-22T00:18:11Z"
+          },
+          {
             "sha": "0ebb94729169412cbc28d3009d6f2feb24b33c87",
             "title": "chore(deps): bump pillow from 12.3.0 to 13.0.0 (#297)",
             "url": "https://github.com/UTMIST/Misty/commit/0ebb94729169412cbc28d3009d6f2feb24b33c87",
             "date": "2026-10-21T22:24:43Z"
-          },
-          {
-            "sha": "4e6abb40639ca552118f7332edebf20b76732dd5",
-            "title": "feat(connectors): ingest GitHub READMEs and files (#86) (#296)",
-            "url": "https://github.com/UTMIST/Misty/commit/4e6abb40639ca552118f7332edebf20b76732dd5",
-            "date": "2026-10-21T22:24:40Z"
-          },
-          {
-            "sha": "d271d99ffcad1f8f0a0a01a1f03b4f611a1505ff",
-            "title": "feat(bot): configure channel document teams via /channel-access (#239) (#298)",
-            "url": "https://github.com/UTMIST/Misty/commit/d271d99ffcad1f8f0a0a01a1f03b4f611a1505ff",
-            "date": "2026-10-21T22:24:15Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-21T22:38:25.640Z",
+      "checkedAt": "2026-10-22T01:44:51.707Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,9 +176,9 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-21T22:38:25.640Z",
-      "lastActivity": "2026-10-21T13:02:49Z",
-      "commitUrl": "https://github.com/UTMIST/Mist/commit/ba2bb86687edc2d4bd7bd6bfa3b7618d5a663fcc",
+      "checkedAt": "2026-10-22T01:44:51.707Z",
+      "lastActivity": "2026-10-22T01:33:34Z",
+      "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
       "work": {
         "author": "qiuethan",
