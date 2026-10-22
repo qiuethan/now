@@ -1,16 +1,43 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-22T15:52:07.968Z",
+  "checkedAt": "2026-10-22T18:44:56.086Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-22T15:52:07.968Z",
+      "checkedAt": "2026-10-22T18:44:56.086Z",
       "lastActivity": "2026-10-22T05:10:52Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 308,
+            "title": "fix(connectors): ingest all Google Docs tabs",
+            "url": "https://github.com/UTMIST/Misty/pull/308",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T18:27:28Z",
+            "mergedAt": null
+          },
+          {
+            "number": 309,
+            "title": "fix(bot): preserve retrieved passage details for helper answers",
+            "url": "https://github.com/UTMIST/Misty/pull/309",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T18:25:37Z",
+            "mergedAt": null
+          },
+          {
+            "number": 307,
+            "title": "fix(connectors): download Drive uploads through media API",
+            "url": "https://github.com/UTMIST/Misty/pull/307",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-22T18:06:32Z",
+            "mergedAt": null
+          },
           {
             "number": 294,
             "title": "feat(docs): add monitored hourly source refresh runner",
@@ -37,33 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-18T21:35:03Z",
             "mergedAt": "2026-10-18T21:35:01Z"
-          },
-          {
-            "number": 65,
-            "title": "External API gateway (services/gateway) + resolve-discord endpoint (#59)",
-            "url": "https://github.com/UTMIST/Misty/pull/65",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-18T03:12:23Z",
-            "mergedAt": "2026-10-18T03:12:21Z"
-          },
-          {
-            "number": 284,
-            "title": "fix(llm): tolerate additive OpenAI response properties",
-            "url": "https://github.com/UTMIST/Misty/pull/284",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-17T22:37:50Z",
-            "mergedAt": "2026-10-17T22:37:47Z"
-          },
-          {
-            "number": 271,
-            "title": "feat(llm): switch chat to GPT-6.1 Sol via OpenAI Responses",
-            "url": "https://github.com/UTMIST/Misty/pull/271",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-17T01:07:09Z",
-            "mergedAt": "2026-10-17T01:07:08Z"
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-22T15:52:07.968Z",
+      "checkedAt": "2026-10-22T18:44:56.086Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-22T15:52:07.968Z",
+      "checkedAt": "2026-10-22T18:44:56.086Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
