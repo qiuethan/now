@@ -1,24 +1,42 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-23T18:39:46.860Z",
+  "checkedAt": "2026-10-23T22:33:29.104Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-23T18:39:46.860Z",
-      "lastActivity": "2026-10-23T18:19:10Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/e25ff56dd17342e3bf196b6baa1ca72995ea5e76",
+      "checkedAt": "2026-10-23T22:33:29.104Z",
+      "lastActivity": "2026-10-23T21:38:36Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/35e7bd48c8714aeb1feb44b599997cd8f10b7828",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 319,
+            "title": "Promote staging to production: document retrieval, discovery, and meeting persistence",
+            "url": "https://github.com/UTMIST/Misty/pull/319",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-23T22:31:45Z",
+            "mergedAt": null
+          },
+          {
+            "number": 318,
+            "title": "docs: reconcile platform guides with current implementation",
+            "url": "https://github.com/UTMIST/Misty/pull/318",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-23T21:42:20Z",
+            "mergedAt": "2026-10-23T21:42:18Z"
+          },
+          {
             "number": 316,
             "title": "feat(docs): alert on failed or stalled discovery scans",
             "url": "https://github.com/UTMIST/Misty/pull/316",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-23T18:25:55Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-23T20:19:41Z",
+            "mergedAt": "2026-10-23T20:19:40Z"
           },
           {
             "number": 314,
@@ -46,51 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-23T05:00:44Z",
             "mergedAt": "2026-10-23T05:00:42Z"
-          },
-          {
-            "number": 309,
-            "title": "fix(bot): preserve retrieved passage details for helper answers",
-            "url": "https://github.com/UTMIST/Misty/pull/309",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-23T02:27:49Z",
-            "mergedAt": "2026-10-23T02:27:47Z"
-          },
-          {
-            "number": 308,
-            "title": "fix(connectors): ingest all Google Docs tabs",
-            "url": "https://github.com/UTMIST/Misty/pull/308",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-23T02:25:23Z",
-            "mergedAt": "2026-10-23T02:25:19Z"
           }
         ],
         "commits": [
           {
-            "sha": "e25ff56dd17342e3bf196b6baa1ca72995ea5e76",
-            "title": "feat(discord-bot): add public tool replies and batch confirmations (#314)",
-            "url": "https://github.com/UTMIST/Misty/commit/e25ff56dd17342e3bf196b6baa1ca72995ea5e76",
-            "date": "2026-10-23T18:19:10Z"
+            "sha": "35e7bd48c8714aeb1feb44b599997cd8f10b7828",
+            "title": "docs: reconcile platform guides with current implementation (#318)",
+            "url": "https://github.com/UTMIST/Misty/commit/35e7bd48c8714aeb1feb44b599997cd8f10b7828",
+            "date": "2026-10-23T21:38:36Z"
           },
           {
-            "sha": "b04bea5907830787d4de8277ff134e124ec4f00c",
-            "title": "feat: monitor service readiness and alert Discord (#283)",
-            "url": "https://github.com/UTMIST/Misty/commit/b04bea5907830787d4de8277ff134e124ec4f00c",
-            "date": "2026-10-23T17:34:20Z"
+            "sha": "0313a33d7d0be92212487212a30eca89b69e017a",
+            "title": "docs: reconcile platform guides with current implementation",
+            "url": "https://github.com/UTMIST/Misty/commit/0313a33d7d0be92212487212a30eca89b69e017a",
+            "date": "2026-10-23T21:23:38Z"
           },
           {
-            "sha": "5a114870877c4456ddd49dafc49bdc4e8bd3a779",
-            "title": "fix: preserve readiness recovery state and cancel stalled requests",
-            "url": "https://github.com/UTMIST/Misty/commit/5a114870877c4456ddd49dafc49bdc4e8bd3a779",
-            "date": "2026-10-23T17:30:00Z"
+            "sha": "999d88833f1134829f938e6167f86499d9e20865",
+            "title": "Update services/documentation-system/src/discovery.py",
+            "url": "https://github.com/UTMIST/Misty/commit/999d88833f1134829f938e6167f86499d9e20865",
+            "date": "2026-10-23T19:38:05Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-23T18:39:46.860Z",
+      "checkedAt": "2026-10-23T22:33:29.104Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-23T18:39:46.860Z",
+      "checkedAt": "2026-10-23T22:33:29.104Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
