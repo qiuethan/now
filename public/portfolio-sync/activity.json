@@ -1,51 +1,60 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-23T01:49:35.471Z",
+  "checkedAt": "2026-10-23T07:53:03.053Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-23T01:49:35.471Z",
-      "lastActivity": "2026-10-22T05:10:52Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
+      "checkedAt": "2026-10-23T07:53:03.053Z",
+      "lastActivity": "2026-10-23T05:29:18Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/f6a166e877403b881be1ec53a40544fa11009149",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 311,
-            "title": "feat(bot): authenticated command tools for mentions and DMs",
-            "url": "https://github.com/UTMIST/Misty/pull/311",
+            "number": 314,
+            "title": "feat(discord-bot): add public tool replies and batch confirmations",
+            "url": "https://github.com/UTMIST/Misty/pull/314",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-10-23T01:36:32Z",
-            "mergedAt": null
-          },
-          {
-            "number": 308,
-            "title": "fix(connectors): ingest all Google Docs tabs",
-            "url": "https://github.com/UTMIST/Misty/pull/308",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-23T01:29:41Z",
+            "updatedAt": "2026-10-23T07:27:15Z",
             "mergedAt": null
           },
           {
             "number": 307,
             "title": "fix(connectors): download Drive uploads through media API",
             "url": "https://github.com/UTMIST/Misty/pull/307",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-23T01:02:44Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-23T05:39:30Z",
+            "mergedAt": "2026-10-23T05:39:29Z"
+          },
+          {
+            "number": 311,
+            "title": "feat(bot): authenticated command tools for mentions and DMs",
+            "url": "https://github.com/UTMIST/Misty/pull/311",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-23T05:00:44Z",
+            "mergedAt": "2026-10-23T05:00:42Z"
           },
           {
             "number": 309,
             "title": "fix(bot): preserve retrieved passage details for helper answers",
             "url": "https://github.com/UTMIST/Misty/pull/309",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-23T01:02:19Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-23T02:27:49Z",
+            "mergedAt": "2026-10-23T02:27:47Z"
+          },
+          {
+            "number": 308,
+            "title": "fix(connectors): ingest all Google Docs tabs",
+            "url": "https://github.com/UTMIST/Misty/pull/308",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-23T02:25:23Z",
+            "mergedAt": "2026-10-23T02:25:19Z"
           },
           {
             "number": 294,
@@ -55,42 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-22T03:32:28Z",
             "mergedAt": "2026-10-22T03:32:26Z"
-          },
-          {
-            "number": 293,
-            "title": "feat(docs): automatically discover and index supported Google shares",
-            "url": "https://github.com/UTMIST/Misty/pull/293",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-21T21:58:49Z",
-            "mergedAt": "2026-10-21T21:58:47Z"
           }
         ],
         "commits": [
           {
-            "sha": "5c731dcfe674aae591f0a2491fd05cac17b7ac25",
-            "title": "feat(bot): add /channel-access append (#239 follow-up) (#303)",
-            "url": "https://github.com/UTMIST/Misty/commit/5c731dcfe674aae591f0a2491fd05cac17b7ac25",
-            "date": "2026-10-22T05:10:52Z"
+            "sha": "f6a166e877403b881be1ec53a40544fa11009149",
+            "title": "fix(connectors): download Drive uploads through media API (#307)",
+            "url": "https://github.com/UTMIST/Misty/commit/f6a166e877403b881be1ec53a40544fa11009149",
+            "date": "2026-10-23T05:29:18Z"
           },
           {
-            "sha": "3f6496a2499419e8cf2f13377ce71dd7f5798e6e",
-            "title": "fix(team-tracking): serialize in-memory channel writes",
-            "url": "https://github.com/UTMIST/Misty/commit/3f6496a2499419e8cf2f13377ce71dd7f5798e6e",
-            "date": "2026-10-22T05:08:11Z"
+            "sha": "0a3bd85348b417b6b49afb23e052d953ab7811a6",
+            "title": "feat: deliver the saved Google Docs meeting link to the team (#313)",
+            "url": "https://github.com/UTMIST/Misty/commit/0a3bd85348b417b6b49afb23e052d953ab7811a6",
+            "date": "2026-10-23T05:28:59Z"
           },
           {
-            "sha": "faa31553e07afb73533a02aced83e35f34aee099",
-            "title": "feat(bot): authorized document tool loop for helper answers (#71) (#290)",
-            "url": "https://github.com/UTMIST/Misty/commit/faa31553e07afb73533a02aced83e35f34aee099",
-            "date": "2026-10-22T05:07:34Z"
+            "sha": "25ab2599f88009ce0d413e727b51e8a2463a0e30",
+            "title": "fix: cite Google files with their editor link, rendered as a titled hyperlink (#312)",
+            "url": "https://github.com/UTMIST/Misty/commit/25ab2599f88009ce0d413e727b51e8a2463a0e30",
+            "date": "2026-10-23T05:28:42Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-23T01:49:35.471Z",
+      "checkedAt": "2026-10-23T07:53:03.053Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-23T01:49:35.471Z",
+      "checkedAt": "2026-10-23T07:53:03.053Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
