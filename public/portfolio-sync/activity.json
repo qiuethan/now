@@ -1,24 +1,42 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-24T01:00:03.486Z",
+  "checkedAt": "2026-10-24T06:22:16.519Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-24T01:00:03.486Z",
-      "lastActivity": "2026-10-24T00:54:55Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/22bff9836d4d907250466d9add1094466d07697f",
+      "checkedAt": "2026-10-24T06:22:16.519Z",
+      "lastActivity": "2026-10-24T01:05:25Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/3711f10c57bfc82a347aa858ecbfe43c5cf1649f",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 319,
+            "title": "Promote staging to production: document retrieval, discovery, and meeting persistence",
+            "url": "https://github.com/UTMIST/Misty/pull/319",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-24T02:06:29Z",
+            "mergedAt": "2026-10-24T00:35:47Z"
+          },
+          {
             "number": 322,
             "title": "Release: promote meeting fixture fix for #319",
             "url": "https://github.com/UTMIST/Misty/pull/322",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-24T00:59:07Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-24T01:09:17Z",
+            "mergedAt": "2026-10-24T01:09:16Z"
+          },
+          {
+            "number": 323,
+            "title": "Sync main release history back into staging",
+            "url": "https://github.com/UTMIST/Misty/pull/323",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-24T01:05:26Z",
+            "mergedAt": "2026-10-24T01:05:26Z"
           },
           {
             "number": 321,
@@ -28,15 +46,6 @@
             "draft": false,
             "updatedAt": "2026-10-24T00:58:42Z",
             "mergedAt": "2026-10-24T00:58:40Z"
-          },
-          {
-            "number": 319,
-            "title": "Promote staging to production: document retrieval, discovery, and meeting persistence",
-            "url": "https://github.com/UTMIST/Misty/pull/319",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-24T00:35:47Z",
-            "mergedAt": "2026-10-24T00:35:47Z"
           },
           {
             "number": 318,
@@ -55,18 +64,15 @@
             "draft": false,
             "updatedAt": "2026-10-23T20:19:41Z",
             "mergedAt": "2026-10-23T20:19:40Z"
-          },
-          {
-            "number": 314,
-            "title": "feat(discord-bot): add public tool replies and batch confirmations",
-            "url": "https://github.com/UTMIST/Misty/pull/314",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-23T18:22:54Z",
-            "mergedAt": "2026-10-23T18:22:52Z"
           }
         ],
         "commits": [
+          {
+            "sha": "3711f10c57bfc82a347aa858ecbfe43c5cf1649f",
+            "title": "Sync main release history back into staging (#323)",
+            "url": "https://github.com/UTMIST/Misty/commit/3711f10c57bfc82a347aa858ecbfe43c5cf1649f",
+            "date": "2026-10-24T01:05:25Z"
+          },
           {
             "sha": "0ef7ad099bf9ef2254002456299542f4fa71f55f",
             "title": "test(docs): keep meeting source grants fresh in fixtures",
@@ -74,23 +80,17 @@
             "date": "2026-10-24T00:44:07Z"
           },
           {
-            "sha": "35e7bd48c8714aeb1feb44b599997cd8f10b7828",
-            "title": "docs: reconcile platform guides with current implementation (#318)",
-            "url": "https://github.com/UTMIST/Misty/commit/35e7bd48c8714aeb1feb44b599997cd8f10b7828",
-            "date": "2026-10-23T21:38:36Z"
-          },
-          {
-            "sha": "0313a33d7d0be92212487212a30eca89b69e017a",
-            "title": "docs: reconcile platform guides with current implementation",
-            "url": "https://github.com/UTMIST/Misty/commit/0313a33d7d0be92212487212a30eca89b69e017a",
-            "date": "2026-10-23T21:23:38Z"
+            "sha": "3e8b10bdf461ad62a90b529378c5958dfb8f83b2",
+            "title": "Promote staging to production: document retrieval, discovery, and meeting persistence (#319)",
+            "url": "https://github.com/UTMIST/Misty/commit/3e8b10bdf461ad62a90b529378c5958dfb8f83b2",
+            "date": "2026-10-24T00:35:47Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-24T01:00:03.486Z",
+      "checkedAt": "2026-10-24T06:22:16.519Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-24T01:00:03.486Z",
+      "checkedAt": "2026-10-24T06:22:16.519Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
