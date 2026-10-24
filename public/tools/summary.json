@@ -4,12 +4,12 @@
   "tool": "get_summary",
   "description": "A short prose summary of Ethan's public GitHub contributions over the last 7 days. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-10-24T00:46:49.738Z",
+  "updated": "2026-10-24T05:55:10.224Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-24T00:46:49.738Z",
-    "fetched_at": "2026-10-24T00:46:49.738Z",
-    "summary": "This week, Ethan Qiu made 72 GitHub contribution-count commits, all on UTMIST/Misty, across 22 pushes. He opened pull requests UTMIST/Misty#293, #294, #307, #308, #309, #311, #314, #316, #318, and #319, and reviewed pull requests on UTMIST/Misty and UTMIST/UTMIST, including UTMIST/UTMIST#487. He also opened issues on UTMIST/Misty (#291, #292, #301, #302, #315) and UTMIST/UTMIST#495.",
+    "generated_at": "2026-10-24T05:55:10.224Z",
+    "fetched_at": "2026-10-24T05:55:10.224Z",
+    "summary": "This week Ethan Qiu contributed 75 GitHub commits across UTMIST/Misty and 23 pushes to that repository. He opened 13 pull requests in UTMIST/Misty, including #293, #294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, and #323. He also reviewed pull requests in UTMIST/Misty, including #206, #279–#314, and reviewed UTMIST/UTMIST#487.",
     "stale": false
   }
 }
