@@ -1,24 +1,33 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-25T22:45:58.003Z",
+  "checkedAt": "2026-10-26T01:33:48.570Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-25T22:45:58.003Z",
-      "lastActivity": "2026-10-25T20:51:46Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/91cb1d190f00e2ffa6c622e228b3bee63379a8bb",
+      "checkedAt": "2026-10-26T01:33:48.570Z",
+      "lastActivity": "2026-10-25T23:12:09Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/f9dc006e070d067102e3698e76ff19762ed123ad",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 327,
+            "title": "Release: promote Groups and discovery warning fixes",
+            "url": "https://github.com/UTMIST/Misty/pull/327",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-26T00:11:08Z",
+            "mergedAt": "2026-10-25T23:37:23Z"
+          },
+          {
             "number": 326,
             "title": "fix(docs): finish discovery batches with warnings",
             "url": "https://github.com/UTMIST/Misty/pull/326",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-25T22:03:19Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-25T23:15:42Z",
+            "mergedAt": "2026-10-25T23:15:40Z"
           },
           {
             "number": 325,
@@ -55,18 +64,15 @@
             "draft": false,
             "updatedAt": "2026-10-24T01:05:26Z",
             "mergedAt": "2026-10-24T01:05:26Z"
-          },
-          {
-            "number": 321,
-            "title": "test(docs): keep meeting source grants fresh in fixtures",
-            "url": "https://github.com/UTMIST/Misty/pull/321",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-24T00:58:42Z",
-            "mergedAt": "2026-10-24T00:58:40Z"
           }
         ],
         "commits": [
+          {
+            "sha": "b1424997eb82165e4efe6ac23daf27930d134eee",
+            "title": "fix(docs): finish discovery batches with warnings",
+            "url": "https://github.com/UTMIST/Misty/commit/b1424997eb82165e4efe6ac23daf27930d134eee",
+            "date": "2026-10-25T21:20:30Z"
+          },
           {
             "sha": "91cb1d190f00e2ffa6c622e228b3bee63379a8bb",
             "title": "fix(team-tracking): finish group sync with warnings (#325)",
@@ -78,19 +84,13 @@
             "title": "fix(team-tracking): finish group sync with warnings",
             "url": "https://github.com/UTMIST/Misty/commit/2038f9b0c0d1fc1f937b1e5aa97cd9fd890fd740",
             "date": "2026-10-24T17:47:54Z"
-          },
-          {
-            "sha": "3711f10c57bfc82a347aa858ecbfe43c5cf1649f",
-            "title": "Sync main release history back into staging (#323)",
-            "url": "https://github.com/UTMIST/Misty/commit/3711f10c57bfc82a347aa858ecbfe43c5cf1649f",
-            "date": "2026-10-24T01:05:25Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-25T22:45:58.003Z",
+      "checkedAt": "2026-10-26T01:33:48.570Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-25T22:45:58.003Z",
+      "checkedAt": "2026-10-26T01:33:48.570Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
