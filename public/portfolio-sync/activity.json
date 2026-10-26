@@ -1,16 +1,52 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-26T01:33:48.570Z",
+  "checkedAt": "2026-10-26T06:52:42.362Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-26T01:33:48.570Z",
-      "lastActivity": "2026-10-25T23:12:09Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/f9dc006e070d067102e3698e76ff19762ed123ad",
+      "checkedAt": "2026-10-26T06:52:42.362Z",
+      "lastActivity": "2026-10-26T02:53:07Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 331,
+            "title": "Add scoped email login to the external gateway",
+            "url": "https://github.com/UTMIST/Misty/pull/331",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-26T05:06:08Z",
+            "mergedAt": null
+          },
+          {
+            "number": 330,
+            "title": "Release: finish source refresh item failures with warnings",
+            "url": "https://github.com/UTMIST/Misty/pull/330",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-26T03:28:42Z",
+            "mergedAt": "2026-10-26T02:58:44Z"
+          },
+          {
+            "number": 329,
+            "title": "fix(docs): finish source refresh item failures with warnings",
+            "url": "https://github.com/UTMIST/Misty/pull/329",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-26T02:53:10Z",
+            "mergedAt": "2026-10-26T02:53:08Z"
+          },
+          {
+            "number": 328,
+            "title": "docs: audit developer documentation and separate user wiki releases",
+            "url": "https://github.com/UTMIST/Misty/pull/328",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-26T02:46:12Z",
+            "mergedAt": null
+          },
           {
             "number": 327,
             "title": "Release: promote Groups and discovery warning fixes",
@@ -28,69 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-25T23:15:42Z",
             "mergedAt": "2026-10-25T23:15:40Z"
-          },
-          {
-            "number": 325,
-            "title": "fix(team-tracking): finish group sync with warnings",
-            "url": "https://github.com/UTMIST/Misty/pull/325",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-25T20:55:15Z",
-            "mergedAt": "2026-10-25T20:55:14Z"
-          },
-          {
-            "number": 319,
-            "title": "Promote staging to production: document retrieval, discovery, and meeting persistence",
-            "url": "https://github.com/UTMIST/Misty/pull/319",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-24T02:06:29Z",
-            "mergedAt": "2026-10-24T00:35:47Z"
-          },
-          {
-            "number": 322,
-            "title": "Release: promote meeting fixture fix for #319",
-            "url": "https://github.com/UTMIST/Misty/pull/322",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-24T01:09:17Z",
-            "mergedAt": "2026-10-24T01:09:16Z"
-          },
-          {
-            "number": 323,
-            "title": "Sync main release history back into staging",
-            "url": "https://github.com/UTMIST/Misty/pull/323",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-24T01:05:26Z",
-            "mergedAt": "2026-10-24T01:05:26Z"
           }
         ],
         "commits": [
+          {
+            "sha": "a56bde31f953a64369baef9fa22cd25919666b69",
+            "title": "fix(docs): finish source refresh item failures with warnings (#329)",
+            "url": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
+            "date": "2026-10-26T02:53:07Z"
+          },
+          {
+            "sha": "9b7443b9c3ebce63ba7bbba79a939bec2c7a2ede",
+            "title": "fix(docs): finish source refresh item failures with warnings",
+            "url": "https://github.com/UTMIST/Misty/commit/9b7443b9c3ebce63ba7bbba79a939bec2c7a2ede",
+            "date": "2026-10-26T02:50:07Z"
+          },
           {
             "sha": "b1424997eb82165e4efe6ac23daf27930d134eee",
             "title": "fix(docs): finish discovery batches with warnings",
             "url": "https://github.com/UTMIST/Misty/commit/b1424997eb82165e4efe6ac23daf27930d134eee",
             "date": "2026-10-25T21:20:30Z"
-          },
-          {
-            "sha": "91cb1d190f00e2ffa6c622e228b3bee63379a8bb",
-            "title": "fix(team-tracking): finish group sync with warnings (#325)",
-            "url": "https://github.com/UTMIST/Misty/commit/91cb1d190f00e2ffa6c622e228b3bee63379a8bb",
-            "date": "2026-10-25T20:51:46Z"
-          },
-          {
-            "sha": "2038f9b0c0d1fc1f937b1e5aa97cd9fd890fd740",
-            "title": "fix(team-tracking): finish group sync with warnings",
-            "url": "https://github.com/UTMIST/Misty/commit/2038f9b0c0d1fc1f937b1e5aa97cd9fd890fd740",
-            "date": "2026-10-24T17:47:54Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-26T01:33:48.570Z",
+      "checkedAt": "2026-10-26T06:52:42.362Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,13 +176,22 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-26T01:33:48.570Z",
+      "checkedAt": "2026-10-26T06:52:42.362Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 125,
+            "title": "Add Sign in with Misty to the compute platform",
+            "url": "https://github.com/UTMIST/Mist/pull/125",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-26T05:04:43Z",
+            "mergedAt": null
+          },
           {
             "number": 114,
             "title": "Configure Vercel frontend hosting for compute.utmist.ca",
