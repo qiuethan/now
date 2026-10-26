@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-26T14:31:24.828Z",
+  "checkedAt": "2026-10-26T17:18:34.674Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-26T14:31:24.828Z",
+      "checkedAt": "2026-10-26T17:18:34.674Z",
       "lastActivity": "2026-10-26T02:53:07Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
       "release": null,
@@ -12,21 +12,21 @@
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 331,
+            "title": "Add scoped email login to the external gateway",
+            "url": "https://github.com/UTMIST/Misty/pull/331",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-26T16:11:44Z",
+            "mergedAt": null
+          },
+          {
             "number": 328,
             "title": "docs: audit developer documentation and separate user wiki releases",
             "url": "https://github.com/UTMIST/Misty/pull/328",
             "state": "open",
             "draft": false,
             "updatedAt": "2026-10-26T13:37:28Z",
-            "mergedAt": null
-          },
-          {
-            "number": 331,
-            "title": "Add scoped email login to the external gateway",
-            "url": "https://github.com/UTMIST/Misty/pull/331",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-26T05:06:08Z",
             "mergedAt": null
           },
           {
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-26T14:31:24.828Z",
+      "checkedAt": "2026-10-26T17:18:34.674Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-26T14:31:24.828Z",
+      "checkedAt": "2026-10-26T17:18:34.674Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
@@ -189,7 +189,7 @@
             "url": "https://github.com/UTMIST/Mist/pull/125",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-10-26T05:04:43Z",
+            "updatedAt": "2026-10-26T16:11:58Z",
             "mergedAt": null
           },
           {
