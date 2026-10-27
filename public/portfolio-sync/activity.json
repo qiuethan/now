@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-27T10:51:17.078Z",
+  "checkedAt": "2026-10-27T16:30:58.711Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-27T10:51:17.078Z",
+      "checkedAt": "2026-10-27T16:30:58.711Z",
       "lastActivity": "2026-10-26T02:53:07Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
       "release": null,
@@ -90,13 +90,22 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-27T10:51:17.078Z",
+      "checkedAt": "2026-10-27T16:30:58.711Z",
       "lastActivity": "2026-10-19T06:24:40Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 500,
+            "title": "refactor: retire the EigenAI rollout flag",
+            "url": "https://github.com/UTMIST/UTMIST/pull/500",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-27T16:12:23Z",
+            "mergedAt": null
+          },
           {
             "number": 481,
             "title": "fix: keep EigenAI ticket navigation on one line",
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-09-28T17:02:42Z",
             "mergedAt": "2026-09-28T17:02:42Z"
-          },
-          {
-            "number": 426,
-            "title": "chore: separate project progress from dependencies",
-            "url": "https://github.com/UTMIST/UTMIST/pull/426",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-09-13T04:39:23Z",
-            "mergedAt": "2026-09-13T04:39:07Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-27T10:51:17.078Z",
+      "checkedAt": "2026-10-27T16:30:58.711Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
