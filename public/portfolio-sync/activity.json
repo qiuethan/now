@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-27T16:49:42.325Z",
+  "checkedAt": "2026-10-27T21:27:47.182Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-27T16:49:42.325Z",
+      "checkedAt": "2026-10-27T21:27:47.182Z",
       "lastActivity": "2026-10-26T02:53:07Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
       "release": null,
@@ -90,9 +90,9 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-27T16:49:42.325Z",
-      "lastActivity": "2026-10-19T06:24:40Z",
-      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/aadfd974b85797a0eee8e499bec635f67c465a9d",
+      "checkedAt": "2026-10-27T21:27:47.182Z",
+      "lastActivity": "2026-10-27T18:08:48Z",
+      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -101,10 +101,10 @@
             "number": 500,
             "title": "refactor: retire the EigenAI rollout flag",
             "url": "https://github.com/UTMIST/UTMIST/pull/500",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-27T16:32:35Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-27T16:50:09Z",
+            "mergedAt": "2026-10-27T16:50:08Z"
           },
           {
             "number": 481,
@@ -154,6 +154,12 @@
         ],
         "commits": [
           {
+            "sha": "f928be2c1606300b74a8ed1f0f8157b7acabddc2",
+            "title": "refactor: retire the EigenAI rollout flag (#500)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/f928be2c1606300b74a8ed1f0f8157b7acabddc2",
+            "date": "2026-10-27T16:46:45Z"
+          },
+          {
             "sha": "83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
             "title": "fix: keep EigenAI ticket navigation on one line (#481)",
             "url": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
@@ -164,19 +170,13 @@
             "title": "chore: prepare main for GitHub merge queue (#484)",
             "url": "https://github.com/UTMIST/UTMIST/commit/6a1b28cf2807f5dad8668a34bbef478cb18cb2c5",
             "date": "2026-10-05T20:07:35Z"
-          },
-          {
-            "sha": "2acb98064d5fcaa98a6d5af0e96d77aa5685bed0",
-            "title": "feat: add EigenAI metadata, glass outline, and mobile orbs (#473)",
-            "url": "https://github.com/UTMIST/UTMIST/commit/2acb98064d5fcaa98a6d5af0e96d77aa5685bed0",
-            "date": "2026-09-30T21:16:04Z"
           }
         ]
       }
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-27T16:49:42.325Z",
+      "checkedAt": "2026-10-27T21:27:47.182Z",
       "lastActivity": "2026-10-22T01:33:34Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
       "release": null,
