@@ -4,17 +4,9 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-27T16:40:40.159Z",
+  "updated": "2026-10-27T21:20:36.447Z",
   "data": {
     "projects": [
-      {
-        "private": true,
-        "id": 1424065623,
-        "summary": "Private software project",
-        "recently_active": true,
-        "pushed_at": "2026-10-27",
-        "last_activity_at": "2026-10-27"
-      },
       {
         "private": false,
         "name": "UTMIST",
@@ -27,9 +19,17 @@
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-10-27T16:07:36Z",
-        "last_activity_at": "2026-10-27T16:07:51Z",
+        "pushed_at": "2026-10-27T18:12:03Z",
+        "last_activity_at": "2026-10-27T16:56:34Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1424065623,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-10-27",
+        "last_activity_at": "2026-10-27"
       },
       {
         "private": false,
@@ -57,7 +57,7 @@
         "homepage": "",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-27T03:41:51Z",
+        "pushed_at": "2026-10-27T18:58:27Z",
         "last_activity_at": "2026-10-27T03:42:59Z",
         "recently_active": true
       },
@@ -84,7 +84,7 @@
         "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-27T16:40:40.159Z",
+    "fetched_at": "2026-10-27T21:20:36.447Z",
     "stale": false
   }
 }
