@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-27T10:36:06.308Z",
+  "last_updated": "2026-10-27T16:40:40.159Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -17,6 +17,30 @@
   },
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
+    {
+      "private": true,
+      "id": 1424065623,
+      "summary": "Private software project",
+      "recently_active": true,
+      "pushed_at": "2026-10-27",
+      "last_activity_at": "2026-10-27"
+    },
+    {
+      "private": false,
+      "name": "UTMIST",
+      "full_name": "UTMIST/UTMIST",
+      "description": "UTMIST Website",
+      "language": "TypeScript",
+      "url": "https://github.com/UTMIST/UTMIST",
+      "homepage": "",
+      "stars": 2,
+      "topics": [
+        "website"
+      ],
+      "pushed_at": "2026-10-27T16:07:36Z",
+      "last_activity_at": "2026-10-27T16:07:51Z",
+      "recently_active": true
+    },
     {
       "private": false,
       "name": "Mist",
@@ -34,14 +58,6 @@
       "recently_active": true
     },
     {
-      "private": true,
-      "id": 1424065623,
-      "summary": "Private software project",
-      "recently_active": true,
-      "pushed_at": "2026-10-27",
-      "last_activity_at": "2026-10-27"
-    },
-    {
       "private": false,
       "name": "Misty",
       "full_name": "UTMIST/Misty",
@@ -53,22 +69,6 @@
       "topics": [],
       "pushed_at": "2026-10-27T03:41:51Z",
       "last_activity_at": "2026-10-27T03:42:59Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "UTMIST",
-      "full_name": "UTMIST/UTMIST",
-      "description": "UTMIST Website",
-      "language": "TypeScript",
-      "url": "https://github.com/UTMIST/UTMIST",
-      "homepage": "",
-      "stars": 2,
-      "topics": [
-        "website"
-      ],
-      "pushed_at": "2026-10-22T18:25:18Z",
-      "last_activity_at": "2026-10-19T06:24:09Z",
       "recently_active": true
     },
     {
@@ -125,26 +125,26 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-27T10:36:06.308Z",
+    "fetched_at": "2026-10-27T16:40:40.159Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2117,
-    "last_7_days": 120,
-    "last_30_days": 321,
+    "total_past_year": 2119,
+    "last_7_days": 122,
+    "last_30_days": 323,
     "current_streak": 12,
     "longest_streak": 12,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-10-27T10:36:06.308Z",
+    "fetched_at": "2026-10-27T16:40:40.159Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 62 GitHub commits and 25 pushes, all in UTMIST/Misty except for two pushes to UTMIST/Mist. He opened pull requests in UTMIST/Misty, including #294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, and #346, and opened UTMIST/Mist#125. He also reviewed pull requests in UTMIST/Misty, including #283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, and #314.",
+  "summary": "This week, Ethan Qiu made 62 GitHub contribution-count commits on UTMIST/Misty and 2 pushes to UTMIST/Mist, with no activity listed for UTMIST/UTMIST. He opened pull requests across UTMIST/Mist and UTMIST/Misty, including UTMIST/Mist#125 and UTMIST/Misty#294, #307, and #344–#346. He also reviewed pull requests in UTMIST/Misty, including #283, #290, and #293–#314, and opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-27T10:36:06.308Z",
+    "generated_at": "2026-10-27T16:40:40.159Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 62,
@@ -159,6 +159,11 @@
           "name": "UTMIST/Mist",
           "commits": 0,
           "pushes": 2
+        },
+        {
+          "name": "UTMIST/UTMIST",
+          "commits": 0,
+          "pushes": 0
         }
       ],
       "prsOpened": [
@@ -184,7 +189,8 @@
         "UTMIST/Misty#331",
         "UTMIST/Misty#344",
         "UTMIST/Misty#345",
-        "UTMIST/Misty#346"
+        "UTMIST/Misty#346",
+        "UTMIST/UTMIST#500"
       ],
       "prsReviewed": [
         "UTMIST/Misty#283",
@@ -225,11 +231,12 @@
         "UTMIST/Misty#340",
         "UTMIST/Misty#341",
         "UTMIST/Misty#342",
-        "UTMIST/Misty#343"
+        "UTMIST/Misty#343",
+        "UTMIST/UTMIST#499"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-27T10:36:06.308Z",
+      "fetched_at": "2026-10-27T16:40:40.159Z",
       "stale": false
     },
     "coding": {
@@ -239,11 +246,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-21",
       "window_end": "2026-10-27",
-      "total_seconds": 74789,
+      "total_seconds": 74962,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 74736
+          "seconds": 74909
         },
         {
           "name": "VS Code",
@@ -283,14 +290,14 @@
         },
         {
           "date": "2026-10-27",
-          "orca_seconds": 3903,
+          "orca_seconds": 4076,
           "vscode_seconds": 53
         }
       ],
-      "fetched_at": "2026-10-27T08:30:44.399Z",
-      "stale": true
+      "fetched_at": "2026-10-27T16:21:21.326Z",
+      "stale": false
     },
-    "summary": "This week, Ethan Qiu made 62 GitHub commits and 25 pushes, all in UTMIST/Misty except for two pushes to UTMIST/Mist. He opened pull requests in UTMIST/Misty, including #294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, and #346, and opened UTMIST/Mist#125. He also reviewed pull requests in UTMIST/Misty, including #283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, and #314.",
+    "summary": "This week, Ethan Qiu made 62 GitHub contribution-count commits on UTMIST/Misty and 2 pushes to UTMIST/Mist, with no activity listed for UTMIST/UTMIST. He opened pull requests across UTMIST/Mist and UTMIST/Misty, including UTMIST/Mist#125 and UTMIST/Misty#294, #307, and #344–#346. He also reviewed pull requests in UTMIST/Misty, including #283, #290, and #293–#314, and opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
     "summary_stale": false
   },
   "writing": [
