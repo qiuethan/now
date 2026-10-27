@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-27T05:07:25.117Z",
+  "last_updated": "2026-10-27T10:36:06.308Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -29,7 +29,7 @@
       "topics": [
         "platform"
       ],
-      "pushed_at": "2026-10-26T18:20:40Z",
+      "pushed_at": "2026-10-27T06:25:47Z",
       "last_activity_at": "2026-10-27T04:19:47Z",
       "recently_active": true
     },
@@ -125,7 +125,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-27T05:07:25.117Z",
+    "fetched_at": "2026-10-27T10:36:06.308Z",
     "stale": false
   },
   "contributions": {
@@ -138,13 +138,13 @@
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-10-27T05:07:25.117Z",
+    "fetched_at": "2026-10-27T10:36:06.308Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 62 GitHub contribution counts on UTMIST/Misty and 2 pushes on UTMIST/Mist. He opened pull requests in UTMIST/Mist (#125) and UTMIST/Misty (#294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, #346). He also reviewed pull requests in UTMIST/Misty (#283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, #314).",
+  "summary": "This week, Ethan Qiu made 62 GitHub commits and 25 pushes, all in UTMIST/Misty except for two pushes to UTMIST/Mist. He opened pull requests in UTMIST/Misty, including #294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, and #346, and opened UTMIST/Mist#125. He also reviewed pull requests in UTMIST/Misty, including #283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, and #314.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-27T05:07:25.117Z",
+    "generated_at": "2026-10-27T10:36:06.308Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 62,
@@ -229,7 +229,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-27T05:07:25.117Z",
+      "fetched_at": "2026-10-27T10:36:06.308Z",
       "stale": false
     },
     "coding": {
@@ -239,11 +239,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-21",
       "window_end": "2026-10-27",
-      "total_seconds": 74622,
+      "total_seconds": 74789,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 74569
+          "seconds": 74736
         },
         {
           "name": "VS Code",
@@ -283,14 +283,14 @@
         },
         {
           "date": "2026-10-27",
-          "orca_seconds": 3736,
+          "orca_seconds": 3903,
           "vscode_seconds": 53
         }
       ],
-      "fetched_at": "2026-10-27T05:04:39.932Z",
-      "stale": false
+      "fetched_at": "2026-10-27T08:30:44.399Z",
+      "stale": true
     },
-    "summary": "This week, Ethan Qiu made 62 GitHub contribution counts on UTMIST/Misty and 2 pushes on UTMIST/Mist. He opened pull requests in UTMIST/Mist (#125) and UTMIST/Misty (#294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, #346). He also reviewed pull requests in UTMIST/Misty (#283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, #314).",
+    "summary": "This week, Ethan Qiu made 62 GitHub commits and 25 pushes, all in UTMIST/Misty except for two pushes to UTMIST/Mist. He opened pull requests in UTMIST/Misty, including #294, #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, and #346, and opened UTMIST/Mist#125. He also reviewed pull requests in UTMIST/Misty, including #283, #290, #293, #295, #296, #297, #298, #299, #300, #303, #304, #305, #306, #307, #308, #309, #311, #312, #313, and #314.",
     "summary_stale": false
   },
   "writing": [
