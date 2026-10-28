@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-10-28T08:34:50.479Z",
+  "updated": "2026-10-28T16:04:37.633Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-10-28T08:34:50.479Z",
+    "generated_at": "2026-10-28T16:04:37.633Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 50,
@@ -92,7 +92,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-28T08:34:50.479Z",
+      "fetched_at": "2026-10-28T16:04:37.633Z",
       "stale": false
     },
     "coding": {
@@ -102,11 +102,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-22",
       "window_end": "2026-10-28",
-      "total_seconds": 63758,
+      "total_seconds": 64603,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 63705
+          "seconds": 64550
         },
         {
           "name": "VS Code",
@@ -146,14 +146,14 @@
         },
         {
           "date": "2026-10-28",
-          "orca_seconds": 2091,
+          "orca_seconds": 2936,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-28T05:18:50.155Z",
+      "fetched_at": "2026-10-28T13:58:22.948Z",
       "stale": true
     },
-    "summary": "This week Ethan Qiu made 50 GitHub contribution counts across UTMIST/Misty and UTMIST/UTMIST, with 49 in UTMIST/Misty and 1 in UTMIST/UTMIST. They opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, including UTMIST/Misty#307 through #346 and UTMIST/UTMIST#500 and #503. They also reviewed pull requests in UTMIST/Misty, including #283, #290, #295, and #303 through #314.",
+    "summary": "This week, Ethan Qiu made 50 GitHub contributions across UTMIST/Misty, UTMIST/UTMIST, and UTMIST/Mist, with 49 commits on UTMIST/Misty and 1 on UTMIST/UTMIST. He opened pull requests in UTMIST/Misty including #307, #308, #309, #311, #314, #316, #318, #319, #321, #322, #323, #325, #326, #327, #328, #329, #330, #331, #344, #345, and #346, and in UTMIST/UTMIST #500 and #503, plus UTMIST/Mist#125. He also reviewed pull requests in UTMIST/Misty, including #283, #290, #295, #303, #305, #306, #307, #308, #309, #311, #312, #313, and #314.",
     "summary_stale": false
   }
 }
