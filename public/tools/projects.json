@@ -4,9 +4,23 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-28T16:04:37.633Z",
+  "updated": "2026-10-28T21:06:18.489Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "UTMIST AI Internal Operations Platform",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-28T19:03:48Z",
+        "last_activity_at": "2026-10-28T20:35:43Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "UTMIST",
@@ -48,20 +62,6 @@
         "recently_active": true
       },
       {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "UTMIST AI Internal Operations Platform",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-27T18:58:27Z",
-        "last_activity_at": "2026-10-27T03:42:59Z",
-        "recently_active": true
-      },
-      {
         "private": true,
         "id": 1117921210,
         "summary": "Private software project",
@@ -84,7 +84,7 @@
         "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-28T16:04:37.633Z",
+    "fetched_at": "2026-10-28T21:06:18.489Z",
     "stale": false
   }
 }
