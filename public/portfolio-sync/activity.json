@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-28T19:47:57.925Z",
+  "checkedAt": "2026-10-29T00:18:09.918Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-28T19:47:57.925Z",
+      "checkedAt": "2026-10-29T00:18:09.918Z",
       "lastActivity": "2026-10-28T18:07:50Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/f777ec716b1252e98dcf9e4419d95e1b0b33e5c8",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 351,
+            "title": "chore: introduce Misty platform release versioning",
+            "url": "https://github.com/UTMIST/Misty/pull/351",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-28T20:32:33Z",
+            "mergedAt": null
+          },
           {
             "number": 350,
             "title": "Release: cache source-refresh identity lookups (#349)",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-27T22:24:40Z",
             "mergedAt": null
-          },
-          {
-            "number": 331,
-            "title": "Add scoped email login to the external gateway",
-            "url": "https://github.com/UTMIST/Misty/pull/331",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-26T16:11:44Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-28T19:47:57.925Z",
+      "checkedAt": "2026-10-29T00:18:09.918Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,9 +176,9 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-28T19:47:57.925Z",
-      "lastActivity": "2026-10-22T01:33:34Z",
-      "commitUrl": "https://github.com/UTMIST/Mist/commit/f920e84bd932476d275a40e9b8fa529591d5a4db",
+      "checkedAt": "2026-10-29T00:18:09.918Z",
+      "lastActivity": "2026-10-28T23:36:53Z",
+      "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
       "work": {
         "author": "qiuethan",
