@@ -1,24 +1,33 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-30T16:59:40.249Z",
+  "checkedAt": "2026-10-30T21:40:37.231Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-30T16:59:40.249Z",
-      "lastActivity": "2026-10-29T19:18:41Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/e40df656e1ae5d0f3f96fed208e5dd7883ffef90",
+      "checkedAt": "2026-10-30T21:40:37.231Z",
+      "lastActivity": "2026-10-30T19:38:16Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/2a1b40fbfda87f94a678943c1e7865ccd3e8ab26",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 354,
+            "title": "Release Misty bulk actions and paginated confirmations (#353 only)",
+            "url": "https://github.com/UTMIST/Misty/pull/354",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-10-30T19:46:50Z",
+            "mergedAt": "2026-10-30T19:46:47Z"
+          },
+          {
             "number": 353,
             "title": "fix(bot): support bulk actions and paginate private confirmations",
             "url": "https://github.com/UTMIST/Misty/pull/353",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-10-30T00:53:44Z",
-            "mergedAt": null
+            "updatedAt": "2026-10-30T19:42:19Z",
+            "mergedAt": "2026-10-30T19:42:17Z"
           },
           {
             "number": 351,
@@ -55,42 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-27T22:27:10Z",
             "mergedAt": null
-          },
-          {
-            "number": 345,
-            "title": "Document board readiness, holds and issue closure",
-            "url": "https://github.com/UTMIST/Misty/pull/345",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-27T22:25:48Z",
-            "mergedAt": null
           }
         ],
         "commits": [
           {
-            "sha": "a56bde31f953a64369baef9fa22cd25919666b69",
-            "title": "fix(docs): finish source refresh item failures with warnings (#329)",
-            "url": "https://github.com/UTMIST/Misty/commit/a56bde31f953a64369baef9fa22cd25919666b69",
-            "date": "2026-10-26T02:53:07Z"
+            "sha": "2a1b40fbfda87f94a678943c1e7865ccd3e8ab26",
+            "title": "fix(bot): support bulk actions and paginate private confirmations (#353)",
+            "url": "https://github.com/UTMIST/Misty/commit/2a1b40fbfda87f94a678943c1e7865ccd3e8ab26",
+            "date": "2026-10-30T19:38:16Z"
           },
           {
-            "sha": "9b7443b9c3ebce63ba7bbba79a939bec2c7a2ede",
-            "title": "fix(docs): finish source refresh item failures with warnings",
-            "url": "https://github.com/UTMIST/Misty/commit/9b7443b9c3ebce63ba7bbba79a939bec2c7a2ede",
-            "date": "2026-10-26T02:50:07Z"
+            "sha": "985104c66e79910870480a28a2e93b482069caf1",
+            "title": "fix(bot): budget evidence checks for complete action batches",
+            "url": "https://github.com/UTMIST/Misty/commit/985104c66e79910870480a28a2e93b482069caf1",
+            "date": "2026-10-30T00:52:57Z"
           },
           {
-            "sha": "b1424997eb82165e4efe6ac23daf27930d134eee",
-            "title": "fix(docs): finish discovery batches with warnings",
-            "url": "https://github.com/UTMIST/Misty/commit/b1424997eb82165e4efe6ac23daf27930d134eee",
-            "date": "2026-10-25T21:20:30Z"
+            "sha": "58ede87a2aa70f5b0ad892117330e1c79a7586ec",
+            "title": "fix(bot): support bulk actions and paginate private confirmations",
+            "url": "https://github.com/UTMIST/Misty/commit/58ede87a2aa70f5b0ad892117330e1c79a7586ec",
+            "date": "2026-10-30T00:06:30Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-30T16:59:40.249Z",
+      "checkedAt": "2026-10-30T21:40:37.231Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-30T16:59:40.249Z",
+      "checkedAt": "2026-10-30T21:40:37.231Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
