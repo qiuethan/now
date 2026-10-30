@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-10-29T20:18:48.168Z",
+  "updated": "2026-10-30T01:01:12.677Z",
   "data": {
     "projects": [
       {
@@ -17,8 +17,22 @@
         "homepage": "",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-29T19:22:53Z",
-        "last_activity_at": "2026-10-29T19:09:38Z",
+        "pushed_at": "2026-10-30T00:53:13Z",
+        "last_activity_at": "2026-10-30T00:07:29Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "neetcode-submissions",
+        "full_name": "qiuethan/neetcode-submissions",
+        "description": "My NeetCode.io problem submissions",
+        "language": "Python",
+        "url": "https://github.com/qiuethan/neetcode-submissions",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-10-30T00:26:28Z",
+        "last_activity_at": "2026-10-29T07:00:00Z",
         "recently_active": true
       },
       {
@@ -68,23 +82,9 @@
         "recently_active": true,
         "pushed_at": "2026-10-18",
         "last_activity_at": "2026-10-18"
-      },
-      {
-        "private": false,
-        "name": "Portfolio",
-        "full_name": "qiuethan/Portfolio",
-        "description": "Personal portfolio site built with React to showcase my projects, experience, and technical skills.",
-        "language": "TypeScript",
-        "url": "https://github.com/qiuethan/Portfolio",
-        "homepage": "https://ethanqiu.ca",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-10-09T02:32:11Z",
-        "last_activity_at": "2026-10-09T02:32:11Z",
-        "recently_active": false
       }
     ],
-    "fetched_at": "2026-10-29T20:18:48.168Z",
+    "fetched_at": "2026-10-30T01:01:12.677Z",
     "stale": false
   }
 }
