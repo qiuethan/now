@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-10-29T23:32:06.880Z",
+  "checkedAt": "2026-10-30T02:51:35.162Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-10-29T23:32:06.880Z",
+      "checkedAt": "2026-10-30T02:51:35.162Z",
       "lastActivity": "2026-10-29T19:18:41Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/e40df656e1ae5d0f3f96fed208e5dd7883ffef90",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 353,
+            "title": "fix(bot): support bulk actions and paginate private confirmations",
+            "url": "https://github.com/UTMIST/Misty/pull/353",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-10-30T00:53:44Z",
+            "mergedAt": null
+          },
           {
             "number": 351,
             "title": "chore: introduce Misty platform release versioning",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-10-27T22:25:48Z",
             "mergedAt": null
-          },
-          {
-            "number": 346,
-            "title": "Align agent instructions with board automation",
-            "url": "https://github.com/UTMIST/Misty/pull/346",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-27T22:24:40Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-10-29T23:32:06.880Z",
+      "checkedAt": "2026-10-30T02:51:35.162Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-10-29T23:32:06.880Z",
+      "checkedAt": "2026-10-30T02:51:35.162Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
