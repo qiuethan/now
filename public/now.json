@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-10-30T14:10:31.375Z",
+  "last_updated": "2026-10-30T19:23:57.659Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -81,7 +81,7 @@
       "topics": [
         "platform"
       ],
-      "pushed_at": "2026-10-29T03:28:23Z",
+      "pushed_at": "2026-10-30T18:31:31Z",
       "last_activity_at": "2026-10-27T04:19:47Z",
       "recently_active": true
     },
@@ -125,7 +125,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-10-30T14:10:31.375Z",
+    "fetched_at": "2026-10-30T19:23:57.659Z",
     "stale": false
   },
   "contributions": {
@@ -138,13 +138,13 @@
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-10-30T14:10:31.375Z",
+    "fetched_at": "2026-10-30T19:23:57.659Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 10 GitHub contribution counts across UTMIST/Misty, qiuethan/neetcode-submissions, and UTMIST/UTMIST, with the most activity in UTMIST/Misty. He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed two pull requests in UTMIST/Misty (#349 and #352). He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
+  "summary": "This week, Ethan Qiu had 10 GitHub contribution-counted commits across UTMIST/Misty, qiuethan/neetcode-submissions, and UTMIST/UTMIST, with the most activity in UTMIST/Misty. He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed two pull requests in UTMIST/Misty (#349 and #352). He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-10-30T14:10:31.375Z",
+    "generated_at": "2026-10-30T19:23:57.659Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 10,
@@ -218,7 +218,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-10-30T14:10:31.375Z",
+      "fetched_at": "2026-10-30T19:23:57.659Z",
       "stale": false
     },
     "coding": {
@@ -276,10 +276,10 @@
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-10-30T14:04:19.689Z",
+      "fetched_at": "2026-10-30T18:40:34.091Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 10 GitHub contribution counts across UTMIST/Misty, qiuethan/neetcode-submissions, and UTMIST/UTMIST, with the most activity in UTMIST/Misty. He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed two pull requests in UTMIST/Misty (#349 and #352). He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
+    "summary": "This week, Ethan Qiu had 10 GitHub contribution-counted commits across UTMIST/Misty, qiuethan/neetcode-submissions, and UTMIST/UTMIST, with the most activity in UTMIST/Misty. He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed two pull requests in UTMIST/Misty (#349 and #352). He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
     "summary_stale": false
   },
   "writing": [
