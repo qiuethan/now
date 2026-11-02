@@ -1,16 +1,43 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-02T08:10:12.417Z",
+  "checkedAt": "2026-11-02T18:45:33.648Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-02T08:10:12.417Z",
-      "lastActivity": "2026-11-02T05:58:08Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/47a9dc2276cbb3a27b7b1734163cd047b0974b19",
+      "checkedAt": "2026-11-02T18:45:33.648Z",
+      "lastActivity": "2026-11-02T17:40:37Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/47dfcf0f36ecec750d807e13b4ef560ae12f2649",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 369,
+            "title": "Release: promote staging person lookup and refresh timeout recovery",
+            "url": "https://github.com/UTMIST/Misty/pull/369",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-02T17:51:12Z",
+            "mergedAt": "2026-11-02T17:45:07Z"
+          },
+          {
+            "number": 368,
+            "title": "Reconcile main release history into staging",
+            "url": "https://github.com/UTMIST/Misty/pull/368",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-02T17:40:41Z",
+            "mergedAt": "2026-11-02T17:40:38Z"
+          },
+          {
+            "number": 367,
+            "title": "Release: promote person lookup by name and email (#364, #365)",
+            "url": "https://github.com/UTMIST/Misty/pull/367",
+            "state": "closed",
+            "draft": false,
+            "updatedAt": "2026-11-02T17:35:28Z",
+            "mergedAt": null
+          },
           {
             "number": 354,
             "title": "Release Misty bulk actions and paginated confirmations (#353 only)",
@@ -37,60 +64,33 @@
             "draft": false,
             "updatedAt": "2026-10-28T20:32:33Z",
             "mergedAt": null
-          },
-          {
-            "number": 350,
-            "title": "Release: cache source-refresh identity lookups (#349)",
-            "url": "https://github.com/UTMIST/Misty/pull/350",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-28T18:29:58Z",
-            "mergedAt": "2026-10-28T18:29:58Z"
-          },
-          {
-            "number": 344,
-            "title": "Repair board lifecycle automation and add operational reports",
-            "url": "https://github.com/UTMIST/Misty/pull/344",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-27T22:34:57Z",
-            "mergedAt": null
-          },
-          {
-            "number": 328,
-            "title": "docs: audit developer documentation and separate user wiki releases",
-            "url": "https://github.com/UTMIST/Misty/pull/328",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-27T22:27:10Z",
-            "mergedAt": null
           }
         ],
         "commits": [
           {
-            "sha": "2a1b40fbfda87f94a678943c1e7865ccd3e8ab26",
-            "title": "fix(bot): support bulk actions and paginate private confirmations (#353)",
-            "url": "https://github.com/UTMIST/Misty/commit/2a1b40fbfda87f94a678943c1e7865ccd3e8ab26",
-            "date": "2026-10-30T19:38:16Z"
+            "sha": "47dfcf0f36ecec750d807e13b4ef560ae12f2649",
+            "title": "Reconcile main release history into staging (#368)",
+            "url": "https://github.com/UTMIST/Misty/commit/47dfcf0f36ecec750d807e13b4ef560ae12f2649",
+            "date": "2026-11-02T17:40:37Z"
           },
           {
-            "sha": "985104c66e79910870480a28a2e93b482069caf1",
-            "title": "fix(bot): budget evidence checks for complete action batches",
-            "url": "https://github.com/UTMIST/Misty/commit/985104c66e79910870480a28a2e93b482069caf1",
-            "date": "2026-10-30T00:52:57Z"
+            "sha": "cefe987b51a15865f4f806c53a8b0ba62df67bda",
+            "title": "Merge main release history into staging without file changes",
+            "url": "https://github.com/UTMIST/Misty/commit/cefe987b51a15865f4f806c53a8b0ba62df67bda",
+            "date": "2026-11-02T17:33:30Z"
           },
           {
-            "sha": "58ede87a2aa70f5b0ad892117330e1c79a7586ec",
-            "title": "fix(bot): support bulk actions and paginate private confirmations",
-            "url": "https://github.com/UTMIST/Misty/commit/58ede87a2aa70f5b0ad892117330e1c79a7586ec",
-            "date": "2026-10-30T00:06:30Z"
+            "sha": "1b1cc62e4f62ac0c347fbdfe860ed6defa7209a8",
+            "title": "Release Misty bulk actions and paginated confirmations (#353 only) (#354)",
+            "url": "https://github.com/UTMIST/Misty/commit/1b1cc62e4f62ac0c347fbdfe860ed6defa7209a8",
+            "date": "2026-10-30T19:46:47Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-02T08:10:12.417Z",
+      "checkedAt": "2026-11-02T18:45:33.648Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-02T08:10:12.417Z",
+      "checkedAt": "2026-11-02T18:45:33.648Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
