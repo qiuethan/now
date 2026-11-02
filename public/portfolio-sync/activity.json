@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-02T18:45:33.648Z",
+  "checkedAt": "2026-11-02T20:43:52.450Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-02T18:45:33.648Z",
-      "lastActivity": "2026-11-02T17:40:37Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/47dfcf0f36ecec750d807e13b4ef560ae12f2649",
+      "checkedAt": "2026-11-02T20:43:52.450Z",
+      "lastActivity": "2026-11-02T19:20:06Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/92681550d4b853d03e74b41ac2c6fd76d5034e66",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -68,29 +68,29 @@
         ],
         "commits": [
           {
+            "sha": "28598ad580d9ba9c56e2a5567868428c45192adb",
+            "title": "feat(bot): update existing team roles and team-admin flags (#366)",
+            "url": "https://github.com/UTMIST/Misty/commit/28598ad580d9ba9c56e2a5567868428c45192adb",
+            "date": "2026-11-02T19:12:10Z"
+          },
+          {
+            "sha": "bba9d19466655772f7c248ae714001e77a28c47d",
+            "title": "fix(bot): deny inactive people protected commands (#363)",
+            "url": "https://github.com/UTMIST/Misty/commit/bba9d19466655772f7c248ae714001e77a28c47d",
+            "date": "2026-11-02T19:11:10Z"
+          },
+          {
             "sha": "47dfcf0f36ecec750d807e13b4ef560ae12f2649",
             "title": "Reconcile main release history into staging (#368)",
             "url": "https://github.com/UTMIST/Misty/commit/47dfcf0f36ecec750d807e13b4ef560ae12f2649",
             "date": "2026-11-02T17:40:37Z"
-          },
-          {
-            "sha": "cefe987b51a15865f4f806c53a8b0ba62df67bda",
-            "title": "Merge main release history into staging without file changes",
-            "url": "https://github.com/UTMIST/Misty/commit/cefe987b51a15865f4f806c53a8b0ba62df67bda",
-            "date": "2026-11-02T17:33:30Z"
-          },
-          {
-            "sha": "1b1cc62e4f62ac0c347fbdfe860ed6defa7209a8",
-            "title": "Release Misty bulk actions and paginated confirmations (#353 only) (#354)",
-            "url": "https://github.com/UTMIST/Misty/commit/1b1cc62e4f62ac0c347fbdfe860ed6defa7209a8",
-            "date": "2026-10-30T19:46:47Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-02T18:45:33.648Z",
+      "checkedAt": "2026-11-02T20:43:52.450Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-02T18:45:33.648Z",
+      "checkedAt": "2026-11-02T20:43:52.450Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
