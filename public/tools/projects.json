@@ -4,9 +4,23 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-01T23:36:44.624Z",
+  "updated": "2026-11-02T06:06:26.744Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Misty",
+        "full_name": "UTMIST/Misty",
+        "description": "UTMIST AI Internal Operations Platform",
+        "language": "Python",
+        "url": "https://github.com/UTMIST/Misty",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-11-02T06:01:48Z",
+        "last_activity_at": "2026-11-02T02:42:38Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "neetcode-submissions",
@@ -19,20 +33,6 @@
         "topics": [],
         "pushed_at": "2026-10-31T05:19:37Z",
         "last_activity_at": "2026-10-31T07:00:00Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "Misty",
-        "full_name": "UTMIST/Misty",
-        "description": "UTMIST AI Internal Operations Platform",
-        "language": "Python",
-        "url": "https://github.com/UTMIST/Misty",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-11-01T01:21:23Z",
-        "last_activity_at": "2026-10-30T19:46:49Z",
         "recently_active": true
       },
       {
@@ -84,7 +84,7 @@
         "last_activity_at": "2026-10-18"
       }
     ],
-    "fetched_at": "2026-11-01T23:36:44.624Z",
+    "fetched_at": "2026-11-02T06:06:26.744Z",
     "stale": false
   }
 }

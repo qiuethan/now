@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-01T23:36:44.624Z",
+  "last_updated": "2026-11-02T06:06:26.744Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,20 @@
   "projects": [
     {
       "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "UTMIST AI Internal Operations Platform",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 0,
+      "topics": [],
+      "pushed_at": "2026-11-02T06:01:48Z",
+      "last_activity_at": "2026-11-02T02:42:38Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "neetcode-submissions",
       "full_name": "qiuethan/neetcode-submissions",
       "description": "My NeetCode.io problem submissions",
@@ -29,20 +43,6 @@
       "topics": [],
       "pushed_at": "2026-10-31T05:19:37Z",
       "last_activity_at": "2026-10-31T07:00:00Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "Misty",
-      "full_name": "UTMIST/Misty",
-      "description": "UTMIST AI Internal Operations Platform",
-      "language": "Python",
-      "url": "https://github.com/UTMIST/Misty",
-      "homepage": "",
-      "stars": 0,
-      "topics": [],
-      "pushed_at": "2026-11-01T01:21:23Z",
-      "last_activity_at": "2026-10-30T19:46:49Z",
       "recently_active": true
     },
     {
@@ -125,30 +125,30 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-01T23:36:44.624Z",
+    "fetched_at": "2026-11-02T06:06:26.744Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2123,
-    "last_7_days": 46,
-    "last_30_days": 323,
-    "current_streak": 16,
+    "total_past_year": 2118,
+    "last_7_days": 47,
+    "last_30_days": 326,
+    "current_streak": 1,
     "longest_streak": 16,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-11-01T23:36:44.624Z",
+    "fetched_at": "2026-11-02T06:06:26.744Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu had 13 GitHub contribution counts across qiuethan/neetcode-submissions, UTMIST/Misty, and UTMIST/UTMIST, with the most in qiuethan/neetcode-submissions (9) and UTMIST/Misty (3). He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#349 and UTMIST/Misty#352. He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
+  "summary": "This week, Ethan Qiu made 13 GitHub contributions across qiuethan/neetcode-submissions, UTMIST/Misty, and UTMIST/UTMIST. He had 9 contributions in qiuethan/neetcode-submissions, 3 in UTMIST/Misty, and 1 in UTMIST/UTMIST, and he opened pull requests in UTMIST/Misty (#344, #345, #346, #350, #351, #353, #354) and UTMIST/UTMIST (#500, #503). He also reviewed pull requests UTMIST/Misty#349 and UTMIST/Misty#352.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-01T23:36:44.624Z",
+    "generated_at": "2026-11-02T06:06:26.744Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 13,
-      "totalPushes": 19,
+      "totalPushes": 12,
       "repos": [
         {
           "name": "qiuethan/neetcode-submissions",
@@ -158,7 +158,7 @@
         {
           "name": "UTMIST/Misty",
           "commits": 3,
-          "pushes": 8
+          "pushes": 3
         },
         {
           "name": "UTMIST/UTMIST",
@@ -168,15 +168,10 @@
         {
           "name": "UTMIST/Mist",
           "commits": 0,
-          "pushes": 2
+          "pushes": 0
         }
       ],
       "prsOpened": [
-        "UTMIST/Mist#125",
-        "UTMIST/Misty#328",
-        "UTMIST/Misty#329",
-        "UTMIST/Misty#330",
-        "UTMIST/Misty#331",
         "UTMIST/Misty#344",
         "UTMIST/Misty#345",
         "UTMIST/Misty#346",
@@ -206,13 +201,19 @@
         "UTMIST/Misty#342",
         "UTMIST/Misty#343",
         "UTMIST/Misty#348",
+        "UTMIST/Misty#357",
+        "UTMIST/Misty#358",
+        "UTMIST/Misty#359",
+        "UTMIST/Misty#360",
+        "UTMIST/Misty#361",
+        "UTMIST/Misty#362",
         "UTMIST/UTMIST#499",
         "UTMIST/UTMIST#501",
         "UTMIST/UTMIST#502"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-01T23:36:44.624Z",
+      "fetched_at": "2026-11-02T06:06:26.744Z",
       "stale": false
     },
     "coding": {
@@ -220,13 +221,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-10-26",
-      "window_end": "2026-11-01",
-      "total_seconds": 16626,
+      "window_start": "2026-10-27",
+      "window_end": "2026-11-02",
+      "total_seconds": 10780,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 16573
+          "seconds": 10727
         },
         {
           "name": "VS Code",
@@ -234,11 +235,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-10-26",
-          "orca_seconds": 6408,
-          "vscode_seconds": 0
-        },
         {
           "date": "2026-10-27",
           "orca_seconds": 4123,
@@ -258,45 +254,19 @@
           "date": "2026-10-30",
           "orca_seconds": 1305,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-11-02",
+          "orca_seconds": 562,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-01T23:15:43.089Z",
+      "fetched_at": "2026-11-02T06:04:55.096Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu had 13 GitHub contribution counts across qiuethan/neetcode-submissions, UTMIST/Misty, and UTMIST/UTMIST, with the most in qiuethan/neetcode-submissions (9) and UTMIST/Misty (3). He opened pull requests in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#349 and UTMIST/Misty#352. He also opened issues in UTMIST/Mist, UTMIST/Misty, and UTMIST/UTMIST.",
+    "summary": "This week, Ethan Qiu made 13 GitHub contributions across qiuethan/neetcode-submissions, UTMIST/Misty, and UTMIST/UTMIST. He had 9 contributions in qiuethan/neetcode-submissions, 3 in UTMIST/Misty, and 1 in UTMIST/UTMIST, and he opened pull requests in UTMIST/Misty (#344, #345, #346, #350, #351, #353, #354) and UTMIST/UTMIST (#500, #503). He also reviewed pull requests UTMIST/Misty#349 and UTMIST/Misty#352.",
     "summary_stale": false
   },
-  "writing": [
-    {
-      "title": "The one about brand new day",
-      "url": "https://coherentboi.substack.com/p/the-one-about-brand-new-day",
-      "published_at": "2026-08-04T03:51:53.000Z",
-      "excerpt": "My sister was kind enough to invite me to watch Spiderman: Brand New Day today. The movie, although ending on a disappointing note (which I will get to), made me deeply resonate with the movie and inspired me to share…"
-    },
-    {
-      "title": "The one about bad dreams",
-      "url": "https://coherentboi.substack.com/p/the-one-about-bad-dreams",
-      "published_at": "2026-08-01T19:15:57.000Z",
-      "excerpt": "We all know the feeling when you have a nightmare as a kid. You run away from a sort of monster, or a zombie, or as you get older , you fail a test. The kind of nightmare that makes you sit upright, clutch the sheets…"
-    },
-    {
-      "title": "The one about Union Station",
-      "url": "https://coherentboi.substack.com/p/the-one-about-uniom-station",
-      "published_at": "2026-06-22T14:50:35.000Z",
-      "excerpt": "TLDR if you want to avoid the graphic content: People are incredibly kind and I want to thank Scott, the medic, security and the custodian :D So it’s Monday morning, 10:19 PM when I’m writing this. I’ve experienced…"
-    },
-    {
-      "title": "The one about Thea pt. the end?",
-      "url": "https://coherentboi.substack.com/p/the-one-about-thea-pt-the-end",
-      "published_at": "2026-06-14T23:15:07.000Z",
-      "excerpt": "So this email was sent to me about a month ago, when I was first experimenting with Thea (if you don’t know what that is, go look at some of my other articles). Basically, because Thea runs on the claude agents SDK…"
-    },
-    {
-      "title": "The one about Tomodachi Life",
-      "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
-      "published_at": "2026-05-28T01:27:22.000Z",
-      "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
-    }
-  ],
+  "writing": [],
   "tools": "/tools.json"
 }
