@@ -1,96 +1,96 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-03T18:23:50.863Z",
+  "checkedAt": "2026-11-03T23:36:48.375Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-03T18:23:50.863Z",
-      "lastActivity": "2026-11-03T00:48:53Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/8c028579d8346dc1b2bb3bf560401394c0264db7",
+      "checkedAt": "2026-11-03T23:36:48.375Z",
+      "lastActivity": "2026-11-03T19:24:01Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/24ba8b26424af51d46aa022621e444084ab24eba",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 373,
-            "title": "Release: promote Misty maintenance and bot dependency updates",
-            "url": "https://github.com/UTMIST/Misty/pull/373",
+            "number": 377,
+            "title": "fix: validate reused release sync snapshots",
+            "url": "https://github.com/UTMIST/Misty/pull/377",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-03T00:52:29Z",
+            "updatedAt": "2026-11-03T20:28:02Z",
+            "mergedAt": null
+          },
+          {
+            "number": 344,
+            "title": "Repair board lifecycle automation and add operational reports",
+            "url": "https://github.com/UTMIST/Misty/pull/344",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-03T20:26:15Z",
             "mergedAt": null
           },
           {
             "number": 374,
             "title": "ci: automate promotion and sync release history back to staging",
             "url": "https://github.com/UTMIST/Misty/pull/374",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-02T21:51:32Z",
-            "mergedAt": null
-          },
-          {
-            "number": 351,
-            "title": "chore: introduce Misty platform release versioning",
-            "url": "https://github.com/UTMIST/Misty/pull/351",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-02T21:38:30Z",
-            "mergedAt": null
-          },
-          {
-            "number": 369,
-            "title": "Release: promote staging person lookup and refresh timeout recovery",
-            "url": "https://github.com/UTMIST/Misty/pull/369",
             "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-02T17:51:12Z",
-            "mergedAt": "2026-11-02T17:45:07Z"
+            "updatedAt": "2026-11-03T19:28:12Z",
+            "mergedAt": "2026-11-03T19:28:11Z"
           },
           {
-            "number": 368,
-            "title": "Reconcile main release history into staging",
-            "url": "https://github.com/UTMIST/Misty/pull/368",
+            "number": 328,
+            "title": "docs: audit developer documentation and separate user wiki releases",
+            "url": "https://github.com/UTMIST/Misty/pull/328",
             "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-02T17:40:41Z",
-            "mergedAt": "2026-11-02T17:40:38Z"
+            "updatedAt": "2026-11-03T19:13:11Z",
+            "mergedAt": "2026-11-03T19:13:10Z"
           },
           {
-            "number": 367,
-            "title": "Release: promote person lookup by name and email (#364, #365)",
-            "url": "https://github.com/UTMIST/Misty/pull/367",
-            "state": "closed",
+            "number": 346,
+            "title": "Align agent instructions with board automation",
+            "url": "https://github.com/UTMIST/Misty/pull/346",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-02T17:35:28Z",
-            "mergedAt": null
+            "updatedAt": "2026-11-03T19:07:40Z",
+            "mergedAt": "2026-11-03T19:07:38Z"
+          },
+          {
+            "number": 345,
+            "title": "Document board readiness, holds and issue closure",
+            "url": "https://github.com/UTMIST/Misty/pull/345",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-03T19:03:26Z",
+            "mergedAt": "2026-11-03T19:03:24Z"
           }
         ],
         "commits": [
           {
-            "sha": "28598ad580d9ba9c56e2a5567868428c45192adb",
-            "title": "feat(bot): update existing team roles and team-admin flags (#366)",
-            "url": "https://github.com/UTMIST/Misty/commit/28598ad580d9ba9c56e2a5567868428c45192adb",
-            "date": "2026-11-02T19:12:10Z"
+            "sha": "24ba8b26424af51d46aa022621e444084ab24eba",
+            "title": "ci: automate promotion and sync release history back to staging (#374)",
+            "url": "https://github.com/UTMIST/Misty/commit/24ba8b26424af51d46aa022621e444084ab24eba",
+            "date": "2026-11-03T19:24:01Z"
           },
           {
-            "sha": "bba9d19466655772f7c248ae714001e77a28c47d",
-            "title": "fix(bot): deny inactive people protected commands (#363)",
-            "url": "https://github.com/UTMIST/Misty/commit/bba9d19466655772f7c248ae714001e77a28c47d",
-            "date": "2026-11-02T19:11:10Z"
+            "sha": "c46c6584d0af0c74d739ac44516208263ca54f09",
+            "title": "Merge staging after documentation PR lands",
+            "url": "https://github.com/UTMIST/Misty/commit/c46c6584d0af0c74d739ac44516208263ca54f09",
+            "date": "2026-11-03T19:14:30Z"
           },
           {
-            "sha": "9f08888366c6543b5999033f40424be1becde9ed",
-            "title": "Release: promote staging person lookup and refresh timeout recovery (#369)",
-            "url": "https://github.com/UTMIST/Misty/commit/9f08888366c6543b5999033f40424be1becde9ed",
-            "date": "2026-11-02T17:45:06Z"
+            "sha": "a0c49bac5ddae02270ac90a2d599e3dbb456eca8",
+            "title": "Merge latest staging board documentation",
+            "url": "https://github.com/UTMIST/Misty/commit/a0c49bac5ddae02270ac90a2d599e3dbb456eca8",
+            "date": "2026-11-03T19:13:22Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-03T18:23:50.863Z",
+      "checkedAt": "2026-11-03T23:36:48.375Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-03T18:23:50.863Z",
+      "checkedAt": "2026-11-03T23:36:48.375Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
