@@ -1,16 +1,43 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-02T20:43:52.450Z",
+  "checkedAt": "2026-11-03T01:44:57.708Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-02T20:43:52.450Z",
-      "lastActivity": "2026-11-02T19:20:06Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/92681550d4b853d03e74b41ac2c6fd76d5034e66",
+      "checkedAt": "2026-11-03T01:44:57.708Z",
+      "lastActivity": "2026-11-03T00:48:53Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/8c028579d8346dc1b2bb3bf560401394c0264db7",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 373,
+            "title": "Release: promote Misty maintenance and bot dependency updates",
+            "url": "https://github.com/UTMIST/Misty/pull/373",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-03T00:52:29Z",
+            "mergedAt": null
+          },
+          {
+            "number": 374,
+            "title": "ci: automate promotion and sync release history back to staging",
+            "url": "https://github.com/UTMIST/Misty/pull/374",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-02T21:51:32Z",
+            "mergedAt": null
+          },
+          {
+            "number": 351,
+            "title": "chore: introduce Misty platform release versioning",
+            "url": "https://github.com/UTMIST/Misty/pull/351",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-02T21:38:30Z",
+            "mergedAt": null
+          },
           {
             "number": 369,
             "title": "Release: promote staging person lookup and refresh timeout recovery",
@@ -37,33 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-02T17:35:28Z",
             "mergedAt": null
-          },
-          {
-            "number": 354,
-            "title": "Release Misty bulk actions and paginated confirmations (#353 only)",
-            "url": "https://github.com/UTMIST/Misty/pull/354",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-30T19:46:50Z",
-            "mergedAt": "2026-10-30T19:46:47Z"
-          },
-          {
-            "number": 353,
-            "title": "fix(bot): support bulk actions and paginate private confirmations",
-            "url": "https://github.com/UTMIST/Misty/pull/353",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-30T19:42:19Z",
-            "mergedAt": "2026-10-30T19:42:17Z"
-          },
-          {
-            "number": 351,
-            "title": "chore: introduce Misty platform release versioning",
-            "url": "https://github.com/UTMIST/Misty/pull/351",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-28T20:32:33Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -80,17 +80,17 @@
             "date": "2026-11-02T19:11:10Z"
           },
           {
-            "sha": "47dfcf0f36ecec750d807e13b4ef560ae12f2649",
-            "title": "Reconcile main release history into staging (#368)",
-            "url": "https://github.com/UTMIST/Misty/commit/47dfcf0f36ecec750d807e13b4ef560ae12f2649",
-            "date": "2026-11-02T17:40:37Z"
+            "sha": "9f08888366c6543b5999033f40424be1becde9ed",
+            "title": "Release: promote staging person lookup and refresh timeout recovery (#369)",
+            "url": "https://github.com/UTMIST/Misty/commit/9f08888366c6543b5999033f40424be1becde9ed",
+            "date": "2026-11-02T17:45:06Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-02T20:43:52.450Z",
+      "checkedAt": "2026-11-03T01:44:57.708Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-02T20:43:52.450Z",
+      "checkedAt": "2026-11-03T01:44:57.708Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
