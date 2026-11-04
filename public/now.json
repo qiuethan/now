@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-03T20:59:54.761Z",
+  "last_updated": "2026-11-04T01:23:07.382Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -125,7 +125,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-03T20:59:54.761Z",
+    "fetched_at": "2026-11-04T01:23:07.382Z",
     "stale": false
   },
   "contributions": {
@@ -141,34 +141,27 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu made 33 GitHub contributions across UTMIST/Misty and qiuethan/neetcode-submissions. He opened pull requests in UTMIST/Misty including #350, #351, #353, #354, #367, #368, #369, #373, #374, and #377, and opened UTMIST/UTMIST#503. He also reviewed pull requests in UTMIST/Misty including #347, #349, #352, #363, #366, #370, and #376.",
+  "summary": "This week, Ethan Qiu made 31 GitHub contributions across UTMIST/Misty and qiuethan/neetcode-submissions, with 22 contributions on UTMIST/Misty and 9 on qiuethan/neetcode-submissions. He opened pull requests UTMIST/Misty#353, #354, #367, #368, #369, #373, #374, and #377, and reviewed UTMIST/Misty#347, #352, #363, #366, #370, and #376. He also opened issues UTMIST/Misty#357 through #362.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-03T20:59:54.761Z",
+    "generated_at": "2026-11-04T01:23:07.382Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 33,
-      "totalPushes": 12,
+      "totalCommits": 31,
+      "totalPushes": 11,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 24,
-          "pushes": 3
+          "commits": 22,
+          "pushes": 2
         },
         {
           "name": "qiuethan/neetcode-submissions",
           "commits": 9,
           "pushes": 9
-        },
-        {
-          "name": "UTMIST/UTMIST",
-          "commits": 0,
-          "pushes": 0
         }
       ],
       "prsOpened": [
-        "UTMIST/Misty#350",
-        "UTMIST/Misty#351",
         "UTMIST/Misty#353",
         "UTMIST/Misty#354",
         "UTMIST/Misty#367",
@@ -176,12 +169,10 @@
         "UTMIST/Misty#369",
         "UTMIST/Misty#373",
         "UTMIST/Misty#374",
-        "UTMIST/Misty#377",
-        "UTMIST/UTMIST#503"
+        "UTMIST/Misty#377"
       ],
       "prsReviewed": [
         "UTMIST/Misty#347",
-        "UTMIST/Misty#349",
         "UTMIST/Misty#352",
         "UTMIST/Misty#363",
         "UTMIST/Misty#366",
@@ -189,18 +180,16 @@
         "UTMIST/Misty#376"
       ],
       "issuesOpened": [
-        "UTMIST/Misty#348",
         "UTMIST/Misty#357",
         "UTMIST/Misty#358",
         "UTMIST/Misty#359",
         "UTMIST/Misty#360",
         "UTMIST/Misty#361",
-        "UTMIST/Misty#362",
-        "UTMIST/UTMIST#502"
+        "UTMIST/Misty#362"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-03T20:59:54.761Z",
+      "fetched_at": "2026-11-04T01:23:07.382Z",
       "stale": false
     },
     "coding": {
@@ -208,13 +197,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-10-28",
-      "window_end": "2026-11-03",
-      "total_seconds": 9742,
+      "window_start": "2026-10-29",
+      "window_end": "2026-11-04",
+      "total_seconds": 6125,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 9742
+          "seconds": 6125
         },
         {
           "name": "VS Code",
@@ -222,11 +211,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-10-28",
-          "orca_seconds": 4351,
-          "vscode_seconds": 0
-        },
         {
           "date": "2026-10-29",
           "orca_seconds": 386,
@@ -244,16 +228,47 @@
         },
         {
           "date": "2026-11-03",
-          "orca_seconds": 2335,
+          "orca_seconds": 3069,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-03T20:47:48.234Z",
+      "fetched_at": "2026-11-04T00:54:33.788Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 33 GitHub contributions across UTMIST/Misty and qiuethan/neetcode-submissions. He opened pull requests in UTMIST/Misty including #350, #351, #353, #354, #367, #368, #369, #373, #374, and #377, and opened UTMIST/UTMIST#503. He also reviewed pull requests in UTMIST/Misty including #347, #349, #352, #363, #366, #370, and #376.",
+    "summary": "This week, Ethan Qiu made 31 GitHub contributions across UTMIST/Misty and qiuethan/neetcode-submissions, with 22 contributions on UTMIST/Misty and 9 on qiuethan/neetcode-submissions. He opened pull requests UTMIST/Misty#353, #354, #367, #368, #369, #373, #374, and #377, and reviewed UTMIST/Misty#347, #352, #363, #366, #370, and #376. He also opened issues UTMIST/Misty#357 through #362.",
     "summary_stale": false
   },
-  "writing": [],
+  "writing": [
+    {
+      "title": "The one about brand new day",
+      "url": "https://coherentboi.substack.com/p/the-one-about-brand-new-day",
+      "published_at": "2026-08-04T03:51:53.000Z",
+      "excerpt": "My sister was kind enough to invite me to watch Spiderman: Brand New Day today. The movie, although ending on a disappointing note (which I will get to), made me deeply resonate with the movie and inspired me to share…"
+    },
+    {
+      "title": "The one about bad dreams",
+      "url": "https://coherentboi.substack.com/p/the-one-about-bad-dreams",
+      "published_at": "2026-08-01T19:15:57.000Z",
+      "excerpt": "We all know the feeling when you have a nightmare as a kid. You run away from a sort of monster, or a zombie, or as you get older , you fail a test. The kind of nightmare that makes you sit upright, clutch the sheets…"
+    },
+    {
+      "title": "The one about Union Station",
+      "url": "https://coherentboi.substack.com/p/the-one-about-uniom-station",
+      "published_at": "2026-06-22T14:50:35.000Z",
+      "excerpt": "TLDR if you want to avoid the graphic content: People are incredibly kind and I want to thank Scott, the medic, security and the custodian :D So it’s Monday morning, 10:19 PM when I’m writing this. I’ve experienced…"
+    },
+    {
+      "title": "The one about Thea pt. the end?",
+      "url": "https://coherentboi.substack.com/p/the-one-about-thea-pt-the-end",
+      "published_at": "2026-06-14T23:15:07.000Z",
+      "excerpt": "So this email was sent to me about a month ago, when I was first experimenting with Thea (if you don’t know what that is, go look at some of my other articles). Basically, because Thea runs on the claude agents SDK…"
+    },
+    {
+      "title": "The one about Tomodachi Life",
+      "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+      "published_at": "2026-05-28T01:27:22.000Z",
+      "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
+    }
+  ],
   "tools": "/tools.json"
 }

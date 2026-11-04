@@ -1,0 +1,45 @@
+{
+  "schema_version": 2,
+  "collection_policy": "53336574dae4390d4f6c600f379ac31daf8be4b8e59e66bae83ac93b26b7b90f",
+  "tool": "get_writing",
+  "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
+  "freshness": "daily",
+  "updated": "2026-11-04T01:23:07.382Z",
+  "data": {
+    "feed_url": "https://coherentboi.substack.com/feed",
+    "posts": [
+      {
+        "title": "The one about brand new day",
+        "url": "https://coherentboi.substack.com/p/the-one-about-brand-new-day",
+        "published_at": "2026-08-04T03:51:53.000Z",
+        "excerpt": "My sister was kind enough to invite me to watch Spiderman: Brand New Day today. The movie, although ending on a disappointing note (which I will get to), made me deeply resonate with the movie and inspired me to share…"
+      },
+      {
+        "title": "The one about bad dreams",
+        "url": "https://coherentboi.substack.com/p/the-one-about-bad-dreams",
+        "published_at": "2026-08-01T19:15:57.000Z",
+        "excerpt": "We all know the feeling when you have a nightmare as a kid. You run away from a sort of monster, or a zombie, or as you get older , you fail a test. The kind of nightmare that makes you sit upright, clutch the sheets…"
+      },
+      {
+        "title": "The one about Union Station",
+        "url": "https://coherentboi.substack.com/p/the-one-about-uniom-station",
+        "published_at": "2026-06-22T14:50:35.000Z",
+        "excerpt": "TLDR if you want to avoid the graphic content: People are incredibly kind and I want to thank Scott, the medic, security and the custodian :D So it’s Monday morning, 10:19 PM when I’m writing this. I’ve experienced…"
+      },
+      {
+        "title": "The one about Thea pt. the end?",
+        "url": "https://coherentboi.substack.com/p/the-one-about-thea-pt-the-end",
+        "published_at": "2026-06-14T23:15:07.000Z",
+        "excerpt": "So this email was sent to me about a month ago, when I was first experimenting with Thea (if you don’t know what that is, go look at some of my other articles). Basically, because Thea runs on the claude agents SDK…"
+      },
+      {
+        "title": "The one about Tomodachi Life",
+        "url": "https://coherentboi.substack.com/p/the-one-about-tomodachi-life",
+        "published_at": "2026-05-28T01:27:22.000Z",
+        "excerpt": "Yes, so I recently bought the Nintendo Switch 2 game called Tomodachi Life, which is the old game that used to be on the 3DS, but they've actually created a new version for the Switch. I've always really loved watching…"
+      }
+    ],
+    "fetched_at": "2026-11-04T01:23:07.382Z",
+    "stale": false
+  }
+}

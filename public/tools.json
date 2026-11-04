@@ -2,7 +2,7 @@
   "schema_version": 2,
   "subject": "Ethan Qiu",
   "description": "Machine-readable gateway to Ethan Qiu's current activity. Each tool resolves to a typed JSON payload at its url.",
-  "updated": "2026-11-03T20:59:54.761Z",
+  "updated": "2026-11-04T01:23:07.382Z",
   "tools": [
     {
       "name": "get_identity",
@@ -51,6 +51,12 @@
       "description": "Tracked GitHub commit, PR, review, and issue contributions after repository exclusions — daily counts for the past year, totals, and streaks. Unattributed contributions are omitted.",
       "freshness": "hourly",
       "url": "/api/contributions"
+    },
+    {
+      "name": "get_writing",
+      "description": "Recent essays from Ethan's Substack, newest first, each with title, url, publish date, and a plain-text excerpt.",
+      "freshness": "daily",
+      "url": "/api/writing"
     }
   ]
 }
