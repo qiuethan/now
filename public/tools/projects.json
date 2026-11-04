@@ -4,9 +4,44 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-04T01:23:07.382Z",
+  "updated": "2026-11-04T09:14:26.700Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "Valorant-Overseer",
+        "full_name": "SomethingObvious/Valorant-Overseer",
+        "description": "The fully local VALORANT match tracker for Windows. See the rank, peak, K/D, party and smurf signs of every player, with an in-game overlay, match history and lineups. Runs entirely on your PC with no account and no tracking.",
+        "language": "Rust",
+        "url": "https://github.com/SomethingObvious/Valorant-Overseer",
+        "homepage": "https://somethingobvious.github.io/Valorant-Overseer/",
+        "stars": 3,
+        "topics": [
+          "egui",
+          "game-overlay",
+          "gaming-tools",
+          "local-first",
+          "match-history",
+          "match-tracker",
+          "privacy",
+          "python",
+          "rank-checker",
+          "riot-client",
+          "riot-games",
+          "rust",
+          "smurf-detection",
+          "valorant",
+          "valorant-lineups",
+          "valorant-overlay",
+          "valorant-rank",
+          "valorant-stats",
+          "valorant-tracker",
+          "windows"
+        ],
+        "pushed_at": "2026-11-04T07:19:27Z",
+        "last_activity_at": "2026-11-04T07:22:24Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Misty",
@@ -15,10 +50,10 @@
         "language": "Python",
         "url": "https://github.com/UTMIST/Misty",
         "homepage": "",
-        "stars": 1,
+        "stars": 2,
         "topics": [],
         "pushed_at": "2026-11-03T20:23:56Z",
-        "last_activity_at": "2026-11-03T20:23:58Z",
+        "last_activity_at": "2026-11-04T01:41:19Z",
         "recently_active": true
       },
       {
@@ -31,8 +66,8 @@
         "homepage": "",
         "stars": 0,
         "topics": [],
-        "pushed_at": "2026-10-31T05:19:37Z",
-        "last_activity_at": "2026-10-31T07:00:00Z",
+        "pushed_at": "2026-11-04T04:17:41Z",
+        "last_activity_at": "2026-11-03T08:00:00Z",
         "recently_active": true
       },
       {
@@ -74,17 +109,9 @@
         "pushed_at": "2026-10-30T18:31:31Z",
         "last_activity_at": "2026-10-27T04:19:47Z",
         "recently_active": true
-      },
-      {
-        "private": true,
-        "id": 1117921210,
-        "summary": "Private software project",
-        "recently_active": false,
-        "pushed_at": "2026-10-18",
-        "last_activity_at": "2026-10-18"
       }
     ],
-    "fetched_at": "2026-11-04T01:23:07.382Z",
+    "fetched_at": "2026-11-04T09:14:26.700Z",
     "stale": false
   }
 }

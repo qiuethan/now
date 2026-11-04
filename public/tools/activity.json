@@ -4,27 +4,33 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-04T01:23:07.382Z",
+  "updated": "2026-11-04T09:14:26.700Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-04T01:23:07.382Z",
+    "generated_at": "2026-11-04T09:14:26.700Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 31,
-      "totalPushes": 11,
+      "totalCommits": 34,
+      "totalPushes": 13,
       "repos": [
         {
           "name": "UTMIST/Misty",
           "commits": 22,
-          "pushes": 2
+          "pushes": 4
         },
         {
           "name": "qiuethan/neetcode-submissions",
-          "commits": 9,
+          "commits": 12,
           "pushes": 9
+        },
+        {
+          "name": "SomethingObvious/Valorant-Overseer",
+          "commits": 0,
+          "pushes": 0
         }
       ],
       "prsOpened": [
+        "SomethingObvious/Valorant-Overseer#1",
         "UTMIST/Misty#353",
         "UTMIST/Misty#354",
         "UTMIST/Misty#367",
@@ -52,7 +58,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-04T01:23:07.382Z",
+      "fetched_at": "2026-11-04T09:14:26.700Z",
       "stale": false
     },
     "coding": {
@@ -62,11 +68,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-29",
       "window_end": "2026-11-04",
-      "total_seconds": 6125,
+      "total_seconds": 7512,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 6125
+          "seconds": 7512
         },
         {
           "name": "VS Code",
@@ -93,12 +99,17 @@
           "date": "2026-11-03",
           "orca_seconds": 3069,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-11-04",
+          "orca_seconds": 1387,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-04T00:54:33.788Z",
-      "stale": false
+      "fetched_at": "2026-11-04T07:12:57.813Z",
+      "stale": true
     },
-    "summary": "This week, Ethan Qiu made 31 GitHub contributions across UTMIST/Misty and qiuethan/neetcode-submissions, with 22 contributions on UTMIST/Misty and 9 on qiuethan/neetcode-submissions. He opened pull requests UTMIST/Misty#353, #354, #367, #368, #369, #373, #374, and #377, and reviewed UTMIST/Misty#347, #352, #363, #366, #370, and #376. He also opened issues UTMIST/Misty#357 through #362.",
+    "summary": "This week, Ethan Qiu recorded 34 GitHub contributions across 2 repositories: 22 in UTMIST/Misty and 12 in qiuethan/neetcode-submissions. He opened pull requests in SomethingObvious/Valorant-Overseer#1 and UTMIST/Misty#353, #354, #367, #368, #369, #373, #374, and #377. He also reviewed UTMIST/Misty#347, #352, #363, #366, #370, and #376, and opened issues #357 through #362 in UTMIST/Misty.",
     "summary_stale": false
   }
 }
