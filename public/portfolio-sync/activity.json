@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-05T18:41:13.146Z",
+  "checkedAt": "2026-11-05T22:12:53.153Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-05T18:41:13.146Z",
+      "checkedAt": "2026-11-05T22:12:53.153Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-05T18:41:13.146Z",
+      "checkedAt": "2026-11-05T22:12:53.153Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -98,12 +98,21 @@
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 507,
+            "title": "feat: connect Payload CMS to the existing Supabase database",
+            "url": "https://github.com/UTMIST/UTMIST/pull/507",
+            "state": "open",
+            "draft": true,
+            "updatedAt": "2026-11-05T21:59:47Z",
+            "mergedAt": null
+          },
+          {
             "number": 505,
             "title": "feat: redesign the homepage and navigation behind Web-Redesign",
             "url": "https://github.com/UTMIST/UTMIST/pull/505",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-05T07:46:56Z",
+            "updatedAt": "2026-11-05T21:55:29Z",
             "mergedAt": null
           },
           {
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-10-05T20:07:36Z",
             "mergedAt": "2026-10-05T20:07:35Z"
-          },
-          {
-            "number": 473,
-            "title": "feat: add EigenAI metadata, glass outline, and mobile orbs",
-            "url": "https://github.com/UTMIST/UTMIST/pull/473",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-09-30T21:16:05Z",
-            "mergedAt": "2026-09-30T21:16:05Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-05T18:41:13.146Z",
+      "checkedAt": "2026-11-05T22:12:53.153Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
