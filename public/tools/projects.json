@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-05T06:49:01.274Z",
+  "updated": "2026-11-05T15:28:39.243Z",
   "data": {
     "projects": [
       {
@@ -17,22 +17,8 @@
         "homepage": "",
         "stars": 3,
         "topics": [],
-        "pushed_at": "2026-11-05T06:49:11Z",
-        "last_activity_at": "2026-11-05T06:46:01Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "mathify-brief",
-        "full_name": "Jeff15321/mathify-brief",
-        "description": "",
-        "language": "TypeScript",
-        "url": "https://github.com/Jeff15321/mathify-brief",
-        "homepage": "",
-        "stars": 2,
-        "topics": [],
-        "pushed_at": "2026-11-01T05:29:18Z",
-        "last_activity_at": "2026-11-05T03:46:23Z",
+        "pushed_at": "2026-11-05T06:56:52Z",
+        "last_activity_at": "2026-11-05T08:00:00Z",
         "recently_active": true
       },
       {
@@ -47,8 +33,22 @@
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-11-05T06:27:55Z",
-        "last_activity_at": "2026-11-05T02:25:06Z",
+        "pushed_at": "2026-11-05T07:42:19Z",
+        "last_activity_at": "2026-11-05T07:29:33Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "mathify-brief",
+        "full_name": "Jeff15321/mathify-brief",
+        "description": "",
+        "language": "TypeScript",
+        "url": "https://github.com/Jeff15321/mathify-brief",
+        "homepage": "",
+        "stars": 2,
+        "topics": [],
+        "pushed_at": "2026-11-01T05:29:18Z",
+        "last_activity_at": "2026-11-05T03:46:23Z",
         "recently_active": true
       },
       {
@@ -109,7 +109,7 @@
         "last_activity_at": "2026-10-27"
       }
     ],
-    "fetched_at": "2026-11-05T06:49:01.274Z",
+    "fetched_at": "2026-11-05T15:28:39.243Z",
     "stale": false
   }
 }
