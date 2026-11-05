@@ -1,24 +1,51 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-05T00:29:15.302Z",
+  "checkedAt": "2026-11-05T07:16:44.052Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-05T00:29:15.302Z",
-      "lastActivity": "2026-11-03T19:24:01Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/24ba8b26424af51d46aa022621e444084ab24eba",
+      "checkedAt": "2026-11-05T07:16:44.052Z",
+      "lastActivity": "2026-11-05T06:56:49Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 379,
+            "title": "release: Misty 1.0.1 — discovery heartbeat reliability",
+            "url": "https://github.com/UTMIST/Misty/pull/379",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-05T07:05:37Z",
+            "mergedAt": "2026-11-05T06:53:22Z"
+          },
+          {
+            "number": 380,
+            "title": "chore: sync production history into staging",
+            "url": "https://github.com/UTMIST/Misty/pull/380",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-05T06:49:11Z",
+            "mergedAt": "2026-11-05T06:49:10Z"
+          },
+          {
             "number": 377,
             "title": "fix: validate reused release sync snapshots",
             "url": "https://github.com/UTMIST/Misty/pull/377",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-03T20:28:02Z",
-            "mergedAt": null
+            "updatedAt": "2026-11-05T06:46:02Z",
+            "mergedAt": "2026-11-05T06:46:01Z"
+          },
+          {
+            "number": 378,
+            "title": "fix(discovery): retry transient heartbeat failures",
+            "url": "https://github.com/UTMIST/Misty/pull/378",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-05T05:34:07Z",
+            "mergedAt": "2026-11-05T05:34:05Z"
           },
           {
             "number": 344,
@@ -37,66 +64,48 @@
             "draft": false,
             "updatedAt": "2026-11-03T19:28:12Z",
             "mergedAt": "2026-11-03T19:28:11Z"
-          },
-          {
-            "number": 328,
-            "title": "docs: audit developer documentation and separate user wiki releases",
-            "url": "https://github.com/UTMIST/Misty/pull/328",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-03T19:13:11Z",
-            "mergedAt": "2026-11-03T19:13:10Z"
-          },
-          {
-            "number": 346,
-            "title": "Align agent instructions with board automation",
-            "url": "https://github.com/UTMIST/Misty/pull/346",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-03T19:07:40Z",
-            "mergedAt": "2026-11-03T19:07:38Z"
-          },
-          {
-            "number": 345,
-            "title": "Document board readiness, holds and issue closure",
-            "url": "https://github.com/UTMIST/Misty/pull/345",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-03T19:03:26Z",
-            "mergedAt": "2026-11-03T19:03:24Z"
           }
         ],
         "commits": [
           {
-            "sha": "24ba8b26424af51d46aa022621e444084ab24eba",
-            "title": "ci: automate promotion and sync release history back to staging (#374)",
-            "url": "https://github.com/UTMIST/Misty/commit/24ba8b26424af51d46aa022621e444084ab24eba",
-            "date": "2026-11-03T19:24:01Z"
+            "sha": "ffb766e2318cbad688952a603b9a84deefc9928e",
+            "title": "release: Misty 1.0.1 — discovery heartbeat reliability (#379)",
+            "url": "https://github.com/UTMIST/Misty/commit/ffb766e2318cbad688952a603b9a84deefc9928e",
+            "date": "2026-11-05T06:53:22Z"
           },
           {
-            "sha": "c46c6584d0af0c74d739ac44516208263ca54f09",
-            "title": "Merge staging after documentation PR lands",
-            "url": "https://github.com/UTMIST/Misty/commit/c46c6584d0af0c74d739ac44516208263ca54f09",
-            "date": "2026-11-03T19:14:30Z"
+            "sha": "fea8ac323c7a4d311556670d6e423428940bb411",
+            "title": "chore: sync production history into staging (#380)",
+            "url": "https://github.com/UTMIST/Misty/commit/fea8ac323c7a4d311556670d6e423428940bb411",
+            "date": "2026-11-05T06:42:31Z"
           },
           {
-            "sha": "a0c49bac5ddae02270ac90a2d599e3dbb456eca8",
-            "title": "Merge latest staging board documentation",
-            "url": "https://github.com/UTMIST/Misty/commit/a0c49bac5ddae02270ac90a2d599e3dbb456eca8",
-            "date": "2026-11-03T19:13:22Z"
+            "sha": "032ab282df0a941f1166f7904b66dcc46fc498be",
+            "title": "fix: validate reused release sync snapshots (#377)",
+            "url": "https://github.com/UTMIST/Misty/commit/032ab282df0a941f1166f7904b66dcc46fc498be",
+            "date": "2026-11-05T06:42:21Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-05T00:29:15.302Z",
+      "checkedAt": "2026-11-05T07:16:44.052Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 505,
+            "title": "feat: redesign the homepage and navigation behind Web-Redesign",
+            "url": "https://github.com/UTMIST/UTMIST/pull/505",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-05T06:31:28Z",
+            "mergedAt": null
+          },
           {
             "number": 503,
             "title": "feat: port Misty board and operational automations to web",
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-09-30T21:16:05Z",
             "mergedAt": "2026-09-30T21:16:05Z"
-          },
-          {
-            "number": 472,
-            "title": "fix: honor production flag and restore EigenAI rollback",
-            "url": "https://github.com/UTMIST/UTMIST/pull/472",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-09-30T00:27:51Z",
-            "mergedAt": "2026-09-30T00:27:41Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-05T00:29:15.302Z",
+      "checkedAt": "2026-11-05T07:16:44.052Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
