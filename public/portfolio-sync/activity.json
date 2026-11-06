@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-06T18:19:52.869Z",
+  "checkedAt": "2026-11-06T23:26:29.715Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-06T18:19:52.869Z",
+      "checkedAt": "2026-11-06T23:26:29.715Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,13 +90,31 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-06T18:19:52.869Z",
+      "checkedAt": "2026-11-06T23:26:29.715Z",
       "lastActivity": "2026-11-06T05:57:21Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 510,
+            "title": "feat: implement the Academics redesign behind Web-Redesign",
+            "url": "https://github.com/UTMIST/UTMIST/pull/510",
+            "state": "open",
+            "draft": true,
+            "updatedAt": "2026-11-06T22:34:22Z",
+            "mergedAt": null
+          },
+          {
+            "number": 507,
+            "title": "feat: connect Payload CMS to the existing Supabase database",
+            "url": "https://github.com/UTMIST/UTMIST/pull/507",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-06T20:22:26Z",
+            "mergedAt": null
+          },
           {
             "number": 505,
             "title": "feat: redesign the homepage and navigation behind Web-Redesign",
@@ -125,15 +143,6 @@
             "mergedAt": "2026-11-06T02:56:44Z"
           },
           {
-            "number": 507,
-            "title": "feat: connect Payload CMS to the existing Supabase database",
-            "url": "https://github.com/UTMIST/UTMIST/pull/507",
-            "state": "open",
-            "draft": true,
-            "updatedAt": "2026-11-06T00:45:21Z",
-            "mergedAt": null
-          },
-          {
             "number": 508,
             "title": "docs: audit environment targets and isolation gaps",
             "url": "https://github.com/UTMIST/UTMIST/pull/508",
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-11-06T00:09:25Z",
             "mergedAt": null
-          },
-          {
-            "number": 500,
-            "title": "refactor: retire the EigenAI rollout flag",
-            "url": "https://github.com/UTMIST/UTMIST/pull/500",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-27T16:50:09Z",
-            "mergedAt": "2026-10-27T16:50:08Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-06T18:19:52.869Z",
+      "checkedAt": "2026-11-06T23:26:29.715Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
