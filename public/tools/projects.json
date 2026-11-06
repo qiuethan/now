@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-06T02:27:50.850Z",
+  "updated": "2026-11-06T10:54:49.893Z",
   "data": {
     "projects": [
       {
@@ -15,12 +15,12 @@
         "language": "TypeScript",
         "url": "https://github.com/UTMIST/UTMIST",
         "homepage": "",
-        "stars": 3,
+        "stars": 4,
         "topics": [
           "website"
         ],
-        "pushed_at": "2026-11-06T02:01:24Z",
-        "last_activity_at": "2026-11-06T00:40:47Z",
+        "pushed_at": "2026-11-06T06:01:14Z",
+        "last_activity_at": "2026-11-06T08:00:00Z",
         "recently_active": true
       },
       {
@@ -49,6 +49,20 @@
         "topics": [],
         "pushed_at": "2026-11-05T06:56:52Z",
         "last_activity_at": "2026-11-05T08:00:00Z",
+        "recently_active": true
+      },
+      {
+        "private": false,
+        "name": "mathify-brief",
+        "full_name": "qiuethan/mathify-brief",
+        "description": "",
+        "language": null,
+        "url": "https://github.com/qiuethan/mathify-brief",
+        "homepage": "",
+        "stars": 0,
+        "topics": [],
+        "pushed_at": "2026-11-05T06:46:15Z",
+        "last_activity_at": "2026-11-05T06:26:47Z",
         "recently_active": true
       },
       {
@@ -99,17 +113,9 @@
         "pushed_at": "2026-11-04T04:17:41Z",
         "last_activity_at": "2026-11-03T08:00:00Z",
         "recently_active": true
-      },
-      {
-        "private": true,
-        "id": 1424065623,
-        "summary": "Private software project",
-        "recently_active": true,
-        "pushed_at": "2026-10-27",
-        "last_activity_at": "2026-10-27"
       }
     ],
-    "fetched_at": "2026-11-06T02:27:50.850Z",
+    "fetched_at": "2026-11-06T10:54:49.893Z",
     "stale": false
   }
 }
