@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-05T22:12:53.153Z",
+  "checkedAt": "2026-11-06T02:46:02.320Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-05T22:12:53.153Z",
+      "checkedAt": "2026-11-06T02:46:02.320Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-05T22:12:53.153Z",
+      "checkedAt": "2026-11-06T02:46:02.320Z",
       "lastActivity": "2026-10-27T18:08:48Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
       "release": null,
@@ -98,12 +98,12 @@
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 507,
-            "title": "feat: connect Payload CMS to the existing Supabase database",
-            "url": "https://github.com/UTMIST/UTMIST/pull/507",
+            "number": 509,
+            "title": "chore: isolate CI database environments",
+            "url": "https://github.com/UTMIST/UTMIST/pull/509",
             "state": "open",
-            "draft": true,
-            "updatedAt": "2026-11-05T21:59:47Z",
+            "draft": false,
+            "updatedAt": "2026-11-06T02:40:40Z",
             "mergedAt": null
           },
           {
@@ -112,7 +112,25 @@
             "url": "https://github.com/UTMIST/UTMIST/pull/505",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-05T21:55:29Z",
+            "updatedAt": "2026-11-06T02:18:17Z",
+            "mergedAt": null
+          },
+          {
+            "number": 507,
+            "title": "feat: connect Payload CMS to the existing Supabase database",
+            "url": "https://github.com/UTMIST/UTMIST/pull/507",
+            "state": "open",
+            "draft": true,
+            "updatedAt": "2026-11-06T00:45:21Z",
+            "mergedAt": null
+          },
+          {
+            "number": 508,
+            "title": "docs: audit environment targets and isolation gaps",
+            "url": "https://github.com/UTMIST/UTMIST/pull/508",
+            "state": "closed",
+            "draft": false,
+            "updatedAt": "2026-11-06T00:09:25Z",
             "mergedAt": null
           },
           {
@@ -132,24 +150,6 @@
             "draft": false,
             "updatedAt": "2026-10-27T16:50:09Z",
             "mergedAt": "2026-10-27T16:50:08Z"
-          },
-          {
-            "number": 481,
-            "title": "fix: keep EigenAI ticket navigation on one line",
-            "url": "https://github.com/UTMIST/UTMIST/pull/481",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-05T23:20:18Z",
-            "mergedAt": "2026-10-05T23:20:18Z"
-          },
-          {
-            "number": 484,
-            "title": "chore: prepare main for GitHub merge queue",
-            "url": "https://github.com/UTMIST/UTMIST/pull/484",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-10-05T20:07:36Z",
-            "mergedAt": "2026-10-05T20:07:35Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-05T22:12:53.153Z",
+      "checkedAt": "2026-11-06T02:46:02.320Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
