@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-06T02:46:02.320Z",
+  "checkedAt": "2026-11-06T11:24:36.717Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-06T02:46:02.320Z",
+      "checkedAt": "2026-11-06T11:24:36.717Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,30 +90,39 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-06T02:46:02.320Z",
-      "lastActivity": "2026-10-27T18:08:48Z",
-      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/74ef976a262a01d33df47b19d3eede4c6f763c66",
+      "checkedAt": "2026-11-06T11:24:36.717Z",
+      "lastActivity": "2026-11-06T05:57:21Z",
+      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 509,
-            "title": "chore: isolate CI database environments",
-            "url": "https://github.com/UTMIST/UTMIST/pull/509",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-06T02:40:40Z",
-            "mergedAt": null
-          },
-          {
             "number": 505,
             "title": "feat: redesign the homepage and navigation behind Web-Redesign",
             "url": "https://github.com/UTMIST/UTMIST/pull/505",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-06T06:01:14Z",
+            "mergedAt": "2026-11-06T06:01:14Z"
+          },
+          {
+            "number": 503,
+            "title": "feat: port Misty board and operational automations to web",
+            "url": "https://github.com/UTMIST/UTMIST/pull/503",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-06T02:18:17Z",
+            "updatedAt": "2026-11-06T04:15:32Z",
             "mergedAt": null
+          },
+          {
+            "number": 509,
+            "title": "chore: isolate CI database environments",
+            "url": "https://github.com/UTMIST/UTMIST/pull/509",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-06T03:12:46Z",
+            "mergedAt": "2026-11-06T02:56:44Z"
           },
           {
             "number": 507,
@@ -134,15 +143,6 @@
             "mergedAt": null
           },
           {
-            "number": 503,
-            "title": "feat: port Misty board and operational automations to web",
-            "url": "https://github.com/UTMIST/UTMIST/pull/503",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-10-28T01:07:14Z",
-            "mergedAt": null
-          },
-          {
             "number": 500,
             "title": "refactor: retire the EigenAI rollout flag",
             "url": "https://github.com/UTMIST/UTMIST/pull/500",
@@ -154,29 +154,29 @@
         ],
         "commits": [
           {
+            "sha": "0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
+            "title": "feat: redesign the homepage and navigation behind Web-Redesign (#505)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
+            "date": "2026-11-06T05:57:21Z"
+          },
+          {
+            "sha": "07e0cefa8bcaae7dcf0a97b5c53a7e67c4ea9b12",
+            "title": "chore: isolate CI database environments (#509)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/07e0cefa8bcaae7dcf0a97b5c53a7e67c4ea9b12",
+            "date": "2026-11-06T02:54:00Z"
+          },
+          {
             "sha": "f928be2c1606300b74a8ed1f0f8157b7acabddc2",
             "title": "refactor: retire the EigenAI rollout flag (#500)",
             "url": "https://github.com/UTMIST/UTMIST/commit/f928be2c1606300b74a8ed1f0f8157b7acabddc2",
             "date": "2026-10-27T16:46:45Z"
-          },
-          {
-            "sha": "83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
-            "title": "fix: keep EigenAI ticket navigation on one line (#481)",
-            "url": "https://github.com/UTMIST/UTMIST/commit/83f106dd4e1eb403ae823e6bcdde2371fd26ddc7",
-            "date": "2026-10-05T23:17:33Z"
-          },
-          {
-            "sha": "6a1b28cf2807f5dad8668a34bbef478cb18cb2c5",
-            "title": "chore: prepare main for GitHub merge queue (#484)",
-            "url": "https://github.com/UTMIST/UTMIST/commit/6a1b28cf2807f5dad8668a34bbef478cb18cb2c5",
-            "date": "2026-10-05T20:07:35Z"
           }
         ]
       }
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-06T02:46:02.320Z",
+      "checkedAt": "2026-11-06T11:24:36.717Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
