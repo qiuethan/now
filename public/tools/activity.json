@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-06T17:58:14.384Z",
+  "updated": "2026-11-06T23:09:51.203Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-06T17:58:14.384Z",
+    "generated_at": "2026-11-06T23:09:51.203Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 39,
@@ -62,7 +62,8 @@
         "UTMIST/UTMIST#505",
         "UTMIST/UTMIST#507",
         "UTMIST/UTMIST#508",
-        "UTMIST/UTMIST#509"
+        "UTMIST/UTMIST#509",
+        "UTMIST/UTMIST#510"
       ],
       "prsReviewed": [
         "UTMIST/Misty#347",
@@ -78,12 +79,14 @@
         "UTMIST/Misty#360",
         "UTMIST/Misty#361",
         "UTMIST/Misty#362",
+        "UTMIST/Misty#383",
+        "UTMIST/Misty#384",
         "UTMIST/UTMIST#504",
         "UTMIST/UTMIST#506"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-06T17:58:14.384Z",
+      "fetched_at": "2026-11-06T23:09:51.203Z",
       "stale": false
     },
     "coding": {
@@ -93,11 +96,11 @@
       "window": "last_7_days",
       "window_start": "2026-10-31",
       "window_end": "2026-11-06",
-      "total_seconds": 22225,
+      "total_seconds": 24458,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 22225
+          "seconds": 24458
         },
         {
           "name": "VS Code",
@@ -127,14 +130,14 @@
         },
         {
           "date": "2026-11-06",
-          "orca_seconds": 4443,
+          "orca_seconds": 6676,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-06T17:43:42.728Z",
+      "fetched_at": "2026-11-06T23:01:00.919Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu recorded 39 GitHub contributions across UTMIST/Misty, qiuethan/neetcode-submissions, Jeff15321/mathify-brief, UTMIST/UTMIST, SomethingObvious/Valorant-Overseer, and qiuethan/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed PRs in UTMIST/Misty. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
+    "summary": "This week Ethan Qiu had 39 GitHub contribution counts across 17 pushes, with activity in UTMIST/Misty, qiuethan/neetcode-submissions, Jeff15321/mathify-brief, UTMIST/UTMIST, and SomethingObvious/Valorant-Overseer. He opened pull requests in Jeff15321/mathify-brief (#6, #7, #8), SomethingObvious/Valorant-Overseer (#1, #2), UTMIST/Misty (#367, #368, #369, #373, #374, #377, #378, #379, #380), and UTMIST/UTMIST (#505, #507, #508, #509, #510). He also reviewed PRs in UTMIST/Misty (#347, #363, #366, #370, #376) and opened issues in UTMIST/Misty (#357–#362, #383, #384) and UTMIST/UTMIST (#504, #506).",
     "summary_stale": false
   }
 }
