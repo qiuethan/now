@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-06T23:26:29.715Z",
+  "checkedAt": "2026-11-07T03:05:42.601Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-06T23:26:29.715Z",
+      "checkedAt": "2026-11-07T03:05:42.601Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,13 +90,22 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-06T23:26:29.715Z",
-      "lastActivity": "2026-11-06T05:57:21Z",
-      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
+      "checkedAt": "2026-11-07T03:05:42.601Z",
+      "lastActivity": "2026-11-07T01:33:55Z",
+      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/820e8828237fa55df4b1df5fe87ceb670e2c2941",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 507,
+            "title": "feat: connect Payload CMS to the existing Supabase database",
+            "url": "https://github.com/UTMIST/UTMIST/pull/507",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-07T01:37:13Z",
+            "mergedAt": "2026-11-07T01:37:13Z"
+          },
           {
             "number": 510,
             "title": "feat: implement the Academics redesign behind Web-Redesign",
@@ -104,15 +113,6 @@
             "state": "open",
             "draft": true,
             "updatedAt": "2026-11-06T22:34:22Z",
-            "mergedAt": null
-          },
-          {
-            "number": 507,
-            "title": "feat: connect Payload CMS to the existing Supabase database",
-            "url": "https://github.com/UTMIST/UTMIST/pull/507",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-06T20:22:26Z",
             "mergedAt": null
           },
           {
@@ -154,6 +154,12 @@
         ],
         "commits": [
           {
+            "sha": "820e8828237fa55df4b1df5fe87ceb670e2c2941",
+            "title": "feat: connect Payload CMS to the existing Supabase database (#507)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/820e8828237fa55df4b1df5fe87ceb670e2c2941",
+            "date": "2026-11-07T01:33:55Z"
+          },
+          {
             "sha": "0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
             "title": "feat: redesign the homepage and navigation behind Web-Redesign (#505)",
             "url": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
@@ -164,19 +170,13 @@
             "title": "chore: isolate CI database environments (#509)",
             "url": "https://github.com/UTMIST/UTMIST/commit/07e0cefa8bcaae7dcf0a97b5c53a7e67c4ea9b12",
             "date": "2026-11-06T02:54:00Z"
-          },
-          {
-            "sha": "f928be2c1606300b74a8ed1f0f8157b7acabddc2",
-            "title": "refactor: retire the EigenAI rollout flag (#500)",
-            "url": "https://github.com/UTMIST/UTMIST/commit/f928be2c1606300b74a8ed1f0f8157b7acabddc2",
-            "date": "2026-10-27T16:46:45Z"
           }
         ]
       }
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-06T23:26:29.715Z",
+      "checkedAt": "2026-11-07T03:05:42.601Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
