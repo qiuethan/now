@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-08T00:37:55.953Z",
+  "last_updated": "2026-11-08T07:23:06.962Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -43,7 +43,7 @@
       "topics": [
         "website"
       ],
-      "pushed_at": "2026-11-07T19:28:01Z",
+      "pushed_at": "2026-11-08T06:14:16Z",
       "last_activity_at": "2026-11-07T08:00:00Z",
       "recently_active": true
     },
@@ -106,7 +106,7 @@
         "valorant-tracker",
         "windows"
       ],
-      "pushed_at": "2026-11-07T02:19:57Z",
+      "pushed_at": "2026-11-08T03:04:48Z",
       "last_activity_at": "2026-11-04T18:54:40Z",
       "recently_active": true
     },
@@ -160,7 +160,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-08T00:37:55.953Z",
+    "fetched_at": "2026-11-08T07:23:06.962Z",
     "stale": false
   },
   "contributions": {
@@ -176,13 +176,13 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu had GitHub contributions in UTMIST/Misty, Jeff15321/mathify-brief, UTMIST/UTMIST, qiuethan/neetcode-submissions, and SomethingObvious/Valorant-Overseer, with the most in UTMIST/Misty. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed pull requests in UTMIST/Misty. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
+  "summary": "This week, Ethan Qiu recorded 37 GitHub contributions across several public repositories, led by UTMIST/Misty with 24 contributions, along with activity in Jeff15321/mathify-brief, UTMIST/UTMIST, qiuethan/neetcode-submissions, and SomethingObvious/Valorant-Overseer. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, including UTMIST/Misty#367-#380 and UTMIST/UTMIST#505-#510. He also reviewed six pull requests in UTMIST/Misty: #347, #363, #366, #370, #376, and #385.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-08T00:37:55.953Z",
+    "generated_at": "2026-11-08T07:23:06.962Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 36,
+      "totalCommits": 37,
       "totalPushes": 15,
       "repos": [
         {
@@ -207,7 +207,7 @@
         },
         {
           "name": "SomethingObvious/Valorant-Overseer",
-          "commits": 1,
+          "commits": 2,
           "pushes": 1
         },
         {
@@ -259,7 +259,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-08T00:37:55.953Z",
+      "fetched_at": "2026-11-08T07:23:06.962Z",
       "stale": false
     },
     "coding": {
@@ -269,11 +269,11 @@
       "window": "last_7_days",
       "window_start": "2026-11-02",
       "window_end": "2026-11-08",
-      "total_seconds": 27717,
+      "total_seconds": 28003,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 27717
+          "seconds": 28003
         },
         {
           "name": "VS Code",
@@ -310,12 +310,17 @@
           "date": "2026-11-07",
           "orca_seconds": 2812,
           "vscode_seconds": 0
+        },
+        {
+          "date": "2026-11-08",
+          "orca_seconds": 286,
+          "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-08T00:23:57.965Z",
+      "fetched_at": "2026-11-08T07:09:30.882Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu had GitHub contributions in UTMIST/Misty, Jeff15321/mathify-brief, UTMIST/UTMIST, qiuethan/neetcode-submissions, and SomethingObvious/Valorant-Overseer, with the most in UTMIST/Misty. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed pull requests in UTMIST/Misty. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
+    "summary": "This week, Ethan Qiu recorded 37 GitHub contributions across several public repositories, led by UTMIST/Misty with 24 contributions, along with activity in Jeff15321/mathify-brief, UTMIST/UTMIST, qiuethan/neetcode-submissions, and SomethingObvious/Valorant-Overseer. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, including UTMIST/Misty#367-#380 and UTMIST/UTMIST#505-#510. He also reviewed six pull requests in UTMIST/Misty: #347, #363, #366, #370, #376, and #385.",
     "summary_stale": false
   },
   "writing": [
