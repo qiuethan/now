@@ -4,14 +4,14 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-08T15:13:53.465Z",
+  "updated": "2026-11-08T19:43:17.153Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-08T15:13:53.465Z",
+    "generated_at": "2026-11-08T19:43:17.153Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 37,
-      "totalPushes": 15,
+      "totalPushes": 17,
       "repos": [
         {
           "name": "UTMIST/Misty",
@@ -26,7 +26,7 @@
         {
           "name": "UTMIST/UTMIST",
           "commits": 3,
-          "pushes": 8
+          "pushes": 10
         },
         {
           "name": "qiuethan/neetcode-submissions",
@@ -87,7 +87,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-08T15:13:53.465Z",
+      "fetched_at": "2026-11-08T19:43:17.153Z",
       "stale": false
     },
     "coding": {
@@ -145,10 +145,10 @@
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-08T14:52:05.392Z",
+      "fetched_at": "2026-11-08T19:08:19.531Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 37 GitHub contributions across several public repositories, with the most in UTMIST/Misty and Jeff15321/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed pull requests in UTMIST/Misty. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
+    "summary": "This week Ethan Qiu contributed 37 GitHub commits across UTMIST/Misty, Jeff15321/mathify-brief, UTMIST/UTMIST, qiuethan/neetcode-submissions, SomethingObvious/Valorant-Overseer, and qiuethan/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed six pull requests in UTMIST/Misty. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
     "summary_stale": false
   }
 }
