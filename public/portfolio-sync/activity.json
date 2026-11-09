@@ -1,16 +1,34 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-09T17:45:53.399Z",
+  "checkedAt": "2026-11-09T21:24:57.490Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-09T17:45:53.399Z",
+      "checkedAt": "2026-11-09T21:24:57.490Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 331,
+            "title": "Add scoped email login to the external gateway",
+            "url": "https://github.com/UTMIST/Misty/pull/331",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-09T20:57:20Z",
+            "mergedAt": null
+          },
+          {
+            "number": 386,
+            "title": "docs: fix setup, testing, and documentation drift",
+            "url": "https://github.com/UTMIST/Misty/pull/386",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-09T20:51:58Z",
+            "mergedAt": null
+          },
           {
             "number": 379,
             "title": "release: Misty 1.0.1 — discovery heartbeat reliability",
@@ -46,24 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-05T05:34:07Z",
             "mergedAt": "2026-11-05T05:34:05Z"
-          },
-          {
-            "number": 344,
-            "title": "Repair board lifecycle automation and add operational reports",
-            "url": "https://github.com/UTMIST/Misty/pull/344",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-03T20:26:15Z",
-            "mergedAt": null
-          },
-          {
-            "number": 374,
-            "title": "ci: automate promotion and sync release history back to staging",
-            "url": "https://github.com/UTMIST/Misty/pull/374",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-03T19:28:12Z",
-            "mergedAt": "2026-11-03T19:28:11Z"
           }
         ],
         "commits": [
@@ -90,13 +90,22 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-09T17:45:53.399Z",
+      "checkedAt": "2026-11-09T21:24:57.490Z",
       "lastActivity": "2026-11-07T01:33:55Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/820e8828237fa55df4b1df5fe87ceb670e2c2941",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 518,
+            "title": "feat: group homepage content in Payload pages",
+            "url": "https://github.com/UTMIST/UTMIST/pull/518",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-09T20:43:16Z",
+            "mergedAt": null
+          },
           {
             "number": 507,
             "title": "feat: connect Payload CMS to the existing Supabase database",
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-11-06T03:12:46Z",
             "mergedAt": "2026-11-06T02:56:44Z"
-          },
-          {
-            "number": 508,
-            "title": "docs: audit environment targets and isolation gaps",
-            "url": "https://github.com/UTMIST/UTMIST/pull/508",
-            "state": "closed",
-            "draft": false,
-            "updatedAt": "2026-11-06T00:09:25Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-09T17:45:53.399Z",
+      "checkedAt": "2026-11-09T21:24:57.490Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
