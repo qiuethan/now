@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-08T23:44:03.963Z",
+  "updated": "2026-11-09T06:33:09.939Z",
   "data": {
     "projects": [
       {
@@ -115,7 +115,7 @@
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-11-08T23:44:03.963Z",
+    "fetched_at": "2026-11-09T06:33:09.939Z",
     "stale": false
   }
 }
