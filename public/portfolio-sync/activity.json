@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-10T18:08:26.202Z",
+  "checkedAt": "2026-11-10T18:38:36.371Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-10T18:08:26.202Z",
+      "checkedAt": "2026-11-10T18:38:36.371Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 387,
+            "title": "fix: reduce idle catalog polling and staging discovery frequency",
+            "url": "https://github.com/UTMIST/Misty/pull/387",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-10T18:28:41Z",
+            "mergedAt": null
+          },
           {
             "number": 386,
             "title": "docs: fix setup, testing, and documentation drift",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-05T06:46:02Z",
             "mergedAt": "2026-11-05T06:46:01Z"
-          },
-          {
-            "number": 378,
-            "title": "fix(discovery): retry transient heartbeat failures",
-            "url": "https://github.com/UTMIST/Misty/pull/378",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-05T05:34:07Z",
-            "mergedAt": "2026-11-05T05:34:05Z"
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-10T18:08:26.202Z",
+      "checkedAt": "2026-11-10T18:38:36.371Z",
       "lastActivity": "2026-11-10T04:41:08Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/fd52cdf6f468499e8198e469a665ff20040a6232",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-10T18:08:26.202Z",
+      "checkedAt": "2026-11-10T18:38:36.371Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
