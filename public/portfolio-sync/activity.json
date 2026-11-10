@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-10T18:38:36.371Z",
+  "checkedAt": "2026-11-10T23:39:25.106Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-10T18:38:36.371Z",
+      "checkedAt": "2026-11-10T23:39:25.106Z",
       "lastActivity": "2026-11-05T06:56:49Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/887ddaa31228323bb0c1f28927405f3df77ab729",
       "release": null,
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-10T18:38:36.371Z",
+      "checkedAt": "2026-11-10T23:39:25.106Z",
       "lastActivity": "2026-11-10T04:41:08Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/fd52cdf6f468499e8198e469a665ff20040a6232",
       "release": null,
@@ -98,12 +98,30 @@
         "author": "qiuethan",
         "pullRequests": [
           {
+            "number": 519,
+            "title": "docs: define the CMS content structure",
+            "url": "https://github.com/UTMIST/UTMIST/pull/519",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-10T23:35:20Z",
+            "mergedAt": null
+          },
+          {
+            "number": 510,
+            "title": "feat: build Academics redesign with local CMS editing",
+            "url": "https://github.com/UTMIST/UTMIST/pull/510",
+            "state": "open",
+            "draft": true,
+            "updatedAt": "2026-11-10T22:43:47Z",
+            "mergedAt": null
+          },
+          {
             "number": 518,
-            "title": "feat: group homepage content in Payload pages",
+            "title": "feat: connect homepage to Payload CMS",
             "url": "https://github.com/UTMIST/UTMIST/pull/518",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-10T00:54:31Z",
+            "updatedAt": "2026-11-10T22:18:00Z",
             "mergedAt": null
           },
           {
@@ -114,15 +132,6 @@
             "draft": false,
             "updatedAt": "2026-11-07T01:37:13Z",
             "mergedAt": "2026-11-07T01:37:13Z"
-          },
-          {
-            "number": 510,
-            "title": "feat: implement the Academics redesign behind Web-Redesign",
-            "url": "https://github.com/UTMIST/UTMIST/pull/510",
-            "state": "open",
-            "draft": true,
-            "updatedAt": "2026-11-06T22:34:22Z",
-            "mergedAt": null
           },
           {
             "number": 505,
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-11-06T04:15:32Z",
             "mergedAt": null
-          },
-          {
-            "number": 509,
-            "title": "chore: isolate CI database environments",
-            "url": "https://github.com/UTMIST/UTMIST/pull/509",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-06T03:12:46Z",
-            "mergedAt": "2026-11-06T02:56:44Z"
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-10T18:38:36.371Z",
+      "checkedAt": "2026-11-10T23:39:25.106Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
