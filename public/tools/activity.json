@@ -4,24 +4,19 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-10T23:23:54.231Z",
+  "updated": "2026-11-11T06:24:20.296Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-10T23:23:54.231Z",
+    "generated_at": "2026-11-11T06:24:20.296Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 16,
-      "totalPushes": 15,
+      "totalCommits": 17,
+      "totalPushes": 14,
       "repos": [
         {
           "name": "UTMIST/Misty",
-          "commits": 6,
+          "commits": 11,
           "pushes": 1
-        },
-        {
-          "name": "Jeff15321/mathify-brief",
-          "commits": 5,
-          "pushes": 2
         },
         {
           "name": "UTMIST/UTMIST",
@@ -29,9 +24,9 @@
           "pushes": 10
         },
         {
-          "name": "SomethingObvious/Valorant-Overseer",
-          "commits": 2,
-          "pushes": 1
+          "name": "Jeff15321/mathify-brief",
+          "commits": 3,
+          "pushes": 2
         },
         {
           "name": "qiuethan/mathify-brief",
@@ -49,13 +44,13 @@
         "Jeff15321/mathify-brief#7",
         "Jeff15321/mathify-brief#8",
         "Jeff15321/mathify-brief#9",
-        "SomethingObvious/Valorant-Overseer#1",
-        "SomethingObvious/Valorant-Overseer#2",
         "UTMIST/Misty#378",
         "UTMIST/Misty#379",
         "UTMIST/Misty#380",
         "UTMIST/Misty#386",
         "UTMIST/Misty#387",
+        "UTMIST/Misty#388",
+        "UTMIST/Misty#389",
         "UTMIST/UTMIST#505",
         "UTMIST/UTMIST#507",
         "UTMIST/UTMIST#508",
@@ -65,17 +60,18 @@
         "UTMIST/UTMIST#519"
       ],
       "prsReviewed": [
-        "UTMIST/Misty#385"
+        "UTMIST/Misty#385",
+        "UTMIST/Misty#390",
+        "UTMIST/UTMIST#519"
       ],
       "issuesOpened": [
         "UTMIST/Misty#383",
         "UTMIST/Misty#384",
-        "UTMIST/UTMIST#504",
         "UTMIST/UTMIST#506"
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-10T23:23:54.231Z",
+      "fetched_at": "2026-11-11T06:24:20.296Z",
       "stale": false
     },
     "coding": {
@@ -83,13 +79,13 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-11-04",
-      "window_end": "2026-11-10",
-      "total_seconds": 33124,
+      "window_start": "2026-11-05",
+      "window_end": "2026-11-11",
+      "total_seconds": 30240,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 33124
+          "seconds": 30240
         },
         {
           "name": "VS Code",
@@ -97,11 +93,6 @@
         }
       ],
       "days": [
-        {
-          "date": "2026-11-04",
-          "orca_seconds": 6708,
-          "vscode_seconds": 0
-        },
         {
           "date": "2026-11-05",
           "orca_seconds": 6640,
@@ -129,14 +120,19 @@
         },
         {
           "date": "2026-11-10",
-          "orca_seconds": 4237,
+          "orca_seconds": 4934,
+          "vscode_seconds": 0
+        },
+        {
+          "date": "2026-11-11",
+          "orca_seconds": 3127,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-10T23:17:46.640Z",
+      "fetched_at": "2026-11-11T05:48:19.198Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu had GitHub activity in UTMIST/Misty, Jeff15321/mathify-brief, UTMIST/UTMIST, SomethingObvious/Valorant-Overseer, and qiuethan/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, SomethingObvious/Valorant-Overseer, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#385. The JSON reports 16 commits and 15 pushes across these repositories.",
+    "summary": "This week, Ethan Qiu made 17 GitHub contribution-count commits across UTMIST/Misty, UTMIST/UTMIST, Jeff15321/mathify-brief, and qiuethan/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#385, UTMIST/Misty#390, and UTMIST/UTMIST#519. He also opened issues in UTMIST/Misty#383, UTMIST/Misty#384, and UTMIST/UTMIST#506.",
     "summary_stale": false
   }
 }
