@@ -4,24 +4,24 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-11T15:14:01.927Z",
+  "updated": "2026-11-11T21:59:23.851Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-11T15:14:01.927Z",
+    "generated_at": "2026-11-11T21:59:23.851Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 17,
-      "totalPushes": 14,
+      "totalPushes": 16,
       "repos": [
         {
           "name": "UTMIST/Misty",
           "commits": 11,
-          "pushes": 1
+          "pushes": 2
         },
         {
           "name": "UTMIST/UTMIST",
           "commits": 3,
-          "pushes": 10
+          "pushes": 11
         },
         {
           "name": "Jeff15321/mathify-brief",
@@ -51,6 +51,7 @@
         "UTMIST/Misty#387",
         "UTMIST/Misty#388",
         "UTMIST/Misty#389",
+        "UTMIST/Misty#392",
         "UTMIST/UTMIST#505",
         "UTMIST/UTMIST#507",
         "UTMIST/UTMIST#508",
@@ -71,7 +72,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-11T15:14:01.927Z",
+      "fetched_at": "2026-11-11T21:59:23.851Z",
       "stale": false
     },
     "coding": {
@@ -81,11 +82,11 @@
       "window": "last_7_days",
       "window_start": "2026-11-05",
       "window_end": "2026-11-11",
-      "total_seconds": 30240,
+      "total_seconds": 30952,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 30240
+          "seconds": 30952
         },
         {
           "name": "VS Code",
@@ -125,14 +126,14 @@
         },
         {
           "date": "2026-11-11",
-          "orca_seconds": 3127,
+          "orca_seconds": 3839,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-11T15:09:39.737Z",
+      "fetched_at": "2026-11-11T21:50:06.475Z",
       "stale": false
     },
-    "summary": "This week, Ethan Qiu made 17 GitHub contributions across UTMIST/Misty, UTMIST/UTMIST, and Jeff15321/mathify-brief. He opened pull requests in UTMIST/Misty (#378, #379, #380, #386, #387, #388, #389), UTMIST/UTMIST (#505, #507, #508, #509, #510, #518, #519), and Jeff15321/mathify-brief (#6, #7, #8, #9, #10, #11, #12, #13, #14), and reviewed UTMIST/Misty#385, UTMIST/Misty#390, and UTMIST/UTMIST#519. He also opened issues in UTMIST/Misty#383 and #384 and UTMIST/UTMIST#506.",
+    "summary": "This week, Ethan Qiu made 17 GitHub contribution counts across UTMIST/Misty, UTMIST/UTMIST, Jeff15321/mathify-brief, and qiuethan/mathify-brief. He opened pull requests in Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#385, UTMIST/Misty#390, and UTMIST/UTMIST#519. He also opened issues in UTMIST/Misty and UTMIST/UTMIST.",
     "summary_stale": false
   }
 }
