@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-11T18:38:15.313Z",
+  "checkedAt": "2026-11-11T22:12:44.825Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-11T18:38:15.313Z",
+      "checkedAt": "2026-11-11T22:12:44.825Z",
       "lastActivity": "2026-11-11T05:37:12Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/c6e03edfa03987d7952e5447d13ce62845e7cb1a",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 392,
+            "title": "fix(docs): release completed refresh runs when monitoring fails",
+            "url": "https://github.com/UTMIST/Misty/pull/392",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-11T20:22:46Z",
+            "mergedAt": null
+          },
           {
             "number": 389,
             "title": "chore: prepare platform release 1.0.2",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-09T21:35:39Z",
             "mergedAt": null
-          },
-          {
-            "number": 379,
-            "title": "release: Misty 1.0.1 — discovery heartbeat reliability",
-            "url": "https://github.com/UTMIST/Misty/pull/379",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-05T07:05:37Z",
-            "mergedAt": "2026-11-05T06:53:22Z"
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-11T18:38:15.313Z",
+      "checkedAt": "2026-11-11T22:12:44.825Z",
       "lastActivity": "2026-11-10T04:41:08Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/fd52cdf6f468499e8198e469a665ff20040a6232",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-11T18:38:15.313Z",
+      "checkedAt": "2026-11-11T22:12:44.825Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
