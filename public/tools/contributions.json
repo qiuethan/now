@@ -4,7 +4,7 @@
   "tool": "get_contributions",
   "description": "Tracked GitHub commit, PR, review, and issue contributions after repository exclusions — daily counts for the past year, totals, and streaks. Unattributed contributions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-11T06:24:20.296Z",
+  "updated": "2026-11-11T15:14:01.927Z",
   "data": {
     "total_past_year": 2138,
     "last_7_days": 64,
