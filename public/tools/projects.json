@@ -4,9 +4,23 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-11T21:59:23.851Z",
+  "updated": "2026-11-12T03:00:51.635Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "mathify-brief",
+        "full_name": "Jeff15321/mathify-brief",
+        "description": "",
+        "language": "TypeScript",
+        "url": "https://github.com/Jeff15321/mathify-brief",
+        "homepage": "",
+        "stars": 2,
+        "topics": [],
+        "pushed_at": "2026-11-11T22:50:17Z",
+        "last_activity_at": "2026-11-11T22:50:17Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "Misty",
@@ -35,20 +49,6 @@
         ],
         "pushed_at": "2026-11-11T00:04:34Z",
         "last_activity_at": "2026-11-11T00:05:50Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "mathify-brief",
-        "full_name": "Jeff15321/mathify-brief",
-        "description": "",
-        "language": "TypeScript",
-        "url": "https://github.com/Jeff15321/mathify-brief",
-        "homepage": "",
-        "stars": 2,
-        "topics": [],
-        "pushed_at": "2026-11-09T21:47:49Z",
-        "last_activity_at": "2026-11-09T21:47:50Z",
         "recently_active": true
       },
       {
@@ -115,7 +115,7 @@
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-11-11T21:59:23.851Z",
+    "fetched_at": "2026-11-12T03:00:51.635Z",
     "stale": false
   }
 }
