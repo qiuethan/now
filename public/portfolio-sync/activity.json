@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-12T11:44:12.441Z",
+  "checkedAt": "2026-11-12T18:51:23.578Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-12T11:44:12.441Z",
+      "checkedAt": "2026-11-12T18:51:23.578Z",
       "lastActivity": "2026-11-11T05:37:12Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/c6e03edfa03987d7952e5447d13ce62845e7cb1a",
       "release": null,
@@ -90,9 +90,9 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-12T11:44:12.441Z",
-      "lastActivity": "2026-11-10T04:41:08Z",
-      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/fd52cdf6f468499e8198e469a665ff20040a6232",
+      "checkedAt": "2026-11-12T18:51:23.578Z",
+      "lastActivity": "2026-11-12T17:23:06Z",
+      "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -101,10 +101,10 @@
             "number": 519,
             "title": "docs: define the CMS content structure",
             "url": "https://github.com/UTMIST/UTMIST/pull/519",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-11T00:09:18Z",
-            "mergedAt": null
+            "updatedAt": "2026-11-12T17:26:35Z",
+            "mergedAt": "2026-11-12T17:26:34Z"
           },
           {
             "number": 510,
@@ -154,6 +154,12 @@
         ],
         "commits": [
           {
+            "sha": "30845538f98644d097eb4397b33058f34a540d2f",
+            "title": "docs: define the CMS content structure (#519)",
+            "url": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
+            "date": "2026-11-12T17:23:06Z"
+          },
+          {
             "sha": "820e8828237fa55df4b1df5fe87ceb670e2c2941",
             "title": "feat: connect Payload CMS to the existing Supabase database (#507)",
             "url": "https://github.com/UTMIST/UTMIST/commit/820e8828237fa55df4b1df5fe87ceb670e2c2941",
@@ -164,19 +170,13 @@
             "title": "feat: redesign the homepage and navigation behind Web-Redesign (#505)",
             "url": "https://github.com/UTMIST/UTMIST/commit/0b27c388483c960cdfb8e78ec79de2c2a3b220e9",
             "date": "2026-11-06T05:57:21Z"
-          },
-          {
-            "sha": "07e0cefa8bcaae7dcf0a97b5c53a7e67c4ea9b12",
-            "title": "chore: isolate CI database environments (#509)",
-            "url": "https://github.com/UTMIST/UTMIST/commit/07e0cefa8bcaae7dcf0a97b5c53a7e67c4ea9b12",
-            "date": "2026-11-06T02:54:00Z"
           }
         ]
       }
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-12T11:44:12.441Z",
+      "checkedAt": "2026-11-12T18:51:23.578Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
