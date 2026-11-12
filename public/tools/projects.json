@@ -4,9 +4,25 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-12T11:14:21.264Z",
+  "updated": "2026-11-12T18:57:48.013Z",
   "data": {
     "projects": [
+      {
+        "private": false,
+        "name": "UTMIST",
+        "full_name": "UTMIST/UTMIST",
+        "description": "UTMIST Website",
+        "language": "TypeScript",
+        "url": "https://github.com/UTMIST/UTMIST",
+        "homepage": "",
+        "stars": 4,
+        "topics": [
+          "website"
+        ],
+        "pushed_at": "2026-11-12T17:26:35Z",
+        "last_activity_at": "2026-11-12T17:26:34Z",
+        "recently_active": true
+      },
       {
         "private": false,
         "name": "mathify-brief",
@@ -33,22 +49,6 @@
         "topics": [],
         "pushed_at": "2026-11-11T20:22:25Z",
         "last_activity_at": "2026-11-11T20:22:45Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
-        "name": "UTMIST",
-        "full_name": "UTMIST/UTMIST",
-        "description": "UTMIST Website",
-        "language": "TypeScript",
-        "url": "https://github.com/UTMIST/UTMIST",
-        "homepage": "",
-        "stars": 4,
-        "topics": [
-          "website"
-        ],
-        "pushed_at": "2026-11-11T00:04:34Z",
-        "last_activity_at": "2026-11-11T00:05:50Z",
         "recently_active": true
       },
       {
@@ -115,7 +115,7 @@
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-11-12T11:14:21.264Z",
+    "fetched_at": "2026-11-12T18:57:48.013Z",
     "stale": false
   }
 }

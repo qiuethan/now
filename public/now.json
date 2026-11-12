@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-12T11:14:21.264Z",
+  "last_updated": "2026-11-12T18:57:48.013Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -17,6 +17,22 @@
   },
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
+    {
+      "private": false,
+      "name": "UTMIST",
+      "full_name": "UTMIST/UTMIST",
+      "description": "UTMIST Website",
+      "language": "TypeScript",
+      "url": "https://github.com/UTMIST/UTMIST",
+      "homepage": "",
+      "stars": 4,
+      "topics": [
+        "website"
+      ],
+      "pushed_at": "2026-11-12T17:26:35Z",
+      "last_activity_at": "2026-11-12T17:26:34Z",
+      "recently_active": true
+    },
     {
       "private": false,
       "name": "mathify-brief",
@@ -43,22 +59,6 @@
       "topics": [],
       "pushed_at": "2026-11-11T20:22:25Z",
       "last_activity_at": "2026-11-11T20:22:45Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "UTMIST",
-      "full_name": "UTMIST/UTMIST",
-      "description": "UTMIST Website",
-      "language": "TypeScript",
-      "url": "https://github.com/UTMIST/UTMIST",
-      "homepage": "",
-      "stars": 4,
-      "topics": [
-        "website"
-      ],
-      "pushed_at": "2026-11-11T00:04:34Z",
-      "last_activity_at": "2026-11-11T00:05:50Z",
       "recently_active": true
     },
     {
@@ -156,7 +156,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-12T11:14:21.264Z",
+    "fetched_at": "2026-11-12T18:57:48.013Z",
     "stale": false
   },
   "contributions": {
@@ -172,14 +172,14 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week Ethan Qiu made 22 GitHub contribution-count commits across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, with the most activity in Jeff15321/mathify-brief. He opened pull requests in Jeff15321/mathify-brief (#9–#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#508, #509, #510, #518, #519), and reviewed UTMIST/Misty#385 and #390 plus UTMIST/UTMIST#519. He also opened issues in UTMIST/Misty#383 and #384.",
+  "summary": "This week, Ethan Qiu made 23 GitHub contribution-count commits across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests in Jeff15321/mathify-brief (#9-#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#508, #509, #510, #518, #519), and reviewed UTMIST/Misty #385 and #390 plus UTMIST/UTMIST #519. He also opened issues in UTMIST/Misty (#383, #384).",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-12T11:14:21.264Z",
+    "generated_at": "2026-11-12T18:57:48.013Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 22,
-      "totalPushes": 15,
+      "totalCommits": 23,
+      "totalPushes": 16,
       "repos": [
         {
           "name": "Jeff15321/mathify-brief",
@@ -193,8 +193,8 @@
         },
         {
           "name": "UTMIST/UTMIST",
-          "commits": 3,
-          "pushes": 10
+          "commits": 4,
+          "pushes": 11
         }
       ],
       "prsOpened": [
@@ -226,7 +226,7 @@
       ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-12T11:14:21.264Z",
+      "fetched_at": "2026-11-12T18:57:48.013Z",
       "stale": false
     },
     "coding": {
@@ -236,11 +236,11 @@
       "window": "last_7_days",
       "window_start": "2026-11-06",
       "window_end": "2026-11-12",
-      "total_seconds": 27048,
+      "total_seconds": 27825,
       "apps": [
         {
           "name": "Orca",
-          "seconds": 27048
+          "seconds": 27825
         },
         {
           "name": "VS Code",
@@ -280,14 +280,14 @@
         },
         {
           "date": "2026-11-12",
-          "orca_seconds": 729,
+          "orca_seconds": 1506,
           "vscode_seconds": 0
         }
       ],
-      "fetched_at": "2026-11-12T06:54:01.936Z",
-      "stale": true
+      "fetched_at": "2026-11-12T18:43:22.893Z",
+      "stale": false
     },
-    "summary": "This week Ethan Qiu made 22 GitHub contribution-count commits across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, with the most activity in Jeff15321/mathify-brief. He opened pull requests in Jeff15321/mathify-brief (#9–#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#508, #509, #510, #518, #519), and reviewed UTMIST/Misty#385 and #390 plus UTMIST/UTMIST#519. He also opened issues in UTMIST/Misty#383 and #384.",
+    "summary": "This week, Ethan Qiu made 23 GitHub contribution-count commits across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests in Jeff15321/mathify-brief (#9-#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#508, #509, #510, #518, #519), and reviewed UTMIST/Misty #385 and #390 plus UTMIST/UTMIST #519. He also opened issues in UTMIST/Misty (#383, #384).",
     "summary_stale": false
   },
   "writing": [
