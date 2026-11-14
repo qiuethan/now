@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-14T10:51:11.679Z",
+  "checkedAt": "2026-11-14T17:00:10.999Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-14T10:51:11.679Z",
-      "lastActivity": "2026-11-11T05:37:12Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/c6e03edfa03987d7952e5447d13ce62845e7cb1a",
+      "checkedAt": "2026-11-14T17:00:10.999Z",
+      "lastActivity": "2026-11-14T11:44:07Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -15,10 +15,10 @@
             "number": 387,
             "title": "fix: reduce idle catalog polling and staging discovery frequency",
             "url": "https://github.com/UTMIST/Misty/pull/387",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-13T03:08:35Z",
-            "mergedAt": null
+            "updatedAt": "2026-11-14T11:47:51Z",
+            "mergedAt": "2026-11-14T11:47:49Z"
           },
           {
             "number": 392,
@@ -26,7 +26,7 @@
             "url": "https://github.com/UTMIST/Misty/pull/392",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-13T02:36:53Z",
+            "updatedAt": "2026-11-14T11:46:38Z",
             "mergedAt": null
           },
           {
@@ -68,6 +68,12 @@
         ],
         "commits": [
           {
+            "sha": "f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
+            "title": "fix: reduce idle catalog polling and staging discovery frequency (#387)",
+            "url": "https://github.com/UTMIST/Misty/commit/f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
+            "date": "2026-11-14T11:44:07Z"
+          },
+          {
             "sha": "606b24f7a9b9d02d565b40af05db3f8a871683f9",
             "title": "Release 1.0.2: fix mid-meeting recording disconnects (#390)",
             "url": "https://github.com/UTMIST/Misty/commit/606b24f7a9b9d02d565b40af05db3f8a871683f9",
@@ -78,19 +84,13 @@
             "title": "chore: prepare platform release 1.0.2 (#389)",
             "url": "https://github.com/UTMIST/Misty/commit/a644f48147dccdec92d093cfdc931cb088a74f4e",
             "date": "2026-11-11T05:07:26Z"
-          },
-          {
-            "sha": "31ff74b0d49b6029e5a0e8d779a0289ab6dc168f",
-            "title": "chore: prepare platform release 1.0.2",
-            "url": "https://github.com/UTMIST/Misty/commit/31ff74b0d49b6029e5a0e8d779a0289ab6dc168f",
-            "date": "2026-11-11T04:46:41Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-14T10:51:11.679Z",
+      "checkedAt": "2026-11-14T17:00:10.999Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -98,21 +98,12 @@
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 519,
-            "title": "docs: define the CMS content structure",
-            "url": "https://github.com/UTMIST/UTMIST/pull/519",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-12T17:26:35Z",
-            "mergedAt": "2026-11-12T17:26:34Z"
-          },
-          {
             "number": 510,
             "title": "feat: build Academics redesign with local CMS editing",
             "url": "https://github.com/UTMIST/UTMIST/pull/510",
             "state": "open",
             "draft": true,
-            "updatedAt": "2026-11-10T22:43:47Z",
+            "updatedAt": "2026-11-14T11:57:03Z",
             "mergedAt": null
           },
           {
@@ -121,8 +112,26 @@
             "url": "https://github.com/UTMIST/UTMIST/pull/518",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-10T22:18:00Z",
+            "updatedAt": "2026-11-14T11:54:19Z",
             "mergedAt": null
+          },
+          {
+            "number": 503,
+            "title": "feat: port Misty board and operational automations to web",
+            "url": "https://github.com/UTMIST/UTMIST/pull/503",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-14T11:53:27Z",
+            "mergedAt": null
+          },
+          {
+            "number": 519,
+            "title": "docs: define the CMS content structure",
+            "url": "https://github.com/UTMIST/UTMIST/pull/519",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-12T17:26:35Z",
+            "mergedAt": "2026-11-12T17:26:34Z"
           },
           {
             "number": 507,
@@ -141,15 +150,6 @@
             "draft": false,
             "updatedAt": "2026-11-06T06:01:14Z",
             "mergedAt": "2026-11-06T06:01:14Z"
-          },
-          {
-            "number": 503,
-            "title": "feat: port Misty board and operational automations to web",
-            "url": "https://github.com/UTMIST/UTMIST/pull/503",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-06T04:15:32Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-14T10:51:11.679Z",
+      "checkedAt": "2026-11-14T17:00:10.999Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
