@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-14T10:39:27.934Z",
+  "last_updated": "2026-11-14T17:09:01.160Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,20 @@
   "projects": [
     {
       "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "UTMIST AI Internal Operations Platform",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 3,
+      "topics": [],
+      "pushed_at": "2026-11-14T11:47:50Z",
+      "last_activity_at": "2026-11-14T11:47:49Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "UTMIST",
       "full_name": "UTMIST/UTMIST",
       "description": "UTMIST Website",
@@ -29,7 +43,7 @@
       "topics": [
         "website"
       ],
-      "pushed_at": "2026-11-12T17:26:35Z",
+      "pushed_at": "2026-11-14T11:53:13Z",
       "last_activity_at": "2026-11-12T17:26:34Z",
       "recently_active": true
     },
@@ -45,20 +59,6 @@
       "topics": [],
       "pushed_at": "2026-11-11T22:50:17Z",
       "last_activity_at": "2026-11-11T22:50:19Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "Misty",
-      "full_name": "UTMIST/Misty",
-      "description": "UTMIST AI Internal Operations Platform",
-      "language": "Python",
-      "url": "https://github.com/UTMIST/Misty",
-      "homepage": "",
-      "stars": 3,
-      "topics": [],
-      "pushed_at": "2026-11-11T20:22:25Z",
-      "last_activity_at": "2026-11-11T20:22:45Z",
       "recently_active": true
     },
     {
@@ -156,7 +156,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-14T10:39:27.934Z",
+    "fetched_at": "2026-11-14T17:09:01.160Z",
     "stale": false
   },
   "contributions": {
@@ -172,13 +172,13 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu recorded 20 GitHub contribution counts across 13 pushes. Most of the activity was in Jeff15321/mathify-brief with 14 counts, alongside 5 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened pull requests in Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519.",
+  "summary": "This week, Ethan Qiu made 22 GitHub contributions across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests in Jeff15321/mathify-brief (#9–#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#518, #519), and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519. He also had 14 contribution counts in Jeff15321/mathify-brief, 7 in UTMIST/Misty, and 1 in UTMIST/UTMIST.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-14T10:39:27.934Z",
+    "generated_at": "2026-11-14T17:09:01.160Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 20,
+      "totalCommits": 22,
       "totalPushes": 13,
       "repos": [
         {
@@ -188,7 +188,7 @@
         },
         {
           "name": "UTMIST/Misty",
-          "commits": 5,
+          "commits": 7,
           "pushes": 3
         },
         {
@@ -219,7 +219,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-14T10:39:27.934Z",
+      "fetched_at": "2026-11-14T17:09:01.160Z",
       "stale": false
     },
     "coding": {
@@ -270,7 +270,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu recorded 20 GitHub contribution counts across 13 pushes. Most of the activity was in Jeff15321/mathify-brief with 14 counts, alongside 5 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened pull requests in Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519.",
+    "summary": "This week, Ethan Qiu made 22 GitHub contributions across Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests in Jeff15321/mathify-brief (#9–#14), UTMIST/Misty (#386, #387, #388, #389, #392), and UTMIST/UTMIST (#518, #519), and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519. He also had 14 contribution counts in Jeff15321/mathify-brief, 7 in UTMIST/Misty, and 1 in UTMIST/UTMIST.",
     "summary_stale": false
   },
   "writing": [
