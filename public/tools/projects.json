@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-14T03:17:06.479Z",
+  "updated": "2026-11-14T10:39:27.934Z",
   "data": {
     "projects": [
       {
@@ -73,7 +73,7 @@
         "language": "Rust",
         "url": "https://github.com/SomethingObvious/Valorant-Overseer",
         "homepage": "https://somethingobvious.github.io/Valorant-Overseer/",
-        "stars": 3,
+        "stars": 4,
         "topics": [
           "egui",
           "game-overlay",
@@ -115,7 +115,7 @@
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-11-14T03:17:06.479Z",
+    "fetched_at": "2026-11-14T10:39:27.934Z",
     "stale": false
   }
 }
