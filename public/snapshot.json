@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-16T02:10:10.953Z",
+  "last_updated": "2026-11-16T09:46:21.171Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -156,7 +156,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-16T02:10:10.953Z",
+    "fetched_at": "2026-11-16T09:46:21.171Z",
     "stale": false
   },
   "contributions": {
@@ -172,10 +172,10 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu made contributions to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests UTMIST/Misty#387, #388, #389, and #392, and UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519. GitHub records 15 commits across these repositories, including 7 in Jeff15321/mathify-brief, 7 in UTMIST/Misty, and 1 in UTMIST/UTMIST.",
+  "summary": "This week, Ethan Qiu contributed to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. His GitHub activity includes 15 contributions across those repositories, with 7 contributions each to Jeff15321/mathify-brief and UTMIST/Misty, and 1 to UTMIST/UTMIST. He also opened pull requests UTMIST/Misty#387, #388, #389, and #392, plus UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-16T02:10:10.953Z",
+    "generated_at": "2026-11-16T09:46:21.171Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 15,
@@ -211,7 +211,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-16T02:10:10.953Z",
+      "fetched_at": "2026-11-16T09:46:21.171Z",
       "stale": false
     },
     "coding": {
@@ -252,7 +252,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu made contributions to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests UTMIST/Misty#387, #388, #389, and #392, and UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519. GitHub records 15 commits across these repositories, including 7 in Jeff15321/mathify-brief, 7 in UTMIST/Misty, and 1 in UTMIST/UTMIST.",
+    "summary": "This week, Ethan Qiu contributed to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. His GitHub activity includes 15 contributions across those repositories, with 7 contributions each to Jeff15321/mathify-brief and UTMIST/Misty, and 1 to UTMIST/UTMIST. He also opened pull requests UTMIST/Misty#387, #388, #389, and #392, plus UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519.",
     "summary_stale": false
   },
   "writing": [
