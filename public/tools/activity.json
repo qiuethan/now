@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-16T09:46:21.171Z",
+  "updated": "2026-11-16T20:30:00.571Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-16T09:46:21.171Z",
+    "generated_at": "2026-11-16T20:30:00.571Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 15,
@@ -43,7 +43,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-16T09:46:21.171Z",
+      "fetched_at": "2026-11-16T20:30:00.571Z",
       "stale": false
     },
     "coding": {
@@ -84,7 +84,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu contributed to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. His GitHub activity includes 15 contributions across those repositories, with 7 contributions each to Jeff15321/mathify-brief and UTMIST/Misty, and 1 to UTMIST/UTMIST. He also opened pull requests UTMIST/Misty#387, #388, #389, and #392, plus UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519.",
+    "summary": "This week Ethan Qiu made contributions to Jeff15321/mathify-brief, UTMIST/Misty, and UTMIST/UTMIST. He opened pull requests UTMIST/Misty#387, #388, #389, and #392, as well as UTMIST/UTMIST#519, and reviewed UTMIST/Misty#390 and UTMIST/UTMIST#519. GitHub shows 15 commits and 11 pushes in total, including 7 commits each on Jeff15321/mathify-brief and UTMIST/Misty, and 1 commit on UTMIST/UTMIST.",
     "summary_stale": false
   }
 }
