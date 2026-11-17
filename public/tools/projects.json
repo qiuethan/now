@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-17T03:55:06.190Z",
+  "updated": "2026-11-17T13:28:18.912Z",
   "data": {
     "projects": [
       {
@@ -96,7 +96,7 @@
           "valorant-tracker",
           "windows"
         ],
-        "pushed_at": "2026-11-17T03:42:14Z",
+        "pushed_at": "2026-11-17T05:39:01Z",
         "last_activity_at": "2026-11-04T18:54:40Z",
         "recently_active": true
       },
@@ -111,11 +111,11 @@
         "stars": 1,
         "topics": [],
         "pushed_at": "2026-11-04T04:17:41Z",
-        "last_activity_at": "2026-11-03T08:00:00Z",
+        "last_activity_at": "2026-11-04T04:17:41Z",
         "recently_active": true
       }
     ],
-    "fetched_at": "2026-11-17T03:55:06.190Z",
+    "fetched_at": "2026-11-17T13:28:18.912Z",
     "stale": false
   }
 }
