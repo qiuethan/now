@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-18T04:23:01.643Z",
+  "last_updated": "2026-11-18T13:59:52.650Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -19,6 +19,20 @@
   "projects": [
     {
       "private": false,
+      "name": "Misty",
+      "full_name": "UTMIST/Misty",
+      "description": "UTMIST AI Internal Operations Platform",
+      "language": "Python",
+      "url": "https://github.com/UTMIST/Misty",
+      "homepage": "",
+      "stars": 3,
+      "topics": [],
+      "pushed_at": "2026-11-18T04:51:54Z",
+      "last_activity_at": "2026-11-18T08:00:00Z",
+      "recently_active": true
+    },
+    {
+      "private": false,
       "name": "UTMIST",
       "full_name": "UTMIST/UTMIST",
       "description": "UTMIST Website",
@@ -31,20 +45,6 @@
       ],
       "pushed_at": "2026-11-16T14:14:31Z",
       "last_activity_at": "2026-11-14T11:53:13Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "Misty",
-      "full_name": "UTMIST/Misty",
-      "description": "UTMIST AI Internal Operations Platform",
-      "language": "Python",
-      "url": "https://github.com/UTMIST/Misty",
-      "homepage": "",
-      "stars": 3,
-      "topics": [],
-      "pushed_at": "2026-11-14T11:47:50Z",
-      "last_activity_at": "2026-11-14T11:47:49Z",
       "recently_active": true
     },
     {
@@ -156,7 +156,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-18T04:23:01.643Z",
+    "fetched_at": "2026-11-18T13:59:52.650Z",
     "stale": false
   },
   "contributions": {
@@ -172,32 +172,36 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu had 2 GitHub contribution-counted commits across 2 public repositories: 1 in UTMIST/UTMIST and 1 in UTMIST/Misty. He made 1 push to UTMIST/UTMIST and no pushes to UTMIST/Misty. There were no pull requests opened or reviewed, and no new repositories.",
+  "summary": "This week, Ethan Qiu had 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST, with 3 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened three pull requests in UTMIST/Misty: #393, #394, and #395. No pull requests were reviewed, and no issues were opened.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-18T04:23:01.643Z",
+    "generated_at": "2026-11-18T13:59:52.650Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 2,
+      "totalCommits": 4,
       "totalPushes": 1,
       "repos": [
+        {
+          "name": "UTMIST/Misty",
+          "commits": 3,
+          "pushes": 0
+        },
         {
           "name": "UTMIST/UTMIST",
           "commits": 1,
           "pushes": 1
-        },
-        {
-          "name": "UTMIST/Misty",
-          "commits": 1,
-          "pushes": 0
         }
       ],
-      "prsOpened": [],
+      "prsOpened": [
+        "UTMIST/Misty#393",
+        "UTMIST/Misty#394",
+        "UTMIST/Misty#395"
+      ],
       "prsReviewed": [],
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-18T04:23:01.643Z",
+      "fetched_at": "2026-11-18T13:59:52.650Z",
       "stale": false
     },
     "coding": {
@@ -228,7 +232,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu had 2 GitHub contribution-counted commits across 2 public repositories: 1 in UTMIST/UTMIST and 1 in UTMIST/Misty. He made 1 push to UTMIST/UTMIST and no pushes to UTMIST/Misty. There were no pull requests opened or reviewed, and no new repositories.",
+    "summary": "This week, Ethan Qiu had 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST, with 3 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened three pull requests in UTMIST/Misty: #393, #394, and #395. No pull requests were reviewed, and no issues were opened.",
     "summary_stale": false
   },
   "writing": [
