@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-17T22:25:45.871Z",
+  "updated": "2026-11-18T04:23:01.643Z",
   "data": {
     "projects": [
       {
@@ -47,7 +47,7 @@
         "homepage": "",
         "stars": 2,
         "topics": [],
-        "pushed_at": "2026-11-11T22:50:17Z",
+        "pushed_at": "2026-11-18T02:59:01Z",
         "last_activity_at": "2026-11-11T22:50:19Z",
         "recently_active": true
       },
@@ -112,10 +112,10 @@
         "topics": [],
         "pushed_at": "2026-11-04T04:17:41Z",
         "last_activity_at": "2026-11-04T04:17:41Z",
-        "recently_active": true
+        "recently_active": false
       }
     ],
-    "fetched_at": "2026-11-17T22:25:45.871Z",
+    "fetched_at": "2026-11-18T04:23:01.643Z",
     "stale": false
   }
 }
