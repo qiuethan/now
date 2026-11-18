@@ -1,16 +1,43 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-18T03:50:05.165Z",
+  "checkedAt": "2026-11-18T13:21:34.503Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-18T03:50:05.165Z",
-      "lastActivity": "2026-11-14T11:44:07Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
+      "checkedAt": "2026-11-18T13:21:34.503Z",
+      "lastActivity": "2026-11-18T04:48:22Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 395,
+            "title": "fix: keep cancelled Q&A errors private and close test database pools",
+            "url": "https://github.com/UTMIST/Misty/pull/395",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-18T04:51:54Z",
+            "mergedAt": "2026-11-18T04:51:51Z"
+          },
+          {
+            "number": 393,
+            "title": "fix(docs): prevent NUL text from blocking hourly refresh",
+            "url": "https://github.com/UTMIST/Misty/pull/393",
+            "state": "closed",
+            "draft": false,
+            "updatedAt": "2026-11-18T04:51:54Z",
+            "mergedAt": null
+          },
+          {
+            "number": 394,
+            "title": "release: prepare Misty 1.0.3",
+            "url": "https://github.com/UTMIST/Misty/pull/394",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-18T04:40:38Z",
+            "mergedAt": null
+          },
           {
             "number": 387,
             "title": "fix: reduce idle catalog polling and staging discovery frequency",
@@ -37,60 +64,33 @@
             "draft": false,
             "updatedAt": "2026-11-11T05:10:43Z",
             "mergedAt": "2026-11-11T05:10:42Z"
-          },
-          {
-            "number": 388,
-            "title": "fix(meeting): prevent Transcribe polling from starving recording streams",
-            "url": "https://github.com/UTMIST/Misty/pull/388",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-11T04:44:47Z",
-            "mergedAt": "2026-11-11T04:44:46Z"
-          },
-          {
-            "number": 386,
-            "title": "docs: fix setup, testing, and documentation drift",
-            "url": "https://github.com/UTMIST/Misty/pull/386",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-09T22:34:51Z",
-            "mergedAt": null
-          },
-          {
-            "number": 331,
-            "title": "Add scoped email login to the external gateway",
-            "url": "https://github.com/UTMIST/Misty/pull/331",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-09T21:35:39Z",
-            "mergedAt": null
           }
         ],
         "commits": [
+          {
+            "sha": "fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
+            "title": "fix: keep cancelled Q&A errors private and close test database pools (#395)",
+            "url": "https://github.com/UTMIST/Misty/commit/fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
+            "date": "2026-11-18T04:48:22Z"
+          },
+          {
+            "sha": "45281e810c6d5f859a9272a0de35c708281a3869",
+            "title": "fix: keep cancelled Q&A errors private and close test database pools",
+            "url": "https://github.com/UTMIST/Misty/commit/45281e810c6d5f859a9272a0de35c708281a3869",
+            "date": "2026-11-18T04:31:17Z"
+          },
           {
             "sha": "f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
             "title": "fix: reduce idle catalog polling and staging discovery frequency (#387)",
             "url": "https://github.com/UTMIST/Misty/commit/f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
             "date": "2026-11-14T11:44:07Z"
-          },
-          {
-            "sha": "606b24f7a9b9d02d565b40af05db3f8a871683f9",
-            "title": "Release 1.0.2: fix mid-meeting recording disconnects (#390)",
-            "url": "https://github.com/UTMIST/Misty/commit/606b24f7a9b9d02d565b40af05db3f8a871683f9",
-            "date": "2026-11-11T05:33:10Z"
-          },
-          {
-            "sha": "a644f48147dccdec92d093cfdc931cb088a74f4e",
-            "title": "chore: prepare platform release 1.0.2 (#389)",
-            "url": "https://github.com/UTMIST/Misty/commit/a644f48147dccdec92d093cfdc931cb088a74f4e",
-            "date": "2026-11-11T05:07:26Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-18T03:50:05.165Z",
+      "checkedAt": "2026-11-18T13:21:34.503Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-18T03:50:05.165Z",
+      "checkedAt": "2026-11-18T13:21:34.503Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
