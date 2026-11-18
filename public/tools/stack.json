@@ -4,7 +4,7 @@
   "tool": "get_stack",
   "description": "Languages in use across personal and contributed public GitHub repositories.",
   "freshness": "hourly",
-  "updated": "2026-11-18T13:59:52.650Z",
+  "updated": "2026-11-18T21:57:54.873Z",
   "data": {
     "languages": [
       {
@@ -30,13 +30,9 @@
       {
         "name": "Java",
         "repos": 1
-      },
-      {
-        "name": "Rust",
-        "repos": 1
       }
     ],
-    "fetched_at": "2026-11-18T13:59:52.650Z",
+    "fetched_at": "2026-11-18T21:57:54.873Z",
     "stale": false
   }
 }

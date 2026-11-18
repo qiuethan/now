@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-18T13:59:52.650Z",
+  "last_updated": "2026-11-18T21:57:54.873Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -57,7 +57,7 @@
       "homepage": "",
       "stars": 2,
       "topics": [],
-      "pushed_at": "2026-11-18T02:59:01Z",
+      "pushed_at": "2026-11-18T19:44:59Z",
       "last_activity_at": "2026-11-11T22:50:19Z",
       "recently_active": true
     },
@@ -77,41 +77,6 @@
     },
     {
       "private": false,
-      "name": "Valorant-Overseer",
-      "full_name": "SomethingObvious/Valorant-Overseer",
-      "description": "The fully local VALORANT match tracker for Windows. See the rank, peak, K/D, party and smurf signs of every player, with an in-game overlay, match history and lineups. Runs entirely on your PC with no account and no tracking.",
-      "language": "Rust",
-      "url": "https://github.com/SomethingObvious/Valorant-Overseer",
-      "homepage": "https://somethingobvious.github.io/Valorant-Overseer/",
-      "stars": 4,
-      "topics": [
-        "egui",
-        "game-overlay",
-        "gaming-tools",
-        "local-first",
-        "match-history",
-        "match-tracker",
-        "privacy",
-        "python",
-        "rank-checker",
-        "riot-client",
-        "riot-games",
-        "rust",
-        "smurf-detection",
-        "valorant",
-        "valorant-lineups",
-        "valorant-overlay",
-        "valorant-rank",
-        "valorant-stats",
-        "valorant-tracker",
-        "windows"
-      ],
-      "pushed_at": "2026-11-17T15:17:29Z",
-      "last_activity_at": "2026-11-04T18:54:40Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
       "name": "neetcode-submissions",
       "full_name": "qiuethan/neetcode-submissions",
       "description": "My NeetCode.io problem submissions",
@@ -123,6 +88,14 @@
       "pushed_at": "2026-11-04T04:17:41Z",
       "last_activity_at": "2026-11-04T04:17:41Z",
       "recently_active": false
+    },
+    {
+      "private": true,
+      "id": 1424065623,
+      "summary": "Private software project",
+      "recently_active": false,
+      "pushed_at": "2026-10-27",
+      "last_activity_at": "2026-10-27"
     }
   ],
   "stack": {
@@ -150,13 +123,9 @@
       {
         "name": "Java",
         "repos": 1
-      },
-      {
-        "name": "Rust",
-        "repos": 1
       }
     ],
-    "fetched_at": "2026-11-18T13:59:52.650Z",
+    "fetched_at": "2026-11-18T21:57:54.873Z",
     "stale": false
   },
   "contributions": {
@@ -172,10 +141,10 @@
     "fetched_at": "2026-11-02T23:31:24.723Z",
     "stale": true
   },
-  "summary": "This week, Ethan Qiu had 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST, with 3 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened three pull requests in UTMIST/Misty: #393, #394, and #395. No pull requests were reviewed, and no issues were opened.",
+  "summary": "This week, Ethan Qiu made 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. There were no pull request reviews, issues opened, or new repositories listed in the data.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-18T13:59:52.650Z",
+    "generated_at": "2026-11-18T21:57:54.873Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 4,
@@ -201,7 +170,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-18T13:59:52.650Z",
+      "fetched_at": "2026-11-18T21:57:54.873Z",
       "stale": false
     },
     "coding": {
@@ -232,7 +201,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu had 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST, with 3 in UTMIST/Misty and 1 in UTMIST/UTMIST. He also opened three pull requests in UTMIST/Misty: #393, #394, and #395. No pull requests were reviewed, and no issues were opened.",
+    "summary": "This week, Ethan Qiu made 4 GitHub contribution-counted commits across UTMIST/Misty and UTMIST/UTMIST. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. There were no pull request reviews, issues opened, or new repositories listed in the data.",
     "summary_stale": false
   },
   "writing": [

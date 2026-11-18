@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-18T13:59:52.650Z",
+  "updated": "2026-11-18T21:57:54.873Z",
   "data": {
     "projects": [
       {
@@ -47,7 +47,7 @@
         "homepage": "",
         "stars": 2,
         "topics": [],
-        "pushed_at": "2026-11-18T02:59:01Z",
+        "pushed_at": "2026-11-18T19:44:59Z",
         "last_activity_at": "2026-11-11T22:50:19Z",
         "recently_active": true
       },
@@ -67,41 +67,6 @@
       },
       {
         "private": false,
-        "name": "Valorant-Overseer",
-        "full_name": "SomethingObvious/Valorant-Overseer",
-        "description": "The fully local VALORANT match tracker for Windows. See the rank, peak, K/D, party and smurf signs of every player, with an in-game overlay, match history and lineups. Runs entirely on your PC with no account and no tracking.",
-        "language": "Rust",
-        "url": "https://github.com/SomethingObvious/Valorant-Overseer",
-        "homepage": "https://somethingobvious.github.io/Valorant-Overseer/",
-        "stars": 4,
-        "topics": [
-          "egui",
-          "game-overlay",
-          "gaming-tools",
-          "local-first",
-          "match-history",
-          "match-tracker",
-          "privacy",
-          "python",
-          "rank-checker",
-          "riot-client",
-          "riot-games",
-          "rust",
-          "smurf-detection",
-          "valorant",
-          "valorant-lineups",
-          "valorant-overlay",
-          "valorant-rank",
-          "valorant-stats",
-          "valorant-tracker",
-          "windows"
-        ],
-        "pushed_at": "2026-11-17T15:17:29Z",
-        "last_activity_at": "2026-11-04T18:54:40Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
         "name": "neetcode-submissions",
         "full_name": "qiuethan/neetcode-submissions",
         "description": "My NeetCode.io problem submissions",
@@ -113,9 +78,17 @@
         "pushed_at": "2026-11-04T04:17:41Z",
         "last_activity_at": "2026-11-04T04:17:41Z",
         "recently_active": false
+      },
+      {
+        "private": true,
+        "id": 1424065623,
+        "summary": "Private software project",
+        "recently_active": false,
+        "pushed_at": "2026-10-27",
+        "last_activity_at": "2026-10-27"
       }
     ],
-    "fetched_at": "2026-11-18T13:59:52.650Z",
+    "fetched_at": "2026-11-18T21:57:54.873Z",
     "stale": false
   }
 }
