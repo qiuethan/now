@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-19T03:29:31.490Z",
+  "updated": "2026-11-19T13:11:15.711Z",
   "data": {
     "projects": [
       {
@@ -53,20 +53,6 @@
       },
       {
         "private": false,
-        "name": "mathify-brief",
-        "full_name": "qiuethan/mathify-brief",
-        "description": "",
-        "language": null,
-        "url": "https://github.com/qiuethan/mathify-brief",
-        "homepage": "",
-        "stars": 0,
-        "topics": [],
-        "pushed_at": "2026-11-05T06:46:15Z",
-        "last_activity_at": "2026-11-05T06:26:47Z",
-        "recently_active": true
-      },
-      {
-        "private": false,
         "name": "neetcode-submissions",
         "full_name": "qiuethan/neetcode-submissions",
         "description": "My NeetCode.io problem submissions",
@@ -86,9 +72,17 @@
         "recently_active": false,
         "pushed_at": "2026-10-27",
         "last_activity_at": "2026-10-27"
+      },
+      {
+        "private": true,
+        "id": 1117921210,
+        "summary": "Private software project",
+        "recently_active": false,
+        "pushed_at": "2026-11-14",
+        "last_activity_at": "2026-10-18"
       }
     ],
-    "fetched_at": "2026-11-19T03:29:31.490Z",
+    "fetched_at": "2026-11-19T13:11:15.711Z",
     "stale": false
   }
 }
