@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-20T03:17:19.253Z",
+  "last_updated": "2026-11-20T12:55:07.501Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -17,6 +17,14 @@
   },
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
+    {
+      "private": true,
+      "id": 1465185069,
+      "summary": "Private software project",
+      "recently_active": true,
+      "pushed_at": "2026-11-20",
+      "last_activity_at": "2026-11-20"
+    },
     {
       "private": false,
       "name": "Misty",
@@ -82,14 +90,6 @@
       "recently_active": false,
       "pushed_at": "2026-10-27",
       "last_activity_at": "2026-10-27"
-    },
-    {
-      "private": true,
-      "id": 1117921210,
-      "summary": "Private software project",
-      "recently_active": false,
-      "pushed_at": "2026-11-14",
-      "last_activity_at": "2026-10-18"
     }
   ],
   "stack": {
@@ -119,7 +119,7 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-20T03:17:19.253Z",
+    "fetched_at": "2026-11-20T12:55:07.501Z",
     "stale": false
   },
   "contributions": {
@@ -132,13 +132,13 @@
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-11-20T03:17:19.253Z",
+    "fetched_at": "2026-11-20T12:55:07.501Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 3 GitHub contributions across 2 pushes. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. He also pushed once to UTMIST/UTMIST.",
+  "summary": "This week, Ethan Qiu made 3 commits and 3 pushes across UTMIST/Misty and UTMIST/UTMIST. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. He did not review any pull requests this week.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-20T03:17:19.253Z",
+    "generated_at": "2026-11-20T12:55:07.501Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 3,
@@ -164,7 +164,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-20T03:17:19.253Z",
+      "fetched_at": "2026-11-20T12:55:07.501Z",
       "stale": false
     },
     "coding": {
@@ -189,7 +189,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu made 3 GitHub contributions across 2 pushes. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. He also pushed once to UTMIST/UTMIST.",
+    "summary": "This week, Ethan Qiu made 3 commits and 3 pushes across UTMIST/Misty and UTMIST/UTMIST. He opened three pull requests in UTMIST/Misty: #393, #394, and #395. He did not review any pull requests this week.",
     "summary_stale": false
   },
   "writing": [

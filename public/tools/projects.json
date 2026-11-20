@@ -4,9 +4,17 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-20T03:17:19.253Z",
+  "updated": "2026-11-20T12:55:07.501Z",
   "data": {
     "projects": [
+      {
+        "private": true,
+        "id": 1465185069,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-11-20",
+        "last_activity_at": "2026-11-20"
+      },
       {
         "private": false,
         "name": "Misty",
@@ -72,17 +80,9 @@
         "recently_active": false,
         "pushed_at": "2026-10-27",
         "last_activity_at": "2026-10-27"
-      },
-      {
-        "private": true,
-        "id": 1117921210,
-        "summary": "Private software project",
-        "recently_active": false,
-        "pushed_at": "2026-11-14",
-        "last_activity_at": "2026-10-18"
       }
     ],
-    "fetched_at": "2026-11-20T03:17:19.253Z",
+    "fetched_at": "2026-11-20T12:55:07.501Z",
     "stale": false
   }
 }
