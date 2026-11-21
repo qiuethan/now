@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-20T19:03:50.173Z",
+  "checkedAt": "2026-11-21T00:56:01.750Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-20T19:03:50.173Z",
-      "lastActivity": "2026-11-18T04:48:22Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
+      "checkedAt": "2026-11-21T00:56:01.750Z",
+      "lastActivity": "2026-11-20T19:00:39Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
       "release": null,
       "work": {
         "author": "qiuethan",
@@ -15,10 +15,10 @@
             "number": 331,
             "title": "Add scoped email login to the external gateway",
             "url": "https://github.com/UTMIST/Misty/pull/331",
-            "state": "open",
+            "state": "merged",
             "draft": false,
-            "updatedAt": "2026-11-20T18:55:01Z",
-            "mergedAt": null
+            "updatedAt": "2026-11-20T19:04:31Z",
+            "mergedAt": "2026-11-20T19:04:29Z"
           },
           {
             "number": 395,
@@ -68,6 +68,12 @@
         ],
         "commits": [
           {
+            "sha": "52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
+            "title": "Add scoped email login to the external gateway (#331)",
+            "url": "https://github.com/UTMIST/Misty/commit/52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
+            "date": "2026-11-20T19:00:39Z"
+          },
+          {
             "sha": "fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
             "title": "fix: keep cancelled Q&A errors private and close test database pools (#395)",
             "url": "https://github.com/UTMIST/Misty/commit/fe9d1d68c1a0eedbd704fdf643defd14fb710b50",
@@ -78,19 +84,13 @@
             "title": "fix: keep cancelled Q&A errors private and close test database pools",
             "url": "https://github.com/UTMIST/Misty/commit/45281e810c6d5f859a9272a0de35c708281a3869",
             "date": "2026-11-18T04:31:17Z"
-          },
-          {
-            "sha": "f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
-            "title": "fix: reduce idle catalog polling and staging discovery frequency (#387)",
-            "url": "https://github.com/UTMIST/Misty/commit/f89bbfd19ac0362ec8bd489c6e64e47123d42ede",
-            "date": "2026-11-14T11:44:07Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-20T19:03:50.173Z",
+      "checkedAt": "2026-11-21T00:56:01.750Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-20T19:03:50.173Z",
+      "checkedAt": "2026-11-21T00:56:01.750Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
