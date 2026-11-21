@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-21T00:56:01.750Z",
+  "checkedAt": "2026-11-21T08:42:59.308Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-21T00:56:01.750Z",
+      "checkedAt": "2026-11-21T08:42:59.308Z",
       "lastActivity": "2026-11-20T19:00:39Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 400,
+            "title": "Fix team Drive sharing when Google refuses a secondary U of T mailbox",
+            "url": "https://github.com/UTMIST/Misty/pull/400",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-21T08:23:08Z",
+            "mergedAt": null
+          },
           {
             "number": 331,
             "title": "Add scoped email login to the external gateway",
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-14T11:47:51Z",
             "mergedAt": "2026-11-14T11:47:49Z"
-          },
-          {
-            "number": 392,
-            "title": "fix(docs): release completed refresh runs when monitoring fails",
-            "url": "https://github.com/UTMIST/Misty/pull/392",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-14T11:46:38Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-21T00:56:01.750Z",
+      "checkedAt": "2026-11-21T08:42:59.308Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-21T00:56:01.750Z",
+      "checkedAt": "2026-11-21T08:42:59.308Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
