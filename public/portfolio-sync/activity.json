@@ -1,10 +1,10 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-23T08:04:20.452Z",
+  "checkedAt": "2026-11-23T20:29:10.505Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-23T08:04:20.452Z",
+      "checkedAt": "2026-11-23T20:29:10.505Z",
       "lastActivity": "2026-11-20T19:00:39Z",
       "commitUrl": "https://github.com/UTMIST/Misty/commit/52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
       "release": null,
@@ -12,12 +12,12 @@
         "author": "qiuethan",
         "pullRequests": [
           {
-            "number": 403,
-            "title": "Preserve individual document access when Google rejects a teammate",
-            "url": "https://github.com/UTMIST/Misty/pull/403",
+            "number": 414,
+            "title": "Allow GPT-6.2 Sol for Misty chat",
+            "url": "https://github.com/UTMIST/Misty/pull/414",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-22T00:58:45Z",
+            "updatedAt": "2026-11-23T19:51:20Z",
             "mergedAt": null
           },
           {
@@ -26,7 +26,16 @@
             "url": "https://github.com/UTMIST/Misty/pull/400",
             "state": "open",
             "draft": false,
-            "updatedAt": "2026-11-22T00:56:07Z",
+            "updatedAt": "2026-11-23T08:15:55Z",
+            "mergedAt": null
+          },
+          {
+            "number": 403,
+            "title": "Preserve individual document access when Google rejects a teammate",
+            "url": "https://github.com/UTMIST/Misty/pull/403",
+            "state": "open",
+            "draft": false,
+            "updatedAt": "2026-11-22T00:58:45Z",
             "mergedAt": null
           },
           {
@@ -55,15 +64,6 @@
             "draft": false,
             "updatedAt": "2026-11-18T04:51:54Z",
             "mergedAt": null
-          },
-          {
-            "number": 394,
-            "title": "release: prepare Misty 1.0.3",
-            "url": "https://github.com/UTMIST/Misty/pull/394",
-            "state": "open",
-            "draft": false,
-            "updatedAt": "2026-11-18T04:40:38Z",
-            "mergedAt": null
           }
         ],
         "commits": [
@@ -90,7 +90,7 @@
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-23T08:04:20.452Z",
+      "checkedAt": "2026-11-23T20:29:10.505Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-23T08:04:20.452Z",
+      "checkedAt": "2026-11-23T20:29:10.505Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
