@@ -4,7 +4,7 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-23T02:46:33.362Z",
+  "updated": "2026-11-23T12:46:17.208Z",
   "data": {
     "projects": [
       {
@@ -12,8 +12,16 @@
         "id": 1465185069,
         "summary": "Private software project",
         "recently_active": true,
-        "pushed_at": "2026-11-22",
-        "last_activity_at": "2026-11-22"
+        "pushed_at": "2026-11-23",
+        "last_activity_at": "2026-11-23"
+      },
+      {
+        "private": true,
+        "id": 1424065623,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-11-23",
+        "last_activity_at": "2026-11-23"
       },
       {
         "private": false,
@@ -25,7 +33,7 @@
         "homepage": "",
         "stars": 3,
         "topics": [],
-        "pushed_at": "2026-11-21T23:55:54Z",
+        "pushed_at": "2026-11-23T08:15:45Z",
         "last_activity_at": "2026-11-21T23:48:24Z",
         "recently_active": true
       },
@@ -72,17 +80,9 @@
         "pushed_at": "2026-11-04T04:17:41Z",
         "last_activity_at": "2026-11-04T04:17:41Z",
         "recently_active": false
-      },
-      {
-        "private": true,
-        "id": 1424065623,
-        "summary": "Private software project",
-        "recently_active": false,
-        "pushed_at": "2026-10-27",
-        "last_activity_at": "2026-10-27"
       }
     ],
-    "fetched_at": "2026-11-23T02:46:33.362Z",
+    "fetched_at": "2026-11-23T12:46:17.208Z",
     "stale": false
   }
 }
