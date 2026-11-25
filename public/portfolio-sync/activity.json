@@ -1,16 +1,25 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-24T21:07:09.490Z",
+  "checkedAt": "2026-11-25T00:59:48.969Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-24T21:07:09.490Z",
-      "lastActivity": "2026-11-24T00:11:50Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/1080e933e2eb18e3a0c1579900b632539528fa53",
+      "checkedAt": "2026-11-25T00:59:48.969Z",
+      "lastActivity": "2026-11-24T22:07:59Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/188d57897b41b219b13e5ffc704b06c0f54c79e0",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 392,
+            "title": "fix(docs): release completed refresh runs when monitoring fails",
+            "url": "https://github.com/UTMIST/Misty/pull/392",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-24T22:12:02Z",
+            "mergedAt": "2026-11-24T22:12:00Z"
+          },
           {
             "number": 414,
             "title": "Allow GPT-6.2 Sol for Misty chat",
@@ -55,18 +64,15 @@
             "draft": false,
             "updatedAt": "2026-11-18T04:51:54Z",
             "mergedAt": "2026-11-18T04:51:51Z"
-          },
-          {
-            "number": 393,
-            "title": "fix(docs): prevent NUL text from blocking hourly refresh",
-            "url": "https://github.com/UTMIST/Misty/pull/393",
-            "state": "closed",
-            "draft": false,
-            "updatedAt": "2026-11-18T04:51:54Z",
-            "mergedAt": null
           }
         ],
         "commits": [
+          {
+            "sha": "188d57897b41b219b13e5ffc704b06c0f54c79e0",
+            "title": "fix(docs): release completed refresh runs when monitoring fails (#392)",
+            "url": "https://github.com/UTMIST/Misty/commit/188d57897b41b219b13e5ffc704b06c0f54c79e0",
+            "date": "2026-11-24T22:07:59Z"
+          },
           {
             "sha": "147f0e67c5ccd3abced5bca4f9144afbd1803d53",
             "title": "Allow GPT-6.2 Sol for Misty chat (#414)",
@@ -78,19 +84,13 @@
             "title": "feat(llm): allow GPT-6.2 Sol for chat",
             "url": "https://github.com/UTMIST/Misty/commit/89ba23db1bbe70c27f98e1853111797998666980",
             "date": "2026-11-23T19:18:24Z"
-          },
-          {
-            "sha": "52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
-            "title": "Add scoped email login to the external gateway (#331)",
-            "url": "https://github.com/UTMIST/Misty/commit/52246a4d176a1e2fcd3fbfd85a180ee040611cf0",
-            "date": "2026-11-20T19:00:39Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-24T21:07:09.490Z",
+      "checkedAt": "2026-11-25T00:59:48.969Z",
       "lastActivity": "2026-11-12T17:23:06Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/30845538f98644d097eb4397b33058f34a540d2f",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-24T21:07:09.490Z",
+      "checkedAt": "2026-11-25T00:59:48.969Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
