@@ -4,10 +4,10 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-25T04:12:31.176Z",
+  "updated": "2026-11-25T14:25:09.345Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-25T04:12:31.176Z",
+    "generated_at": "2026-11-25T14:25:09.345Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 4,
@@ -35,7 +35,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-25T04:12:31.176Z",
+      "fetched_at": "2026-11-25T14:25:09.345Z",
       "stale": false
     },
     "coding": {
@@ -60,7 +60,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu made 4 GitHub contributions to UTMIST/Misty across 1 push. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414. He also reviewed pull requests UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+    "summary": "This week, Ethan Qiu made 4 GitHub contributions in UTMIST/Misty and pushed 1 time. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
     "summary_stale": false
   }
 }
