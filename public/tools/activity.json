@@ -4,25 +4,22 @@
   "tool": "get_activity",
   "description": "Public GitHub contributions and anonymous ActivityWatch time in Orca and VS Code over the last 7 UTC days.",
   "freshness": "hourly",
-  "updated": "2026-11-24T21:12:28.308Z",
+  "updated": "2026-11-25T04:12:31.176Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-24T21:12:28.308Z",
+    "generated_at": "2026-11-25T04:12:31.176Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 4,
-      "totalPushes": 3,
+      "totalPushes": 1,
       "repos": [
         {
           "name": "UTMIST/Misty",
           "commits": 4,
-          "pushes": 3
+          "pushes": 1
         }
       ],
       "prsOpened": [
-        "UTMIST/Misty#393",
-        "UTMIST/Misty#394",
-        "UTMIST/Misty#395",
         "UTMIST/Misty#400",
         "UTMIST/Misty#403",
         "UTMIST/Misty#414"
@@ -38,7 +35,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-24T21:12:28.308Z",
+      "fetched_at": "2026-11-25T04:12:31.176Z",
       "stale": false
     },
     "coding": {
@@ -46,8 +43,8 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-11-18",
-      "window_end": "2026-11-24",
+      "window_start": "2026-11-19",
+      "window_end": "2026-11-25",
       "total_seconds": 0,
       "apps": [
         {
@@ -63,7 +60,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu had 4 GitHub commits and 3 pushes in UTMIST/Misty. He opened pull requests UTMIST/Misty#393, UTMIST/Misty#394, UTMIST/Misty#395, UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+    "summary": "This week, Ethan Qiu made 4 GitHub contributions to UTMIST/Misty across 1 push. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414. He also reviewed pull requests UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
     "summary_stale": false
   }
 }
