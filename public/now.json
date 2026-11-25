@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-25T14:25:09.345Z",
+  "last_updated": "2026-11-25T23:37:57.334Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -36,7 +36,7 @@
       "stars": 3,
       "topics": [],
       "pushed_at": "2026-11-25T01:15:04Z",
-      "last_activity_at": "2026-11-25T00:36:55Z",
+      "last_activity_at": "2026-11-25T21:57:18Z",
       "recently_active": true
     },
     {
@@ -59,22 +59,8 @@
       "topics": [
         "website"
       ],
-      "pushed_at": "2026-11-24T01:33:39Z",
+      "pushed_at": "2026-11-25T23:30:42Z",
       "last_activity_at": "2026-11-14T11:53:13Z",
-      "recently_active": true
-    },
-    {
-      "private": false,
-      "name": "mathify-brief",
-      "full_name": "Jeff15321/mathify-brief",
-      "description": "",
-      "language": "TypeScript",
-      "url": "https://github.com/Jeff15321/mathify-brief",
-      "homepage": "",
-      "stars": 2,
-      "topics": [],
-      "pushed_at": "2026-11-25T01:32:21Z",
-      "last_activity_at": "2026-11-11T22:50:19Z",
       "recently_active": true
     },
     {
@@ -90,6 +76,14 @@
       "pushed_at": "2026-11-04T04:17:41Z",
       "last_activity_at": "2026-11-04T04:17:41Z",
       "recently_active": false
+    },
+    {
+      "private": true,
+      "id": 1117921210,
+      "summary": "Private software project",
+      "recently_active": false,
+      "pushed_at": "2026-11-14",
+      "last_activity_at": "2026-10-18"
     }
   ],
   "stack": {
@@ -100,7 +94,7 @@
       },
       {
         "name": "TypeScript",
-        "repos": 7
+        "repos": 6
       },
       {
         "name": "JavaScript",
@@ -119,26 +113,26 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-25T14:25:09.345Z",
+    "fetched_at": "2026-11-25T23:37:57.334Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2051,
-    "last_7_days": 13,
-    "last_30_days": 179,
+    "total_past_year": 2052,
+    "last_7_days": 14,
+    "last_30_days": 180,
     "current_streak": 3,
     "longest_streak": 16,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-11-25T14:25:09.345Z",
+    "fetched_at": "2026-11-25T23:37:57.334Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 4 GitHub contributions in UTMIST/Misty and pushed 1 time. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+  "summary": "This week, Ethan Qiu made 4 GitHub commits and 1 push in UTMIST/Misty. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-25T14:25:09.345Z",
+    "generated_at": "2026-11-25T23:37:57.334Z",
     "github": {
       "source": "github_contributions_and_public_events",
       "totalCommits": 4,
@@ -166,7 +160,7 @@
       "issuesOpened": [],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-25T14:25:09.345Z",
+      "fetched_at": "2026-11-25T23:37:57.334Z",
       "stale": false
     },
     "coding": {
@@ -191,7 +185,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu made 4 GitHub contributions in UTMIST/Misty and pushed 1 time. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+    "summary": "This week, Ethan Qiu made 4 GitHub commits and 1 push in UTMIST/Misty. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
     "summary_stale": false
   },
   "writing": [
