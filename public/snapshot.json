@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "name": "Ethan Qiu",
-  "last_updated": "2026-11-25T23:37:57.334Z",
+  "last_updated": "2026-11-26T08:20:47.423Z",
   "identity": {
     "name": "Ethan Qiu",
     "headline": "Software engineer · Toronto",
@@ -18,12 +18,18 @@
   "availability": "Always open to interesting opportunities and conversations.",
   "projects": [
     {
-      "private": true,
-      "id": 1465185069,
-      "summary": "Private software project",
-      "recently_active": true,
-      "pushed_at": "2026-11-25",
-      "last_activity_at": "2026-11-25"
+      "private": false,
+      "name": "mathify-brief",
+      "full_name": "Jeff15321/mathify-brief",
+      "description": "",
+      "language": "TypeScript",
+      "url": "https://github.com/Jeff15321/mathify-brief",
+      "homepage": "",
+      "stars": 2,
+      "topics": [],
+      "pushed_at": "2026-11-26T07:41:21Z",
+      "last_activity_at": "2026-11-26T07:41:56Z",
+      "recently_active": true
     },
     {
       "private": false,
@@ -35,9 +41,17 @@
       "homepage": "",
       "stars": 3,
       "topics": [],
-      "pushed_at": "2026-11-25T01:15:04Z",
-      "last_activity_at": "2026-11-25T21:57:18Z",
+      "pushed_at": "2026-11-26T08:16:22Z",
+      "last_activity_at": "2026-11-26T04:06:20Z",
       "recently_active": true
+    },
+    {
+      "private": true,
+      "id": 1465185069,
+      "summary": "Private software project",
+      "recently_active": true,
+      "pushed_at": "2026-11-26",
+      "last_activity_at": "2026-11-26"
     },
     {
       "private": true,
@@ -76,14 +90,6 @@
       "pushed_at": "2026-11-04T04:17:41Z",
       "last_activity_at": "2026-11-04T04:17:41Z",
       "recently_active": false
-    },
-    {
-      "private": true,
-      "id": 1117921210,
-      "summary": "Private software project",
-      "recently_active": false,
-      "pushed_at": "2026-11-14",
-      "last_activity_at": "2026-10-18"
     }
   ],
   "stack": {
@@ -94,7 +100,7 @@
       },
       {
         "name": "TypeScript",
-        "repos": 6
+        "repos": 7
       },
       {
         "name": "JavaScript",
@@ -113,31 +119,36 @@
         "repos": 1
       }
     ],
-    "fetched_at": "2026-11-25T23:37:57.334Z",
+    "fetched_at": "2026-11-26T08:20:47.423Z",
     "stale": false
   },
   "contributions": {
-    "total_past_year": 2052,
-    "last_7_days": 14,
-    "last_30_days": 180,
-    "current_streak": 3,
+    "total_past_year": 2076,
+    "last_7_days": 39,
+    "last_30_days": 185,
+    "current_streak": 4,
     "longest_streak": 16,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 127
     },
-    "fetched_at": "2026-11-25T23:37:57.334Z",
+    "fetched_at": "2026-11-26T08:20:47.423Z",
     "stale": false
   },
-  "summary": "This week, Ethan Qiu made 4 GitHub commits and 1 push in UTMIST/Misty. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+  "summary": "This week, Ethan Qiu recorded 8 GitHub contribution counts across Jeff15321/mathify-brief and UTMIST/Misty, with 4 counts in each repository. He opened pull requests Jeff15321/mathify-brief#46, Jeff15321/mathify-brief#47, UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, #396, #397, #398, #399, and #402. He also opened issues UTMIST/Misty#445 through #464.",
   "activity": {
     "window": "last_7_days",
-    "generated_at": "2026-11-25T23:37:57.334Z",
+    "generated_at": "2026-11-26T08:20:47.423Z",
     "github": {
       "source": "github_contributions_and_public_events",
-      "totalCommits": 4,
-      "totalPushes": 1,
+      "totalCommits": 8,
+      "totalPushes": 2,
       "repos": [
+        {
+          "name": "Jeff15321/mathify-brief",
+          "commits": 4,
+          "pushes": 1
+        },
         {
           "name": "UTMIST/Misty",
           "commits": 4,
@@ -145,6 +156,8 @@
         }
       ],
       "prsOpened": [
+        "Jeff15321/mathify-brief#46",
+        "Jeff15321/mathify-brief#47",
         "UTMIST/Misty#400",
         "UTMIST/Misty#403",
         "UTMIST/Misty#414"
@@ -157,10 +170,31 @@
         "UTMIST/Misty#399",
         "UTMIST/Misty#402"
       ],
-      "issuesOpened": [],
+      "issuesOpened": [
+        "UTMIST/Misty#445",
+        "UTMIST/Misty#446",
+        "UTMIST/Misty#447",
+        "UTMIST/Misty#448",
+        "UTMIST/Misty#449",
+        "UTMIST/Misty#450",
+        "UTMIST/Misty#451",
+        "UTMIST/Misty#452",
+        "UTMIST/Misty#453",
+        "UTMIST/Misty#454",
+        "UTMIST/Misty#455",
+        "UTMIST/Misty#456",
+        "UTMIST/Misty#457",
+        "UTMIST/Misty#458",
+        "UTMIST/Misty#459",
+        "UTMIST/Misty#460",
+        "UTMIST/Misty#461",
+        "UTMIST/Misty#462",
+        "UTMIST/Misty#463",
+        "UTMIST/Misty#464"
+      ],
       "newRepos": [],
       "partial": false,
-      "fetched_at": "2026-11-25T23:37:57.334Z",
+      "fetched_at": "2026-11-26T08:20:47.423Z",
       "stale": false
     },
     "coding": {
@@ -168,8 +202,8 @@
       "scope": "orca-vscode",
       "timezone": "UTC",
       "window": "last_7_days",
-      "window_start": "2026-11-19",
-      "window_end": "2026-11-25",
+      "window_start": "2026-11-20",
+      "window_end": "2026-11-26",
       "total_seconds": 0,
       "apps": [
         {
@@ -185,7 +219,7 @@
       "fetched_at": "2026-11-13T00:42:02.281Z",
       "stale": true
     },
-    "summary": "This week, Ethan Qiu made 4 GitHub commits and 1 push in UTMIST/Misty. He opened pull requests UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402.",
+    "summary": "This week, Ethan Qiu recorded 8 GitHub contribution counts across Jeff15321/mathify-brief and UTMIST/Misty, with 4 counts in each repository. He opened pull requests Jeff15321/mathify-brief#46, Jeff15321/mathify-brief#47, UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, #396, #397, #398, #399, and #402. He also opened issues UTMIST/Misty#445 through #464.",
     "summary_stale": false
   },
   "writing": [

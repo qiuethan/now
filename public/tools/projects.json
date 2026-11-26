@@ -4,16 +4,22 @@
   "tool": "get_projects",
   "description": "Personal repositories and repositories recently contributed to, including organization work. Private repos appear as anonymized summaries; configured exclusions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-25T23:37:57.334Z",
+  "updated": "2026-11-26T08:20:47.423Z",
   "data": {
     "projects": [
       {
-        "private": true,
-        "id": 1465185069,
-        "summary": "Private software project",
-        "recently_active": true,
-        "pushed_at": "2026-11-25",
-        "last_activity_at": "2026-11-25"
+        "private": false,
+        "name": "mathify-brief",
+        "full_name": "Jeff15321/mathify-brief",
+        "description": "",
+        "language": "TypeScript",
+        "url": "https://github.com/Jeff15321/mathify-brief",
+        "homepage": "",
+        "stars": 2,
+        "topics": [],
+        "pushed_at": "2026-11-26T07:41:21Z",
+        "last_activity_at": "2026-11-26T07:41:56Z",
+        "recently_active": true
       },
       {
         "private": false,
@@ -25,9 +31,17 @@
         "homepage": "",
         "stars": 3,
         "topics": [],
-        "pushed_at": "2026-11-25T01:15:04Z",
-        "last_activity_at": "2026-11-25T21:57:18Z",
+        "pushed_at": "2026-11-26T08:16:22Z",
+        "last_activity_at": "2026-11-26T04:06:20Z",
         "recently_active": true
+      },
+      {
+        "private": true,
+        "id": 1465185069,
+        "summary": "Private software project",
+        "recently_active": true,
+        "pushed_at": "2026-11-26",
+        "last_activity_at": "2026-11-26"
       },
       {
         "private": true,
@@ -66,17 +80,9 @@
         "pushed_at": "2026-11-04T04:17:41Z",
         "last_activity_at": "2026-11-04T04:17:41Z",
         "recently_active": false
-      },
-      {
-        "private": true,
-        "id": 1117921210,
-        "summary": "Private software project",
-        "recently_active": false,
-        "pushed_at": "2026-11-14",
-        "last_activity_at": "2026-10-18"
       }
     ],
-    "fetched_at": "2026-11-25T23:37:57.334Z",
+    "fetched_at": "2026-11-26T08:20:47.423Z",
     "stale": false
   }
 }
