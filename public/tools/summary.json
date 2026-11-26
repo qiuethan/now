@@ -4,12 +4,12 @@
   "tool": "get_summary",
   "description": "A short prose summary of Ethan's public GitHub contributions over the last 7 days. Plain third-person paragraph — quote it directly when summarizing what he's currently working on.",
   "freshness": "hourly",
-  "updated": "2026-11-26T08:20:47.423Z",
+  "updated": "2026-11-26T19:01:06.107Z",
   "data": {
     "window": "last_7_days",
-    "generated_at": "2026-11-26T08:20:47.423Z",
-    "fetched_at": "2026-11-26T08:20:47.423Z",
-    "summary": "This week, Ethan Qiu recorded 8 GitHub contribution counts across Jeff15321/mathify-brief and UTMIST/Misty, with 4 counts in each repository. He opened pull requests Jeff15321/mathify-brief#46, Jeff15321/mathify-brief#47, UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, #396, #397, #398, #399, and #402. He also opened issues UTMIST/Misty#445 through #464.",
+    "generated_at": "2026-11-26T19:01:06.107Z",
+    "fetched_at": "2026-11-26T19:01:06.107Z",
+    "summary": "This week, Ethan Qiu made 19 GitHub contribution-count commits across Jeff15321/mathify-brief and UTMIST/Misty, with 15 in Jeff15321/mathify-brief and 4 in UTMIST/Misty. He opened pull requests Jeff15321/mathify-brief#46, Jeff15321/mathify-brief#47, UTMIST/Misty#400, UTMIST/Misty#403, and UTMIST/Misty#414, and reviewed UTMIST/Misty#347, UTMIST/Misty#396, UTMIST/Misty#397, UTMIST/Misty#398, UTMIST/Misty#399, and UTMIST/Misty#402. He also opened UTMIST/Misty issues #445 through #464.",
     "stale": false
   }
 }
