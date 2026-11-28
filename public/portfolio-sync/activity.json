@@ -1,16 +1,34 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-27T22:52:52.124Z",
+  "checkedAt": "2026-11-28T04:54:29.627Z",
   "projects": {
     "misty": {
       "repo": "UTMIST/Misty",
-      "checkedAt": "2026-11-27T22:52:52.124Z",
-      "lastActivity": "2026-11-27T19:54:28Z",
-      "commitUrl": "https://github.com/UTMIST/Misty/commit/d30718af847d7ba5b9a1ec61e3084906280a8fd9",
+      "checkedAt": "2026-11-28T04:54:29.627Z",
+      "lastActivity": "2026-11-28T02:59:32Z",
+      "commitUrl": "https://github.com/UTMIST/Misty/commit/06f3af9a18bc51a41748428c87414d9973afb955",
       "release": null,
       "work": {
         "author": "qiuethan",
         "pullRequests": [
+          {
+            "number": 475,
+            "title": "Prepare Misty 1.1.0 with Sign in with Misty",
+            "url": "https://github.com/UTMIST/Misty/pull/475",
+            "state": "merged",
+            "draft": false,
+            "updatedAt": "2026-11-28T01:59:01Z",
+            "mergedAt": "2026-11-28T01:58:59Z"
+          },
+          {
+            "number": 394,
+            "title": "release: prepare Misty 1.0.3",
+            "url": "https://github.com/UTMIST/Misty/pull/394",
+            "state": "closed",
+            "draft": false,
+            "updatedAt": "2026-11-28T01:50:28Z",
+            "mergedAt": null
+          },
           {
             "number": 392,
             "title": "fix(docs): release completed refresh runs when monitoring fails",
@@ -46,51 +64,33 @@
             "draft": false,
             "updatedAt": "2026-11-22T00:58:45Z",
             "mergedAt": null
-          },
-          {
-            "number": 331,
-            "title": "Add scoped email login to the external gateway",
-            "url": "https://github.com/UTMIST/Misty/pull/331",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-20T19:04:31Z",
-            "mergedAt": "2026-11-20T19:04:29Z"
-          },
-          {
-            "number": 395,
-            "title": "fix: keep cancelled Q&A errors private and close test database pools",
-            "url": "https://github.com/UTMIST/Misty/pull/395",
-            "state": "merged",
-            "draft": false,
-            "updatedAt": "2026-11-18T04:51:54Z",
-            "mergedAt": "2026-11-18T04:51:51Z"
           }
         ],
         "commits": [
           {
-            "sha": "188d57897b41b219b13e5ffc704b06c0f54c79e0",
-            "title": "fix(docs): release completed refresh runs when monitoring fails (#392)",
-            "url": "https://github.com/UTMIST/Misty/commit/188d57897b41b219b13e5ffc704b06c0f54c79e0",
-            "date": "2026-11-24T22:07:59Z"
+            "sha": "2e22ebb4b99242d735ab5cea819aea8a4ab927d3",
+            "title": "Release Misty 1.1.0 with Sign in with Misty (#476)",
+            "url": "https://github.com/UTMIST/Misty/commit/2e22ebb4b99242d735ab5cea819aea8a4ab927d3",
+            "date": "2026-11-28T02:09:49Z"
           },
           {
-            "sha": "147f0e67c5ccd3abced5bca4f9144afbd1803d53",
-            "title": "Allow GPT-6.2 Sol for Misty chat (#414)",
-            "url": "https://github.com/UTMIST/Misty/commit/147f0e67c5ccd3abced5bca4f9144afbd1803d53",
-            "date": "2026-11-23T21:02:37Z"
+            "sha": "cf1da051a88e6ed0078b247a3b746b228f1f36b0",
+            "title": "Prepare Misty 1.1.0 with Sign in with Misty (#475)",
+            "url": "https://github.com/UTMIST/Misty/commit/cf1da051a88e6ed0078b247a3b746b228f1f36b0",
+            "date": "2026-11-28T01:55:45Z"
           },
           {
-            "sha": "89ba23db1bbe70c27f98e1853111797998666980",
-            "title": "feat(llm): allow GPT-6.2 Sol for chat",
-            "url": "https://github.com/UTMIST/Misty/commit/89ba23db1bbe70c27f98e1853111797998666980",
-            "date": "2026-11-23T19:18:24Z"
+            "sha": "403a89d8596b45e928b4205759d1e06b4ade16cc",
+            "title": "Prepare Misty 1.1.0",
+            "url": "https://github.com/UTMIST/Misty/commit/403a89d8596b45e928b4205759d1e06b4ade16cc",
+            "date": "2026-11-28T01:48:31Z"
           }
         ]
       }
     },
     "utmist": {
       "repo": "UTMIST/UTMIST",
-      "checkedAt": "2026-11-27T22:52:52.124Z",
+      "checkedAt": "2026-11-28T04:54:29.627Z",
       "lastActivity": "2026-11-26T19:42:01Z",
       "commitUrl": "https://github.com/UTMIST/UTMIST/commit/bcf5512606cc84b1022b021fa0b453d43482a36e",
       "release": null,
@@ -176,7 +176,7 @@
     },
     "mist": {
       "repo": "UTMIST/Mist",
-      "checkedAt": "2026-11-27T22:52:52.124Z",
+      "checkedAt": "2026-11-28T04:54:29.627Z",
       "lastActivity": "2026-10-28T23:36:53Z",
       "commitUrl": "https://github.com/UTMIST/Mist/commit/49ce02ae64b4543ae08d479f1c79be2ba1c3d130",
       "release": null,
