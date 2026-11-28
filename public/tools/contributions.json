@@ -4,22 +4,18 @@
   "tool": "get_contributions",
   "description": "Tracked GitHub commit, PR, review, and issue contributions after repository exclusions — daily counts for the past year, totals, and streaks. Unattributed contributions are omitted.",
   "freshness": "hourly",
-  "updated": "2026-11-27T19:58:01.234Z",
+  "updated": "2026-11-28T02:42:18.776Z",
   "data": {
     "total_past_year": 2088,
-    "last_7_days": 49,
-    "last_30_days": 188,
-    "current_streak": 4,
+    "last_7_days": 52,
+    "last_30_days": 187,
+    "current_streak": 6,
     "longest_streak": 16,
     "busiest_day": {
       "date": "2026-07-03",
       "count": 127
     },
     "calendar": [
-      {
-        "date": "2025-11-28",
-        "count": 4
-      },
       {
         "date": "2025-11-29",
         "count": 35
@@ -1222,7 +1218,7 @@
       },
       {
         "date": "2026-09-25",
-        "count": 20
+        "count": 18
       },
       {
         "date": "2026-09-26",
@@ -1254,7 +1250,7 @@
       },
       {
         "date": "2026-10-03",
-        "count": 6
+        "count": 7
       },
       {
         "date": "2026-10-04",
@@ -1474,10 +1470,14 @@
       },
       {
         "date": "2026-11-27",
-        "count": 0
+        "count": 2
+      },
+      {
+        "date": "2026-11-28",
+        "count": 3
       }
     ],
-    "fetched_at": "2026-11-27T19:58:01.234Z",
+    "fetched_at": "2026-11-28T02:42:18.776Z",
     "stale": false
   }
 }
